@@ -1,5 +1,5 @@
 #!/bin/bash
-verticals_source_path="../flugblaetter_data/out/verticals/verticals/*.tsv"
+verticals_source_path="../flugblaetter_data/out/verticals/*.tsv"
 verticals_target_path="./data/verticals"
 # remove old verticals
 if [ -d $verticals_target_path ]; then rm -r $verticals_target_path; fi

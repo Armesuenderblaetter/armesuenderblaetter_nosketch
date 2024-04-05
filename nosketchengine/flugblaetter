@@ -81,10 +81,17 @@ STRUCTURE "doc" {
 
 }
 
-STRUCTURE "p" {
-	TYPE "map32"
-}
-
+# STRUCTURE "p" {
+# 	TYPE "map32"
+# }
+# 
+# STRUCTURE "lg" {
+# 	TYPE "map32"
+# }
+# 
+# STRUCTURE "l" {
+# 	TYPE "map32"
+# }
 
 
 # STRUCTURE "g" {
