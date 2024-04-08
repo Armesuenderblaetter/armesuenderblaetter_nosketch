@@ -81,17 +81,26 @@ STRUCTURE "doc" {
 #   MULTISEP ";"
 # }
 
-# STRUCTURE "p" {
-# 	TYPE "map32"
-# }
-# 
-# STRUCTURE "lg" {
-# 	TYPE "map32"
-# }
-# 
-# STRUCTURE "l" {
-# 	TYPE "map32"
-# }
+STRUCTURE "p" {
+	TYPE "map32"
+	ATTRIBUTE "id" {
+		TYPE "MD_MI"
+	}
+}
+
+STRUCTURE "lg" {
+	TYPE "map32"
+	ATTRIBUTE "type" {
+		TYPE "MD_MI"
+	}
+}
+
+STRUCTURE "l" {
+	TYPE "map32"
+	ATTRIBUTE "id" {
+		TYPE "MD_MI"
+	}
+}
 
 
 # STRUCTURE "g" {
