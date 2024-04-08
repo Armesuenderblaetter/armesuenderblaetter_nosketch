@@ -63,23 +63,23 @@ STRUCTURE "doc" {
 
 	ATTRIBUTE "id" {
 		TYPE "MD_MI"
- 	  #	MULTIVALUE y
-        #   MULTISEP " "
 	}
 
 	ATTRIBUTE "date" {
 		TYPE "MD_MI"
- 	  #	MULTIVALUE y
-        #   MULTISEP " "
 	}
 
 	ATTRIBUTE "title" {
 		TYPE "MD_MI"
- 	  #	MULTIVALUE y
-        #   MULTISEP " "
 	}
 
 }
+
+# ATTRIBUTE "offence" {
+# 	TYPE "MD_MI"
+#   MULTIVALUE y
+#   MULTISEP ";"
+# }
 
 # STRUCTURE "p" {
 # 	TYPE "map32"
