@@ -1,5 +1,4 @@
-name: Index the Diarium
-
+name: crate noske index & publish container
 on:
   workflow_dispatch: {}
 
@@ -7,6 +6,11 @@ jobs:
   fetch_data:
     name: Fetch Data from wr-data
     runs-on: ubuntu-latest
+    env:
+      GITHUB_ACCESS_TOKEN: ${{ secrets.GITHB_ACCESS_TOKEN }}
+      GITHUB_ACCESS_TOKEN_NAME: ${{ secrets.GITHB_ACCESS_TOKEN_NAME }}
+      GH_USERNAME: ${{ secrets.GH_USERNAME }}
+      GH_USERMAIL: ${{ secrets.GH_USERMAIL }}
     steps:
       - uses: actions/checkout@v4
       - name: Cache the site
@@ -16,13 +20,18 @@ jobs:
         with:
           path: ./data/verticals
           key:
-            build-${{ env.cache-name }}-${{ hashFiles('**/fetch-data.sh') }}
+            build-${{ env.cache-name }}-${{ hashFiles('shellscripts/build_container.sh') }}
           restore-keys: |
             build-${{ env.cache-name }}-
             build-
       - name: Fetch data
-        run: ./shellscripts/fetch_data.sh
-  
+        run: |
+          git config --global user.email "${GH_USERMAIL}"
+          git config --global user.name "${GH_USERNAME}"
+          git config --global credential.helper cache
+          mkdir data
+          git clone https://${GITHUB_ACCESS_TOKEN_NAME}:${GITHUB_ACCESS_TOKEN}@github.com/Flugblatter/flugblaetter_data_ouput.git data
+          ls -la cloned_repo
   noske_index:
     needs: [fetch_data]
     name: Build Noske Index
@@ -37,7 +46,7 @@ jobs:
           path: |
             ./data/verticals
           key:
-            build-${{ env.cache-name }}-${{ hashFiles('**/fetch-data.sh') }}
+            build-${{ env.cache-name }}-${{ hashFiles('shellscripts/build_container.sh') }}
           restore-keys: |
             build-${{ env.cache-name }}-
             build-
