@@ -27,10 +27,11 @@ jobs:
       - name: Fetch data
         run: |
           if [[ ! -d data ]]; then mkdir data; fi
-          git config --global user.email "${GH_USERMAIL}"
-          git config --global user.name "${GH_USERNAME}"
-          git config --global credential.helper cache
-          git clone https://${GITHUB_ACCESS_TOKEN_NAME}:${GITHUB_ACCESS_TOKEN}@github.com/Flugblatter/flugblaetter_data_ouput.git data
+          # git config --global user.email "${GH_USERMAIL}"
+          # git config --global user.name "${GH_USERNAME}"
+          # git config --global credential.helper cache
+          # git clone https://${GITHUB_ACCESS_TOKEN_NAME}:${GITHUB_ACCESS_TOKEN}@github.com/Flugblatter/flugblaetter_data_ouput.git data
+          cp -r dummydata/* data/
   noske_index:
     needs: [fetch_data]
     name: Build Noske Index
