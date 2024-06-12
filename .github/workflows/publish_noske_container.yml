@@ -86,7 +86,7 @@ jobs:
     uses: flugblatter/gl-autodevops-minimal-port/.github/workflows/deploy.yml@main
     secrets: inherit
     with:
-      DOCKER_TAG: "ghcr.io/flugblatter/flugblaetter_nosketch/flugblaetter"
+      DOCKER_TAG: "ghcr.io/flugblatter/flugblaetter_nosketch/flugblaetter:latest"
       APP_NAME: "flugblaetter"
       APP_ROOT: "/"
       POSTGRES_ENABLED: false
