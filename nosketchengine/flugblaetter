@@ -72,6 +72,9 @@ STRUCTURE "doc" {
 
 }
 
+STRUCTURE "head" {
+}
+
 STRUCTURE "p" {
 	TYPE "map32"
 	ATTRIBUTE "id" {
@@ -92,6 +95,36 @@ STRUCTURE "l" {
 		TYPE "MD_MI"
 	}
 
+}
+
+STRUCTURE "placeName" {
+	TYPE "map32"
+	ATTRIBUTE "id" {
+		TYPE "MD_MI"
+	}
+}
+
+STRUCTURE "quote" {
+}
+
+STRUCTURE "bibl" {
+}
+
+STRUCTURE "persName" {
+	TYPE "map32"
+	ATTRIBUTE "id" {
+		TYPE "MD_MI"
+	}
+}
+
+STRUCTURE "date" {
+	TYPE "map32"
+	ATTRIBUTE "id" {
+		TYPE "MD_MI"
+	}
+}
+
+STRUCTURE "cit" {
 }
 
 STRUCTURE "g" {
