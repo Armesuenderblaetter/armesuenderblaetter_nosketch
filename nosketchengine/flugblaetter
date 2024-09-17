@@ -28,7 +28,7 @@ ATTRIBUTE "lemma" {
 }
 
 ## column #3
-ATTRIBUTE "ana" {
+ATTRIBUTE "vocab" {
 	TYPE "MD_MI"
 }
 
