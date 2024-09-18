@@ -13,8 +13,6 @@ ENCODING "utf-8"
 MAINTAINER "carlfriedrich.haak@oeaw.ac.at"
 LANGUAGE "18th Century German"
 TAGSETDOC ""
-
-
 ########## STATIC TOKEN ATTRIBUTES ############
 # word lemma ana pos id join part
 ## column #1
@@ -28,27 +26,17 @@ ATTRIBUTE "lemma" {
 }
 
 ## column #3
-ATTRIBUTE "vocab" {
+ATTRIBUTE "pos" {
 	TYPE "MD_MI"
 }
 
 ## column #4
-ATTRIBUTE "pos" {
+ATTRIBUTE "vocab" {
 	TYPE "MD_MI"
 }
 
 ## column #5
 ATTRIBUTE "id" {
-	TYPE "MD_MI"
-}
-
-## column #6
-ATTRIBUTE "join" {
-	TYPE "MD_MI"
-}
-
-## column #7
-ATTRIBUTE "part" {
 	TYPE "MD_MI"
 }
 
@@ -141,7 +129,6 @@ WRAPDETAIL head
 
 ## In the Detail view at the bottom: creates new link "show whole document" 
 STRUCTCTX doc
-MAXCONTENT 80
 MAXDETAIL 0
 
 # SHORTREF
