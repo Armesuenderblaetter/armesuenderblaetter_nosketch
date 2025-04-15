@@ -1,4 +1,4 @@
-name: crate noske index & publish container
+name: Create nosketch index & publish container
 on:
   workflow_dispatch: {}
 
