@@ -2,7 +2,7 @@
 ################################################
 ########## CORPUS: Diarium ############
 ################################################
-NAME "flugblaetter"
+NAME "Armesünderblätter"
 
 ## Path where to store the index files
 PATH "/var/lib/manatee/data/flugblaetter"
@@ -10,7 +10,7 @@ PATH "/var/lib/manatee/data/flugblaetter"
 VERTICAL "| ls /var/lib/manatee/data/verticals/flugblaetter/*.tsv | xargs cat"
 
 ENCODING "utf-8"
-MAINTAINER "carlfriedrich.haak@oeaw.ac.at"
+MAINTAINER "fernando.sanz-lazaro@oeaw.ac.at"
 LANGUAGE "18th Century German"
 TAGSETDOC ""
 ########## STATIC TOKEN ATTRIBUTES ############
