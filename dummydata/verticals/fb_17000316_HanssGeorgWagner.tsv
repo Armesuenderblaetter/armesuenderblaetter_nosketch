@@ -1,4 +1,61 @@
 <doc id="fb_17000316_HanssGeorgWagner" delinquent_sexes="male" title="Todesurteil Hanß Georg Wagner" attrs="word lemma pos vocab id">
+<titlePart type="main">
+Urthl	Urteil	NN	Duden	tu_1_xTok_000001
+<g/>
+/
+So	so	PRELS	Duden	tu_1_xTok_000006
+dem	d	ART	Duden	tu_1_xTok_000008
+<persName id="hanßgeorgwagner1">
+Hanß	Hans	NE	Duden	tu_1_xTok_000009
+Georg	Georg	NE	Duden	tu_1_xTok_000012
+Wagner	Wagner	NE	Duden	tu_1_xTok_000015
+</persName>
+Wegen	wegen	APPR	Duden	tu_1_xTok_000017
+Dreyen	drei	CARD	Duden	tu_1_xTok_000020
+Jn	in	APPR	Duden	tu_1_xTok_000022
+der	d	ART	Duden	tu_1_xTok_000025
+Leopoldstatt	Leopoldstadt	NE::top	oov	tu_1_xTok_000027
+den	d	ART	Duden	tu_1_xTok_000030
+15.	15	ADJA		tu_1_xTok_000032
+Jan.	Januar	NN	Duden	tu_1_xTok_000035
+begangene	begehen	ADJA	Duden	tu_1_xTok_000038
+Mordthaten	Mordtat	NN	Duden	tu_1_xTok_000039
+Auff	auf	APPR	Duden	tu_1_xTok_000041
+der	d	ART	Duden	tu_1_xTok_000043
+Kayserlichen	kaiserlich	ADJA	Duden	tu_1_xTok_000045
+Schranen	Schranne	NN	DRW	tu_1_xTok_000047
+allhier	allhier	ADV	Duden	tu_1_xTok_000049
+dem	d	ART	Duden	tu_1_xTok_000051
+<date id="date1">
+16.	16	ADJA		tu_1_xTok_000052
+Mertzen	März	NN	Duden	tu_1_xTok_000055
+1700.	1700	CARD		tu_1_xTok_000057
+</date>
+offentlich	öffentlich	ADJD	Duden	tu_1_xTok_000060
+vor=	vorlesen	TRUNC	Duden	tu_1_xTok_000062
+und	und	KON	Duden	tu_1_xTok_000064
+abgelesen	ablesen	VVPP	Duden	tu_1_xTok_000066
+<g/>
+/
+auch	auch	ADV	Duden	tu_1_xTok_000070
+so dann	sodann	ADV	Duden	tu_1_xTok_000072
+gleich	gleich	ADV	Duden	tu_1_xTok_000076
+an	an	APPR	Duden	tu_1_xTok_000078
+ihme	er	PPER	Duden	tu_1_xTok_000080
+exequirt	exequieren	VVPP	Duden	tu_1_xTok_000082
+worden	werden	VAPP	Duden	tu_1_xTok_000084
+<g/>
+.
+Mit	mit	APPR	Duden	tu_1_xTok_000086
+Verwilligung	Verwilligung	NN	DWB	tu_1_xTok_000089
+und	und	KON	Duden	tu_1_xTok_000091
+Erlaubnuß	Erlaubnis	NN	Duden	tu_1_xTok_000093
+Einer	ein	ART	Duden	tu_1_xTok_000095
+Hohen	hoch	ADJA	Duden	tu_1_xTok_000096
+Obrigkeit	Obrigkeit	NN	Duden	tu_1_xTok_000099
+<g/>
+.
+</titlePart>
 <p id="fb_17000316_HanssGeorgWagner_p_0001">
 GEgenwärtig	gegenwärtig	ADJD	Duden	tu_1_xTok_000129
 allda	allda	ADV	Duden	tu_1_xTok_000133
@@ -316,6 +373,7 @@ ferners	ferner	ADV	Duden	tu_1_xTok_000674
 habe	haben	VAFIN	Duden	tu_1_xTok_000676
 er	er	PPER	Duden	tu_1_xTok_000678
 dem	d	ART	Duden	tu_1_xTok_000680
+Lezelter	Lebzelter	NN	Duden	tu_1_xTok_000682
 bey	bei	APPR	Duden	tu_1_xTok_000684
 St. Peter in der Aw	St.PeterinderAu	NE::top		tu_1_xTok_000686
 einen	ein	ART	Duden	tu_1_xTok_000698
@@ -1335,6 +1393,8 @@ fl.	Flore	NN	DWB	tu_1_xTok_002499
 verzehrt	verzehren	VVPP	Duden	tu_1_xTok_002502
 <g/>
 /
+<g/>
+)
 ingleichen	ingleichen	ADV	Duden	tu_1_xTok_002507
 ein	ein	ART	Duden	tu_1_xTok_002509
 Diemant=Ringl	Diamantring	NN	Duden	tu_1_xTok_002511
@@ -1376,6 +1436,7 @@ und	und	KON	Duden	tu_1_xTok_002575
 ein	ein	ART	Duden	tu_1_xTok_002577
 klein	klein	ADJA	Duden	tu_1_xTok_002579
 silbernes	silbern	ADJA	Duden	tu_1_xTok_002580
+Balsam=Birel	Balsambüchse	NN	DWB	tu_1_xTok_002582
 bekommen	bekommen	VVPP	Duden	tu_1_xTok_002585
 habe	haben	VAFIN	Duden	tu_1_xTok_002587
 <g/>
@@ -1802,6 +1863,7 @@ UBer	über	APPR	Duden	tu_1_xTok_003350
 dise	diese	PDAT	Duden	tu_1_xTok_003354
 sein	sein	PPOSAT	Duden	tu_1_xTok_003356
 gethan=	tun	ADJA	Duden	tu_1_xTok_003358
+nnd	und	KON	Duden	tu_1_xTok_003360
 anjetzo	anjetzo	ADV	DWB	tu_1_xTok_003362
 frey	frei	ADJD	Duden	tu_1_xTok_003364
 offen	offen	ADJD	Duden	tu_1_xTok_003365

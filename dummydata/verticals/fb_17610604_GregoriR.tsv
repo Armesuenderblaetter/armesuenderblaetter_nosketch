@@ -1,4 +1,97 @@
 <doc id="fb_17610604_GregoriR" delinquent_sexes="male" title="Todesurteil Gregori R." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wol verdientes	wohlverdient	ADJA		tu_78_xTok_000001
+Todes=Urtheil	Todesurteil	NN	Duden	tu_78_xTok_000004
+Einer	ein	ART	Duden	tu_78_xTok_000008
+ledigen	ledig	ADJA	Duden	tu_78_xTok_000010
+Manns=person	Mannsperson	NN	Duden	tu_78_xTok_000012
+<g/>
+,
+Namens	namens	ADV	Duden	tu_78_xTok_000014
+<g/>
+:
+<persName id="georgir78">
+Gregori	Gregori	NE	oov	tu_78_xTok_000016
+R.	R.	NE	oov	tu_78_xTok_000019
+</persName>
+Alt	alt	ADJD	Duden	tu_78_xTok_000021
+33.	33	CARD		tu_78_xTok_000023
+Jahr	Jahr	NN	Duden	tu_78_xTok_000025
+<g/>
+,
+Von	von	APPR	Duden	tu_78_xTok_000027
+<placeName id="pn78">
+Markt=Hof	Markthof	NE::top	oov	tu_78_xTok_000029
+an	an	APPR	Duden	tu_78_xTok_000031
+der	d	ART	Duden	tu_78_xTok_000033
+March	March	NE::top	Duden	tu_78_xTok_000035
+in	in	APPR	Duden	tu_78_xTok_000037
+Nieder=Oesterreich	Niederösterreich	NE::top	Duden	tu_78_xTok_000039
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_78_xTok_000040
+<g/>
+,
+Catholischer	katholisch	ADJA	Duden	tu_78_xTok_000042
+Religion	Religion	NN	Duden	tu_78_xTok_000044
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_78_xTok_000046
+in	in	APPR	Duden	tu_78_xTok_000048
+Folge	Folge	NN	Duden	tu_78_xTok_000050
+der	d	ART	Duden	tu_78_xTok_000052
+bey	bei	APPR	Duden	tu_78_xTok_000054
+dem	d	ART	Duden	tu_78_xTok_000056
+alhiesig=	allhiesig	ADJA	DWB	tu_78_xTok_000058
+Kaiserl.	kaiserlich	ADJA	Duden	tu_78_xTok_000060
+Königlichen	königlich	ADJA	Duden	tu_78_xTok_000062
+Stadt=	Stadtgericht	TRUNC	Duden	tu_78_xTok_000064
+und	und	KON	Duden	tu_78_xTok_000066
+Land=gericht	Landgericht	NN	Duden	tu_78_xTok_000068
+wider	wider	APPR	Duden	tu_78_xTok_000070
+ihme	er	PPER	Duden	tu_78_xTok_000072
+abgeführten	abführen	ADJA	DRW	tu_78_xTok_000074
+Criminal=verfahrung	Kriminalverfahrung	NN	oov	tu_78_xTok_000077
+<g/>
+,
+und	und	KON	Duden	tu_78_xTok_000080
+darüber	darüber	PAV	Duden	tu_78_xTok_000082
+von	von	APPR	Duden	tu_78_xTok_000084
+einer	ein	ART	Duden	tu_78_xTok_000086
+hohen	hoch	ADJA	Duden	tu_78_xTok_000087
+Landes=fürstlichen	landesfürstlich	ADJA	DWB	tu_78_xTok_000089
+N. Oe.	niederösterreichisch	ADJA		tu_78_xTok_000091
+Regierung	Regierung	NN	Duden	tu_78_xTok_000097
+geschöpften	schöpfen	ADJA	Duden	tu_78_xTok_000099
+Erkanntnuß	Erkanntnis	NN	DWB	tu_78_xTok_000100
+an	an	APPR	Duden	tu_78_xTok_000102
+gleich ernannten	gleichernannt	ADJA		tu_78_xTok_000104
+Gregori	Gregori	NE	oov	tu_78_xTok_000108
+R.	R.	NE	oov	tu_78_xTok_000110
+dem	d	ART	Duden	tu_78_xTok_000113
+zu	zu	APPR	Duden	tu_78_xTok_000115
+Ende	Ende	NN	Duden	tu_78_xTok_000116
+beygefügten	beifügen	ADJA	Duden	tu_78_xTok_000118
+Jnhalt	Inhalt	NN	Duden	tu_78_xTok_000120
+gemäß	gemäß	APPO	Duden	tu_78_xTok_000122
+<g/>
+,
+heute	heute	ADV	Duden	tu_78_xTok_000125
+den	d	ART	Duden	tu_78_xTok_000127
+<date id="date78">
+4.	4	ADJA		tu_78_xTok_000129
+Junii	Juni	NN	Duden	tu_78_xTok_000131
+1761.	1761	CARD		tu_78_xTok_000132
+</date>
+alhier	allhier	ADV	Duden	tu_78_xTok_000134
+in	in	APPR	Duden	tu_78_xTok_000136
+Wien	Wien	NE::top	Duden	tu_78_xTok_000138
+vollzogen	vollziehen	VVPP	Duden	tu_78_xTok_000140
+wird	werden	VAFIN	Duden	tu_78_xTok_000142
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_78_xTok_000144
 seines	sein	PPOSAT	Duden	tu_78_xTok_000147
@@ -239,6 +332,7 @@ Und	und	KON	Duden	tu_78_xTok_000544
 da	da	KOUS	Duden	tu_78_xTok_000546
 nun	nun	ADV	Duden	tu_78_xTok_000548
 er	er	PPER	Duden	tu_78_xTok_000550
+Delinque nt	Delinquent	NN	Duden	tu_78_xTok_000552
 in	in	APPR	Duden	tu_78_xTok_000556
 solch=	solch	PIAT	Duden	tu_78_xTok_000558
 boßhafter	boshaft	ADJA	Duden	tu_78_xTok_000560

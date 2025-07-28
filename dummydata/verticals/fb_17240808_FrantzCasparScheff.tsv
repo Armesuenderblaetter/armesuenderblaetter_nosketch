@@ -1,4 +1,51 @@
 <doc id="fb_17240808_FrantzCasparScheff" delinquent_sexes="male" title="Degradations-Ruf Frantz Caspar Scheffner" attrs="word lemma pos vocab id">
+<titlePart type="main">
+Degradations-Ruf	Degradationsruf	NN	oov	tu_2_xTok_000001
+<g/>
+/
+Wie	wie	KOKOM	Duden	tu_2_xTok_000009
+auch	auch	ADV	Duden	tu_2_xTok_000011
+End=Urthel	Endurteil	NN	Duden	tu_2_xTok_000012
+<g/>
+/
+Und	und	KON	Duden	tu_2_xTok_000018
+EXECUTION	Exekution	NN	Duden	tu_2_xTok_000019
+<g/>
+,
+So	so	PRELS	Duden	tu_2_xTok_000021
+zu	zu	APPR	Duden	tu_2_xTok_000025
+Wien	Wien	NE::top	Duden	tu_2_xTok_000027
+den	d	ART	Duden	tu_2_xTok_000031
+<date id="date2">
+8.	8	ADJA		tu_2_xTok_000033
+Augusti	August	NN	Duden	tu_2_xTok_000035
+1724.	1724	CARD		tu_2_xTok_000039
+</date>
+An	an	APPR	Duden	tu_2_xTok_000040
+<persName id="frantzcasparscheffner2">
+Frantz	Franz	NE	Duden	tu_2_xTok_000041
+Caspar	Caspar	NE	oov	tu_2_xTok_000044
+Scheffner	Scheffner	NE	oov	tu_2_xTok_000046
+</persName>
+<g/>
+/
+Welcher	welch	PRELS	Duden	tu_2_xTok_000050
+den	d	ART	Duden	tu_2_xTok_000052
+8.	8	ADJA		tu_2_xTok_000054
+September	September	NN	Duden	tu_2_xTok_000056
+1722.	1722	CARD		tu_2_xTok_000058
+entwichen	entweichen	VVPP	Duden	tu_2_xTok_000060
+<g/>
+/
+in	in	APPR	Duden	tu_2_xTok_000063
+seiner	sein	PPOSAT	Duden	tu_2_xTok_000065
+Abbildung	Abbildung	NN	Duden	tu_2_xTok_000067
+offentlich	öffentlich	ADJD	Duden	tu_2_xTok_000069
+vollzogen	vollziehen	VVPP	Duden	tu_2_xTok_000071
+worden	werden	VAPP	Duden	tu_2_xTok_000072
+<g/>
+.
+</titlePart>
 <p id="fb_17240808_FrantzCasparScheff_p_0001">
 NAchdeme	nachdem	KOUS	Duden	tu_2_xTok_000157
 der	d	ART	Duden	tu_2_xTok_000160

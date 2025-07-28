@@ -1,4 +1,33 @@
 <doc id="fb_17800427_BE_JN" delinquent_sexes="male" title="Todesurteil B. E., J. N." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Beschreibung	Beschreibung	NN	Duden	tu_117_xTok_000001
+deren	d	PDAT	Duden	tu_117_xTok_000005
+ausgeübten	ausüben	ADJA	Duden	tu_117_xTok_000007
+grausamsten	grausam	ADJA	Duden	tu_117_xTok_000009
+Mordthaten	Mordtat	NN	Duden	tu_117_xTok_000011
+<g/>
+,
+von	von	APPR	Duden	tu_117_xTok_000014
+denen	d	ART	Duden	tu_117_xTok_000016
+zu	zu	APPR	Duden	tu_117_xTok_000018
+ob	ob	APPR	Duden	tu_117_xTok_000020
+Wildon	Wildon	NE::top	oov	tu_117_xTok_000022
+in	in	APPR	Duden	tu_117_xTok_000024
+Untersteyer	Untersteyer	NE::top	oov	tu_117_xTok_000026
+den	d	ART	Duden	tu_117_xTok_000028
+<date id="date117">
+27.	27	ADJA		tu_117_xTok_000030
+April	April	NN	Duden	tu_117_xTok_000032
+1780.	1780	CARD		tu_117_xTok_000034
+</date>
+durch	durch	APPR	Duden	tu_117_xTok_000036
+das	d	ART	Duden	tu_117_xTok_000038
+Rad	Rad	NN	Duden	tu_117_xTok_000040
+hingerichteten	hinrichten	ADJA	Duden	tu_117_xTok_000042
+Missethätern	Missetäter	NN	Duden	tu_117_xTok_000043
+<g/>
+.
+</titlePart>
 <p id="fb_17800427_BE_JN_p_0001">
 Es	es	PPER	Duden	tu_117_xTok_000054
 hat	haben	VAFIN	Duden	tu_117_xTok_000057

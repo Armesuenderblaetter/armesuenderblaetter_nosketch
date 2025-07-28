@@ -1,4 +1,115 @@
 <doc id="fb_17390924_AndreasS" delinquent_sexes="male" title="Todesurteil Andreas S." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_14_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_14_xTok_000002
+<g/>
+/
+Einer	ein	ART	Duden	tu_14_xTok_000008
+Verheyrathen	verheiratet	ADJA	Duden	tu_14_xTok_000010
+Manns=Persohn	Mannsperson	NN	Duden	tu_14_xTok_000012
+Nahmens	namens	ADV	Duden	tu_14_xTok_000013
+<persName id="andreass14">
+Andreas	Andreas	NE	Duden	tu_14_xTok_000015
+S.	S.	NE	oov	tu_14_xTok_000018
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_14_xTok_000020
+Religion	Religion	NN	Duden	tu_14_xTok_000022
+<g/>
+/
+und	und	KON	Duden	tu_14_xTok_000026
+31.	31	CARD		tu_14_xTok_000028
+Jahr	Jahr	NN	Duden	tu_14_xTok_000031
+alt	alt	ADJD	Duden	tu_14_xTok_000033
+<g/>
+/
+von	von	APPR	Duden	tu_14_xTok_000037
+<placeName id="pn14">
+hier	hier	ADV	Duden	tu_14_xTok_000039
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_14_xTok_000041
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Um weilen	umweil	KOUS		tu_14_xTok_000043
+derselbe	derselbe	PDS	Duden	tu_14_xTok_000047
+in	in	APPR	Duden	tu_14_xTok_000049
+der	d	ART	Duden	tu_14_xTok_000051
+allhiesig=	allhiesig	ADJA	DWB	tu_14_xTok_000053
+Kayserl.	kaiserlich	ADJA	Duden	tu_14_xTok_000053b
+Burg	Burg	NN	Duden	tu_14_xTok_000055
+mittels	mittels	APPR	Duden	tu_14_xTok_000057
+eines	ein	ART	Duden	tu_14_xTok_000059
+hintergangenen	hintergehen	ADJA	Duden	tu_14_xTok_000061
+Schlüssels	Schlüssel	NN	Duden	tu_14_xTok_000063
+sowohl	sowohl	KON	Duden	tu_14_xTok_000065
+in	in	APPR	Duden	tu_14_xTok_000067
+der	d	ART	Duden	tu_14_xTok_000068
+Kayserl.	kaiserlich	ADJA	Duden	tu_14_xTok_000070
+Cammer=	Kammer	NN	Duden	tu_14_xTok_000073
+als	als	KON	Duden	tu_14_xTok_000075
+Hof=Capellen	Hofkapelle	NN	oov	tu_14_xTok_000077
+<g/>
+/
+auch	auch	ADV	Duden	tu_14_xTok_000081
+in	in	APPR	Duden	tu_14_xTok_000083
+denen	d	ART	Duden	tu_14_xTok_000085
+Zimmern	Zimmer	NN	Duden	tu_14_xTok_000087
+verschiedene	verschieden	ADJA	Duden	tu_14_xTok_000090
+andere	andere	ADJA	Duden	tu_14_xTok_000092
+offtmahlige	oftmalig	ADJA	DWB	tu_14_xTok_000094
+Diebstähle	Diebstahl	NN	Duden	tu_14_xTok_000096
+und	und	KON	Duden	tu_14_xTok_000098
+vorsetzliche	vorsetzlich	ADJA	Duden	tu_14_xTok_000100
+namhaffte	namhaft	ADJA	Duden	tu_14_xTok_000103
+Angriff	Angriff	NN	Duden	tu_14_xTok_000105
+gethan	tun	VVPP	Duden	tu_14_xTok_000107
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Als	als	ADV	Duden	tu_14_xTok_000109
+wird	werden	VAFIN	Duden	tu_14_xTok_000111
+derselbe	derselbe	PDS	Duden	tu_14_xTok_000113
+heute	heute	ADV	Duden	tu_14_xTok_000115
+Donnerstag	Donnerstag	NN	Duden	tu_14_xTok_000117
+den	d	ART	Duden	tu_14_xTok_000119
+<date id="date14">
+24.	24	ADJA		tu_14_xTok_000121
+September	September	NN	Duden	tu_14_xTok_000124
+1739.	1739	CARD		tu_14_xTok_000125
+</date>
+andern	ander	PIS	Duden	tu_14_xTok_000128
+zum	zum	APPRART	Duden	tu_14_xTok_000130
+Beyspiel	Beispiel	NN	Duden	tu_14_xTok_000132
+auf	auf	APPR	Duden	tu_14_xTok_000134
+dem	d	ART	Duden	tu_14_xTok_000136
+Wienner=Berg	Wienerberg	NE::top	oov	tu_14_xTok_000138
+mit	mit	APPR	Duden	tu_14_xTok_000140
+dem	d	ART	Duden	tu_14_xTok_000141
+Strang	Strang	NN	Duden	tu_14_xTok_000143
+vom	vom	APPRART	Duden	tu_14_xTok_000145
+Leben	Leben	NN	Duden	tu_14_xTok_000147
+zum	zum	APPRART	Duden	tu_14_xTok_000149
+Todt	Tod	NN	Duden	tu_14_xTok_000151
+hingerichtet	hinrichten	VVPP	Duden	tu_14_xTok_000153
+werden	werden	VAINF	Duden	tu_14_xTok_000154
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+NB.	Notabene	NN	Duden	tu_14_xTok_000156
+Der	d	ART	Duden	tu_14_xTok_000159
+Jnnhalt	Inhalt	NN	Duden	tu_14_xTok_000161
+seines	sein	PPOSAT	Duden	tu_14_xTok_000163
+Verbrechen	Verbrechen	NN	Duden	tu_14_xTok_000165
+ist	sein	VAFIN	Duden	tu_14_xTok_000167
+hierinnen	hierinnen	PAV	Duden	tu_14_xTok_000169
+zu	zu	PTKZU	Duden	tu_14_xTok_000171
+vernehmen	vernehmen	VVINF	Duden	tu_14_xTok_000173
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_14_xTok_000189
 des	d	ART	Duden	tu_14_xTok_000191
@@ -680,4 +791,8 @@ Glückseeligkeit	Glückseligkeit	NN	Duden	tu_14_xTok_001210
 ENDE	Ende	NN	Duden	tu_14_xTok_001211
 <g/>
 .
+<p id="fb_17390924_AndreasS_p_0003">
+SIC	sic	FM	G-LDHW	tu_14_xTok_001213
+VANESCIMUS	vanesco	FM	G-LDHW	tu_14_xTok_001215
+</p>
 </doc>

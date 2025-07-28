@@ -1,4 +1,85 @@
 <doc id="fb_17451109_JohannGeorgD" delinquent_sexes="male" title="Todesurteil Johann Georg D." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_31_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_31_xTok_000002
+<g/>
+/
+Einer	ein	ART	Duden	tu_31_xTok_000009
+ledigen	ledig	ADJA	Duden	tu_31_xTok_000012
+Manns=Persohn	Mannsperson	NN	Duden	tu_31_xTok_000014
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_31_xTok_000021
+<persName id="johanngeorgd31">
+Johann	Johann	NE	Duden	tu_31_xTok_000022
+Georg	Georg	NE	Duden	tu_31_xTok_000025
+D.	D.	NE	oov	tu_31_xTok_000028
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_31_xTok_000030
+Religion	Religion	NN	Duden	tu_31_xTok_000033
+<g/>
+/
+allhier	allhier	ADV	Duden	tu_31_xTok_000038
+zu	zu	APPR	Duden	tu_31_xTok_000040
+<placeName id="pn31">
+Wienn	Wien	NE::top	Duden	tu_31_xTok_000041
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_31_xTok_000043
+<g/>
+/
+seines	sein	PPOSAT	Duden	tu_31_xTok_000047
+Alters	Alter	NN	Duden	tu_31_xTok_000049
+36.	36	CARD		tu_31_xTok_000051
+Jahr	Jahr	NN	Duden	tu_31_xTok_000052
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welcher	welch	PRELS	Duden	tu_31_xTok_000054
+heut	heute	ADV	Duden	tu_31_xTok_000056
+Dato	dato	ADV	Duden	tu_31_xTok_000058
+den	d	ART	Duden	tu_31_xTok_000060
+<date id="date31">
+9.	9	ADJA		tu_31_xTok_000062
+November	November	NN	Duden	tu_31_xTok_000064
+1745.	1745	CARD		tu_31_xTok_000066
+</date>
+wegen	wegen	APPR	Duden	tu_31_xTok_000068
+verschiedentlich=	verschiedentlich	ADJA	Duden	tu_31_xTok_000070
+auf	auf	APPR	Duden	tu_31_xTok_000073
+das	d	ART	Duden	tu_31_xTok_000075
+neue	neu	ADJ-NN	Duden	tu_31_xTok_000077
+begangenen	begehen	ADJA	Duden	tu_31_xTok_000079
+Diebstählen	Diebstahl	NN	Duden	tu_31_xTok_000081
+auf	auf	APPR	Duden	tu_31_xTok_000083
+dem	d	ART	Duden	tu_31_xTok_000085
+Wienner=Berg	Wienerberg	NE::top	oov	tu_31_xTok_000086
+mit	mit	APPR	Duden	tu_31_xTok_000088
+dem	d	ART	Duden	tu_31_xTok_000090
+Strang	Strang	NN	Duden	tu_31_xTok_000092
+vom	vom	APPRART	Duden	tu_31_xTok_000094
+Leben	Leben	NN	Duden	tu_31_xTok_000096
+zum	zum	APPRART	Duden	tu_31_xTok_000098
+Todt	Tod	NN	Duden	tu_31_xTok_000100
+hingerichtet	hinrichten	VVPP	Duden	tu_31_xTok_000101
+wird	werden	VAFIN	Duden	tu_31_xTok_000103
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Der	d	ART	Duden	tu_31_xTok_000105
+Jnnhalt	Inhalt	NN	Duden	tu_31_xTok_000107
+seines	sein	PPOSAT	Duden	tu_31_xTok_000109
+Verbrechen	Verbrechen	NN	Duden	tu_31_xTok_000111
+wird	werden	VAFIN	Duden	tu_31_xTok_000113
+der	d	ART	Duden	tu_31_xTok_000115
+geneigte	geneigt	ADJA	Duden	tu_31_xTok_000117
+Leser	Leser	NN	Duden	tu_31_xTok_000119
+hierinnen	hierinnen	PAV	Duden	tu_31_xTok_000120
+finden	finden	VVINF	Duden	tu_31_xTok_000122
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_31_xTok_000142
 des	d	ART	Duden	tu_31_xTok_000145
@@ -85,6 +166,7 @@ zerschiedenen	zerschieden	ADJA	DWB	tu_31_xTok_000284
 Beschwär=Umständen	Beschwerumstände	NN	oov	tu_31_xTok_000286
 auf	auf	APPR	Duden	tu_31_xTok_000288
 sich	sich	PRF	Duden	tu_31_xTok_000290
+galadenen	laden	ADJA	Duden	tu_31_xTok_000292
 Diebstahls=Verdacht	Diebstahlsverdacht	NN	oov	tu_31_xTok_000295
 mit	mit	APPR	Duden	tu_31_xTok_000297
 der	d	ART	Duden	tu_31_xTok_000299

@@ -1,4 +1,37 @@
 <doc id="fb_17970000_JohannMuellner_Jgn" delinquent_sexes="male" title="Urteil Johann Müllner, Jgnaz Menz, Georg Dürnböck, Thomas Schedel" attrs="word lemma pos vocab id">
+<titlePart type="main">
+Urtheil	Urteil	NN	Duden	tu_136_xTok_000001
+über	über	APPR	Duden	tu_136_xTok_000002
+die	d	ART	Duden	tu_136_xTok_000004
+Staatsverbrecher	Staatsverbrecher	NN	Duden	tu_136_xTok_000005
+<g/>
+,
+<persName id="johannmüllner136">
+Johann	Johann	NE	Duden	tu_136_xTok_000009
+Müllner	Müllner	NE	oov	tu_136_xTok_000011
+</persName>
+<g/>
+,
+<persName id="ignazmenz136">
+Jgnaz	Ignaz	NE	Duden	tu_136_xTok_000014
+Menz	Menz	NE	oov	tu_136_xTok_000015
+</persName>
+<g/>
+,
+<persName id="georgdürnböck136">
+Georg	Georg	NE	Duden	tu_136_xTok_000018
+Dürnböck	Dürnböck	NE	oov	tu_136_xTok_000020
+</persName>
+<g/>
+,
+und	und	KON	Duden	tu_136_xTok_000022
+<persName id="thomasschedel136">
+Thomas	Thomas	NE	Duden	tu_136_xTok_000024
+Schedel	Schedel	NE	oov	tu_136_xTok_000026
+</persName>
+<g/>
+.
+</titlePart>
 <p id="fb_17970000_JohannMuellner_Jgn_p_0001">
 Obwohl	obwohl	KOUS	Duden	tu_136_xTok_000059
 Millionen	Million	NN	Duden	tu_136_xTok_000062

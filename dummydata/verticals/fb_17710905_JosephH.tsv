@@ -1,4 +1,94 @@
 <doc id="fb_17710905_JosephH" delinquent_sexes="male" title="Todesurteil Joseph H." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_95_xTok_000001
+einer	ein	ART	Duden	tu_95_xTok_000005
+ledigen	ledig	ADJA	Duden	tu_95_xTok_000007
+Mannsperson	Mannsperson	NN	Duden	tu_95_xTok_000009
+<g/>
+,
+Namens	namens	ADV	Duden	tu_95_xTok_000011
+<g/>
+:
+<persName id="josephh95">
+Joseph	Joseph	NE	Duden	tu_95_xTok_000013
+H.	H.	NE	oov	tu_95_xTok_000015
+</persName>
+alt	alt	ADJD	Duden	tu_95_xTok_000017
+36.	36	CARD		tu_95_xTok_000019
+Jahr	Jahr	NN	Duden	tu_95_xTok_000021
+<g/>
+,
+zu	zu	APPR	Duden	tu_95_xTok_000023
+<placeName id="pn95">
+Velden	Velden	NE::top	oov	tu_95_xTok_000025
+in	in	APPR	Duden	tu_95_xTok_000027
+Bayern	Bayern	NE::top	Duden	tu_95_xTok_000029
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_95_xTok_000031
+<g/>
+,
+katholischer	katholisch	ADJA	Duden	tu_95_xTok_000033
+Religion	Religion	NN	Duden	tu_95_xTok_000035
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_95_xTok_000037
+in	in	APPR	Duden	tu_95_xTok_000039
+Folge	Folge	NN	Duden	tu_95_xTok_000041
+der	d	ART	Duden	tu_95_xTok_000043
+bey	bei	APPR	Duden	tu_95_xTok_000045
+dem	d	ART	Duden	tu_95_xTok_000047
+kaiserl.	kaiserlich	ADJA	Duden	tu_95_xTok_000049
+königl.	königlich	ADJA	Duden	tu_95_xTok_000052
+Stadt=	Stadtgericht	TRUNC	Duden	tu_95_xTok_000055
+und	und	KON	Duden	tu_95_xTok_000057
+Landgerichte	Landgericht	NN	Duden	tu_95_xTok_000059
+allhier	allhier	ADV	Duden	tu_95_xTok_000062
+wider	wider	APPR	Duden	tu_95_xTok_000064
+ihn	er	PPER	Duden	tu_95_xTok_000066
+abgeführten	abführen	ADJA	DRW	tu_95_xTok_000068
+Criminalverfahrung	Kriminalverfahrung	NN	oov	tu_95_xTok_000070
+<g/>
+,
+und	und	KON	Duden	tu_95_xTok_000072
+darüber	darüber	PAV	Duden	tu_95_xTok_000074
+geschöpften	schöpfen	ADJA	Duden	tu_95_xTok_000076
+<g/>
+,
+auch	auch	ADV	Duden	tu_95_xTok_000079
+von	von	APPR	Duden	tu_95_xTok_000081
+einer	ein	ART	Duden	tu_95_xTok_000083
+hochlöblich=	hochlöblich	ADJA	Duden	tu_95_xTok_000085
+landesfürstlichen	landesfürstlich	ADJA	DWB	tu_95_xTok_000087
+niederösterreichischen	niederösterreichisch	ADJA	Duden	tu_95_xTok_000090
+Regierung	Regierung	NN	Duden	tu_95_xTok_000092
+bestättigten	bestätigen	ADJA	Duden	tu_95_xTok_000094
+Erkenntnisses	Erkenntnis	NN	Duden	tu_95_xTok_000096
+am	am	APPRART	Duden	tu_95_xTok_000099
+erstgenannten	erstgenannt	ADJA	oov	tu_95_xTok_000101
+Delinquenten	Delinquent	NN	Duden	tu_95_xTok_000103
+dem	d	ART	Duden	tu_95_xTok_000105
+zu	zu	APPR	Duden	tu_95_xTok_000107
+Ende	Ende	NN	Duden	tu_95_xTok_000109
+angeführten	angeführt	ADJA	Duden	tu_95_xTok_000111
+Jnnhalte	Inhalt	NN	Duden	tu_95_xTok_000112
+gemäß	gemäß	APPO	Duden	tu_95_xTok_000114
+heute	heute	ADV	Duden	tu_95_xTok_000116
+den	d	ART	Duden	tu_95_xTok_000118
+<date id="date95">
+5.	5	ADJA		tu_95_xTok_000120
+September	September	NN	Duden	tu_95_xTok_000122
+1771.	1771	CARD		tu_95_xTok_000124
+</date>
+allhier	allhier	ADV	Duden	tu_95_xTok_000126
+in	in	APPR	Duden	tu_95_xTok_000128
+Wien	Wien	NE::top	Duden	tu_95_xTok_000130
+vollzogen	vollziehen	VVPP	Duden	tu_95_xTok_000131
+wird	werden	VAFIN	Duden	tu_95_xTok_000133
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_95_xTok_000136
 seines	sein	PPOSAT	Duden	tu_95_xTok_000138

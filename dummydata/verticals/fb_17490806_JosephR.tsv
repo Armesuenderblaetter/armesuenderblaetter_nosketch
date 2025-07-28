@@ -1,4 +1,88 @@
 <doc id="fb_17490806_JosephR" delinquent_sexes="male" title="Todesurteil Joseph R." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_45_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_45_xTok_000002
+<g/>
+/
+Einer	ein	ART	Duden	tu_45_xTok_000009
+Verheyrathen	verheiratet	ADJA	Duden	tu_45_xTok_000010
+Manns=Persohn	Mannsperson	NN	Duden	tu_45_xTok_000012
+Nahmens	namens	ADV	Duden	tu_45_xTok_000013
+<persName id="josephr45">
+Joseph	Joseph	NE	Duden	tu_45_xTok_000014
+R.	R.	NE	oov	tu_45_xTok_000016
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_45_xTok_000018
+Religion	Religion	NN	Duden	tu_45_xTok_000020
+<g/>
+,
+<placeName id="pn45">
+allhier	allhier	ADV	Duden	tu_45_xTok_000023
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_45_xTok_000024
+<g/>
+,
+bey	bei	APPR	Duden	tu_45_xTok_000027
+39.	39	CARD		tu_45_xTok_000029
+Jahr	Jahr	NN	Duden	tu_45_xTok_000031
+alt	alt	ADJD	Duden	tu_45_xTok_000033
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Welcher	welch	PRELS	Duden	tu_45_xTok_000035
+heute	heute	ADV	Duden	tu_45_xTok_000037
+Mittwochs	Mittwoch	NN	Duden	tu_45_xTok_000039
+den	d	ART	Duden	tu_45_xTok_000041
+6ten	6	ADJA		tu_45_xTok_000043
+Augusti	August	NN	Duden	tu_45_xTok_000045
+auf	auf	APPR	Duden	tu_45_xTok_000047
+die	d	ART	Duden	tu_45_xTok_000049
+sogenannte	sogenannt	ADJA	Duden	tu_45_xTok_000051
+Gänßweyd	Gänseweide	NE::top	oov	tu_45_xTok_000053
+geführet	führen	VVPP	Duden	tu_45_xTok_000055
+<g/>
+,
+allda	allda	ADV	Duden	tu_45_xTok_000059
+auf	auf	APPR	Duden	tu_45_xTok_000061
+einen	ein	ART	Duden	tu_45_xTok_000063
+über	über	APPR	Duden	tu_45_xTok_000065
+einem	ein	ART	Duden	tu_45_xTok_000067
+ScheitterHauffen	Scheiterhaufen	NN	Duden	tu_45_xTok_000069
+aufgerichten	aufrichten	ADJA	Duden	tu_45_xTok_000072
+Galgen	Galgen	NN	Duden	tu_45_xTok_000074
+mit	mit	APPR	Duden	tu_45_xTok_000076
+dem	d	ART	Duden	tu_45_xTok_000078
+Strang	Strang	NN	Duden	tu_45_xTok_000080
+vom	vom	APPRART	Duden	tu_45_xTok_000081
+Leben	Leben	NN	Duden	tu_45_xTok_000083
+zum	zum	APPRART	Duden	tu_45_xTok_000085
+Todt	Tod	NN	Duden	tu_45_xTok_000087
+hingerichtet	hinrichten	VVPP	Duden	tu_45_xTok_000089
+<g/>
+,
+dessen	d	PDAT	Duden	tu_45_xTok_000092
+Cörper	Körper	NN	Duden	tu_45_xTok_000093
+sodann	sodann	ADV	Duden	tu_45_xTok_000095
+zu	zu	APPR	Duden	tu_45_xTok_000097
+Staub	Staub	NN	Duden	tu_45_xTok_000099
+und	und	KON	Duden	tu_45_xTok_000101
+Aschen	Asche	NN	Duden	tu_45_xTok_000103
+verbrennet	verbrennen	VVPP	Duden	tu_45_xTok_000104
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Der	d	ART	Duden	tu_45_xTok_000106
+Jnnhalt	Inhalt	NN	Duden	tu_45_xTok_000108
+seines	sein	PPOSAT	Duden	tu_45_xTok_000110
+Verbrechens	Verbrechen	NN	Duden	tu_45_xTok_000112
+zeiget	zeigen	VVFIN	Duden	tu_45_xTok_000114
+das	d	ART	Duden	tu_45_xTok_000116
+mehrere	mehrere	PIS	Duden	tu_45_xTok_000118
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_45_xTok_000138
 des	d	ART	Duden	tu_45_xTok_000140

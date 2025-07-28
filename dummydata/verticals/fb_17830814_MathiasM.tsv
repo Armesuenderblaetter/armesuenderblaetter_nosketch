@@ -1,4 +1,78 @@
 <doc id="fb_17830814_MathiasM" delinquent_sexes="male" title="Todesurteil Mathias M." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_125_xTok_000001
+des	d	ART	Duden	tu_125_xTok_000003
+<persName id="mathiasm125">
+Mathias	Matthias	NE	Duden	tu_125_xTok_000004
+M.	M.	NE	oov	tu_125_xTok_000006
+</persName>
+</titlePart>
+<titlePart type="main">
+Gemeinen	Gemeine	NN	Duden	tu_125_xTok_000008
+des	d	ART	Duden	tu_125_xTok_000010
+löbl.	löblich	ADJA	Duden	tu_125_xTok_000012
+Baaden	Baaden	ADJA	oov	tu_125_xTok_000015
+Durlachischen	Durlachisch	ADJA	oov	tu_125_xTok_000017
+Jnfanterieregiments	Infanterieregiment	NN	Duden	tu_125_xTok_000019
+von	von	APPR	Duden	tu_125_xTok_000022
+zweyter	zweite	ADJA	Duden	tu_125_xTok_000024
+Majors Kompagnie	Majorskompanie	NN		tu_125_xTok_000026
+<g/>
+,
+so	so	PRELS	Duden	tu_125_xTok_000031
+25	25	CARD		tu_125_xTok_000033
+Jahr	Jahr	NN	Duden	tu_125_xTok_000035
+alt	alt	ADJD	Duden	tu_125_xTok_000037
+<g/>
+,
+katholischer	katholisch	ADJA	Duden	tu_125_xTok_000039
+Religion	Religion	NN	Duden	tu_125_xTok_000041
+<g/>
+,
+ledigen	ledig	ADJA	Duden	tu_125_xTok_000044
+Standes	Stand	NN	Duden	tu_125_xTok_000046
+<g/>
+,
+von	von	APPR	Duden	tu_125_xTok_000049
+<placeName id="pn125">
+Lichtenhof	Lichtenhof	NE::top	oov	tu_125_xTok_000051
+Jlzer	Ilzer	ADJA	oov	tu_125_xTok_000053
+Pfarr	Pfarre	NN	Duden	tu_125_xTok_000053b
+<g/>
+,
+Herrsch.	Herrschaft	NN	Duden	tu_125_xTok_000057
+Wellstorf	Wollsdorf	NE::top	oov	tu_125_xTok_000060
+<g/>
+,
+Grazer	Grazer	ADJA	Duden	tu_125_xTok_000063
+Kreises	Kreis	NN	Duden	tu_125_xTok_000065
+aus	aus	APPR	Duden	tu_125_xTok_000067
+Untersteyer	Untersteyer	NE::top	oov	tu_125_xTok_000069
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_125_xTok_000071
+<g/>
+,
+welches	welch	PRELS	Duden	tu_125_xTok_000073
+dem	d	ART	Duden	tu_125_xTok_000075
+zu	zu	APPR	Duden	tu_125_xTok_000077
+Ende	Ende	NN	Duden	tu_125_xTok_000079
+gesetzten	setzen	ADJA	Duden	tu_125_xTok_000081
+Jnnhalt	Inhalt	NN	Duden	tu_125_xTok_000083
+gemäß	gemäß	APPO	Duden	tu_125_xTok_000085
+heute	heute	ADV	Duden	tu_125_xTok_000087
+den	d	ART	Duden	tu_125_xTok_000089
+<date id="date125">
+14ten	14	ADJA		tu_125_xTok_000091
+August	August	NN	Duden	tu_125_xTok_000093
+1783.	1783	CARD		tu_125_xTok_000095
+</date>
+in	in	APPR	Duden	tu_125_xTok_000097
+Gräz	Graz	NE::top	Duden	tu_125_xTok_000099
+vollzogen	vollziehen	VVPP	Duden	tu_125_xTok_000101
+wird	werden	VAFIN	Duden	tu_125_xTok_000103
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_125_xTok_000117
 seines	sein	PPOSAT	Duden	tu_125_xTok_000119

@@ -1,4 +1,128 @@
 <doc id="fb_17371113_JosephLeopoldN" delinquent_sexes="male" title="Todesurteil Joseph Leopold N." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_10_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_10_xTok_000002
+<g/>
+/
+Einer	ein	ART	Duden	tu_10_xTok_000009
+verheyrathen	verheiratet	ADJA	Duden	tu_10_xTok_000011
+Manns=Persohn	Mannsperson	NN	Duden	tu_10_xTok_000013
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_10_xTok_000017
+<persName id="josephleopoldn10">
+Joseph	Joseph	NE	Duden	tu_10_xTok_000018
+Leopold	Leopold	NE	Duden	tu_10_xTok_000021
+N.	N.	NE	oov	tu_10_xTok_000024
+</persName>
+Bey	bei	APPR	Duden	tu_10_xTok_000026
+53.	53	CARD		tu_10_xTok_000028
+Jahr	Jahr	NN	Duden	tu_10_xTok_000031
+alt	alt	ADJD	Duden	tu_10_xTok_000033
+<g/>
+/
+Catholischer	katholisch	ADJA	Duden	tu_10_xTok_000037
+Religion	Religion	NN	Duden	tu_10_xTok_000039
+<g/>
+/
+von	von	APPR	Duden	tu_10_xTok_000043
+<placeName id="pn10">
+St. Peter	St.Peter	NE::top		tu_10_xTok_000045
+bey	bei	APPR	Duden	tu_10_xTok_000050
+Görtz	Görz	NE::top	oov	tu_10_xTok_000052
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_10_xTok_000054
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Um	um	APPR	Duden	tu_10_xTok_000056
+dieweilen	dieweilen	KOUS	Duden	tu_10_xTok_000058
+derselbe	derselbe	PDS	Duden	tu_10_xTok_000060
+eine	ein	ART	Duden	tu_10_xTok_000062
+geraume	geraum	ADJA	Duden	tu_10_xTok_000064
+Zeit	Zeit	NN	Duden	tu_10_xTok_000066
+hindurch	hindurch	ADV	Duden	tu_10_xTok_000068
+eine	ein	ART	Duden	tu_10_xTok_000070
+Summa	Summa	NN	Duden	tu_10_xTok_000071
+Gelds	Geld	NN	Duden	tu_10_xTok_000073
+in	in	APPR	Duden	tu_10_xTok_000075
+Sibenzehnern	Siebenzehner	NN	DWB	tu_10_xTok_000077
+fälschlich	fälschlich	ADJD	Duden	tu_10_xTok_000079
+gemüntzet	münzen	VVFIN	Duden	tu_10_xTok_000081
+<g/>
+;
+Als	als	ADV	Duden	tu_10_xTok_000084
+wird	werden	VAFIN	Duden	tu_10_xTok_000086
+derselbe	derselbe	PDS	Duden	tu_10_xTok_000087
+zufolge	zufolge	APPR	Duden	tu_10_xTok_000089
+der	d	ART	Duden	tu_10_xTok_000091
+von	von	APPR	Duden	tu_10_xTok_000093
+Jhro	ihro	PPOSAT	Duden	tu_10_xTok_000095
+Kayserl.	kaiserlich	ADJA	Duden	tu_10_xTok_000097
+Majestät	Majestät	NN	Duden	tu_10_xTok_000100
+selbsten	selbst	ADV	Duden	tu_10_xTok_000102
+<g/>
+/
+allergerechtest	allergerechtest	ADJD	oov	tu_10_xTok_000106
+ergangenen	ergehen	ADJA	Duden	tu_10_xTok_000109
+Hof=Resolution	Hofresolution	NN	DRW	tu_10_xTok_000111
+auf	auf	APPR	Duden	tu_10_xTok_000114
+der	d	ART	Duden	tu_10_xTok_000116
+sogenannten	sogenannt	ADJA	Duden	tu_10_xTok_000118
+GänßWeyd	Gänseweide	NE::top	oov	tu_10_xTok_000120
+heute	heute	ADV	Duden	tu_10_xTok_000123
+Mittwoch	Mittwoch	NN	Duden	tu_10_xTok_000125
+den	d	ART	Duden	tu_10_xTok_000127
+<date id="date10">
+13.	13	ADJA		tu_10_xTok_000129
+Nov.	November	NN	Duden	tu_10_xTok_000131
+1737.	1737	CARD		tu_10_xTok_000134
+</date>
+mit	mit	APPR	Duden	tu_10_xTok_000136
+dem	d	ART	Duden	tu_10_xTok_000138
+Schwerd	Schwert	NN	Duden	tu_10_xTok_000140
+vom	vom	APPRART	Duden	tu_10_xTok_000141
+Leben	Leben	NN	Duden	tu_10_xTok_000143
+zum	zum	APPRART	Duden	tu_10_xTok_000145
+Todt	Tod	NN	Duden	tu_10_xTok_000147
+hingerichtet	hinrichten	VVPP	Duden	tu_10_xTok_000149
+<g/>
+/
+der	d	ART	Duden	tu_10_xTok_000153
+entseelte	entseelt	ADJA	Duden	tu_10_xTok_000155
+Cörper	Körper	NN	Duden	tu_10_xTok_000157
+aber	aber	ADV	Duden	tu_10_xTok_000159
+auf	auf	APPR	Duden	tu_10_xTok_000160
+dem	d	ART	Duden	tu_10_xTok_000162
+allda	allda	ADV	Duden	tu_10_xTok_000164
+aufgerichten	aufrichten	ADJA	Duden	tu_10_xTok_000166
+Scheitter=Hauffen	Scheiterhaufen	NN	Duden	tu_10_xTok_000168
+verbrennet	verbrennen	VVPP	Duden	tu_10_xTok_000170
+<g/>
+/
+der	d	ART	Duden	tu_10_xTok_000174
+Aschen	Asche	NN	Duden	tu_10_xTok_000175
+in	in	APPR	Duden	tu_10_xTok_000177
+dem	d	ART	Duden	tu_10_xTok_000179
+vorbey=fliessenden	vorbeifließen	ADJA	Duden	tu_10_xTok_000181
+Donau=Strom	Donaustrom	NE::top	oov	tu_10_xTok_000183
+vertilget	vertilgen	VVPP	Duden	tu_10_xTok_000184
+werden	werden	VAINF	Duden	tu_10_xTok_000186
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Allen	all	PIAT	Duden	tu_10_xTok_000188
+anderen	ander	PIS	Duden	tu_10_xTok_000190
+zu	zu	APPR	Duden	tu_10_xTok_000192
+einem	ein	ART	Duden	tu_10_xTok_000194
+Beyspiel	Beispiel	NN	Duden	tu_10_xTok_000196
+und	und	KON	Duden	tu_10_xTok_000198
+Exempel	Exempel	NN	Duden	tu_10_xTok_000200
+<g/>
+.
+</titlePart>
 <lg type="poem">
 <lg type="stanza">
 <head>
@@ -506,6 +630,7 @@ nehmen	nehmen	VVINF	Duden	tu_10_xTok_000799
 /
 </l>
 <l id="fb_17371113_JosephLeopoldN_l_0055">
+dieser	diese	PDS	Duden	tu_10_xTok_000802
 wird	werden	VAFIN	Duden	tu_10_xTok_000806
 mein	mein	PPOSAT	Duden	tu_10_xTok_000808
 Helffer	Helfer	NN	Duden	tu_10_xTok_000810

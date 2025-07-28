@@ -1,4 +1,108 @@
 <doc id="fb_17571217_JohannAdamS" delinquent_sexes="male" title="Todesurteil Johann Adam S." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_67_xTok_000002
+Einer	ein	ART	Duden	tu_67_xTok_000006
+ledigen	ledig	ADJA	Duden	tu_67_xTok_000008
+Manns=person	Mannsperson	NN	Duden	tu_67_xTok_000010
+<g/>
+,
+Namens	namens	ADV	Duden	tu_67_xTok_000012
+<g/>
+:
+<persName id="johannadams67">
+Johann	Johann	NE	Duden	tu_67_xTok_000014
+Adam	Adam	NE	Duden	tu_67_xTok_000016
+S.	S.	NE	oov	tu_67_xTok_000018
+</persName>
+Alt	alt	ADJD	Duden	tu_67_xTok_000020
+27.	27	CARD		tu_67_xTok_000022
+Jahr	Jahr	NN	Duden	tu_67_xTok_000025
+<g/>
+,
+Von	von	APPR	Duden	tu_67_xTok_000027
+<placeName id="pn67">
+Schirmitz	Schirmitz	NE::top	oov	tu_67_xTok_000029
+aus	aus	APPR	Duden	tu_67_xTok_000031
+der	d	ART	Duden	tu_67_xTok_000033
+oberen	obere	ADJA	Duden	tu_67_xTok_000035
+Pfalz	Pfalz	NE::top	Duden	tu_67_xTok_000037
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_67_xTok_000039
+<g/>
+,
+Catholischer	katholisch	ADJA	Duden	tu_67_xTok_000041
+Religion	Religion	NN	Duden	tu_67_xTok_000045
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+WElches	welch	PRELS	Duden	tu_67_xTok_000047
+in	in	APPR	Duden	tu_67_xTok_000050
+Folge	Folge	NN	Duden	tu_67_xTok_000052
+der	d	ART	Duden	tu_67_xTok_000054
+bey	bei	APPR	Duden	tu_67_xTok_000056
+dem	d	ART	Duden	tu_67_xTok_000058
+alhiesig=	allhiesig	ADJA	DWB	tu_67_xTok_000060
+Kaiserl.	kaiserlich	ADJA	Duden	tu_67_xTok_000062
+Königl.	königlich	ADJA	Duden	tu_67_xTok_000065
+Stadt	Stadtgericht	TRUNC	Duden	tu_67_xTok_000068
+und	und	KON	Duden	tu_67_xTok_000069
+Land=gericht	Landgericht	NN	Duden	tu_67_xTok_000071
+wider	wider	APPR	Duden	tu_67_xTok_000073
+ihne	er	PPER	Duden	tu_67_xTok_000075
+abgeführten	abführen	ADJA	DRW	tu_67_xTok_000077
+Criminal-verfahrung	Kriminalverfahrung	NN	oov	tu_67_xTok_000079
+<g/>
+,
+und	und	KON	Duden	tu_67_xTok_000084
+darüber	darüber	PAV	Duden	tu_67_xTok_000086
+geschöpften	schöpfen	ADJA	Duden	tu_67_xTok_000088
+<g/>
+,
+auch	auch	ADV	Duden	tu_67_xTok_000091
+von	von	APPR	Duden	tu_67_xTok_000093
+einer	ein	ART	Duden	tu_67_xTok_000095
+Hochlöbl.	hochlöblich	ADJA	Duden	tu_67_xTok_000097
+Landes=fürstl.	landesfürstlich	ADJA	DWB	tu_67_xTok_000099
+N. O.	niederösterreichisch	ADJA		tu_67_xTok_000102
+Regierung	Regierung	NN	Duden	tu_67_xTok_000108
+in	in	APPR	Duden	tu_67_xTok_000110
+Justiz-sachen	Justizsache	NN	DRW	tu_67_xTok_000112
+bestättigten	bestätigen	ADJA	Duden	tu_67_xTok_000115
+Erkanntnus	Erkanntnis	NN	DWB	tu_67_xTok_000117
+an	an	APPR	Duden	tu_67_xTok_000120
+gleich=benannten	gleichbenannt	ADJA	DWB	tu_67_xTok_000122
+Johann	Johann	NE	Duden	tu_67_xTok_000124
+Adam	Adam	NE	Duden	tu_67_xTok_000126
+S.	S.	NE	oov	tu_67_xTok_000128
+<g/>
+,
+einem	ein	ART	Duden	tu_67_xTok_000132
+gelernten	gelernt	ADJA	Duden	tu_67_xTok_000134
+Fleischhacker=knecht	Fleischhackerknecht	NN	DRW	tu_67_xTok_000136
+<g/>
+,
+dem	d	ART	Duden	tu_67_xTok_000140
+zu	zu	APPR	Duden	tu_67_xTok_000142
+End	Ende	NN	Duden	tu_67_xTok_000144
+angefügten	anfügen	ADJA	Duden	tu_67_xTok_000146
+Jnhalt	Inhalt	NN	Duden	tu_67_xTok_000148
+gemäß	gemäß	APPO	Duden	tu_67_xTok_000150
+heut	heute	ADV	Duden	tu_67_xTok_000152
+den	d	ART	Duden	tu_67_xTok_000154
+<date id="date67">
+17.	17	ADJA		tu_67_xTok_000156
+December	Dezember	NN	Duden	tu_67_xTok_000158
+1757.	1757	CARD		tu_67_xTok_000160
+</date>
+alhier	allhier	ADV	Duden	tu_67_xTok_000162
+in	in	APPR	Duden	tu_67_xTok_000164
+Wien	Wien	NE::top	Duden	tu_67_xTok_000166
+vollzogen	vollziehen	VVPP	Duden	tu_67_xTok_000168
+wird	werden	VAFIN	Duden	tu_67_xTok_000170
+<g/>
+.
+</titlePart>
 <p id="fb_17571217_JohannAdamS_p_0001">
 Es	es	PPER	Duden	tu_67_xTok_000173
 hat	haben	VAFIN	Duden	tu_67_xTok_000175

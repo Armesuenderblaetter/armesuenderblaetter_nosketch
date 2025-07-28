@@ -1,4 +1,104 @@
 <doc id="fb_17820823_JosephW" delinquent_sexes="male" title="Urteil Joseph W." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Beylage	Beilage	NN	Duden	tu_124_xTok_000001
+zur	zur	APPRART	Duden	tu_124_xTok_000003
+Wiener=	Wiener	ADJA	Duden	tu_124_xTok_000005
+Zeitung	Wiener Zeitung	NN	Duden	tu_124_xTok_000005b
+Nro.	Numero	NN	Duden	tu_124_xTok_000007
+68.	68	CARD		tu_124_xTok_000011
+1782.	1782	CARD		tu_124_xTok_000013
+</titlePart>
+<titlePart type="main">
+U rtheil	Urteil	NN	Duden	tu_124_xTok_000014
+einer	ein	ART	Duden	tu_124_xTok_000017
+ledigen	ledig	ADJA	Duden	tu_124_xTok_000019
+Mannsperson	Mannsperson	NN	Duden	tu_124_xTok_000021
+Namens	namens	ADV	Duden	tu_124_xTok_000023
+<persName id="josephw124">
+Joseph	Joseph	NE	Duden	tu_124_xTok_000025
+W.	W.	NE	oov	tu_124_xTok_000027
+</persName>
+alt	alt	ADJD	Duden	tu_124_xTok_000029
+31	31	CARD		tu_124_xTok_000031
+Jahre	Jahr	NN	Duden	tu_124_xTok_000033
+<g/>
+.
+Alhier	allhier	ADV	Duden	tu_124_xTok_000036
+in	in	APPR	Duden	tu_124_xTok_000038
+<placeName id="pn124">
+Wien	Wien	NE::top	Duden	tu_124_xTok_000040
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_124_xTok_000042
+<g/>
+,
+und	und	KON	Duden	tu_124_xTok_000045
+katholischer	katholisch	ADJA	Duden	tu_124_xTok_000047
+Religion	Religion	NN	Duden	tu_124_xTok_000049
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+welches	welch	PRELS	Duden	tu_124_xTok_000051
+über	über	APPR	Duden	tu_124_xTok_000053
+die	d	ART	Duden	tu_124_xTok_000055
+bey	bei	APPR	Duden	tu_124_xTok_000057
+dem	d	ART	Duden	tu_124_xTok_000059
+allhiesigen	allhiesig	ADJA	DWB	tu_124_xTok_000061
+kais.	kaiserlich	ADJA	Duden	tu_124_xTok_000063
+kön.	königlich	ADJA	Duden	tu_124_xTok_000066
+Stadt	Stadtgericht	TRUNC	Duden	tu_124_xTok_000069
+und	und	KON	Duden	tu_124_xTok_000071
+Landgerichte	Landgericht	NN	Duden	tu_124_xTok_000073
+wider	wider	APPR	Duden	tu_124_xTok_000075
+ihn	er	PPER	Duden	tu_124_xTok_000077
+<g/>
+,
+wegen	wegen	APPR	Duden	tu_124_xTok_000080
+vorsetzlich	vorsätzlich	ADJD	Duden	tu_124_xTok_000082
+verübter	verüben	ADJA	Duden	tu_124_xTok_000084
+Mordthat	Mordtat	NN	Duden	tu_124_xTok_000086
+<g/>
+,
+abgeführte	abführen	ADJA	DRW	tu_124_xTok_000089
+peinliche	peinlich	ADJA	Duden	tu_124_xTok_000091
+Verfahrung	Verfahrung	NN	DWB	tu_124_xTok_000093
+<g/>
+,
+zu Folge	zufolge	APPR		tu_124_xTok_000096
+der	d	ART	Duden	tu_124_xTok_000100
+hierüber	hierüber	PAV	Duden	tu_124_xTok_000102
+ergangenen	ergehen	ADJA	Duden	tu_124_xTok_000104
+allerhöchsten	allerhöchste	ADJA	Duden	tu_124_xTok_000106
+Entschliessung	Entschließung	NN	Duden	tu_124_xTok_000108
+<g/>
+,
+an	an	APPR	Duden	tu_124_xTok_000111
+ihm	er	PPER	Duden	tu_124_xTok_000113
+<g/>
+,
+dem	d	ART	Duden	tu_124_xTok_000116
+zu	zu	APPR	Duden	tu_124_xTok_000118
+Ende	Ende	NN	Duden	tu_124_xTok_000120
+angeführten	angeführt	ADJA	Duden	tu_124_xTok_000122
+Jnnhalt	Inhalt	NN	Duden	tu_124_xTok_000124
+gemäß	gemäß	APPO	Duden	tu_124_xTok_000126
+<g/>
+,
+den	d	ART	Duden	tu_124_xTok_000129
+<date id="date124">
+23.	23	ADJA		tu_124_xTok_000130
+August	August	NN	Duden	tu_124_xTok_000132
+1782	1782	CARD		tu_124_xTok_000134
+</date>
+allhier	allhier	ADV	Duden	tu_124_xTok_000136
+in	in	APPR	Duden	tu_124_xTok_000138
+Wien	Wien	NE::top	Duden	tu_124_xTok_000140
+vollzogen	vollziehen	VVPP	Duden	tu_124_xTok_000142
+worden	werden	VAPP	Duden	tu_124_xTok_000144
+ist	sein	VAFIN	Duden	tu_124_xTok_000146
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_124_xTok_000149
 seines	sein	PPOSAT	Duden	tu_124_xTok_000151

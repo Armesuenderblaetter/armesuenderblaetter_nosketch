@@ -1,4 +1,112 @@
 <doc id="fb_17530110_CatharinaS" delinquent_sexes="female" title="Todesurteil Catharina S." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wol=verdientes	wohlverdientes	ADJA	Duden	tu_56_xTok_000001
+Todes=Urtheil	Todesurteil	NN	Duden	tu_56_xTok_000003
+einer	ein	ART	Duden	tu_56_xTok_000005
+verheyratheten	verheiratet	ADJA	Duden	tu_56_xTok_000007
+Weibs=Person	Weibsperson	NN	Duden	tu_56_xTok_000009
+<g/>
+,
+Namens	namens	ADV	Duden	tu_56_xTok_000012
+<persName id="catharinas56">
+Catharina	Catharina	NE	oov	tu_56_xTok_000014
+S.	S.	NE	oov	tu_56_xTok_000016
+</persName>
+</titlePart>
+<titlePart type="main">
+40.	40	CARD		tu_56_xTok_000018
+Jahr	Jahr	NN	Duden	tu_56_xTok_000020
+alt	alt	ADJD	Duden	tu_56_xTok_000022
+<g/>
+/
+Catholischer	katholisch	ADJA	Duden	tu_56_xTok_000026
+Religion	Religion	NN	Duden	tu_56_xTok_000028
+<g/>
+/
+von	von	APPR	Duden	tu_56_xTok_000032
+<placeName id="pn56">
+Closterneuburg	Klosterneuburg	NE::top	oov	tu_56_xTok_000034
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_56_xTok_000036
+<g/>
+;
+welche	welch	PRELS	Duden	tu_56_xTok_000040
+heut	heute	ADV	Duden	tu_56_xTok_000042
+Dato	dato	ADV	Duden	tu_56_xTok_000044
+den	d	ART	Duden	tu_56_xTok_000046
+<date id="date56">
+10.	10	CARD		tu_56_xTok_000048
+Januarii	Januar	NN	Duden	tu_56_xTok_000050
+1753.	1753	CARD		tu_56_xTok_000052
+</date>
+zu folge	zufolge	APPR		tu_56_xTok_000054
+dem	d	ART	Duden	tu_56_xTok_000058
+über	über	APPR	Duden	tu_56_xTok_000060
+ihren	ihr	PPOSAT	Duden	tu_56_xTok_000062
+bey	bei	APPR	Duden	tu_56_xTok_000065
+allhiesig	allhiesig	ADJA	DWB	tu_56_xTok_000067
+Kaiserl.	kaiserlich	ADJA	Duden	tu_56_xTok_000069
+Königl.	königlich	ADJA	Duden	tu_56_xTok_000072
+Stadt=	Stadtgericht	TRUNC	Duden	tu_56_xTok_000075
+und	und	KON	Duden	tu_56_xTok_000077
+Land=Gericht	Landgericht	NN	Duden	tu_56_xTok_000079
+abgeführten	abführen	ADJA	DRW	tu_56_xTok_000081
+Criminal Process	Kriminalprozess	NN		tu_56_xTok_000083
+<g/>
+,
+sohin	sohin	ADV	Duden	tu_56_xTok_000089
+eben	eben	ADV	Duden	tu_56_xTok_000091
+allda	allda	ADV	Duden	tu_56_xTok_000093
+wider	wider	APPR	Duden	tu_56_xTok_000095
+sie	sie	PPER	Duden	tu_56_xTok_000097
+geschöpft=	schöpfen	ADJA	Duden	tu_56_xTok_000099
+und	und	KON	Duden	tu_56_xTok_000101
+von	von	APPR	Duden	tu_56_xTok_000103
+einer	ein	ART	Duden	tu_56_xTok_000105
+Hochlöbl.	hochlöblich	ADJA	Duden	tu_56_xTok_000107
+Ni. Oe.	niederösterreichisch	ADJA		tu_56_xTok_000110
+Regierung	Regierung	NN	Duden	tu_56_xTok_000116
+in	in	APPR	Duden	tu_56_xTok_000118
+Justiz-Sachen	Justizsache	NN	DRW	tu_56_xTok_000120
+bestättigten	bestätigen	ADJA	Duden	tu_56_xTok_000123
+End=Urtheil	Endurteil	NN	Duden	tu_56_xTok_000125
+vor	vor	APPR	Duden	tu_56_xTok_000127
+dem	d	ART	Duden	tu_56_xTok_000129
+Schotten=Thor	Schottentor	NE::top	oov	tu_56_xTok_000131
+auf	auf	APPR	Duden	tu_56_xTok_000133
+dasiger	dasig	ADJA	Duden	tu_56_xTok_000135
+Richtstadt	Richtstatt	NN	DWB	tu_56_xTok_000137
+<g/>
+/
+nebst	nebst	APPR	Duden	tu_56_xTok_000142
+Abhauung	Abhauung	NN	DRW	tu_56_xTok_000144
+ihrer	ihr	PPOSAT	Duden	tu_56_xTok_000146
+rechten	rechte	ADJA	Duden	tu_56_xTok_000148
+Hand	Hand	NN	Duden	tu_56_xTok_000150
+mit	mit	APPR	Duden	tu_56_xTok_000152
+dem	d	ART	Duden	tu_56_xTok_000154
+Schwert	Schwert	NN	Duden	tu_56_xTok_000156
+von	von	APPR	Duden	tu_56_xTok_000158
+dem	d	ART	Duden	tu_56_xTok_000160
+Leben	Leben	NN	Duden	tu_56_xTok_000162
+zum	zum	APPRART	Duden	tu_56_xTok_000164
+Tod	Tod	NN	Duden	tu_56_xTok_000166
+hingerichtet	hinrichten	VVPP	Duden	tu_56_xTok_000168
+<g/>
+/
+sodann	sodann	ADV	Duden	tu_56_xTok_000172
+der	d	ART	Duden	tu_56_xTok_000174
+Kopf	Kopf	NN	Duden	tu_56_xTok_000176
+und	und	KON	Duden	tu_56_xTok_000178
+Hand	Hand	NN	Duden	tu_56_xTok_000180
+auf	auf	APPR	Duden	tu_56_xTok_000182
+das	d	ART	Duden	tu_56_xTok_000184
+Rad	Rad	NN	Duden	tu_56_xTok_000186
+gestecket	stecken	VVPP	Duden	tu_56_xTok_000188
+wird	werden	VAFIN	Duden	tu_56_xTok_000190
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_56_xTok_000193
 des	d	ART	Duden	tu_56_xTok_000195
@@ -1299,6 +1407,7 @@ entragenen	enttragen	ADJA	Duden	tu_56_xTok_002430
 Geld	Geld	NN	Duden	tu_56_xTok_002432
 <g/>
 ,
+uod	und	KON	Duden	tu_56_xTok_002435
 Silbergeschmeid	Silbergeschmeide	NN	DWB	tu_56_xTok_002437
 aber	aber	ADV	Duden	tu_56_xTok_002440
 <g/>

@@ -1,4 +1,90 @@
 <doc id="fb_17490617_SO" delinquent_sexes="male" title="Todesurteil S. O." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_42_xTok_000002
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_42_xTok_000003
+<g/>
+,
+Einer	ein	ART	Duden	tu_42_xTok_000009
+Verheyrathen	verheiratet	ADJA	Duden	tu_42_xTok_000010
+Manns=Persohn	Mannsperson	NN	Duden	tu_42_xTok_000012
+<persName id="so42">
+S.	S.	NE	oov	tu_42_xTok_000015
+O.	O.	NE	oov	tu_42_xTok_000018
+</persName>
+ein	ein	ART	Duden	tu_42_xTok_000021
+Jud	Jude	NN	Duden	tu_42_xTok_000023
+<g/>
+,
+Gegen	gegen	APPR	Duden	tu_42_xTok_000026
+31.	31	CARD		tu_42_xTok_000028
+Jahr	Jahr	NN	Duden	tu_42_xTok_000030
+alt	alt	ADJD	Duden	tu_42_xTok_000032
+<g/>
+,
+von	von	APPR	Duden	tu_42_xTok_000035
+dem	d	ART	Duden	tu_42_xTok_000037
+<placeName id="pn42">
+Markt	Markt	NN	Duden	tu_42_xTok_000039
+Reichensachsen	Reichensachsen	NE::top	oov	tu_42_xTok_000040
+in	in	APPR	Duden	tu_42_xTok_000042
+Hessen	Hessen	NE::top	Duden	tu_42_xTok_000044
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_42_xTok_000046
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Welcher	welch	PRELS	Duden	tu_42_xTok_000048
+heut	heute	ADV	Duden	tu_42_xTok_000050
+Dienstags	Dienstag	NN	Duden	tu_42_xTok_000052
+<g/>
+,
+als	als	KOKOM	Duden	tu_42_xTok_000055
+den	d	ART	Duden	tu_42_xTok_000057
+<date id="date42">
+17.	17	ADJA		tu_42_xTok_000059
+Junii	Juni	NN	Duden	tu_42_xTok_000061
+1749.	1749	CARD		tu_42_xTok_000063
+</date>
+<g/>
+,
+wegen	wegen	APPR	Duden	tu_42_xTok_000066
+vielfältig	vielfältig	ADJD	Duden	tu_42_xTok_000068
+von	von	APPR	Duden	tu_42_xTok_000070
+ihme	er	PPER	Duden	tu_42_xTok_000072
+ausgeübten	ausüben	ADJA	Duden	tu_42_xTok_000074
+Fälsch=	Fälscherei	NN	DRW	tu_42_xTok_000076
+und	und	KON	Duden	tu_42_xTok_000078
+Betrügereyen	Betrügerei	NN	Duden	tu_42_xTok_000080
+vor	vor	APPR	Duden	tu_42_xTok_000083
+dem	d	ART	Duden	tu_42_xTok_000085
+Schotten=Thor	Schottentor	NE::top	oov	tu_42_xTok_000087
+auf	auf	APPR	Duden	tu_42_xTok_000089
+dasiger	dasig	ADJA	Duden	tu_42_xTok_000091
+Richtstatt	Richtstatt	NN	DWB	tu_42_xTok_000093
+mit	mit	APPR	Duden	tu_42_xTok_000095
+dem	d	ART	Duden	tu_42_xTok_000097
+Strang	Strang	NN	Duden	tu_42_xTok_000099
+vom	vom	APPRART	Duden	tu_42_xTok_000101
+Leben	Leben	NN	Duden	tu_42_xTok_000103
+zum	zum	APPRART	Duden	tu_42_xTok_000105
+Todt	Tod	NN	Duden	tu_42_xTok_000107
+hingerichtet	hinrichten	VVPP	Duden	tu_42_xTok_000109
+wird	werden	VAFIN	Duden	tu_42_xTok_000111
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Der	d	ART	Duden	tu_42_xTok_000114
+Jnnhalt	Inhalt	NN	Duden	tu_42_xTok_000116
+seines	sein	PPOSAT	Duden	tu_42_xTok_000118
+Verbrechens	Verbrechen	NN	Duden	tu_42_xTok_000120
+zeiget	zeigen	VVFIN	Duden	tu_42_xTok_000122
+das	d	ART	Duden	tu_42_xTok_000124
+mehrere	mehrere	PIS	Duden	tu_42_xTok_000126
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_42_xTok_000147
 des	d	ART	Duden	tu_42_xTok_000149

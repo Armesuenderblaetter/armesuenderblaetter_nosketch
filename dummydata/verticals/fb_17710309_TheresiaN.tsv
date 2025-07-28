@@ -1,4 +1,94 @@
 <doc id="fb_17710309_TheresiaN" delinquent_sexes="female" title="Todesurteil Theresia N." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_94_xTok_000001
+einer	ein	ART	Duden	tu_94_xTok_000005
+ledigen	ledig	ADJA	Duden	tu_94_xTok_000007
+Weibsperson	Weibsperson	NN	Duden	tu_94_xTok_000009
+<g/>
+,
+Namens	namens	ADV	Duden	tu_94_xTok_000011
+<g/>
+:
+<persName id="theresian94">
+Theresia	Theresia	NE	Duden	tu_94_xTok_000013
+N.	N.	NE	oov	tu_94_xTok_000015
+</persName>
+alt	alt	ADJD	Duden	tu_94_xTok_000017
+18.	18	CARD		tu_94_xTok_000019
+Jahre	Jahr	NN	Duden	tu_94_xTok_000021
+<g/>
+,
+allhier	allhier	ADV	Duden	tu_94_xTok_000023
+in	in	APPR	Duden	tu_94_xTok_000025
+der	d	ART	Duden	tu_94_xTok_000027
+<placeName id="pn94">
+Leopoldstadt	Leopoldstadt	NE::top	oov	tu_94_xTok_000029
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_94_xTok_000031
+<g/>
+,
+catholischer	katholisch	ADJA	Duden	tu_94_xTok_000033
+Religion	Religion	NN	Duden	tu_94_xTok_000035
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_94_xTok_000037
+in	in	APPR	Duden	tu_94_xTok_000039
+Folge	Folge	NN	Duden	tu_94_xTok_000041
+der	d	ART	Duden	tu_94_xTok_000043
+bey	bei	APPR	Duden	tu_94_xTok_000045
+dem	d	ART	Duden	tu_94_xTok_000047
+allhiesigen	allhiesig	ADJA	DWB	tu_94_xTok_000049
+kais.	kaiserlich	ADJA	Duden	tu_94_xTok_000051
+königl.	königlich	ADJA	Duden	tu_94_xTok_000054
+Stadt=	Stadtgericht	TRUNC	Duden	tu_94_xTok_000056
+und	und	KON	Duden	tu_94_xTok_000058
+Landgerichte	Landgericht	NN	Duden	tu_94_xTok_000060
+wider	wider	APPR	Duden	tu_94_xTok_000062
+sie	sie	PPER	Duden	tu_94_xTok_000064
+abgeführten	abführen	ADJA	DRW	tu_94_xTok_000066
+Criminalverfahrung	Kriminalverfahrung	NN	oov	tu_94_xTok_000068
+<g/>
+,
+und	und	KON	Duden	tu_94_xTok_000072
+darüber	darüber	PAV	Duden	tu_94_xTok_000074
+von	von	APPR	Duden	tu_94_xTok_000076
+einer	ein	ART	Duden	tu_94_xTok_000078
+hochlöblichen	hochlöblich	ADJA	Duden	tu_94_xTok_000080
+Landesfürstlichen	landesfürstlich	ADJA	DWB	tu_94_xTok_000081
+Niederösterreichischen	niederösterreichisch	ADJA	Duden	tu_94_xTok_000083
+Regierung	Regierung	NN	Duden	tu_94_xTok_000085
+geschöpften	schöpfen	ADJA	Duden	tu_94_xTok_000087
+<g/>
+,
+sohin	sohin	ADV	Duden	tu_94_xTok_000091
+aber	aber	ADV	Duden	tu_94_xTok_000093
+aus	aus	APPR	Duden	tu_94_xTok_000095
+allerhöchster	allerhöchste	ADJA	Duden	tu_94_xTok_000097
+kaiserl.	kaiserlich	ADJA	Duden	tu_94_xTok_000099
+königl.	königlich	ADJA	Duden	tu_94_xTok_000102
+Gnade	Gnade	NN	Duden	tu_94_xTok_000104
+gemilderten	mildern	ADJA	Duden	tu_94_xTok_000106
+Erkenntniß	Erkenntnis	NN	Duden	tu_94_xTok_000108
+an	an	APPR	Duden	tu_94_xTok_000110
+genannter	nennen	ADJA	Duden	tu_94_xTok_000112
+Delinquentinn	Delinquentin	NN	Duden	tu_94_xTok_000114
+heute	heute	ADV	Duden	tu_94_xTok_000117
+den	d	ART	Duden	tu_94_xTok_000119
+<date id="date94">
+9ten	9	ADJA		tu_94_xTok_000121
+März	März	NN	Duden	tu_94_xTok_000124
+1771.	1771	CARD		tu_94_xTok_000126
+</date>
+allhier	allhier	ADV	Duden	tu_94_xTok_000128
+in	in	APPR	Duden	tu_94_xTok_000129
+Wien	Wien	NE::top	Duden	tu_94_xTok_000131
+vollzogen	vollziehen	VVPP	Duden	tu_94_xTok_000133
+wird	werden	VAFIN	Duden	tu_94_xTok_000135
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_94_xTok_000137
 ihres	ihr	PPOSAT	Duden	tu_94_xTok_000139

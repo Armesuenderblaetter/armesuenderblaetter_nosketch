@@ -1,4 +1,127 @@
 <doc id="fb_17810525_BartholomaeeN" delinquent_sexes="male" title="Todesurteil Bartholomäe N." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Nro.	Numero	NN	Duden	tu_120_xTok_000001
+2.	2	CARD		tu_120_xTok_000004
+Wohlverdientes	wohlverdient	ADJA	Duden	tu_120_xTok_000005
+Todesurtheil	Todesurteil	NN	Duden	tu_120_xTok_000007
+nebst	nebst	APPR	Duden	tu_120_xTok_000008
+einer	ein	ART	Duden	tu_120_xTok_000010
+Moralrede	Moralrede	NN	oov	tu_120_xTok_000011
+des	d	ART	Duden	tu_120_xTok_000012
+<persName id="bartholomäen120">
+Bartholomäe	Bartholomä	NE	oov	tu_120_xTok_000013
+N.	N.	NE	oov	tu_120_xTok_000016
+vulgo	vulgo	ADV	Duden	tu_120_xTok_000018
+Tyroller	Tiroler	ADJA	Duden	tu_120_xTok_000019
+Barthl	Barthl	NE	oov	tu_120_xTok_000021
+</persName>
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welcher	welch	PRELS	Duden	tu_120_xTok_000023
+auf	auf	APPR	Duden	tu_120_xTok_000025
+höchste	hoch	ADJA	Duden	tu_120_xTok_000027
+Anbefehlung	Anbefehlung	NN	DRW	tu_120_xTok_000029
+des	d	ART	Duden	tu_120_xTok_000031
+Churfürstl.	kurfürstlich	ADJA	Duden	tu_120_xTok_000033
+Hochlöbl.	hochlöblich	ADJA	Duden	tu_120_xTok_000036
+Hofraths	Hofrat	NN	Duden	tu_120_xTok_000039
+allhier	allhier	ADV	Duden	tu_120_xTok_000042
+in	in	APPR	Duden	tu_120_xTok_000044
+München	München	NE::top	Duden	tu_120_xTok_000046
+heut	heute	ADV	Duden	tu_120_xTok_000048
+den	d	ART	Duden	tu_120_xTok_000050
+<date id="date120">
+25.	25	ADJA		tu_120_xTok_000052
+May	Mai	NN	Duden	tu_120_xTok_000054
+1781.	1781	CARD		tu_120_xTok_000056
+</date>
+wegen	wegen	APPR	Duden	tu_120_xTok_000058
+seinen	sein	PPOSAT	Duden	tu_120_xTok_000060
+einbekennt	einbekennen	ADJA	Duden	tu_120_xTok_000062
+räuberischen	räuberisch	ADJA	Duden	tu_120_xTok_000063
+<g/>
+,
+dann	dann	ADV	Duden	tu_120_xTok_000066
+die	d	ART	Duden	tu_120_xTok_000068
+öffentliche	öffentlich	ADJA	Duden	tu_120_xTok_000070
+Ruhe	Ruhe	NN	Duden	tu_120_xTok_000072
+<g/>
+,
+und	und	KON	Duden	tu_120_xTok_000075
+allgemeine	allgemein	ADJA	Duden	tu_120_xTok_000077
+Sicherheit	Sicherheit	NN	Duden	tu_120_xTok_000079
+störenden	stören	ADJA	Duden	tu_120_xTok_000081
+Verbrechen	Verbrechen	NN	Duden	tu_120_xTok_000082
+zur	zur	APPRART	Duden	tu_120_xTok_000084
+Richtstadt	Richtstatt	NN	DWB	tu_120_xTok_000086
+geschleifet	schleifen	VVPP	Duden	tu_120_xTok_000088
+<g/>
+,
+und	und	KON	Duden	tu_120_xTok_000091
+obwohlen	obwohl	KOUS	Duden	tu_120_xTok_000093
+er	er	PPER	Duden	tu_120_xTok_000095
+<g/>
+,
+zur	zur	APPRART	Duden	tu_120_xTok_000098
+Folge	Folge	NN	Duden	tu_120_xTok_000100
+des	d	ART	Duden	tu_120_xTok_000102
+neuerdings	neuerdings	ADV	Duden	tu_120_xTok_000104
+wegen	wegen	APPR	Duden	tu_120_xTok_000107
+denen	d	ART	Duden	tu_120_xTok_000109
+so	so	ADV	Duden	tu_120_xTok_000111
+sehr	sehr	ADV	Duden	tu_120_xTok_000113
+überhandnehmenden	überhandnehmen	ADJA	Duden	tu_120_xTok_000115
+<g/>
+,
+unmenschlichen	unmenschlich	ADJA	Duden	tu_120_xTok_000118
+Raubereyen	Räuberei	NN	Duden	tu_120_xTok_000120
+<g/>
+,
+und	und	KON	Duden	tu_120_xTok_000124
+Mißhandlungen	Misshandlung	NN	Duden	tu_120_xTok_000126
+ergangenen	ergehen	ADJA	Duden	tu_120_xTok_000128
+schärfesten	scharf	ADJA	Duden	tu_120_xTok_000130
+General=Mandats	Generalmandat	NN	DRW	tu_120_xTok_000132
+<g/>
+,
+mit	mit	APPR	Duden	tu_120_xTok_000135
+dem	d	ART	Duden	tu_120_xTok_000137
+Rad	Rad	NN	Duden	tu_120_xTok_000138
+bestrafet	bestrafen	VVPP	Duden	tu_120_xTok_000140
+zu	zu	PTKZU	Duden	tu_120_xTok_000142
+werden	werden	VAINF	Duden	tu_120_xTok_000144
+allerdings	allerdings	ADV	Duden	tu_120_xTok_000146
+verdienet	verdienen	VVPP	Duden	tu_120_xTok_000148
+hätte	haben	VAFIN	Duden	tu_120_xTok_000150
+<g/>
+,
+jedoch	jedoch	KON	Duden	tu_120_xTok_000153
+in	in	APPR	Duden	tu_120_xTok_000155
+Ansehung	Ansehung	NN	Duden	tu_120_xTok_000157
+seiner	sein	PPOSAT	Duden	tu_120_xTok_000159
+gemachten	machen	ADJA	Duden	tu_120_xTok_000162
+freyen	frei	ADJA	Duden	tu_120_xTok_000164
+<g/>
+,
+und	und	KON	Duden	tu_120_xTok_000167
+reumüthigen	reumütig	ADJA	Duden	tu_120_xTok_000169
+Bekenntniß	Bekenntnis	NN	Duden	tu_120_xTok_000171
+<g/>
+,
+mit	mit	APPR	Duden	tu_120_xTok_000174
+dem	d	ART	Duden	tu_120_xTok_000176
+Strang	Strang	NN	Duden	tu_120_xTok_000178
+vom	vom	APPRART	Duden	tu_120_xTok_000179
+Leben	Leben	NN	Duden	tu_120_xTok_000181
+zum	zum	APPRART	Duden	tu_120_xTok_000183
+Tod	Tod	NN	Duden	tu_120_xTok_000185
+hingerichet	hinrichten	VVPP	Duden	tu_120_xTok_000187
+worden	werden	VAPP	Duden	tu_120_xTok_000189
+<g/>
+.
+</titlePart>
 <head>
 Urgicht	Urgicht	NN	DWB	tu_120_xTok_000193
 <g/>

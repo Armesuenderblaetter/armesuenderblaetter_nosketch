@@ -1,4 +1,143 @@
 <doc id="fb_17420912_JosephA_LeopoldK_J" delinquent_sexes="male" title="Todesurteile Leopold K., Joseph T., Johann S." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_21_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_21_xTok_000002
+<g/>
+/
+Uber	über	APPR	Duden	tu_21_xTok_000007
+vier	vier	CARD	Duden	tu_21_xTok_000009
+Delinquenten	Delinquent	NN	Duden	tu_21_xTok_000011
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_21_xTok_000015
+<persName id="josepha21">
+Joseph	Joseph	NE	Duden	tu_21_xTok_000016
+A.	A.	NE	oov	tu_21_xTok_000019
+</persName>
+44.	44	CARD		tu_21_xTok_000022
+Jahr	Jahr	NN	Duden	tu_21_xTok_000024
+alt	alt	ADJD	Duden	tu_21_xTok_000027
+<g/>
+/
+verheyrath	verheiratet	ADJD	Duden	tu_21_xTok_000031
+<g/>
+.
+Dann	dann	ADV	Duden	tu_21_xTok_000033
+<persName id="leopoldk21">
+Leopold	Leopold	NE	Duden	tu_21_xTok_000034
+K.	K.	NE	oov	tu_21_xTok_000037
+</persName>
+gegen	gegen	APPR	Duden	tu_21_xTok_000040
+24.	24	CARD		tu_21_xTok_000042
+Jahr	Jahr	NN	Duden	tu_21_xTok_000044
+alt	alt	ADJD	Duden	tu_21_xTok_000047
+<g/>
+/
+Und	und	KON	Duden	tu_21_xTok_000050
+<persName id="josepht21">
+Joseph	Joseph	NE	Duden	tu_21_xTok_000051
+T.	T.	NE	oov	tu_21_xTok_000054
+</persName>
+22.	22	CARD		tu_21_xTok_000057
+Jahr	Jahr	NN	Duden	tu_21_xTok_000060
+alt	alt	ADJD	Duden	tu_21_xTok_000063
+<persName id="johanns21">
+Johann	Johann	NE	Duden	tu_21_xTok_000064
+S.	S.	NE	oov	tu_21_xTok_000067
+</persName>
+auch	auch	ADV	Duden	tu_21_xTok_000070
+22.	22	CARD		tu_21_xTok_000072
+Jahr	Jahr	NN	Duden	tu_21_xTok_000074
+alt	alt	ADJD	Duden	tu_21_xTok_000077
+<g/>
+;
+Alle	all	PIAT	Duden	tu_21_xTok_000079
+3.	3	CARD		tu_21_xTok_000081
+ledigen	ledig	ADJA	Duden	tu_21_xTok_000083
+Stands	Stand	NN	Duden	tu_21_xTok_000085
+und	und	KON	Duden	tu_21_xTok_000087
+sammentliche	sammentlich	ADJA	DWB	tu_21_xTok_000089
+Catholischer	katholisch	ADJA	Duden	tu_21_xTok_000090
+Religion	Religion	NN	Duden	tu_21_xTok_000092
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welche	welch	PRELS	Duden	tu_21_xTok_000094
+heute	heute	ADV	Duden	tu_21_xTok_000096
+Mittwoch	Mittwoch	NN	Duden	tu_21_xTok_000098
+den	d	ART	Duden	tu_21_xTok_000100
+<date id="date21">
+12.	12	ADJA		tu_21_xTok_000102
+September	September	NN	Duden	tu_21_xTok_000104
+1742.	1742	CARD		tu_21_xTok_000105
+</date>
+anderen	ander	PIS	Duden	tu_21_xTok_000107
+ihres gleichen	ihresgleichen	PIS		tu_21_xTok_000109
+zum	zum	APPRART	Duden	tu_21_xTok_000113
+greulichen	gräulich	ADJA	Duden	tu_21_xTok_000115
+Abscheu	Abscheu	NN	Duden	tu_21_xTok_000117
+<g/>
+,
+auf	auf	APPR	Duden	tu_21_xTok_000119
+dem	d	ART	Duden	tu_21_xTok_000121
+Wienner=Berg	Wienerberg	NE::top	oov	tu_21_xTok_000123
+mit	mit	APPR	Duden	tu_21_xTok_000125
+dem	d	ART	Duden	tu_21_xTok_000127
+Schwerd	Schwert	NN	Duden	tu_21_xTok_000129
+vom	vom	APPRART	Duden	tu_21_xTok_000131
+Leben	Leben	NN	Duden	tu_21_xTok_000133
+zum	zum	APPRART	Duden	tu_21_xTok_000135
+Todt	Tod	NN	Duden	tu_21_xTok_000137
+hingerichtet	hinrichten	VVPP	Duden	tu_21_xTok_000139
+<g/>
+/
+ihre	ihr	PPOSAT	Duden	tu_21_xTok_000143
+Leiber	Leib	NN	Duden	tu_21_xTok_000145
+auf	auf	APPR	Duden	tu_21_xTok_000147
+das	d	ART	Duden	tu_21_xTok_000149
+Rad	Rad	NN	Duden	tu_21_xTok_000151
+geflochten	flechten	VVPP	Duden	tu_21_xTok_000153
+<g/>
+/
+der	d	ART	Duden	tu_21_xTok_000157
+Kopf	Kopf	NN	Duden	tu_21_xTok_000159
+darüber	darüber	PAV	Duden	tu_21_xTok_000160
+aufgestecket	aufstecken	VVPP	Duden	tu_21_xTok_000162
+und	und	KON	Duden	tu_21_xTok_000164
+über	über	APPR	Duden	tu_21_xTok_000166
+jeglichen	jegliche	PIS	Duden	tu_21_xTok_000168
+ein	ein	ART	Duden	tu_21_xTok_000170
+Galgen	Galgen	NN	Duden	tu_21_xTok_000172
+mit	mit	APPR	Duden	tu_21_xTok_000174
+abhangendem	abhangen	ADJA	Duden	tu_21_xTok_000176
+Strick	Strick	NN	Duden	tu_21_xTok_000179
+aufgerichtet	aufrichten	VVPP	Duden	tu_21_xTok_000181
+werden	werden	VAINF	Duden	tu_21_xTok_000183
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Der	d	ART	Duden	tu_21_xTok_000185
+beygedruckte	beidrucken	ADJA	DWB	tu_21_xTok_000187
+Jnnhalt	Inhalt	NN	Duden	tu_21_xTok_000189
+aber	aber	ADV	Duden	tu_21_xTok_000191
+wird	werden	VAFIN	Duden	tu_21_xTok_000193
+dem	d	ART	Duden	tu_21_xTok_000195
+günstigen	günstig	ADJA	Duden	tu_21_xTok_000197
+Leser	Leser	NN	Duden	tu_21_xTok_000199
+nicht	nicht	PTKNEG	Duden	tu_21_xTok_000200
+unangenehm	unangenehm	ADJD	Duden	tu_21_xTok_000202
+seyn	sein	VAINF	Duden	tu_21_xTok_000204
+<g/>
+/
+und	und	KON	Duden	tu_21_xTok_000208
+das	d	ART	Duden	tu_21_xTok_000210
+mehrere	mehrere	PIS	Duden	tu_21_xTok_000212
+anzeigen	anzeigen	VVINF	Duden	tu_21_xTok_000214
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_21_xTok_000230
 des	d	ART	Duden	tu_21_xTok_000233

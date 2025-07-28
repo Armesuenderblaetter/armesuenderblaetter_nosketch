@@ -1,4 +1,149 @@
 <doc id="fb_17790304_MichaelS_PhilippL_" delinquent_sexes="male" title="Todesurteil Michael S., Philipp L., Martin P." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_116_xTok_000001
+vier	vier	CARD	Duden	tu_116_xTok_000004
+lediger	ledig	ADJA	Duden	tu_116_xTok_000006
+Mannspersonen	Mannsperson	NN	Duden	tu_116_xTok_000008
+Namens	namens	ADV	Duden	tu_116_xTok_000009
+<persName id="michaels116">
+Michael	Michael	NE	Duden	tu_116_xTok_000011
+S.	S.	NE	oov	tu_116_xTok_000015
+</persName>
+21	21	CARD		tu_116_xTok_000017
+Jahre	Jahr	NN	Duden	tu_116_xTok_000019
+alt	alt	ADJD	Duden	tu_116_xTok_000021
+<g/>
+,
+zu	zu	APPR	Duden	tu_116_xTok_000024
+<placeName id="pn116">
+Hirschbach	Hirschbach	NE::top	oov	tu_116_xTok_000026
+in	in	APPR	Duden	tu_116_xTok_000028
+Unterösterreich	Unterösterreich	NE::top	oov	tu_116_xTok_000030
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_116_xTok_000032
+<g/>
+,
+<persName id="philippl116">
+Philipp	Philipp	NE	Duden	tu_116_xTok_000035
+L.	L.	NE	oov	tu_116_xTok_000037
+</persName>
+bey	bei	APPR	Duden	tu_116_xTok_000040
+40	40	CARD		tu_116_xTok_000042
+Jahre	Jahr	NN	Duden	tu_116_xTok_000044
+alt	alt	ADJD	Duden	tu_116_xTok_000046
+<g/>
+,
+zu	zu	APPR	Duden	tu_116_xTok_000049
+<placeName id="pn116b">
+Gföhl am Walde	GföhlamWalde	NE::top		tu_116_xTok_000051
+in	in	APPR	Duden	tu_116_xTok_000057
+Unteröster.	Unterösterreich	NE::top	oov	tu_116_xTok_000059
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_116_xTok_000062
+<g/>
+,
+<persName id="martinp116">
+Martin	Martin	NE	Duden	tu_116_xTok_000064
+P.	P.	NE	oov	tu_116_xTok_000066
+</persName>
+bey	bei	APPR	Duden	tu_116_xTok_000069
+25	25	CARD		tu_116_xTok_000071
+Jahre	Jahr	NN	Duden	tu_116_xTok_000073
+alt	alt	ADJD	Duden	tu_116_xTok_000075
+<g/>
+,
+zu	zu	APPR	Duden	tu_116_xTok_000078
+<placeName id="pn116c">
+Zborow	Zborow	NE::top	oov	tu_116_xTok_000080
+in	in	APPR	Duden	tu_116_xTok_000082
+Böheim	Böhmen	NE::top	Duden	tu_116_xTok_000084
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_116_xTok_000086
+<g/>
+,
+und	und	KON	Duden	tu_116_xTok_000089
+<persName id="stephank116">
+Stephan	Stephan	NE	Duden	tu_116_xTok_000090
+K.	K.	NE	oov	tu_116_xTok_000092
+</persName>
+25	25	CARD		tu_116_xTok_000094
+Jahre	Jahr	NN	Duden	tu_116_xTok_000096
+alt	alt	ADJD	Duden	tu_116_xTok_000098
+<g/>
+,
+zu	zu	APPR	Duden	tu_116_xTok_000101
+<placeName id="pn116d">
+Unterbaumgarten	Unterbaumgarten	NE::top	oov	tu_116_xTok_000103
+in	in	APPR	Duden	tu_116_xTok_000105
+Unteröster.	Unterösterreich	NE::top	oov	tu_116_xTok_000107
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_116_xTok_000110
+<g/>
+,
+alle	all	PIS	Duden	tu_116_xTok_000113
+katholischer	katholisch	ADJA	Duden	tu_116_xTok_000115
+Religion	Religion	NN	Duden	tu_116_xTok_000117
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+welches	welch	PRELS	Duden	tu_116_xTok_000119
+an	an	APPR	Duden	tu_116_xTok_000121
+denselben	derselbe	PDAT	Duden	tu_116_xTok_000123
+in	in	APPR	Duden	tu_116_xTok_000125
+Folge	Folge	NN	Duden	tu_116_xTok_000127
+der	d	ART	Duden	tu_116_xTok_000129
+bey	bei	APPR	Duden	tu_116_xTok_000131
+dem	d	ART	Duden	tu_116_xTok_000133
+allhiesigen	allhiesig	ADJA	DWB	tu_116_xTok_000135
+k.	kaiserlich	ADJA	Duden	tu_116_xTok_000137
+k.	königlich	ADJA	Duden	tu_116_xTok_000140
+Stadt	Stadtgericht	TRUNC	Duden	tu_116_xTok_000143
+und	und	KON	Duden	tu_116_xTok_000145
+Landgerichte	Landgericht	NN	Duden	tu_116_xTok_000147
+wider	wider	APPR	Duden	tu_116_xTok_000149
+sie	sie	PPER	Duden	tu_116_xTok_000151
+abgeführten	abführen	ADJA	DRW	tu_116_xTok_000153
+Kriminalverfahrungen	Kriminalverfahrung	NN	oov	tu_116_xTok_000155
+<g/>
+,
+und	und	KON	Duden	tu_116_xTok_000158
+darüber	darüber	PAV	Duden	tu_116_xTok_000160
+geschöpften	schöpfen	ADJA	Duden	tu_116_xTok_000162
+<g/>
+,
+auch	auch	ADV	Duden	tu_116_xTok_000165
+von	von	APPR	Duden	tu_116_xTok_000167
+einer	ein	ART	Duden	tu_116_xTok_000169
+hochlöbl.	hochlöblich	ADJA	Duden	tu_116_xTok_000171
+landesfürstl.	landesfürstlich	ADJA	DWB	tu_116_xTok_000174
+N. Oe.	niederösterreichisch	ADJA		tu_116_xTok_000177
+Regierung	Regierung	NN	Duden	tu_116_xTok_000183
+bestättigten	bestätigen	ADJA	Duden	tu_116_xTok_000185
+Erkanntnisse	Erkanntnis	NN	DWB	tu_116_xTok_000187
+dem	d	ART	Duden	tu_116_xTok_000189
+zu	zu	APPR	Duden	tu_116_xTok_000191
+Ende	Ende	NN	Duden	tu_116_xTok_000193
+angeführten	angeführt	ADJA	Duden	tu_116_xTok_000195
+Jnnhalte	Inhalt	NN	Duden	tu_116_xTok_000198
+gemäß	gemäß	APPO	Duden	tu_116_xTok_000200
+<g/>
+,
+heut	heute	ADV	Duden	tu_116_xTok_000203
+den	d	ART	Duden	tu_116_xTok_000205
+<date id="date116">
+4.	4	ADJA		tu_116_xTok_000207
+März	März	NN	Duden	tu_116_xTok_000209
+1779	1779	CARD		tu_116_xTok_000211
+</date>
+allhier	allhier	ADV	Duden	tu_116_xTok_000213
+in	in	APPR	Duden	tu_116_xTok_000215
+Wien	Wien	NE::top	Duden	tu_116_xTok_000217
+vollzogen	vollziehen	VVPP	Duden	tu_116_xTok_000219
+wird	werden	VAFIN	Duden	tu_116_xTok_000221
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_116_xTok_000224
 ihrer	ihr	PPOSAT	Duden	tu_116_xTok_000226

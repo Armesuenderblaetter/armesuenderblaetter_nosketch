@@ -1,4 +1,78 @@
 <doc id="fb_17610814_LeonhardM_Christia" delinquent_sexes="male" title="Todesurteil Leonhard M., Christian S." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_80_xTok_000001
+Todes=Urtheil	Todesurteil	NN	Duden	tu_80_xTok_000002
+<g/>
+,
+zweyer	zwei	CARD	Duden	tu_80_xTok_000007
+Manns=Personen	Mannspersonen	NN	Duden	tu_80_xTok_000009
+<g/>
+/
+Namens	namens	ADV	Duden	tu_80_xTok_000013
+<persName id="leonhardm80">
+Leonhard	Leonhard	NE	Duden	tu_80_xTok_000014
+M.	M.	NE	oov	tu_80_xTok_000017
+</persName>
+41.	41	CARD		tu_80_xTok_000020
+Jahr	Jahr	NN	Duden	tu_80_xTok_000022
+alt	alt	ADJD	Duden	tu_80_xTok_000025
+<g/>
+/
+und	und	KON	Duden	tu_80_xTok_000029
+<persName id="christians80">
+Christian	Christian	NE	Duden	tu_80_xTok_000030
+S.	S.	NE	oov	tu_80_xTok_000032
+</persName>
+38.	38	CARD		tu_80_xTok_000035
+Jahr	Jahr	NN	Duden	tu_80_xTok_000037
+alt	alt	ADJD	Duden	tu_80_xTok_000040
+<g/>
+/
+beede	beide	PIS	Duden	tu_80_xTok_000044
+Catholischer	katholisch	ADJA	Duden	tu_80_xTok_000045
+Religion	Religion	NN	Duden	tu_80_xTok_000049
+<g/>
+/
+und	und	KON	Duden	tu_80_xTok_000053
+verheyrathet	verheiratet	ADJD	Duden	tu_80_xTok_000054
+<g/>
+/
+welche	welch	PRELS	Duden	tu_80_xTok_000058
+heute	heute	ADV	Duden	tu_80_xTok_000061
+Freytags	Freitag	NN	Duden	tu_80_xTok_000063
+<g/>
+,
+den	d	ART	Duden	tu_80_xTok_000066
+<date id="date80">
+14.	14	ADJA		tu_80_xTok_000068
+Augusti	August	NN	Duden	tu_80_xTok_000070
+1761.	1761	CARD		tu_80_xTok_000072
+</date>
+zu	zu	APPR	Duden	tu_80_xTok_000073
+Preßburg	Pressburg	NE::top	Duden	tu_80_xTok_000075
+wegen	wegen	APPR	Duden	tu_80_xTok_000076
+inbemeldt	inbemeldet	ADJD	oov	tu_80_xTok_000078
+begangener	begehen	ADJA	Duden	tu_80_xTok_000080
+verschiedenen	verschieden	ADJA	Duden	tu_80_xTok_000082
+Diebstähle	Diebstahl	NN	Duden	tu_80_xTok_000084
+mit	mit	APPR	Duden	tu_80_xTok_000086
+dem	d	ART	Duden	tu_80_xTok_000088
+Strang	Strang	NN	Duden	tu_80_xTok_000089
+vom	vom	APPRART	Duden	tu_80_xTok_000091
+Leben	Leben	NN	Duden	tu_80_xTok_000093
+zum	zum	APPRART	Duden	tu_80_xTok_000095
+Tod	Tod	NN	Duden	tu_80_xTok_000097
+hingerichtet	hinrichten	VVPP	Duden	tu_80_xTok_000099
+worden	werden	VAPP	Duden	tu_80_xTok_000101
+<g/>
+.
+</titlePart>
+Mit	mit	APPR	Duden	tu_80_xTok_000103
+Erlaubnuß	Erlaubnis	NN	Duden	tu_80_xTok_000105
+der	d	ART	Duden	tu_80_xTok_000107
+Obern	Obere	NN	Duden	tu_80_xTok_000109
+<g/>
+.
 <p id="fb_17610814_LeonhardM_Christia_p_0001">
 Demnach	demnach	PAV	Duden	tu_80_xTok_000112
 Leonhard	Leonhard	NE	Duden	tu_80_xTok_000115

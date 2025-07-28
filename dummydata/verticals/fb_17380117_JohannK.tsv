@@ -1,4 +1,180 @@
 <doc id="fb_17380117_JohannK" delinquent_sexes="male" title="Todesurteil Johann K." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_11_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_11_xTok_000002
+<g/>
+/
+Einer	ein	ART	Duden	tu_11_xTok_000009
+ledigen	ledig	ADJA	Duden	tu_11_xTok_000011
+Manns=Persohn	Mannsperson	NN	Duden	tu_11_xTok_000013
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_11_xTok_000017
+<persName id="johannk11">
+Johann	Johann	NE	Duden	tu_11_xTok_000018
+K.	K.	NE	oov	tu_11_xTok_000021
+</persName>
+Bey	bei	APPR	Duden	tu_11_xTok_000023
+34.	34	CARD		tu_11_xTok_000025
+Jahr	Jahr	NN	Duden	tu_11_xTok_000028
+alt	alt	ADJD	Duden	tu_11_xTok_000030
+<g/>
+/
+von	von	APPR	Duden	tu_11_xTok_000034
+<placeName id="pn11">
+Wilfferstorff	Wilfersdorf	NE::top	oov	tu_11_xTok_000036
+in	in	APPR	Duden	tu_11_xTok_000038
+unter Oesterreich	Unterösterreich	NE::top		tu_11_xTok_000040
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_11_xTok_000043
+<g/>
+/
+Catholischer	katholisch	ADJA	Duden	tu_11_xTok_000047
+Religion	Religion	NN	Duden	tu_11_xTok_000049
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Alldieweilen	alldieweil	KOUS	Duden	tu_11_xTok_000051
+derselbe	derselbe	PDS	Duden	tu_11_xTok_000053
+seinen	sein	PPOSAT	Duden	tu_11_xTok_000055
+letzt=gewesten	letztgewest	ADJA	oov	tu_11_xTok_000057
+Herrn	Herr	NN	Duden	tu_11_xTok_000059
+zu	zu	APPR	Duden	tu_11_xTok_000060
+Mayntz	Mainz	NE::top	Duden	tu_11_xTok_000062
+<g/>
+/
+bey	bei	APPR	Duden	tu_11_xTok_000066
+welchem	welch	PRELS	Duden	tu_11_xTok_000068
+er	er	PPER	Duden	tu_11_xTok_000070
+als	als	KOKOM	Duden	tu_11_xTok_000072
+Reit=Knecht	Reitknecht	NN	Duden	tu_11_xTok_000074
+gedienet	dienen	VVPP	Duden	tu_11_xTok_000076
+<g/>
+/
+mittls	mittels	APPR	Duden	tu_11_xTok_000080
+gewalthätiger	gewalttätig	ADJA	Duden	tu_11_xTok_000082
+Erbrechung	Erbrechung	NN	DWB	tu_11_xTok_000084
+einer	ein	ART	Duden	tu_11_xTok_000086
+verspört=	versperren	ADJA	Duden	tu_11_xTok_000088
+gewesten	sein	ADJA	Duden	tu_11_xTok_000090
+Truhen	Truhe	NN	Duden	tu_11_xTok_000092
+nicht	nicht	PTKNEG	Duden	tu_11_xTok_000095
+allein	allein	ADV	Duden	tu_11_xTok_000097
+4000.	4000	CARD		tu_11_xTok_000099
+Fl.	Flore	NN	DWB	tu_11_xTok_000101
+baares	bar	ADJA	Duden	tu_11_xTok_000104
+Geld	Geld	NN	Duden	tu_11_xTok_000106
+<g/>
+/
+sondern	sondern	KON	Duden	tu_11_xTok_000110
+auch	auch	ADV	Duden	tu_11_xTok_000112
+nebst	nebst	APPR	Duden	tu_11_xTok_000114
+diesem	diese	PDS	Duden	tu_11_xTok_000115
+noch	noch	ADV	Duden	tu_11_xTok_000117
+eine	ein	ART	Duden	tu_11_xTok_000119
+silberne	silbern	ADJA	Duden	tu_11_xTok_000121
+Repetir-Uhr	Repetieruhr	NN	Duden	tu_11_xTok_000123
+<g/>
+/
+und	und	KON	Duden	tu_11_xTok_000128
+dergleichen	dergleichen	PIAT	Duden	tu_11_xTok_000130
+TobacksDosen	Tabakdose	NN	Duden	tu_11_xTok_000132
+<g/>
+/
+samt	samt	APPR	Duden	tu_11_xTok_000137
+einer	ein	ART	Duden	tu_11_xTok_000139
+gantz	ganz	ADV	Duden	tu_11_xTok_000141
+neuen	neu	ADJA	Duden	tu_11_xTok_000143
+Livré	Livree	NN	Duden	tu_11_xTok_000145
+und	und	KON	Duden	tu_11_xTok_000147
+Roccolor	Rockelor	NN	Duden	tu_11_xTok_000149
+per	per	APPR	Duden	tu_11_xTok_000151
+203.	203	CARD		tu_11_xTok_000153
+Fl.	Flore	NN	DWB	tu_11_xTok_000155
+30.	30	CARD		tu_11_xTok_000157
+Kr.	Kreuzer	NN	Duden	tu_11_xTok_000159
+und	und	KON	Duden	tu_11_xTok_000162
+also	also	ADV	Duden	tu_11_xTok_000164
+in	in	APPR	Duden	tu_11_xTok_000166
+Geld	Geld	NN	Duden	tu_11_xTok_000168
+und	und	KON	Duden	tu_11_xTok_000170
+Geldes=Werth	Geldeswert	NN	Duden	tu_11_xTok_000172
+4203.	4203	CARD		tu_11_xTok_000174
+Fl.	Flore	NN	DWB	tu_11_xTok_000176
+30.	30	CARD		tu_11_xTok_000179
+Kr.	Kreuzer	NN	Duden	tu_11_xTok_000182
+vorsetzlich	vorsätzlich	ADJD	Duden	tu_11_xTok_000184
+und	und	KON	Duden	tu_11_xTok_000186
+gewaltthätig	gewalttätig	ADJD	Duden	tu_11_xTok_000188
+hinweg	hinweg	PTKVZ	Duden	tu_11_xTok_000190
+geraubet	hinwegrauben	VVPP	DRW	tu_11_xTok_000192
+<g/>
+;
+Einfolglichen	einfolglich	KOUS	DWB	tu_11_xTok_000195
+den	d	ART	Duden	tu_11_xTok_000196
+diß= Orthigen	diesortig	ADV		tu_11_xTok_000198
+verlurstigten	verlustig	ADJA	DWB	tu_11_xTok_000202
+Herrn	Herr	NN	Duden	tu_11_xTok_000204
+<g/>
+/
+über	über	APPR	Duden	tu_11_xTok_000208
+das	d	ART	Duden	tu_11_xTok_000210
+ihme	er	PPER	Duden	tu_11_xTok_000212
+hinwiederum	hinwiderum	ADV	Duden	tu_11_xTok_000214
+zwar	zwar	ADV	Duden	tu_11_xTok_000217
+meistentheils	meistenteils	ADV	Duden	tu_11_xTok_000219
+zuruck=gestellte	zurückstellen	ADJA	Duden	tu_11_xTok_000221
+Gut	Gut	NN	Duden	tu_11_xTok_000223
+<g/>
+/
+dannoch	dannoch	ADV	DWB	tu_11_xTok_000227
+einen	ein	ART	Duden	tu_11_xTok_000229
+Schaden	Schaden	NN	Duden	tu_11_xTok_000230
+bey	bei	APPR	Duden	tu_11_xTok_000232
+wenigstens	wenigstens	ADV	Duden	tu_11_xTok_000234
+1332.	1332	CARD		tu_11_xTok_000236
+Fl.	Flore	NN	DWB	tu_11_xTok_000239
+23.	23	CARD		tu_11_xTok_000242
+Kr.	Kreuzer	NN	Duden	tu_11_xTok_000245
+boßhaft	boshaft	ADJD	Duden	tu_11_xTok_000247
+verübet	verüben	VVPP	Duden	tu_11_xTok_000249
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Als	als	ADV	Duden	tu_11_xTok_000251
+wird	werden	VAFIN	Duden	tu_11_xTok_000253
+derselbe	derselbe	PDS	Duden	tu_11_xTok_000255
+heute	heute	ADV	Duden	tu_11_xTok_000257
+Freytags	Freitag	NN	Duden	tu_11_xTok_000259
+den	d	ART	Duden	tu_11_xTok_000261
+<date id="date11">
+17.	17	ADJA		tu_11_xTok_000263
+Jenner	Jänner	NN	Duden	tu_11_xTok_000265
+1738.	1738	CARD		tu_11_xTok_000267
+</date>
+auf	auf	APPR	Duden	tu_11_xTok_000268
+dem	d	ART	Duden	tu_11_xTok_000270
+sogenanten	sogenannt	ADJA	Duden	tu_11_xTok_000272
+Wienner=Berg	Wienerberg	NE::top	oov	tu_11_xTok_000274
+allen	all	PIAT	Duden	tu_11_xTok_000276
+anderen	ander	PIS	Duden	tu_11_xTok_000278
+zu	zu	APPR	Duden	tu_11_xTok_000280
+einem	ein	ART	Duden	tu_11_xTok_000282
+Beyspiel	Beispiel	NN	Duden	tu_11_xTok_000283
+mit	mit	APPR	Duden	tu_11_xTok_000285
+dem	d	ART	Duden	tu_11_xTok_000287
+Strang	Strang	NN	Duden	tu_11_xTok_000289
+vom	vom	APPRART	Duden	tu_11_xTok_000291
+Leben	Leben	NN	Duden	tu_11_xTok_000293
+zum	zum	APPRART	Duden	tu_11_xTok_000295
+Todt	Tod	NN	Duden	tu_11_xTok_000297
+hingerichtet	hinrichten	VVPP	Duden	tu_11_xTok_000298
+werden	werden	VAINF	Duden	tu_11_xTok_000300
+<g/>
+.
+</titlePart>
 <lg type="poem">
 <head>
 Außzug	Auszug	NN	Duden	tu_11_xTok_000316

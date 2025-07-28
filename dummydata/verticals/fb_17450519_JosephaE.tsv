@@ -1,4 +1,112 @@
 <doc id="fb_17450519_JosephaE" delinquent_sexes="female" title="Todesurteil Josepha E." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_28_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_28_xTok_000002
+<g/>
+/
+Einer	ein	ART	Duden	tu_28_xTok_000009
+verwittibten	verwitwet	ADJA	Duden	tu_28_xTok_000012
+Weibs=Persohn	Weibsperson	NN	Duden	tu_28_xTok_000014
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_28_xTok_000022
+<persName id="josephae28">
+Josepha	Josepha	NE	Duden	tu_28_xTok_000023
+E.	E.	NE	oov	tu_28_xTok_000026
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_28_xTok_000028
+Religion	Religion	NN	Duden	tu_28_xTok_000031
+<g/>
+/
+von	von	APPR	Duden	tu_28_xTok_000036
+<placeName id="pn28">
+Regenspurg	Regensburg	NE::top	Duden	tu_28_xTok_000038
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_28_xTok_000042
+ihres	ihr	PPOSAT	Duden	tu_28_xTok_000044
+Alters	Alter	NN	Duden	tu_28_xTok_000046
+31.	31	CARD		tu_28_xTok_000048
+Jahr	Jahr	NN	Duden	tu_28_xTok_000050
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welche	welch	PRELS	Duden	tu_28_xTok_000052
+heunt	heute	ADV	Duden	tu_28_xTok_000054
+Dato	dato	ADV	Duden	tu_28_xTok_000056
+den	d	ART	Duden	tu_28_xTok_000058
+<date id="date28">
+19.	19	ADJA		tu_28_xTok_000060
+May	Mai	NN	Duden	tu_28_xTok_000062
+1745.	1745	CARD		tu_28_xTok_000064
+</date>
+anderen	ander	PIS	Duden	tu_28_xTok_000066
+ihres gleichen	ihresgleichen	PIS		tu_28_xTok_000068
+zum	zum	APPRART	Duden	tu_28_xTok_000072
+Beyspiel	Beispiel	NN	Duden	tu_28_xTok_000074
+auf	auf	APPR	Duden	tu_28_xTok_000076
+den	d	ART	Duden	tu_28_xTok_000078
+hohen	hoch	ADJA	Duden	tu_28_xTok_000080
+Wagen	Wagen	NN	Duden	tu_28_xTok_000082
+gesetzet	setzen	VVPP	Duden	tu_28_xTok_000084
+<g/>
+/
+und	und	KON	Duden	tu_28_xTok_000088
+sodann	sodann	ADV	Duden	tu_28_xTok_000090
+auf	auf	APPR	Duden	tu_28_xTok_000093
+dem	d	ART	Duden	tu_28_xTok_000095
+Wiennerberg	Wienerberg	NE::top	oov	tu_28_xTok_000097
+zum	zum	APPRART	Duden	tu_28_xTok_000099
+Räder=Creutz	Räderkreuz	NN	oov	tu_28_xTok_000101
+auf	auf	APPR	Duden	tu_28_xTok_000103
+die	d	ART	Duden	tu_28_xTok_000105
+alldasige	alldasig	ADJA	oov	tu_28_xTok_000107
+Richtstatt	Richtstatt	NN	DWB	tu_28_xTok_000110
+geführet	führen	VVPP	Duden	tu_28_xTok_000112
+<g/>
+/
+daselbst	daselbst	ADV	Duden	tu_28_xTok_000116
+durch	durch	APPR	Duden	tu_28_xTok_000118
+das	d	ART	Duden	tu_28_xTok_000120
+Schwerd	Schwert	NN	Duden	tu_28_xTok_000122
+vom	vom	APPRART	Duden	tu_28_xTok_000124
+Leben	Leben	NN	Duden	tu_28_xTok_000126
+zum	zum	APPRART	Duden	tu_28_xTok_000128
+Todt	Tod	NN	Duden	tu_28_xTok_000130
+hingerichtet	hinrichten	VVPP	Duden	tu_28_xTok_000132
+<g/>
+/
+der	d	ART	Duden	tu_28_xTok_000136
+Kopf	Kopf	NN	Duden	tu_28_xTok_000138
+auf	auf	APPR	Duden	tu_28_xTok_000140
+den	d	ART	Duden	tu_28_xTok_000142
+Pfahl	Pfahl	NN	Duden	tu_28_xTok_000144
+gestecket	stecken	VVPP	Duden	tu_28_xTok_000146
+<g/>
+/
+der	d	ART	Duden	tu_28_xTok_000150
+Leib	Leib	NN	Duden	tu_28_xTok_000152
+aber	aber	ADV	Duden	tu_28_xTok_000154
+darunter	darunter	PAV	Duden	tu_28_xTok_000156
+eingescharret	einscharren	VVPP	Duden	tu_28_xTok_000158
+werden	werden	VAINF	Duden	tu_28_xTok_000160
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Der	d	ART	Duden	tu_28_xTok_000162
+Jnnhalt	Inhalt	NN	Duden	tu_28_xTok_000164
+ihres	ihr	PPOSAT	Duden	tu_28_xTok_000166
+Verbrechen	Verbrechen	NN	Duden	tu_28_xTok_000168
+wird	werden	VAFIN	Duden	tu_28_xTok_000170
+der	d	ART	Duden	tu_28_xTok_000172
+geneigte	geneigt	ADJA	Duden	tu_28_xTok_000174
+Leser	Leser	NN	Duden	tu_28_xTok_000176
+hierinnen	hierinnen	PAV	Duden	tu_28_xTok_000177
+finden	finden	VVINF	Duden	tu_28_xTok_000179
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_28_xTok_000199
 des	d	ART	Duden	tu_28_xTok_000202
@@ -429,6 +537,7 @@ Wirthin	Wirtin	NN	Duden	tu_28_xTok_000945
 zeithero	zeithero	ADV	oov	tu_28_xTok_000948
 dises	diese	PDAT	Duden	tu_28_xTok_000950
 Zeitliche	zeitlich	ADJ-NN	Duden	tu_28_xTok_000952
+geseegnet	segnen	VVPP	Duden	tu_28_xTok_000954
 <g/>
 ,
 nicht	nicht	PTKNEG	Duden	tu_28_xTok_000957

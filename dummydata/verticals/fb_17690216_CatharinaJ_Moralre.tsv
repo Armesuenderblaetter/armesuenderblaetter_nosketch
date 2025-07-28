@@ -1,4 +1,66 @@
 <doc id="fb_17690216_CatharinaJ_Moralre" delinquent_sexes="male" title="Moral Catharina J." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Moralische	moralisch	ADJA	Duden	tu_91_xTok_000001
+Gedanken	Gedanke	NN	Duden	tu_91_xTok_000003
+über	über	APPR	Duden	tu_91_xTok_000004
+die	d	ART	Duden	tu_91_xTok_000006
+entsetzliche	entsetzlich	ADJA	Duden	tu_91_xTok_000007
+Mordthaten	Mordtat	NN	Duden	tu_91_xTok_000009
+<g/>
+,
+und	und	KON	Duden	tu_91_xTok_000012
+erfolgte	erfolgen	ADJA	Duden	tu_91_xTok_000014
+Hinrichtung	Hinrichtung	NN	Duden	tu_91_xTok_000016
+der	d	ART	Duden	tu_91_xTok_000017
+im	im	APPRART	Duden	tu_91_xTok_000018
+gegenwärtigen	gegenwärtig	ADJA	Duden	tu_91_xTok_000020
+Kupfer	Kupfer	NN	Duden	tu_91_xTok_000022
+vorgezeigten	vorzeigen	ADJA	Duden	tu_91_xTok_000024
+armen	arm	ADJA	Duden	tu_91_xTok_000025
+Sünderin	Sünderin	NN	Duden	tu_91_xTok_000027
+Namens	namens	ADV	Duden	tu_91_xTok_000028
+Catharina	Catharina	NE	oov	tu_91_xTok_000030
+J.	J.	NE	oov	tu_91_xTok_000032
+</titlePart>
+<titlePart type="main">
+Welche	welch	PRELS	Duden	tu_91_xTok_000034
+in	in	APPR	Duden	tu_91_xTok_000036
+dem	d	ART	Duden	tu_91_xTok_000038
+24.	24	CARD		tu_91_xTok_000040
+Jahr	Jahr	NN	Duden	tu_91_xTok_000042
+ihres	ihr	PPOSAT	Duden	tu_91_xTok_000044
+Alters	Alter	NN	Duden	tu_91_xTok_000046
+in	in	APPR	Duden	tu_91_xTok_000048
+der	d	ART	Duden	tu_91_xTok_000050
+K.	kaiserlich	ADJA	Duden	tu_91_xTok_000052
+K.	königlich	ADJA	Duden	tu_91_xTok_000055
+Haupt=	Hauptstadt	TRUNC	Duden	tu_91_xTok_000058
+und	und	KON	Duden	tu_91_xTok_000060
+Residenz=Stadt	Residenzstadt	NN	Duden	tu_91_xTok_000062
+Wien	Wien	NE::top	Duden	tu_91_xTok_000065
+<g/>
+,
+nach	nach	APPR	Duden	tu_91_xTok_000068
+vorher	vorher	ADV	Duden	tu_91_xTok_000070
+abgehauener	abhauen	ADJA	Duden	tu_91_xTok_000072
+rechten	rechte	ADJA	Duden	tu_91_xTok_000074
+Hand	Hand	NN	Duden	tu_91_xTok_000076
+den	d	ART	Duden	tu_91_xTok_000078
+10.	16	ADJA		tu_91_xTok_000080
+Februari	Februar	NN	Duden	tu_91_xTok_000082
+1769.	1769	CARD		tu_91_xTok_000083
+durch	durch	APPR	Duden	tu_91_xTok_000085
+das	d	ART	Duden	tu_91_xTok_000087
+Schwert	Schwert	NN	Duden	tu_91_xTok_000089
+vom	vom	APPRART	Duden	tu_91_xTok_000091
+Leben	Leben	NN	Duden	tu_91_xTok_000093
+zum	zum	APPRART	Duden	tu_91_xTok_000095
+Tod	Tod	NN	Duden	tu_91_xTok_000097
+hingerichtet	hinrichten	VVPP	Duden	tu_91_xTok_000099
+worden	werden	VAPP	Duden	tu_91_xTok_000101
+<g/>
+.
+</titlePart>
 <cit>
 <quote>
 Credemus	credo	FM	G-LDHW	tu_91_xTok_000103
@@ -993,6 +1055,7 @@ Der	d	ART	Duden	tu_91_xTok_001373
 Richtrin	Richterin	NN	Duden	tu_91_xTok_001375
 Schwester=Kind	Schwesterkind	NN	Duden	tu_91_xTok_001377
 zu	zu	APPR	Duden	tu_91_xTok_001379
+Kowonecz	Kowanecz	NE::top	oov	tu_91_xTok_001381
 erfahren	erfahren	VVINF	Duden	tu_91_xTok_001383
 <g/>
 :
@@ -1631,6 +1694,7 @@ die	d	ART	Duden	tu_91_xTok_002195
 zu	zu	APPR	Duden	tu_91_xTok_002197
 Wien	Wien	NE::top	Duden	tu_91_xTok_002199
 den	d	ART	Duden	tu_91_xTok_002201
+10.	16	ADJA		tu_91_xTok_002203
 Febr.	Februar	NN	Duden	tu_91_xTok_002205
 1769.	1769	CARD		tu_91_xTok_002208
 hingerichtete	hinrichten	ADJA	Duden	tu_91_xTok_002210
@@ -1721,6 +1785,7 @@ Dalila	Delila	NE	Duden	tu_91_xTok_002322
 </l>
 <l id="fb_17690216_CatharinaJ_Moralre_l_0131">
 So	so	ADV	Duden	tu_91_xTok_002324
+küzlich	kürzlich	ADV	Duden	tu_91_xTok_002326
 <g/>
 ,
 schnell	schnell	ADJD	Duden	tu_91_xTok_002329
@@ -1822,6 +1887,7 @@ Der	d	ART	Duden	tu_91_xTok_002456
 schönste	schön	ADJA	Duden	tu_91_xTok_002458
 Sommertag	Sommertag	NN	Duden	tu_91_xTok_002460
 am	am	APPRART	Duden	tu_91_xTok_002462
+Erde	Ende	NN	Duden	tu_91_xTok_002464
 kracht	krachen	VVFIN	Duden	tu_91_xTok_002466
 und	und	KON	Duden	tu_91_xTok_002468
 blitzet	blitzen	VVFIN	Duden	tu_91_xTok_002470
@@ -1956,6 +2022,7 @@ Gift	Gift	NN	Duden	tu_91_xTok_002633
 <l id="fb_17690216_CatharinaJ_Moralre_l_0150">
 Jst	sein	VAFIN	Duden	tu_91_xTok_002634
 ihr	sie	PPER	Duden	tu_91_xTok_002636
+anch	auch	ADV	Duden	tu_91_xTok_002638
 in	in	APPR	Duden	tu_91_xTok_002640
 das	d	ART	Duden	tu_91_xTok_002642
 Reich	Reich	NN	Duden	tu_91_xTok_002644
@@ -2303,6 +2370,7 @@ geschehn	geschehen	VVPP	Duden	tu_91_xTok_003080
 <l id="fb_17690216_CatharinaJ_Moralre_l_0178">
 Wie	wie	KOUS	Duden	tu_91_xTok_003082
 dieses	diese	PDAT	Duden	tu_91_xTok_003084
+Blusgericht	Blutgericht	NN	DWB	tu_91_xTok_003086
 läßt	lassen	VVFIN	Duden	tu_91_xTok_003089
 mit	mit	APPR	Duden	tu_91_xTok_003091
 Entsetzen	Entsetzen	NN	Duden	tu_91_xTok_003093
@@ -3169,4 +3237,38 @@ Zeiten	Zeit	NN	Duden	tu_91_xTok_004192
 .
 </l>
 </lg>
+<p id="fb_17690216_CatharinaJ_Moralre_p_0002">
+Entsezlich	entsetzlich	ADJA	Duden	tu_91_xTok_004194
+und	und	KON	Duden	tu_91_xTok_004196
+grausambe	grausam	ADJA	Duden	tu_91_xTok_004198
+Mordthaten	Mordtat	NN	Duden	tu_91_xTok_004201
+der	d	ART	Duden	tu_91_xTok_004202
+Catharina	Catharina	NE	oov	tu_91_xTok_004204
+J.	J.	NE	oov	tu_91_xTok_004206
+welche	welch	PRELS	Duden	tu_91_xTok_004208
+in	in	APPR	Duden	tu_91_xTok_004210
+dem	d	ART	Duden	tu_91_xTok_004212
+24.	24	CARD		tu_91_xTok_004214
+Jahr	Jahr	NN	Duden	tu_91_xTok_004215
+ihres	ihr	PPOSAT	Duden	tu_91_xTok_004217
+Alters	Alter	NN	Duden	tu_91_xTok_004219
+in	in	APPR	Duden	tu_91_xTok_004220
+der	d	ART	Duden	tu_91_xTok_004222
+K.	kaiserlich	ADJA	Duden	tu_91_xTok_004224
+K.	königlich	ADJA	Duden	tu_91_xTok_004227
+</p>
+<p id="fb_17690216_CatharinaJ_Moralre_p_0003">
+Haupt.	Hauptstadt	TRUNC	Duden	tu_91_xTok_004229
+und	und	KON	Duden	tu_91_xTok_004232
+Resid. Stadt	Residenzstadt	NN		tu_91_xTok_004234
+Wien	Wien	NE::top	Duden	tu_91_xTok_004238
+den	d	ART	Duden	tu_91_xTok_004240
+10.	16	ADJA		tu_91_xTok_004241
+Febr.	Februar	NN	Duden	tu_91_xTok_004243
+1769.	1769	CARD		tu_91_xTok_004247
+hingerichtet	hinrichten	VVPP	Duden	tu_91_xTok_004248
+worden	werden	VAPP	Duden	tu_91_xTok_004249
+<g/>
+.
+</p>
 </doc>

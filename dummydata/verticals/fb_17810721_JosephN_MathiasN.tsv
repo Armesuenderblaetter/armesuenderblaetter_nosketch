@@ -1,4 +1,111 @@
 <doc id="fb_17810721_JosephN_MathiasN" delinquent_sexes="male" title="Todesurteil Joseph N., Mathias N." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Nro.	Numero	NN	Duden	tu_121_xTok_000042
+4.	4	CARD		tu_121_xTok_000045
+<g/>
+&
+5.	5	CARD		tu_121_xTok_000049
+Wohlverdiente	wohlverdient	ADJA	Duden	tu_121_xTok_000050
+Todesurtheile	Todesurteil	NN	Duden	tu_121_xTok_000052
+<g/>
+,
+nebst	nebst	APPR	Duden	tu_121_xTok_000054
+einer	ein	ART	Duden	tu_121_xTok_000056
+Moralrede	Moralrede	NN	oov	tu_121_xTok_000057
+des	d	ART	Duden	tu_121_xTok_000058
+<persName id="josephn121">
+Joseph	Joseph	NE	Duden	tu_121_xTok_000059
+N.	N.	NE	oov	tu_121_xTok_000061
+vulgo	vulgo	ADV	Duden	tu_121_xTok_000063
+Schwäbischen	schwäbisch	ADJA	Duden	tu_121_xTok_000064
+Lipp	Lipp	NE	oov	tu_121_xTok_000068
+</persName>
+<g/>
+,
+dann	dann	ADV	Duden	tu_121_xTok_000070
+des	d	ART	Duden	tu_121_xTok_000072
+<persName id="mathiasn121">
+Mathias	Matthias	NE	Duden	tu_121_xTok_000073
+N.	N.	NE	oov	tu_121_xTok_000075
+vulgo	vulgo	ADV	Duden	tu_121_xTok_000077
+Abdecker	Abdecker	NE	oov	tu_121_xTok_000078
+Doni	Doni	NE	oov	tu_121_xTok_000080
+</persName>
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+Welche	welch	PRELS	Duden	tu_121_xTok_000082
+auf	auf	APPR	Duden	tu_121_xTok_000084
+höchste	hoch	ADJA	Duden	tu_121_xTok_000086
+Anbefehlung	Anbefehlung	NN	DRW	tu_121_xTok_000088
+des	d	ART	Duden	tu_121_xTok_000090
+Churfürstl.	kurfürstlich	ADJA	Duden	tu_121_xTok_000092
+Hochlöbl.	hochlöblich	ADJA	Duden	tu_121_xTok_000095
+Hofraths	Hofrat	NN	Duden	tu_121_xTok_000098
+allhier	allhier	ADV	Duden	tu_121_xTok_000101
+in	in	APPR	Duden	tu_121_xTok_000103
+München	München	NE::top	Duden	tu_121_xTok_000105
+heut	heute	ADV	Duden	tu_121_xTok_000107
+den	d	ART	Duden	tu_121_xTok_000109
+<date id="date121">
+21.	21	ADJA		tu_121_xTok_000111
+Julii	Juli	NN	Duden	tu_121_xTok_000113
+1781.	1781	CARD		tu_121_xTok_000115
+</date>
+wegen	wegen	APPR	Duden	tu_121_xTok_000117
+verübt	verüben	ADJA	Duden	tu_121_xTok_000119
+räuberischen	räuberisch	ADJA	Duden	tu_121_xTok_000121
+<g/>
+,
+dann	dann	ADV	Duden	tu_121_xTok_000123
+die	d	ART	Duden	tu_121_xTok_000125
+offentliche	öffentlich	ADJA	Duden	tu_121_xTok_000127
+Ruhe	Ruhe	NN	Duden	tu_121_xTok_000129
+und	und	KON	Duden	tu_121_xTok_000131
+Sicherheit	Sicherheit	NN	Duden	tu_121_xTok_000133
+stöhrenden	stören	ADJA	Duden	tu_121_xTok_000135
+Verbrechen	Verbrechen	NN	Duden	tu_121_xTok_000137
+qua	qua	FM	G-LDHW	tu_121_xTok_000139
+convicti	convinco	FM	oov	tu_121_xTok_000142
+<g/>
+,
+das	d	PRELS	Duden	tu_121_xTok_000146
+ist	sein	VAFIN	Duden	tu_121_xTok_000148
+<g/>
+,
+als	als	KOKOM	Duden	tu_121_xTok_000151
+Ueberwiesene	überwiesen	ADJ-NN	Duden	tu_121_xTok_000153
+in	in	APPR	Duden	tu_121_xTok_000155
+einer	ein	ART	Duden	tu_121_xTok_000157
+Kuhehaut	Kuhhaut	NN	Duden	tu_121_xTok_000159
+zur	zur	APPRART	Duden	tu_121_xTok_000161
+Richtstatt	Richtstatt	NN	DWB	tu_121_xTok_000163
+geschleifet	schleifen	VVPP	Duden	tu_121_xTok_000165
+<g/>
+,
+und	und	KON	Duden	tu_121_xTok_000167
+von	von	APPR	Duden	tu_121_xTok_000169
+dem	d	ART	Duden	tu_121_xTok_000171
+Scharfrichter	Scharfrichter	NN	Duden	tu_121_xTok_000173
+mit	mit	APPR	Duden	tu_121_xTok_000175
+dem	d	ART	Duden	tu_121_xTok_000177
+Rad	Rad	NN	Duden	tu_121_xTok_000179
+von	von	APPR	Duden	tu_121_xTok_000181
+obenherab	obenherab	ADV	DWB	tu_121_xTok_000183
+durch	durch	APPR	Duden	tu_121_xTok_000185
+Zerstoßung	Zerstoßung	NN	oov	tu_121_xTok_000187
+ihrer	ihr	PPOSAT	Duden	tu_121_xTok_000190
+Glieder	Glied	NN	Duden	tu_121_xTok_000192
+vom	vom	APPRART	Duden	tu_121_xTok_000194
+Leben	Leben	NN	Duden	tu_121_xTok_000196
+zum	zum	APPRART	Duden	tu_121_xTok_000198
+Tod	Tod	NN	Duden	tu_121_xTok_000200
+hingerichtet	hinrichten	VVPP	Duden	tu_121_xTok_000202
+worden	werden	VAPP	Duden	tu_121_xTok_000204
+<g/>
+.
+</titlePart>
 <head>
 Urgicht	Urgicht	NN	DWB	tu_121_xTok_000206
 <g/>
@@ -112,6 +219,7 @@ sey	sein	VAFIN	Duden	tu_121_xTok_000358
 <p id="fb_17810721_JosephN_MathiasN_p_0004">
 Jn	in	APPR	Duden	tu_121_xTok_000360
 der	d	ART	Duden	tu_121_xTok_000362
+Haupsache	Hauptsache	NN	Duden	tu_121_xTok_000364
 aber	aber	ADV	Duden	tu_121_xTok_000366
 konnten	können	VMFIN	Duden	tu_121_xTok_000368
 beede	beide	PIAT	Duden	tu_121_xTok_000370
@@ -208,6 +316,7 @@ sogenannten	sogenannt	ADJA	Duden	tu_121_xTok_000525
 Trenk=	Trenkmühle	TRUNC	oov	tu_121_xTok_000526
 und	und	KON	Duden	tu_121_xTok_000528
 Neullmühl	Neulmühle	NN	oov	tu_121_xTok_000530
+Kurfüstl.	kurfürstlich	ADJA	Duden	tu_121_xTok_000532
 Pfleggerichts	Pfleggericht	NN	Duden	tu_121_xTok_000537
 Aichach	Aichach	NE::top	oov	tu_121_xTok_000539
 verübten	verüben	ADJA	Duden	tu_121_xTok_000541
@@ -224,6 +333,7 @@ die	d	ART	Duden	tu_121_xTok_000557
 durch	durch	APPR	Duden	tu_121_xTok_000559
 äußeriste	äußerste	ADJA	Duden	tu_121_xTok_000560
 Todesbedrohungen	Todesbedrohung	NN	oov	tu_121_xTok_000562
+beschechene	beschehen	ADJA	DWB	tu_121_xTok_000564
 Mißhandlung	Misshandlung	NN	Duden	tu_121_xTok_000566
 <g/>
 ,

@@ -1,4 +1,117 @@
 <doc id="fb_17420627_JohannGeorgD" delinquent_sexes="male" title="Todesurteil Johann Georg D." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohlverdientes	wohlverdient	ADJA	Duden	tu_20_xTok_000001
+Recht	Recht	NN	Duden	tu_20_xTok_000004
+Und	und	KON	Duden	tu_20_xTok_000006
+End=Urtheil	Endurteil	NN	Duden	tu_20_xTok_000007
+<g/>
+/
+Einer	ein	ART	Duden	tu_20_xTok_000013
+Verheyrathen	verheiratet	ADJA	Duden	tu_20_xTok_000015
+Manns=Persohn	Mannsperson	NN	Duden	tu_20_xTok_000017
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_20_xTok_000021
+<persName id="johanngeorgd20">
+Johann	Johann	NE	Duden	tu_20_xTok_000023
+Georg	Georg	NE	Duden	tu_20_xTok_000026
+D.	D.	NE	oov	tu_20_xTok_000029
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_20_xTok_000031
+Religion	Religion	NN	Duden	tu_20_xTok_000033
+<g/>
+/
+bey	bei	APPR	Duden	tu_20_xTok_000037
+28.	28	CARD		tu_20_xTok_000039
+Jahr	Jahr	NN	Duden	tu_20_xTok_000041
+alt	alt	ADJD	Duden	tu_20_xTok_000043
+<g/>
+/
+von	von	APPR	Duden	tu_20_xTok_000047
+<placeName id="pn20">
+Kumberg	Kumberg	NE::top	oov	tu_20_xTok_000049
+in	in	APPR	Duden	tu_20_xTok_000050
+Steyermarck	Steiermark	NE::top	Duden	tu_20_xTok_000052
+</placeName>
+gebührtig	gebürtig	ADJD	Duden	tu_20_xTok_000054
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Um weilen	umweil	KOUS		tu_20_xTok_000056
+derselbe	derselbe	PDS	Duden	tu_20_xTok_000060
+einer	ein	ART	Duden	tu_20_xTok_000062
+sicheren	sicher	ADJA	DWB	tu_20_xTok_000064
+Herrschaft	Herrschaft	NN	Duden	tu_20_xTok_000066
+zu	zu	APPR	Duden	tu_20_xTok_000067
+Preßburg	Pressburg	NE::top	Duden	tu_20_xTok_000069
+<g/>
+/
+den	d	ART	Duden	tu_20_xTok_000073
+20.	20	ADJA		tu_20_xTok_000075
+October	Oktober	NN	Duden	tu_20_xTok_000077
+vorigen	vorige	ADJA	Duden	tu_20_xTok_000079
+Jahrs	Jahr	NN	Duden	tu_20_xTok_000081
+<g/>
+(
+wie	wie	KOUS	Duden	tu_20_xTok_000084
+beyligender	beiliegend	ADJA	Duden	tu_20_xTok_000085
+Jnnhalt	Inhalt	NN	Duden	tu_20_xTok_000087
+des	d	ART	Duden	tu_20_xTok_000089
+mehrern	mehrere	PIS	Duden	tu_20_xTok_000091
+zeiget	zeigen	VVFIN	Duden	tu_20_xTok_000093
+<g/>
+/
+<g/>
+)
+einen	ein	ART	Duden	tu_20_xTok_000099
+nahmhafften	namhaft	ADJA	Duden	tu_20_xTok_000100
+Diebstahl	Diebstahl	NN	Duden	tu_20_xTok_000104
+begangen	begehen	VVPP	Duden	tu_20_xTok_000106
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Als	als	ADV	Duden	tu_20_xTok_000108
+wird	werden	VAFIN	Duden	tu_20_xTok_000110
+derselbe	derselbe	PDS	Duden	tu_20_xTok_000112
+heute	heute	ADV	Duden	tu_20_xTok_000114
+Mittwoch	Mittwoch	NN	Duden	tu_20_xTok_000116
+<g/>
+,
+den	d	ART	Duden	tu_20_xTok_000119
+<date id="date20">
+27.	27	ADJA		tu_20_xTok_000121
+Junij	Juni	NN	Duden	tu_20_xTok_000124
+1742.	1742	CARD		tu_20_xTok_000126
+</date>
+anderen	ander	PIS	Duden	tu_20_xTok_000127
+zum	zum	APPRART	Duden	tu_20_xTok_000129
+Beyspill	Beispiel	NN	Duden	tu_20_xTok_000131
+und	und	KON	Duden	tu_20_xTok_000133
+Exempel	Exempel	NN	Duden	tu_20_xTok_000135
+<g/>
+/
+ihme	er	PPER	Duden	tu_20_xTok_000139
+aber	aber	ADV	Duden	tu_20_xTok_000141
+zur	zur	APPRART	Duden	tu_20_xTok_000143
+rechtlichen	rechtlich	ADJA	Duden	tu_20_xTok_000145
+Straffe	Strafe	NN	Duden	tu_20_xTok_000146
+auf	auf	APPR	Duden	tu_20_xTok_000148
+dem	d	ART	Duden	tu_20_xTok_000150
+sogenannten	sogenannt	ADJA	Duden	tu_20_xTok_000152
+Wienner=Berg	Wienerberg	NE::top	oov	tu_20_xTok_000154
+mit	mit	APPR	Duden	tu_20_xTok_000156
+dem	d	ART	Duden	tu_20_xTok_000158
+Strang	Strang	NN	Duden	tu_20_xTok_000160
+vom	vom	APPRART	Duden	tu_20_xTok_000161
+Leben	Leben	NN	Duden	tu_20_xTok_000163
+zum	zum	APPRART	Duden	tu_20_xTok_000165
+Todt	Tod	NN	Duden	tu_20_xTok_000167
+hingerichtet	hinrichten	VVPP	Duden	tu_20_xTok_000169
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_20_xTok_000185
 des	d	ART	Duden	tu_20_xTok_000188

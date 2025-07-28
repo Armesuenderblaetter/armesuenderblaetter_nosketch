@@ -1,4 +1,38 @@
 <doc id="fb_17860109_Anonym" delinquent_sexes="male" title="Urteil eines anonymen Korporals" attrs="word lemma pos vocab id">
+<titlePart type="main">
+Verurtheilung	Verurteilung	NN	Duden	tu_130_xTok_000002
+des	d	ART	Duden	tu_130_xTok_000003
+schon	schon	ADV	Duden	tu_130_xTok_000004
+bekannten	bekannt	ADJA	Duden	tu_130_xTok_000008
+Korporals	Korporal	NN	Duden	tu_130_xTok_000010
+<g/>
+,
+wegen	wegen	APPR	Duden	tu_130_xTok_000012
+seines	sein	PPOSAT	Duden	tu_130_xTok_000014
+am	am	APPRART	Duden	tu_130_xTok_000015
+1sten	1	ADJA		tu_130_xTok_000017
+November	November	NN	Duden	tu_130_xTok_000020
+abgelaufenen	ablaufen	ADJA	Duden	tu_130_xTok_000022
+1785sten	1785	ADJA		tu_130_xTok_000024
+Jahres	Jahr	NN	Duden	tu_130_xTok_000027
+in	in	APPR	Duden	tu_130_xTok_000028
+der	d	ART	Duden	tu_130_xTok_000030
+Vorstadt	Vorstadt	NN	Duden	tu_130_xTok_000032
+Rossau	Rossau	NE::top	oov	tu_130_xTok_000036
+vorsetzlich	vorsätzlich	ADJD	Duden	tu_130_xTok_000039
+verübten	verüben	ADJA	Duden	tu_130_xTok_000041
+Meuchelmordes	Meuchelmord	NN	Duden	tu_130_xTok_000042
+<g/>
+,
+welches	welch	PRELS	Duden	tu_130_xTok_000046
+heute	heute	ADV	Duden	tu_130_xTok_000049
+an	an	APPR	Duden	tu_130_xTok_000051
+ihm	er	PPER	Duden	tu_130_xTok_000053
+vollzogen	vollziehen	VVPP	Duden	tu_130_xTok_000055
+worden	werden	VAPP	Duden	tu_130_xTok_000057
+<g/>
+.
+</titlePart>
 <p id="fb_17860109_Anonym_p_0001">
 Da	da	KOUS	Duden	tu_130_xTok_000061
 dem	d	ART	Duden	tu_130_xTok_000064
@@ -589,6 +623,7 @@ Saal	Saal	NN	Duden	tu_130_xTok_000979
 <g/>
 ,
 sage	sagen	VVFIN	Duden	tu_130_xTok_000982
+ich	ich	PPER	Duden	tu_130_xTok_000984
 <g/>
 ,
 hatte	haben	VAFIN	Duden	tu_130_xTok_000987

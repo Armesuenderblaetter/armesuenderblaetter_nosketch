@@ -1,4 +1,126 @@
 <doc id="fb_17810818_AntonN" delinquent_sexes="male" title="Todesurteil Anton N." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Nro.	Numero	NN	Duden	tu_122_xTok_000001
+8.	8	CARD		tu_122_xTok_000004
+Wohlverdientes	wohlverdient	ADJA	Duden	tu_122_xTok_000005
+Todesurtheil	Todesurteil	NN	Duden	tu_122_xTok_000007
+<g/>
+,
+nebst	nebst	APPR	Duden	tu_122_xTok_000009
+einer	ein	ART	Duden	tu_122_xTok_000011
+Moralrede	Moralrede	NN	oov	tu_122_xTok_000012
+des	d	ART	Duden	tu_122_xTok_000013
+<persName id="antonn122">
+Anton	Anton	NE	Duden	tu_122_xTok_000014
+N.	N.	NE	oov	tu_122_xTok_000016
+vulgo	vulgo	ADV	Duden	tu_122_xTok_000018
+Glink	Glink	NE	oov	tu_122_xTok_000020
+</persName>
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welcher	welch	PRELS	Duden	tu_122_xTok_000022
+auf	auf	APPR	Duden	tu_122_xTok_000024
+höchste	hoch	ADJA	Duden	tu_122_xTok_000026
+Anbefehlung	Anbefehlung	NN	DRW	tu_122_xTok_000028
+des	d	ART	Duden	tu_122_xTok_000030
+Churfürstl.	kurfürstlich	ADJA	Duden	tu_122_xTok_000032
+Hochlöbl.	hochlöblich	ADJA	Duden	tu_122_xTok_000035
+Hofraths	Hofrat	NN	Duden	tu_122_xTok_000038
+allhier	allhier	ADV	Duden	tu_122_xTok_000041
+in	in	APPR	Duden	tu_122_xTok_000043
+München	München	NE::top	Duden	tu_122_xTok_000045
+heut	heute	ADV	Duden	tu_122_xTok_000047
+den	d	ART	Duden	tu_122_xTok_000049
+<date id="date122">
+18.	18	ADJA		tu_122_xTok_000051
+August	August	NN	Duden	tu_122_xTok_000053
+1781.	1781	CARD		tu_122_xTok_000055
+</date>
+wegen	wegen	APPR	Duden	tu_122_xTok_000057
+seinen	sein	PPOSAT	Duden	tu_122_xTok_000059
+einbekennt	einbekennen	ADJA	Duden	tu_122_xTok_000061
+straßenräuberischen	straßenräuberisch	ADJA	oov	tu_122_xTok_000062
+<g/>
+,
+dann	dann	ADV	Duden	tu_122_xTok_000065
+die	d	ART	Duden	tu_122_xTok_000067
+offentliche	öffentlich	ADJA	Duden	tu_122_xTok_000069
+Ruh	Ruhe	NN	Duden	tu_122_xTok_000071
+und	und	KON	Duden	tu_122_xTok_000073
+Sicherheit	Sicherheit	NN	Duden	tu_122_xTok_000075
+störenden	stören	ADJA	Duden	tu_122_xTok_000077
+grausamen	grausam	ADJA	Duden	tu_122_xTok_000079
+Verbrechen	Verbrechen	NN	Duden	tu_122_xTok_000082
+in	in	APPR	Duden	tu_122_xTok_000084
+einer	ein	ART	Duden	tu_122_xTok_000086
+Kühehaut	Kuhhaut	NN	Duden	tu_122_xTok_000088
+zur	zur	APPRART	Duden	tu_122_xTok_000090
+Richtstatt	Richtstatt	NN	DWB	tu_122_xTok_000092
+geschleifet	schleifen	VVPP	Duden	tu_122_xTok_000094
+<g/>
+,
+und	und	KON	Duden	tu_122_xTok_000097
+vermög	vermöge	APPR	Duden	tu_122_xTok_000099
+des	d	ART	Duden	tu_122_xTok_000100
+neuerdings	neuerdings	ADV	Duden	tu_122_xTok_000102
+unterm	unterm	APPRART	Duden	tu_122_xTok_000104
+7.	7	ADJA		tu_122_xTok_000106
+Julii	Juli	NN	Duden	tu_122_xTok_000108
+anheuer	anheuer	ADV	oov	tu_122_xTok_000110
+ergangenen	ergehen	ADJA	Duden	tu_122_xTok_000112
+Generalmandats	Generalmandat	NN	DRW	tu_122_xTok_000114
+durch	durch	APPR	Duden	tu_122_xTok_000116
+den	d	ART	Duden	tu_122_xTok_000117
+Scharfrichter	Scharfrichter	NN	Duden	tu_122_xTok_000119
+mit	mit	APPR	Duden	tu_122_xTok_000121
+dem	d	ART	Duden	tu_122_xTok_000123
+Rad	Rad	NN	Duden	tu_122_xTok_000125
+lebendig	lebendig	ADJD	Duden	tu_122_xTok_000127
+von	von	APPR	Duden	tu_122_xTok_000129
+untenauf	untenauf	ADV	oov	tu_122_xTok_000131
+ohne	ohne	APPR	Duden	tu_122_xTok_000133
+Anlegung	Anlegung	NN	DWB	tu_122_xTok_000135
+der	d	ART	Duden	tu_122_xTok_000137
+Schnur	Schnur	NN	Duden	tu_122_xTok_000138
+durch	durch	APPR	Duden	tu_122_xTok_000140
+Zerstoßung	Zerstoßung	NN	oov	tu_122_xTok_000142
+seiner	sein	PPOSAT	Duden	tu_122_xTok_000144
+Glieder	Glied	NN	Duden	tu_122_xTok_000146
+vom	vom	APPRART	Duden	tu_122_xTok_000148
+Leben	Leben	NN	Duden	tu_122_xTok_000150
+zum	zum	APPRART	Duden	tu_122_xTok_000152
+Tod	Tod	NN	Duden	tu_122_xTok_000154
+hingerichtet	hinrichten	VVPP	Duden	tu_122_xTok_000156
+<g/>
+,
+hernach	hernach	PAV	Duden	tu_122_xTok_000158
+geviertheilet	vierteilen	VVPP	Duden	tu_122_xTok_000160
+<g/>
+,
+und	und	KON	Duden	tu_122_xTok_000163
+die	d	ART	Duden	tu_122_xTok_000165
+Theile	Teil	NN	Duden	tu_122_xTok_000167
+an	an	APPR	Duden	tu_122_xTok_000169
+die	d	ART	Duden	tu_122_xTok_000171
+Oerter	Ort	NN	Duden	tu_122_xTok_000173
+und	und	KON	Duden	tu_122_xTok_000175
+Straßen	Straße	NN	Duden	tu_122_xTok_000177
+seiner	sein	PPOSAT	Duden	tu_122_xTok_000178
+begangenen	begehen	ADJA	Duden	tu_122_xTok_000180
+Verbrechen	Verbrechen	NN	Duden	tu_122_xTok_000182
+zum	zum	APPRART	Duden	tu_122_xTok_000184
+abschreckenden	abschreckend	ADJA	Duden	tu_122_xTok_000186
+Beyspiel	Beispiel	NN	Duden	tu_122_xTok_000188
+an	an	APPR	Duden	tu_122_xTok_000189
+die	d	ART	Duden	tu_122_xTok_000191
+Schnellgalgen	Schnellgalgen	NN	DWB	tu_122_xTok_000193
+aufgehänget	aufhängen	VVPP	Duden	tu_122_xTok_000195
+worden	werden	VAPP	Duden	tu_122_xTok_000197
+<g/>
+.
+</titlePart>
 <head>
 Urgicht	Urgicht	NN	DWB	tu_122_xTok_000199
 <g/>
@@ -1169,6 +1291,7 @@ verderben	verderben	VVINF	Duden	tu_122_xTok_001887
 </l>
 <l id="fb_17810818_AntonN_l_0043">
 Es	es	PPER	Duden	tu_122_xTok_001889
+fodert	fordern	VVFIN	Duden	tu_122_xTok_001891
 Geist	Geist	NN	Duden	tu_122_xTok_001893
 <g/>
 ,

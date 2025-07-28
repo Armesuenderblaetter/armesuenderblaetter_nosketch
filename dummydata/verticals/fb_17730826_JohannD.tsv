@@ -1,4 +1,96 @@
 <doc id="fb_17730826_JohannD" delinquent_sexes="male" title="Todesurteil Johann D." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_105_xTok_000001
+einer	ein	ART	Duden	tu_105_xTok_000003
+verheyrathen	verheiratet	ADJA	Duden	tu_105_xTok_000005
+Mannsperson	Mannsperson	NN	Duden	tu_105_xTok_000007
+Namens	namens	ADV	Duden	tu_105_xTok_000008
+<persName id="johannd105">
+Johann	Johann	NE	Duden	tu_105_xTok_000009
+D.	D.	NE	oov	tu_105_xTok_000011
+</persName>
+alt	alt	ADJD	Duden	tu_105_xTok_000013
+bey	bei	APPR	Duden	tu_105_xTok_000015
+25.	25	CARD		tu_105_xTok_000017
+Jahr	Jahr	NN	Duden	tu_105_xTok_000019
+<g/>
+.
+Zu	zu	APPR	Duden	tu_105_xTok_000021
+<placeName id="pn105">
+Aychstädt	Aichstädt	NE::top	oov	tu_105_xTok_000023
+in	in	APPR	Duden	tu_105_xTok_000025
+dem	d	ART	Duden	tu_105_xTok_000027
+römischen	römisch	ADJA	Duden	tu_105_xTok_000029
+Reich	Reich	NN	Duden	tu_105_xTok_000031
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_105_xTok_000033
+<g/>
+,
+katholischer	katholisch	ADJA	Duden	tu_105_xTok_000035
+Religion	Religion	NN	Duden	tu_105_xTok_000037
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_105_xTok_000039
+in	in	APPR	Duden	tu_105_xTok_000041
+Folge	Folge	NN	Duden	tu_105_xTok_000043
+der	d	ART	Duden	tu_105_xTok_000045
+bey	bei	APPR	Duden	tu_105_xTok_000047
+dem	d	ART	Duden	tu_105_xTok_000049
+allhiesigen	allhiesig	ADJA	DWB	tu_105_xTok_000051
+K.	kaiserlich	ADJA	Duden	tu_105_xTok_000053
+K.	königlich	ADJA	Duden	tu_105_xTok_000056
+Stadt	Stadtgericht	TRUNC	Duden	tu_105_xTok_000059
+und	und	KON	Duden	tu_105_xTok_000060
+Landgerichte	Landgericht	NN	Duden	tu_105_xTok_000062
+wider	wider	APPR	Duden	tu_105_xTok_000064
+ihn	er	PPER	Duden	tu_105_xTok_000066
+abgeführten	abführen	ADJA	DRW	tu_105_xTok_000068
+Criminal=Verfahrung	Kriminalverfahrung	NN	oov	tu_105_xTok_000070
+<g/>
+,
+und	und	KON	Duden	tu_105_xTok_000074
+darüber	darüber	PAV	Duden	tu_105_xTok_000076
+geschöpften	schöpfen	ADJA	Duden	tu_105_xTok_000078
+<g/>
+,
+auch	auch	ADV	Duden	tu_105_xTok_000081
+von	von	APPR	Duden	tu_105_xTok_000083
+einer	ein	ART	Duden	tu_105_xTok_000085
+hochlöbl.	hochlöblich	ADJA	Duden	tu_105_xTok_000086
+Landesfürstl.	landesfürstlich	ADJA	DWB	tu_105_xTok_000089
+Ni. Oest.	niederösterreichisch	ADJA		tu_105_xTok_000092
+Regierung	Regierung	NN	Duden	tu_105_xTok_000098
+bestättigten	bestätigen	ADJA	Duden	tu_105_xTok_000100
+Erkanntniß	Erkanntnis	NN	DWB	tu_105_xTok_000101
+an	an	APPR	Duden	tu_105_xTok_000103
+gleich ernannten	gleichernannt	ADJA		tu_105_xTok_000105
+Johann	Johann	NE	Duden	tu_105_xTok_000109
+D.	D.	NE	oov	tu_105_xTok_000111
+dem	d	ART	Duden	tu_105_xTok_000114
+zu	zu	APPR	Duden	tu_105_xTok_000116
+Ende	Ende	NN	Duden	tu_105_xTok_000118
+angeführten	angeführt	ADJA	Duden	tu_105_xTok_000119
+Jnhalte	Inhalt	NN	Duden	tu_105_xTok_000121
+gemäß	gemäß	APPO	Duden	tu_105_xTok_000123
+<g/>
+,
+heute	heute	ADV	Duden	tu_105_xTok_000126
+den	d	ART	Duden	tu_105_xTok_000128
+<date id="date105">
+26.	26	ADJA		tu_105_xTok_000130
+August	August	NN	Duden	tu_105_xTok_000132
+1773.	1773	CARD		tu_105_xTok_000133
+</date>
+allhier	allhier	ADV	Duden	tu_105_xTok_000135
+in	in	APPR	Duden	tu_105_xTok_000137
+Wien	Wien	NE::top	Duden	tu_105_xTok_000139
+vollzogen	vollziehen	VVPP	Duden	tu_105_xTok_000141
+wird	werden	VAFIN	Duden	tu_105_xTok_000143
+<g/>
+.
+</titlePart>
 <head>
 Jnhalt	Inhalt	NN	Duden	tu_105_xTok_000145
 seines	sein	PPOSAT	Duden	tu_105_xTok_000147
@@ -507,6 +599,7 @@ dann	dann	ADV	Duden	tu_105_xTok_001009
 anderer	andere	ADJA	Duden	tu_105_xTok_001011
 Habschaften	Habschaft	NN	Duden	tu_105_xTok_001012
 sich	sich	PRF	Duden	tu_105_xTok_001014
+bemächtihet	bemächtigen	VVPP	Duden	tu_105_xTok_001016
 <g/>
 ,
 und	und	KON	Duden	tu_105_xTok_001019
@@ -616,6 +709,7 @@ anderen	andere	ADJA	Duden	tu_105_xTok_001203
 unweit	unweit	APPR	Duden	tu_105_xTok_001205
 Wienerisch Neustadt	WienerNeustadt	NE::top		tu_105_xTok_001207
 auf	auf	APPR	Duden	tu_105_xTok_001212
+ner	d	ART	Duden	tu_105_xTok_001214
 Strasse	Straße	NN	Duden	tu_105_xTok_001216
 angetroffenen	antreffen	ADJA	Duden	tu_105_xTok_001218
 ledigen	ledig	ADJA	Duden	tu_105_xTok_001220
@@ -652,6 +746,7 @@ Abends	abends	ADV	Duden	tu_105_xTok_001275
 <g/>
 ,
 einem	ein	ART	Duden	tu_105_xTok_001278
+uunweit	unweit	APPR	Duden	tu_105_xTok_001280
 Hollenburg	Hollenburg	NE::top	oov	tu_105_xTok_001282
 bey	bei	APPR	Duden	tu_105_xTok_001284
 der	d	ART	Duden	tu_105_xTok_001285
@@ -767,6 +862,7 @@ Altartuch	Altartuch	NN	Duden	tu_105_xTok_001481
 ,
 nebst	nebst	APPR	Duden	tu_105_xTok_001484
 einem	ein	ART	Duden	tu_105_xTok_001486
+Seideuzeugenen	seidenzeugen	ADJA	oov	tu_105_xTok_001488
 mit	mit	APPR	Duden	tu_105_xTok_001490
 goldenen	golden	ADJA	Duden	tu_105_xTok_001492
 Spitzen	Spitze	NN	Duden	tu_105_xTok_001494

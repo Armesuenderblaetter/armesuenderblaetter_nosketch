@@ -1,4 +1,81 @@
 <doc id="fb_17450827_BarbaraH" delinquent_sexes="female" title="Todesurteil Barbara H." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_30_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_30_xTok_000002
+<g/>
+/
+Einer	ein	ART	Duden	tu_30_xTok_000009
+ledigen	ledig	ADJA	Duden	tu_30_xTok_000012
+Weibs=Persohn	Weibsperson	NN	Duden	tu_30_xTok_000014
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_30_xTok_000021
+<persName id="barbarah30">
+Barbara	Barbara	NE	Duden	tu_30_xTok_000022
+H.	H.	NE	oov	tu_30_xTok_000024
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_30_xTok_000026
+Religion	Religion	NN	Duden	tu_30_xTok_000028
+<g/>
+/
+alhier	allhier	ADV	Duden	tu_30_xTok_000032
+zu	zu	APPR	Duden	tu_30_xTok_000034
+<placeName id="pn30">
+St. Ulrich	St.Ulrich	NE::top		tu_30_xTok_000035
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_30_xTok_000040
+<g/>
+/
+ihres	ihr	PPOSAT	Duden	tu_30_xTok_000044
+Alters	Alter	NN	Duden	tu_30_xTok_000046
+30.	30	CARD		tu_30_xTok_000047
+Jahr	Jahr	NN	Duden	tu_30_xTok_000049
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welche	welch	PRELS	Duden	tu_30_xTok_000051
+heut	heute	ADV	Duden	tu_30_xTok_000053
+Freytag	Freitag	NN	Duden	tu_30_xTok_000055
+den	d	ART	Duden	tu_30_xTok_000057
+<date id="date30">
+27.	27	ADJA		tu_30_xTok_000059
+Augusti	August	NN	Duden	tu_30_xTok_000061
+1745.	1745	CARD		tu_30_xTok_000063
+</date>
+anderen	ander	PIS	Duden	tu_30_xTok_000065
+ihres gleichen	ihresgleichen	PIS		tu_30_xTok_000066
+zum	zum	APPRART	Duden	tu_30_xTok_000070
+Beyspiel	Beispiel	NN	Duden	tu_30_xTok_000072
+vor	vor	APPR	Duden	tu_30_xTok_000074
+dem	d	ART	Duden	tu_30_xTok_000076
+Schotten=Thor	Schottentor	NE::top	oov	tu_30_xTok_000078
+mit	mit	APPR	Duden	tu_30_xTok_000080
+dem	d	ART	Duden	tu_30_xTok_000082
+Schwerdt	Schwert	NN	Duden	tu_30_xTok_000083
+vom	vom	APPRART	Duden	tu_30_xTok_000085
+Leben	Leben	NN	Duden	tu_30_xTok_000087
+zum	zum	APPRART	Duden	tu_30_xTok_000089
+Todt	Tod	NN	Duden	tu_30_xTok_000091
+hingerichtet	hinrichten	VVPP	Duden	tu_30_xTok_000093
+wird	werden	VAFIN	Duden	tu_30_xTok_000095
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Der	d	ART	Duden	tu_30_xTok_000097
+Jnnhalt	Inhalt	NN	Duden	tu_30_xTok_000099
+ihres	ihr	PPOSAT	Duden	tu_30_xTok_000101
+Verbrechen	Verbrechen	NN	Duden	tu_30_xTok_000103
+wird	werden	VAFIN	Duden	tu_30_xTok_000105
+der	d	ART	Duden	tu_30_xTok_000107
+geneigte	geneigt	ADJA	Duden	tu_30_xTok_000109
+Leser	Leser	NN	Duden	tu_30_xTok_000111
+hierinnen	hierinnen	PAV	Duden	tu_30_xTok_000112
+finden	finden	VVINF	Duden	tu_30_xTok_000114
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_30_xTok_000134
 des	d	ART	Duden	tu_30_xTok_000137

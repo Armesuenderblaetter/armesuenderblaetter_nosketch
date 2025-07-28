@@ -1,4 +1,23 @@
 <doc id="fb_17950803_MartinJosephPrands" delinquent_sexes="male" title="Urteil Martin Joseph Prandstätter, Heinrich Jeline." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Urtheil	Urteil	NN	Duden	tu_134_xTok_000001
+über	über	APPR	Duden	tu_134_xTok_000002
+den	d	ART	Duden	tu_134_xTok_000004
+<persName id="martinjosephprandstätter134">
+Martin	Martin	NE	Duden	tu_134_xTok_000005
+Joseph	Joseph	NE	Duden	tu_134_xTok_000007
+Prandstätter	Prandstätter	NE	oov	tu_134_xTok_000008
+</persName>
+<g/>
+,
+und	und	KON	Duden	tu_134_xTok_000010
+<persName id="heinrichjeline134">
+Heinrich	Heinrich	NE	Duden	tu_134_xTok_000011
+Jeline	Jeline	NE	oov	tu_134_xTok_000013
+</persName>
+<g/>
+.
+</titlePart>
 <p id="fb_17950803_MartinJosephPrands_p_0001">
 Martin	Martin	NE	Duden	tu_134_xTok_000055
 Joseph	Joseph	NE	Duden	tu_134_xTok_000058
@@ -441,6 +460,7 @@ Pflicht	Pflicht	NN	Duden	tu_134_xTok_000807
 von	von	APPR	Duden	tu_134_xTok_000809
 jedem	jede	PIAT	Duden	tu_134_xTok_000811
 Staatsbürger	Staatsbürger	NN	Duden	tu_134_xTok_000813
+fodert	fordern	VVFIN	Duden	tu_134_xTok_000816
 <g/>
 ,
 nicht	nicht	PTKNEG	Duden	tu_134_xTok_000819

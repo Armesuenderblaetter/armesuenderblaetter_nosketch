@@ -1,4 +1,116 @@
 <doc id="fb_17730422_LeopoldK_JosephR" delinquent_sexes="male" title="Todesurteil Leopold K., Joseph R." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_101_xTok_000001
+zweyer	zwei	CARD	Duden	tu_101_xTok_000003
+ledigen	ledig	ADJA	Duden	tu_101_xTok_000005
+Mannspersonen	Mannsperson	NN	Duden	tu_101_xTok_000007
+Namens	namens	ADV	Duden	tu_101_xTok_000008
+<persName id="leopoldk101">
+Leopold	Leopold	NE	Duden	tu_101_xTok_000009
+K.	K.	NE	oov	tu_101_xTok_000011
+</persName>
+alt	alt	ADJD	Duden	tu_101_xTok_000013
+bey	bei	APPR	Duden	tu_101_xTok_000015
+23.	23	CARD		tu_101_xTok_000017
+Jahre	Jahr	NN	Duden	tu_101_xTok_000019
+<g/>
+,
+zu	zu	APPR	Duden	tu_101_xTok_000022
+<placeName id="pn101">
+Wullersdorf	Wullersdorf	NE::top	oov	tu_101_xTok_000024
+in	in	APPR	Duden	tu_101_xTok_000026
+Unterösterreich	Unterösterreich	NE::top	oov	tu_101_xTok_000028
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_101_xTok_000030
+<g/>
+,
+und	und	KON	Duden	tu_101_xTok_000032
+<persName id="josephr101">
+Joseph	Joseph	NE	Duden	tu_101_xTok_000033
+R.	R.	NE	oov	tu_101_xTok_000035
+</persName>
+alt	alt	ADJD	Duden	tu_101_xTok_000037
+bey	bei	APPR	Duden	tu_101_xTok_000039
+25.	25	CARD		tu_101_xTok_000041
+Jahre	Jahr	NN	Duden	tu_101_xTok_000043
+<g/>
+,
+zu	zu	APPR	Duden	tu_101_xTok_000046
+<placeName id="pn101b">
+Hart	Hart	NE::top	oov	tu_101_xTok_000048
+in	in	APPR	Duden	tu_101_xTok_000050
+Unterösterreich	Unterösterreich	NE::top	oov	tu_101_xTok_000052
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_101_xTok_000054
+<g/>
+,
+beyde	beide	PIS	Duden	tu_101_xTok_000056
+katholischer	katholisch	ADJA	Duden	tu_101_xTok_000058
+Religion	Religion	NN	Duden	tu_101_xTok_000060
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_101_xTok_000062
+in	in	APPR	Duden	tu_101_xTok_000064
+Folge	Folge	NN	Duden	tu_101_xTok_000066
+der	d	ART	Duden	tu_101_xTok_000068
+bey	bei	APPR	Duden	tu_101_xTok_000070
+dem	d	ART	Duden	tu_101_xTok_000072
+allhiesigen	allhiesig	ADJA	DWB	tu_101_xTok_000074
+K.	kaiserlich	ADJA	Duden	tu_101_xTok_000076
+K.	königlich	ADJA	Duden	tu_101_xTok_000079
+Stadt	Stadtgericht	TRUNC	Duden	tu_101_xTok_000082
+und	und	KON	Duden	tu_101_xTok_000083
+Landgericht	Landgericht	NN	Duden	tu_101_xTok_000085
+wider	wider	APPR	Duden	tu_101_xTok_000087
+sie	sie	PPER	Duden	tu_101_xTok_000089
+abgeführte	abführen	ADJA	DRW	tu_101_xTok_000091
+Criminal=Verfahrungen	Kriminalverfahrung	NN	oov	tu_101_xTok_000093
+<g/>
+,
+und	und	KON	Duden	tu_101_xTok_000097
+darüber	darüber	PAV	Duden	tu_101_xTok_000099
+geschöpften	schöpfen	ADJA	Duden	tu_101_xTok_000101
+<g/>
+,
+auch	auch	ADV	Duden	tu_101_xTok_000104
+von	von	APPR	Duden	tu_101_xTok_000106
+einer	ein	ART	Duden	tu_101_xTok_000108
+hochlöbl.	hochlöblich	ADJA	Duden	tu_101_xTok_000109
+Landesfürstl.	landesfürstlich	ADJA	DWB	tu_101_xTok_000112
+Ni. Oest.	niederösterreichisch	ADJA		tu_101_xTok_000115
+Regierung	Regierung	NN	Duden	tu_101_xTok_000121
+bestättigten	bestätigen	ADJA	Duden	tu_101_xTok_000123
+Erkanntnissen	Erkanntnis	NN	DWB	tu_101_xTok_000124
+an	an	APPR	Duden	tu_101_xTok_000126
+gleich ernannten	gleichernannt	ADJA		tu_101_xTok_000128
+Leopold	Leopold	NE	Duden	tu_101_xTok_000132
+K.	K.	NE	oov	tu_101_xTok_000134
+und	und	KON	Duden	tu_101_xTok_000137
+Joseph	Joseph	NE	Duden	tu_101_xTok_000139
+R.	R.	NE	oov	tu_101_xTok_000142
+dem	d	ART	Duden	tu_101_xTok_000145
+zu	zu	APPR	Duden	tu_101_xTok_000147
+Ende	Ende	NN	Duden	tu_101_xTok_000149
+angeführten	angeführt	ADJA	Duden	tu_101_xTok_000151
+Jnnhalte	Inhalt	NN	Duden	tu_101_xTok_000153
+gemäß	gemäß	APPO	Duden	tu_101_xTok_000155
+heute	heute	ADV	Duden	tu_101_xTok_000156
+den	d	ART	Duden	tu_101_xTok_000158
+<date id="date101">
+22.	22	ADJA		tu_101_xTok_000160
+April	April	NN	Duden	tu_101_xTok_000162
+1773.	1773	CARD		tu_101_xTok_000164
+</date>
+allhier	allhier	ADV	Duden	tu_101_xTok_000166
+in	in	APPR	Duden	tu_101_xTok_000168
+Wien	Wien	NE::top	Duden	tu_101_xTok_000170
+vollzogen	vollziehen	VVPP	Duden	tu_101_xTok_000171
+wird	werden	VAFIN	Duden	tu_101_xTok_000173
+<g/>
+.
+</titlePart>
 <head>
 Jnhalt	Inhalt	NN	Duden	tu_101_xTok_000176
 ihres	ihr	PPOSAT	Duden	tu_101_xTok_000178

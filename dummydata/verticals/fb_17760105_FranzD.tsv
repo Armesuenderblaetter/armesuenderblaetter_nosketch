@@ -1,4 +1,95 @@
 <doc id="fb_17760105_FranzD" delinquent_sexes="male" title="Todesurteil Franz D." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_113_xTok_000001
+einer	ein	ART	Duden	tu_113_xTok_000003
+ledigen	ledig	ADJA	Duden	tu_113_xTok_000005
+Mannsperson	Mannsperson	NN	Duden	tu_113_xTok_000007
+<g/>
+,
+Namens	namens	ADV	Duden	tu_113_xTok_000009
+<persName id="franzd113">
+Franz	Franz	NE	Duden	tu_113_xTok_000010
+D.	D.	NE	oov	tu_113_xTok_000013
+</persName>
+alt	alt	ADJD	Duden	tu_113_xTok_000015
+23	23	CARD		tu_113_xTok_000017
+Jahre	Jahr	NN	Duden	tu_113_xTok_000019
+<g/>
+,
+zu	zu	APPR	Duden	tu_113_xTok_000021
+<placeName id="pn113">
+Garß	Gars	NE::top	oov	tu_113_xTok_000023
+in	in	APPR	Duden	tu_113_xTok_000025
+Niederöstreich	Niederösterreich	NE::top	Duden	tu_113_xTok_000027
+im	im	APPRART	Duden	tu_113_xTok_000029
+V. O. M. B.	ViertelobManhartsberg	NE::top		tu_113_xTok_000031
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_113_xTok_000043
+<g/>
+,
+katholischer	katholisch	ADJA	Duden	tu_113_xTok_000045
+Religion	Religion	NN	Duden	tu_113_xTok_000047
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+welches	welch	PRELS	Duden	tu_113_xTok_000049
+in	in	APPR	Duden	tu_113_xTok_000052
+Folge	Folge	NN	Duden	tu_113_xTok_000054
+der	d	ART	Duden	tu_113_xTok_000056
+bey	bei	APPR	Duden	tu_113_xTok_000058
+dem	d	ART	Duden	tu_113_xTok_000060
+alhiesigen	allhiesig	ADJA	DWB	tu_113_xTok_000062
+kaiserl.	kaiserlich	ADJA	Duden	tu_113_xTok_000064
+königl.	königlich	ADJA	Duden	tu_113_xTok_000067
+Stadt	Stadtgericht	TRUNC	Duden	tu_113_xTok_000070
+und	und	KON	Duden	tu_113_xTok_000071
+Landgerichte	Landgericht	NN	Duden	tu_113_xTok_000073
+wider	wider	APPR	Duden	tu_113_xTok_000075
+ihn	er	PPER	Duden	tu_113_xTok_000077
+abgeführten	abführen	ADJA	DRW	tu_113_xTok_000079
+Criminalverfahrung	Kriminalverfahrung	NN	oov	tu_113_xTok_000081
+<g/>
+,
+und	und	KON	Duden	tu_113_xTok_000085
+darüber	darüber	PAV	Duden	tu_113_xTok_000087
+geschöpften	schöpfen	ADJA	Duden	tu_113_xTok_000089
+<g/>
+,
+auch	auch	ADV	Duden	tu_113_xTok_000092
+von	von	APPR	Duden	tu_113_xTok_000094
+einer	ein	ART	Duden	tu_113_xTok_000096
+hochlöbl.	hochlöblich	ADJA	Duden	tu_113_xTok_000098
+landesfürstl.	landesfürstlich	ADJA	DWB	tu_113_xTok_000100
+ni. öst.	niederösterreichisch	ADJA		tu_113_xTok_000103
+Regierung	Regierung	NN	Duden	tu_113_xTok_000109
+bestättigten	bestätigen	ADJA	Duden	tu_113_xTok_000111
+Erkanntniß	Erkanntnis	NN	DWB	tu_113_xTok_000113
+an	an	APPR	Duden	tu_113_xTok_000114
+gleich ernannten	gleichernannt	ADJA		tu_113_xTok_000116
+Franz	Franz	NE	Duden	tu_113_xTok_000120
+D.	D.	NE	oov	tu_113_xTok_000122
+dem	d	ART	Duden	tu_113_xTok_000125
+zu	zu	APPR	Duden	tu_113_xTok_000127
+Ende	Ende	NN	Duden	tu_113_xTok_000129
+angeführten	angeführt	ADJA	Duden	tu_113_xTok_000131
+Jnnhalte	Inhalt	NN	Duden	tu_113_xTok_000132
+gemäß	gemäß	APPO	Duden	tu_113_xTok_000134
+heute	heute	ADV	Duden	tu_113_xTok_000136
+den	d	ART	Duden	tu_113_xTok_000138
+<date id="date113">
+5.	5	ADJA		tu_113_xTok_000140
+Jänner	Jänner	NN	Duden	tu_113_xTok_000142
+1776	1776	CARD		tu_113_xTok_000144
+</date>
+alhier	allhier	ADV	Duden	tu_113_xTok_000146
+in	in	APPR	Duden	tu_113_xTok_000147
+Wien	Wien	NE::top	Duden	tu_113_xTok_000149
+vollzogen	vollziehen	VVPP	Duden	tu_113_xTok_000151
+wird	werden	VAFIN	Duden	tu_113_xTok_000153
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_113_xTok_000155
 seines	sein	PPOSAT	Duden	tu_113_xTok_000157

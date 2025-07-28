@@ -1,4 +1,143 @@
 <doc id="fb_17810825_GeorgN" delinquent_sexes="male" title="Todesurteil Georg N." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Nro.	Numero	NN	Duden	tu_123_xTok_000001
+9	9	CARD		tu_123_xTok_000004
+Wohlverdientes	wohlverdient	ADJA	Duden	tu_123_xTok_000005
+Todesurtheil	Todesurteil	NN	Duden	tu_123_xTok_000007
+<g/>
+,
+nebst	nebst	APPR	Duden	tu_123_xTok_000010
+einer	ein	ART	Duden	tu_123_xTok_000012
+Moralrede	Moralrede	NN	oov	tu_123_xTok_000013
+des	d	ART	Duden	tu_123_xTok_000014
+<persName id="georgn123">
+Georg	Georg	NE	Duden	tu_123_xTok_000016
+N.	N.	NE	oov	tu_123_xTok_000018
+vulgo	vulgo	ADV	Duden	tu_123_xTok_000020
+Kramer	Kramer	NE	oov	tu_123_xTok_000022
+von	von	APPR	Duden	tu_123_xTok_000024
+Mosen	Mosen	NE::top	oov	tu_123_xTok_000026
+</persName>
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welcher	welch	PRELS	Duden	tu_123_xTok_000029
+auf	auf	APPR	Duden	tu_123_xTok_000031
+höchste	hoch	ADJA	Duden	tu_123_xTok_000033
+Anbefehlung	Anbefehlung	NN	DRW	tu_123_xTok_000035
+des	d	ART	Duden	tu_123_xTok_000037
+Churfürstl.	kurfürstlich	ADJA	Duden	tu_123_xTok_000039
+Hochlöbl.	hochlöblich	ADJA	Duden	tu_123_xTok_000042
+Hofraths	Hofrat	NN	Duden	tu_123_xTok_000045
+allhier	allhier	ADV	Duden	tu_123_xTok_000048
+in	in	APPR	Duden	tu_123_xTok_000050
+München	München	NE::top	Duden	tu_123_xTok_000052
+heute	heute	ADV	Duden	tu_123_xTok_000054
+den	d	ART	Duden	tu_123_xTok_000056
+<date id="date123">
+25.	25	ADJA		tu_123_xTok_000058
+August	August	NN	Duden	tu_123_xTok_000060
+1781.	1781	CARD		tu_123_xTok_000062
+</date>
+wegen	wegen	APPR	Duden	tu_123_xTok_000064
+der	d	ART	Duden	tu_123_xTok_000066
+an	an	APPR	Duden	tu_123_xTok_000068
+dem	d	ART	Duden	tu_123_xTok_000070
+Eisengerichtsdiener	Eisengerichtsdiener	NN	oov	tu_123_xTok_000072
+zu	zu	APPR	Duden	tu_123_xTok_000075
+Rottenburg	Rottenburg	NE::top	oov	tu_123_xTok_000077
+verübten	verüben	ADJA	Duden	tu_123_xTok_000079
+Mordthat	Mordtat	NN	Duden	tu_123_xTok_000081
+sowohl	sowohl	KON	Duden	tu_123_xTok_000083
+<g/>
+,
+als	als	KON	Duden	tu_123_xTok_000086
+den	d	ART	Duden	tu_123_xTok_000088
+einbekennten	einbekennen	ADJA	Duden	tu_123_xTok_000090
+Raub	Raub	NN	Duden	tu_123_xTok_000092
+auf	auf	APPR	Duden	tu_123_xTok_000093
+einen	ein	ART	Duden	tu_123_xTok_000095
+Karren	Karren	NN	Duden	tu_123_xTok_000097
+zur	zur	APPRART	Duden	tu_123_xTok_000099
+Richtstatt	Richtstatt	NN	DWB	tu_123_xTok_000101
+geführet	führen	VVPP	Duden	tu_123_xTok_000103
+<g/>
+,
+ihm	er	PPER	Duden	tu_123_xTok_000106
+alldort	alldort	ADV	DWB	tu_123_xTok_000108
+die	d	ART	Duden	tu_123_xTok_000110
+rechte	rechte	ADJA	Duden	tu_123_xTok_000112
+Hand	Hand	NN	Duden	tu_123_xTok_000114
+abgehauet	abhauen	VVPP	Duden	tu_123_xTok_000116
+<g/>
+,
+und	und	KON	Duden	tu_123_xTok_000118
+sodann	sodann	ADV	Duden	tu_123_xTok_000120
+<g/>
+,
+obwohl	obwohl	KOUS	Duden	tu_123_xTok_000123
+er	er	PPER	Duden	tu_123_xTok_000125
+vermög	vermöge	APPR	Duden	tu_123_xTok_000127
+des	d	ART	Duden	tu_123_xTok_000129
+unterm	unterm	APPRART	Duden	tu_123_xTok_000131
+7.	7	ADJA		tu_123_xTok_000133
+Julii	Juli	NN	Duden	tu_123_xTok_000135
+anheuer	anheuer	ADV	oov	tu_123_xTok_000137
+ergangenen	ergehen	ADJA	Duden	tu_123_xTok_000139
+Generalmandats	Generalmandat	NN	DRW	tu_123_xTok_000141
+lebendig	lebendig	ADJD	Duden	tu_123_xTok_000144
+gerädert	rädern	VVPP	Duden	tu_123_xTok_000146
+zu	zu	PTKZU	Duden	tu_123_xTok_000148
+werden	werden	VAINF	Duden	tu_123_xTok_000150
+<g/>
+,
+allerdings	allerdings	ADV	Duden	tu_123_xTok_000153
+verdienet	verdienen	VVPP	Duden	tu_123_xTok_000155
+hätte	haben	VAFIN	Duden	tu_123_xTok_000157
+<g/>
+,
+von	von	APPR	Duden	tu_123_xTok_000160
+dem	d	ART	Duden	tu_123_xTok_000162
+Scharfrichter	Scharfrichter	NN	Duden	tu_123_xTok_000164
+mit	mit	APPR	Duden	tu_123_xTok_000167
+dem	d	ART	Duden	tu_123_xTok_000169
+Rade	Rad	NN	Duden	tu_123_xTok_000171
+<g/>
+,
+in	in	APPR	Duden	tu_123_xTok_000174
+Ansehung	Ansehung	NN	Duden	tu_123_xTok_000176
+seiner	sein	PPOSAT	Duden	tu_123_xTok_000178
+todtesgefährlichen	todesgefährlich	ADJA	DWB	tu_123_xTok_000180
+vielen	viel	PIAT	Duden	tu_123_xTok_000182
+Wunden	Wunde	NN	Duden	tu_123_xTok_000184
+<g/>
+,
+und	und	KON	Duden	tu_123_xTok_000187
+gleich	gleich	ADV	Duden	tu_123_xTok_000189
+bey	bei	APPR	Duden	tu_123_xTok_000191
+seiner	sein	PPOSAT	Duden	tu_123_xTok_000193
+ersten	erste	ADJA	Duden	tu_123_xTok_000195
+Verhör	Verhör	NN	Duden	tu_123_xTok_000197
+gemachten	machen	ADJA	Duden	tu_123_xTok_000199
+Geständniß	Geständnis	NN	Duden	tu_123_xTok_000201
+<g/>
+,
+von	von	APPR	Duden	tu_123_xTok_000204
+obenherab	obenherab	ADV	DWB	tu_123_xTok_000206
+durch	durch	APPR	Duden	tu_123_xTok_000208
+Zerstoßung	Zerstoßung	NN	oov	tu_123_xTok_000210
+seiner	sein	PPOSAT	Duden	tu_123_xTok_000212
+Glieder	Glied	NN	Duden	tu_123_xTok_000214
+vom	vom	APPRART	Duden	tu_123_xTok_000216
+Leben	Leben	NN	Duden	tu_123_xTok_000218
+zum	zum	APPRART	Duden	tu_123_xTok_000220
+Tode	Tod	NN	Duden	tu_123_xTok_000222
+hingerichtet	hinrichten	VVPP	Duden	tu_123_xTok_000224
+worden	werden	VAPP	Duden	tu_123_xTok_000226
+<g/>
+.
+</titlePart>
 <head>
 Urgicht	Urgicht	NN	DWB	tu_123_xTok_000229
 <g/>

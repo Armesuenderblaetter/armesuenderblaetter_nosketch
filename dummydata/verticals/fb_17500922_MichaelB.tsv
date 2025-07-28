@@ -1,4 +1,89 @@
 <doc id="fb_17500922_MichaelB" delinquent_sexes="male" title="Todesurteil Michael B." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_51_xTok_000002
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_51_xTok_000003
+<g/>
+/
+Einer	ein	ART	Duden	tu_51_xTok_000009
+verheyratheten	verheiratet	ADJA	Duden	tu_51_xTok_000011
+Manns=Persohn	Mannsperson	NN	Duden	tu_51_xTok_000013
+<g/>
+,
+Nahmens	namens	ADV	Duden	tu_51_xTok_000015
+<persName id="michaelb51">
+Michael	Michael	NE	Duden	tu_51_xTok_000016
+B.	B.	NE	oov	tu_51_xTok_000020
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_51_xTok_000022
+Religion	Religion	NN	Duden	tu_51_xTok_000024
+<g/>
+,
+<placeName id="pn51">
+aus	aus	APPR	Duden	tu_51_xTok_000027
+dem	d	ART	Duden	tu_51_xTok_000029
+Saltzburgischen	salzburgisch	ADJ-NN	Duden	tu_51_xTok_000031
+von	von	APPR	Duden	tu_51_xTok_000034
+dem	d	ART	Duden	tu_51_xTok_000036
+Thal	Tal	NN	Duden	tu_51_xTok_000038
+in	in	APPR	Duden	tu_51_xTok_000040
+Zeder=Haus	Zederhaus	NE::top	oov	tu_51_xTok_000042
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_51_xTok_000044
+<g/>
+,
+bey	bei	APPR	Duden	tu_51_xTok_000048
+39.	39	CARD		tu_51_xTok_000050
+Jahre	Jahr	NN	Duden	tu_51_xTok_000052
+alt	alt	ADJD	Duden	tu_51_xTok_000054
+<g/>
+,
+ein	ein	ART	Duden	tu_51_xTok_000057
+Tagwercker	Tagwerker	NN	Duden	tu_51_xTok_000059
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Welcher	welch	PRELS	Duden	tu_51_xTok_000061
+heut	heute	ADV	Duden	tu_51_xTok_000063
+Dato	dato	ADV	Duden	tu_51_xTok_000065
+den	d	ART	Duden	tu_51_xTok_000067
+<date id="date51">
+22.	22	ADJA		tu_51_xTok_000069
+Septembris	September	NN	Duden	tu_51_xTok_000071
+1750.	1750	CARD		tu_51_xTok_000073
+</date>
+vor	vor	APPR	Duden	tu_51_xTok_000074
+dem	d	ART	Duden	tu_51_xTok_000076
+Schotten=Thor	Schottentor	NE::top	oov	tu_51_xTok_000078
+auf	auf	APPR	Duden	tu_51_xTok_000080
+dasiger	dasig	ADJA	Duden	tu_51_xTok_000082
+Richtstatt	Richtstatt	NN	DWB	tu_51_xTok_000084
+mit	mit	APPR	Duden	tu_51_xTok_000086
+dem	d	ART	Duden	tu_51_xTok_000088
+Schwerdt	Schwert	NN	Duden	tu_51_xTok_000089
+vom	vom	APPRART	Duden	tu_51_xTok_000091
+Leben	Leben	NN	Duden	tu_51_xTok_000093
+zum	zum	APPRART	Duden	tu_51_xTok_000095
+Todt	Tod	NN	Duden	tu_51_xTok_000097
+hingerichtet	hinrichten	VVPP	Duden	tu_51_xTok_000099
+wird	werden	VAFIN	Duden	tu_51_xTok_000100
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Den	d	ART	Duden	tu_51_xTok_000102
+Jnnhalt	Inhalt	NN	Duden	tu_51_xTok_000104
+seines	sein	PPOSAT	Duden	tu_51_xTok_000106
+Verbrechens	Verbrechen	NN	Duden	tu_51_xTok_000108
+wird	werden	VAFIN	Duden	tu_51_xTok_000110
+der	d	ART	Duden	tu_51_xTok_000112
+geneigte	geneigt	ADJA	Duden	tu_51_xTok_000114
+Leser	Leser	NN	Duden	tu_51_xTok_000116
+hierinnen	hierinnen	PAV	Duden	tu_51_xTok_000117
+finden	finden	VVINF	Duden	tu_51_xTok_000119
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_51_xTok_000139
 des	d	ART	Duden	tu_51_xTok_000141

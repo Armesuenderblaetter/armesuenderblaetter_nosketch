@@ -1,4 +1,96 @@
 <doc id="fb_17720612_JosephZ" delinquent_sexes="male" title="Todesurteil Joseph Z." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_98_xTok_000001
+einer	ein	ART	Duden	tu_98_xTok_000003
+verheuratheten	verheiratet	ADJA	Duden	tu_98_xTok_000005
+Mannsperson	Mannsperson	NN	Duden	tu_98_xTok_000007
+<g/>
+,
+Namens	namens	ADV	Duden	tu_98_xTok_000009
+<g/>
+:
+<persName id="josephz98">
+Joseph	Joseph	NE	Duden	tu_98_xTok_000011
+Z.	Z.	NE	oov	tu_98_xTok_000013
+</persName>
+alt	alt	ADJD	Duden	tu_98_xTok_000015
+39.	39	CARD		tu_98_xTok_000017
+Jahre	Jahr	NN	Duden	tu_98_xTok_000019
+<g/>
+,
+zu	zu	APPR	Duden	tu_98_xTok_000021
+<placeName id="pn98">
+Regenspurg	Regensburg	NE::top	Duden	tu_98_xTok_000023
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_98_xTok_000025
+<g/>
+,
+und	und	KON	Duden	tu_98_xTok_000027
+Katholischer	katholisch	ADJA	Duden	tu_98_xTok_000028
+Religion	Religion	NN	Duden	tu_98_xTok_000030
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_98_xTok_000032
+in	in	APPR	Duden	tu_98_xTok_000034
+Folge	Folge	NN	Duden	tu_98_xTok_000036
+der	d	ART	Duden	tu_98_xTok_000038
+bey	bei	APPR	Duden	tu_98_xTok_000040
+dem	d	ART	Duden	tu_98_xTok_000042
+Kaiserl.	kaiserlich	ADJA	Duden	tu_98_xTok_000044
+Königl.	königlich	ADJA	Duden	tu_98_xTok_000047
+Stadt	Stadtgericht	TRUNC	Duden	tu_98_xTok_000050
+und	und	KON	Duden	tu_98_xTok_000051
+Landgerichte	Landgericht	NN	Duden	tu_98_xTok_000053
+allhier	allhier	ADV	Duden	tu_98_xTok_000055
+wider	wider	APPR	Duden	tu_98_xTok_000057
+ihn	er	PPER	Duden	tu_98_xTok_000059
+abgeführten	abführen	ADJA	DRW	tu_98_xTok_000061
+Kriminalverfahrung	Kriminalverfahrung	NN	oov	tu_98_xTok_000063
+<g/>
+,
+und	und	KON	Duden	tu_98_xTok_000067
+darüber	darüber	PAV	Duden	tu_98_xTok_000069
+geschöpften	schöpfen	ADJA	Duden	tu_98_xTok_000071
+<g/>
+,
+auch	auch	ADV	Duden	tu_98_xTok_000074
+von	von	APPR	Duden	tu_98_xTok_000076
+einer	ein	ART	Duden	tu_98_xTok_000078
+hochlöbl.	hochlöblich	ADJA	Duden	tu_98_xTok_000079
+Landesfürstlichen	landesfürstlich	ADJA	DWB	tu_98_xTok_000082
+Niederösterreichischen	niederösterreichisch	ADJA	Duden	tu_98_xTok_000084
+Regierung	Regierung	NN	Duden	tu_98_xTok_000086
+bestättigten	bestätigen	ADJA	Duden	tu_98_xTok_000089
+Erkänntniß	Erkenntnis	NN	Duden	tu_98_xTok_000091
+an	an	APPR	Duden	tu_98_xTok_000093
+gleich ernannten	gleichernannt	ADJA		tu_98_xTok_000095
+Joseph	Joseph	NE	Duden	tu_98_xTok_000099
+Z.	Z.	NE	oov	tu_98_xTok_000102
+dem	d	ART	Duden	tu_98_xTok_000105
+zu	zu	APPR	Duden	tu_98_xTok_000107
+Ende	Ende	NN	Duden	tu_98_xTok_000109
+angeführten	angeführt	ADJA	Duden	tu_98_xTok_000111
+Jnnhalte	Inhalt	NN	Duden	tu_98_xTok_000113
+gemäß	gemäß	APPO	Duden	tu_98_xTok_000115
+<g/>
+,
+heut	heute	ADV	Duden	tu_98_xTok_000118
+den	d	ART	Duden	tu_98_xTok_000119
+<date id="date98">
+12.	12	ADJA		tu_98_xTok_000121
+Brachmonats	Brachmonat	NN	Duden	tu_98_xTok_000124
+1772.	1772	CARD		tu_98_xTok_000126
+</date>
+allhier	allhier	ADV	Duden	tu_98_xTok_000128
+in	in	APPR	Duden	tu_98_xTok_000130
+Wien	Wien	NE::top	Duden	tu_98_xTok_000132
+vollzogen	vollziehen	VVPP	Duden	tu_98_xTok_000133
+wird	werden	VAFIN	Duden	tu_98_xTok_000135
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_98_xTok_000137
 seines	sein	PPOSAT	Duden	tu_98_xTok_000139
@@ -626,6 +718,7 @@ Urtheils	Urteil	NN	Duden	tu_98_xTok_001188
 .
 </head>
 <p id="fb_17720612_JosephZ_p_0005">
+Diser	diese	PDAT	Duden	tu_98_xTok_001190
 Joseph	Joseph	NE	Duden	tu_98_xTok_001192
 Z.	Z.	NE	oov	tu_98_xTok_001194
 solle	sollen	VMFIN	Duden	tu_98_xTok_001197

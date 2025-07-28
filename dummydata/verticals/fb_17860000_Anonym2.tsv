@@ -1,4 +1,25 @@
 <doc id="fb_17860000_Anonym2" delinquent_sexes="male" title="Beschreibung des Mordes an einem anonymen Mädchen" attrs="word lemma pos vocab id">
+<titlePart type="main">
+Ausführliche	ausführlich	ADJA	Duden	tu_128_xTok_000001
+Beschreibung	Beschreibung	NN	Duden	tu_128_xTok_000003
+von	von	APPR	Duden	tu_128_xTok_000004
+einem	ein	ART	Duden	tu_128_xTok_000006
+Mädchen	Mädchen	NN	Duden	tu_128_xTok_000007
+<g/>
+,
+das	d	PRELS	Duden	tu_128_xTok_000012
+ihr	ihr	PPOSAT	Duden	tu_128_xTok_000013
+eigener	eigen	ADJA	Duden	tu_128_xTok_000015
+Liebhaber	Liebhaber	NN	Duden	tu_128_xTok_000017
+im	im	APPRART	Duden	tu_128_xTok_000019
+Prater	Prater	NE::top	Duden	tu_128_xTok_000021
+in	in	APPR	Duden	tu_128_xTok_000024
+die	d	ART	Duden	tu_128_xTok_000026
+Donau	Donau	NE::top	Duden	tu_128_xTok_000028
+gestürzet	stürzen	VVPP	Duden	tu_128_xTok_000030
+<g/>
+.
+</titlePart>
 <p id="fb_17860000_Anonym2_p_0001">
 Vor	vor	APPR	Duden	tu_128_xTok_000034
 einigen	einige	PIAT	Duden	tu_128_xTok_000037

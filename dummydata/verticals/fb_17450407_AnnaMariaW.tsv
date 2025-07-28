@@ -1,4 +1,81 @@
 <doc id="fb_17450407_AnnaMariaW" delinquent_sexes="female" title="Todesurteil Anna Maria W." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_26_xTok_000002
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_26_xTok_000003
+<g/>
+/
+Einer	ein	ART	Duden	tu_26_xTok_000010
+ledigen	ledig	ADJA	Duden	tu_26_xTok_000013
+Weibs=Persohn	Weibsperson	NN	Duden	tu_26_xTok_000015
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_26_xTok_000022
+<persName id="annamariaw26">
+Anna	Anna	NE	Duden	tu_26_xTok_000023
+Maria	Maria	NE	Duden	tu_26_xTok_000026
+W.	W.	NE	oov	tu_26_xTok_000029
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_26_xTok_000031
+Religion	Religion	NN	Duden	tu_26_xTok_000034
+<g/>
+/
+von	von	APPR	Duden	tu_26_xTok_000039
+<placeName id="pn26">
+Stockerau	Stockerau	NE::top	Duden	tu_26_xTok_000041
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_26_xTok_000045
+<g/>
+/
+ihres	ihr	PPOSAT	Duden	tu_26_xTok_000049
+Alters	Alter	NN	Duden	tu_26_xTok_000051
+24.	24	CARD		tu_26_xTok_000053
+Jahr	Jahr	NN	Duden	tu_26_xTok_000055
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welche	welch	PRELS	Duden	tu_26_xTok_000057
+heunt	heute	ADV	Duden	tu_26_xTok_000059
+Dato	dato	ADV	Duden	tu_26_xTok_000061
+den	d	ART	Duden	tu_26_xTok_000063
+<date id="date26">
+7ten	7	ADJA		tu_26_xTok_000065
+April	April	NN	Duden	tu_26_xTok_000068
+1745.	1745	CARD		tu_26_xTok_000070
+</date>
+andern	ander	PIS	Duden	tu_26_xTok_000072
+ihres gleichen	ihresgleichen	PIS		tu_26_xTok_000074
+zum	zum	APPRART	Duden	tu_26_xTok_000077
+Beyspiel	Beispiel	NN	Duden	tu_26_xTok_000079
+auf	auf	APPR	Duden	tu_26_xTok_000081
+dem	d	ART	Duden	tu_26_xTok_000083
+Wienner=Berg	Wienerberg	NE::top	oov	tu_26_xTok_000085
+mit	mit	APPR	Duden	tu_26_xTok_000087
+dem	d	ART	Duden	tu_26_xTok_000089
+Schwerd	Schwert	NN	Duden	tu_26_xTok_000090
+vom	vom	APPRART	Duden	tu_26_xTok_000092
+Leben	Leben	NN	Duden	tu_26_xTok_000094
+zum	zum	APPRART	Duden	tu_26_xTok_000096
+Todt	Tod	NN	Duden	tu_26_xTok_000098
+hingerichtet	hinrichten	VVPP	Duden	tu_26_xTok_000100
+wird	werden	VAFIN	Duden	tu_26_xTok_000102
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Der	d	ART	Duden	tu_26_xTok_000104
+Jnnhalt	Inhalt	NN	Duden	tu_26_xTok_000106
+ihres	ihr	PPOSAT	Duden	tu_26_xTok_000108
+Verbrechen	Verbrechen	NN	Duden	tu_26_xTok_000110
+wird	werden	VAFIN	Duden	tu_26_xTok_000112
+der	d	ART	Duden	tu_26_xTok_000114
+geneigte	geneigt	ADJA	Duden	tu_26_xTok_000116
+Leser	Leser	NN	Duden	tu_26_xTok_000118
+hierinnen	hierinnen	PAV	Duden	tu_26_xTok_000119
+finden	finden	VVINF	Duden	tu_26_xTok_000121
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_26_xTok_000141
 des	d	ART	Duden	tu_26_xTok_000144

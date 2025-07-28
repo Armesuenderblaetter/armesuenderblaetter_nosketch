@@ -1,4 +1,108 @@
 <doc id="fb_17780827_JohannH_MichaelH" delinquent_sexes="male" title="Todesurteil Johann H., Michael H." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_115_xTok_000001
+zweyer	zwei	CARD	Duden	tu_115_xTok_000004
+Brüder	Bruder	NN	Duden	tu_115_xTok_000006
+<g/>
+,
+Namens	namens	ADV	Duden	tu_115_xTok_000009
+<persName id="johannh115">
+Johann	Johann	NE	Duden	tu_115_xTok_000011
+H.	H.	NE	oov	tu_115_xTok_000013
+</persName>
+36	36	CARD		tu_115_xTok_000016
+Jahre	Jahr	NN	Duden	tu_115_xTok_000018
+alt	alt	ADJD	Duden	tu_115_xTok_000020
+<g/>
+,
+verheyrathet	verheiratet	ADJD	Duden	tu_115_xTok_000022
+<g/>
+,
+dann	dann	ADV	Duden	tu_115_xTok_000025
+<persName id="michaelh115">
+Michael	Michael	NE	Duden	tu_115_xTok_000027
+H.	H.	NE	oov	tu_115_xTok_000029
+</persName>
+alt	alt	ADJD	Duden	tu_115_xTok_000032
+32	32	CARD		tu_115_xTok_000034
+Jahr	Jahr	NN	Duden	tu_115_xTok_000036
+<g/>
+,
+ledigen	ledig	ADJA	Duden	tu_115_xTok_000038
+Standes	Stand	NN	Duden	tu_115_xTok_000040
+<g/>
+,
+beede	beide	PIS	Duden	tu_115_xTok_000043
+zu	zu	APPR	Duden	tu_115_xTok_000045
+<placeName id="pn115">
+Riegersdorf	Riegersdorf	NE::top	oov	tu_115_xTok_000047
+unweit	unweit	APPR	Duden	tu_115_xTok_000049
+Korneuburg	Korneuburg	NE::top	oov	tu_115_xTok_000051
+V. U. M. B.	ViertelunterManhartsberg	NE::top		tu_115_xTok_000054
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_115_xTok_000066
+<g/>
+,
+und	und	KON	Duden	tu_115_xTok_000069
+katholischer	katholisch	ADJA	Duden	tu_115_xTok_000071
+Religion	Religion	NN	Duden	tu_115_xTok_000073
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+welches	welch	PRELS	Duden	tu_115_xTok_000075
+an	an	APPR	Duden	tu_115_xTok_000080
+denselben	derselbe	PDS	Duden	tu_115_xTok_000082
+in	in	APPR	Duden	tu_115_xTok_000084
+Folge	Folge	NN	Duden	tu_115_xTok_000086
+der	d	ART	Duden	tu_115_xTok_000088
+bey	bei	APPR	Duden	tu_115_xTok_000090
+dem	d	ART	Duden	tu_115_xTok_000092
+alhiesigen	allhiesig	ADJA	DWB	tu_115_xTok_000094
+k.	kaiserlich	ADJA	Duden	tu_115_xTok_000096
+k.	königlich	ADJA	Duden	tu_115_xTok_000099
+Stadt	Stadtgericht	TRUNC	Duden	tu_115_xTok_000102
+und	und	KON	Duden	tu_115_xTok_000104
+Landgerichte	Landgericht	NN	Duden	tu_115_xTok_000106
+wider	wider	APPR	Duden	tu_115_xTok_000108
+sie	sie	PPER	Duden	tu_115_xTok_000110
+abgeführten	abführen	ADJA	DRW	tu_115_xTok_000112
+Criminalverfahrungen	Kriminalverfahrung	NN	oov	tu_115_xTok_000114
+und	und	KON	Duden	tu_115_xTok_000116
+darüber	darüber	PAV	Duden	tu_115_xTok_000118
+geschöpften	schöpfen	ADJA	Duden	tu_115_xTok_000120
+<g/>
+,
+auch	auch	ADV	Duden	tu_115_xTok_000123
+von	von	APPR	Duden	tu_115_xTok_000125
+einer	ein	ART	Duden	tu_115_xTok_000127
+hochlöblich	hochlöblich	ADJA	Duden	tu_115_xTok_000129
+landesfürstlich	landesfürstlich	ADJA	DWB	tu_115_xTok_000131
+Nied. Oest.	niederösterreichisch	ADJA		tu_115_xTok_000134
+Regierung	Regierung	NN	Duden	tu_115_xTok_000140
+bestättigten	bestätigen	ADJA	Duden	tu_115_xTok_000142
+Erkänntnisse	Erkenntnis	NN	Duden	tu_115_xTok_000144
+dem	d	ART	Duden	tu_115_xTok_000146
+zu	zu	APPR	Duden	tu_115_xTok_000148
+Ende	Ende	NN	Duden	tu_115_xTok_000150
+angeführten	angeführt	ADJA	Duden	tu_115_xTok_000152
+Jnhalte	Inhalt	NN	Duden	tu_115_xTok_000154
+gemäß	gemäß	APPO	Duden	tu_115_xTok_000156
+heut	heute	ADV	Duden	tu_115_xTok_000158
+den	d	ART	Duden	tu_115_xTok_000160
+<date id="date115">
+27.	27	ADJA		tu_115_xTok_000162
+August	August	NN	Duden	tu_115_xTok_000164
+1778.	1778	CARD		tu_115_xTok_000165
+</date>
+alhier	allhier	ADV	Duden	tu_115_xTok_000167
+in	in	APPR	Duden	tu_115_xTok_000169
+Wien	Wien	NE::top	Duden	tu_115_xTok_000171
+vollzogen	vollziehen	VVPP	Duden	tu_115_xTok_000173
+wird	werden	VAFIN	Duden	tu_115_xTok_000175
+<g/>
+.
+</titlePart>
 <head>
 Jnhalt	Inhalt	NN	Duden	tu_115_xTok_000177
 ihrer	ihr	PPOSAT	Duden	tu_115_xTok_000179
@@ -366,6 +470,7 @@ dessen	d	PDAT	Duden	tu_115_xTok_000830
 <g/>
 ,
 als	als	KON	Duden	tu_115_xTok_000833
+als	als	KON	Duden	tu_115_xTok_000835
 auch	auch	ADV	Duden	tu_115_xTok_000837
 anderer	andere	ADJA	Duden	tu_115_xTok_000839
 gerichtlich	gerichtlich	ADJD	Duden	tu_115_xTok_000841

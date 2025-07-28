@@ -1,4 +1,127 @@
 <doc id="fb_17450522_AndreasM" delinquent_sexes="male" title="Todesurteil Andreas M." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_29_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_29_xTok_000002
+<g/>
+/
+Einer	ein	ART	Duden	tu_29_xTok_000009
+verheyraten	verheiratet	ADJA	Duden	tu_29_xTok_000012
+Manns=Persohn	Mannsperson	NN	Duden	tu_29_xTok_000014
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_29_xTok_000021
+<persName id="andreasm29">
+Andreas	Andreas	NE	Duden	tu_29_xTok_000022
+M.	M.	NE	oov	tu_29_xTok_000025
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_29_xTok_000027
+Religion	Religion	NN	Duden	tu_29_xTok_000030
+<g/>
+/
+<placeName id="pn29">
+unter	unter	APPR	Duden	tu_29_xTok_000035
+den	d	ART	Duden	tu_29_xTok_000037
+Wiennerberg	Wienerberg	NE::top	oov	tu_29_xTok_000038
+zu	zu	APPR	Duden	tu_29_xTok_000040
+Jntzerstorf	Inzersdorf	NE::top	oov	tu_29_xTok_000042
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_29_xTok_000044
+seines	sein	PPOSAT	Duden	tu_29_xTok_000046
+Alters	Alter	NN	Duden	tu_29_xTok_000049
+25.	25	CARD		tu_29_xTok_000051
+Jahr	Jahr	NN	Duden	tu_29_xTok_000053
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welcher	welch	PRELS	Duden	tu_29_xTok_000055
+heut	heute	ADV	Duden	tu_29_xTok_000057
+Dato	dato	ADV	Duden	tu_29_xTok_000059
+den	d	ART	Duden	tu_29_xTok_000061
+<date id="date29">
+22.	22	ADJA		tu_29_xTok_000063
+May	Mai	NN	Duden	tu_29_xTok_000065
+1745.	1745	CARD		tu_29_xTok_000067
+</date>
+anderen	ander	PIS	Duden	tu_29_xTok_000069
+seines gleichen	seinesgleichen	PIS		tu_29_xTok_000071
+zum	zum	APPRART	Duden	tu_29_xTok_000074
+Beyspiel	Beispiel	NN	Duden	tu_29_xTok_000076
+auf	auf	APPR	Duden	tu_29_xTok_000078
+den	d	ART	Duden	tu_29_xTok_000080
+hohen	hoch	ADJA	Duden	tu_29_xTok_000082
+Wagen	Wagen	NN	Duden	tu_29_xTok_000084
+gesetzet	setzen	VVPP	Duden	tu_29_xTok_000086
+<g/>
+/
+und	und	KON	Duden	tu_29_xTok_000090
+sodann	sodann	ADV	Duden	tu_29_xTok_000092
+auf	auf	APPR	Duden	tu_29_xTok_000095
+dem	d	ART	Duden	tu_29_xTok_000097
+Wiennerberg	Wienerberg	NE::top	oov	tu_29_xTok_000099
+zum	zum	APPRART	Duden	tu_29_xTok_000101
+Räder=Creutz	Räderkreuz	NN	oov	tu_29_xTok_000103
+auf	auf	APPR	Duden	tu_29_xTok_000105
+die	d	ART	Duden	tu_29_xTok_000107
+alldasige	alldasig	ADJA	oov	tu_29_xTok_000109
+Richtstatt	Richtstatt	NN	DWB	tu_29_xTok_000112
+geführet	führen	VVPP	Duden	tu_29_xTok_000114
+<g/>
+/
+daselbst	daselbst	ADV	Duden	tu_29_xTok_000118
+durch	durch	APPR	Duden	tu_29_xTok_000120
+das	d	ART	Duden	tu_29_xTok_000122
+Schwerd	Schwert	NN	Duden	tu_29_xTok_000124
+vom	vom	APPRART	Duden	tu_29_xTok_000126
+Leben	Leben	NN	Duden	tu_29_xTok_000128
+zum	zum	APPRART	Duden	tu_29_xTok_000129
+Todt	Tod	NN	Duden	tu_29_xTok_000131
+hingerichtet	hinrichten	VVPP	Duden	tu_29_xTok_000133
+<g/>
+/
+sodann	sodann	ADV	Duden	tu_29_xTok_000137
+der	d	ART	Duden	tu_29_xTok_000139
+Cörper	Körper	NN	Duden	tu_29_xTok_000141
+auf	auf	APPR	Duden	tu_29_xTok_000143
+das	d	ART	Duden	tu_29_xTok_000145
+Rad	Rad	NN	Duden	tu_29_xTok_000147
+geleget	legen	VVPP	Duden	tu_29_xTok_000149
+<g/>
+/
+der	d	ART	Duden	tu_29_xTok_000154
+Kopf	Kopf	NN	Duden	tu_29_xTok_000156
+auf	auf	APPR	Duden	tu_29_xTok_000158
+den	d	ART	Duden	tu_29_xTok_000160
+Pfahl	Pfahl	NN	Duden	tu_29_xTok_000162
+gestecket	stecken	VVPP	Duden	tu_29_xTok_000164
+<g/>
+/
+und	und	KON	Duden	tu_29_xTok_000168
+darüber	darüber	PAV	Duden	tu_29_xTok_000170
+ein	ein	ART	Duden	tu_29_xTok_000172
+Galgen	Galgen	NN	Duden	tu_29_xTok_000173
+mit	mit	APPR	Duden	tu_29_xTok_000175
+den	d	ART	Duden	tu_29_xTok_000177
+Strang	Strang	NN	Duden	tu_29_xTok_000179
+aufgerichtet	aufrichten	VVPP	Duden	tu_29_xTok_000181
+wird	werden	VAFIN	Duden	tu_29_xTok_000183
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Der	d	ART	Duden	tu_29_xTok_000185
+Jnnhalt	Inhalt	NN	Duden	tu_29_xTok_000187
+seines	sein	PPOSAT	Duden	tu_29_xTok_000189
+Verbrechen	Verbrechen	NN	Duden	tu_29_xTok_000191
+wird	werden	VAFIN	Duden	tu_29_xTok_000193
+der	d	ART	Duden	tu_29_xTok_000195
+geneigte	geneigt	ADJA	Duden	tu_29_xTok_000197
+Leser	Leser	NN	Duden	tu_29_xTok_000199
+hierinnen	hierinnen	PAV	Duden	tu_29_xTok_000200
+finden	finden	VVINF	Duden	tu_29_xTok_000202
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_29_xTok_000222
 des	d	ART	Duden	tu_29_xTok_000225

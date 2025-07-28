@@ -1,4 +1,101 @@
 <doc id="fb_17571022_NiclasSt" delinquent_sexes="male" title="Todesurteil Niclas St." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_66_xTok_000002
+Einer	ein	ART	Duden	tu_66_xTok_000007
+ledigen	ledig	ADJA	Duden	tu_66_xTok_000009
+Manns=person	Mannsperson	NN	Duden	tu_66_xTok_000011
+<g/>
+,
+Namens	namens	ADV	Duden	tu_66_xTok_000013
+<g/>
+:
+<persName id="niclasst66">
+Niclas	Niklas	NE	Duden	tu_66_xTok_000015
+St.	St.	NE	oov	tu_66_xTok_000017
+</persName>
+Ohne	ohne	APPR	Duden	tu_66_xTok_000019
+Profeßion	Profession	NN	Duden	tu_66_xTok_000021
+<g/>
+,
+Alt	alt	ADJD	Duden	tu_66_xTok_000023
+28.	28	CARD		tu_66_xTok_000025
+Jahr	Jahr	NN	Duden	tu_66_xTok_000028
+<g/>
+,
+Von	von	APPR	Duden	tu_66_xTok_000030
+<placeName id="pn66">
+Preßburg	Pressburg	NE::top	Duden	tu_66_xTok_000032
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_66_xTok_000034
+<g/>
+,
+und	und	KON	Duden	tu_66_xTok_000037
+Catholischer	katholisch	ADJA	Duden	tu_66_xTok_000039
+Religion	Religion	NN	Duden	tu_66_xTok_000041
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_66_xTok_000043
+zufolge	zufolge	APPO	Duden	tu_66_xTok_000046
+der	d	ART	Duden	tu_66_xTok_000048
+bey	bei	APPR	Duden	tu_66_xTok_000050
+dem	d	ART	Duden	tu_66_xTok_000052
+allhiesigen	allhiesig	ADJA	DWB	tu_66_xTok_000054
+Kaiserl.	kaiserlich	ADJA	Duden	tu_66_xTok_000056
+Königl.	königlich	ADJA	Duden	tu_66_xTok_000059
+Stadt=	Stadtgericht	TRUNC	Duden	tu_66_xTok_000062
+und	und	KON	Duden	tu_66_xTok_000064
+Land=gericht	Landgericht	NN	Duden	tu_66_xTok_000066
+abgeführten	abführen	ADJA	DRW	tu_66_xTok_000068
+Criminal-verfahrung	Kriminalverfahrung	NN	oov	tu_66_xTok_000071
+<g/>
+,
+und	und	KON	Duden	tu_66_xTok_000075
+darüber	darüber	PAV	Duden	tu_66_xTok_000077
+geschöpften	schöpfen	ADJA	Duden	tu_66_xTok_000079
+<g/>
+,
+auch	auch	ADV	Duden	tu_66_xTok_000082
+von	von	APPR	Duden	tu_66_xTok_000084
+Einer	ein	ART	Duden	tu_66_xTok_000086
+Hoch=löbl.	hochlöblich	ADJA	Duden	tu_66_xTok_000088
+Landes=fürstl.	landesfürstlich	ADJA	DWB	tu_66_xTok_000091
+N. Oesterreichischen	niederösterreichisch	ADJA		tu_66_xTok_000094
+Regierung	Regierung	NN	Duden	tu_66_xTok_000100
+in	in	APPR	Duden	tu_66_xTok_000102
+Justiz=sachen	Justizsache	NN	DRW	tu_66_xTok_000104
+bestättigten	bestätigen	ADJA	Duden	tu_66_xTok_000106
+Erkanntnuß	Erkanntnis	NN	DWB	tu_66_xTok_000108
+<g/>
+,
+an	an	APPR	Duden	tu_66_xTok_000111
+gleich=ernannten	gleichernannt	ADJA	oov	tu_66_xTok_000113
+Niclas	Niklas	NE	Duden	tu_66_xTok_000115
+St.	St.	NE	oov	tu_66_xTok_000117
+dem	d	ART	Duden	tu_66_xTok_000120
+zu	zu	APPR	Duden	tu_66_xTok_000121
+End	Ende	NN	Duden	tu_66_xTok_000123
+angefügten	anfügen	ADJA	Duden	tu_66_xTok_000125
+Jnnhalt	Inhalt	NN	Duden	tu_66_xTok_000127
+gemäß	gemäß	APPO	Duden	tu_66_xTok_000129
+<g/>
+,
+heut	heute	ADV	Duden	tu_66_xTok_000132
+den	d	ART	Duden	tu_66_xTok_000134
+<date id="date66">
+22.	22	ADJA		tu_66_xTok_000136
+Oct.	Oktober	NN	Duden	tu_66_xTok_000138
+1757.	1757	CARD		tu_66_xTok_000140
+</date>
+allhier	allhier	ADV	Duden	tu_66_xTok_000142
+in	in	APPR	Duden	tu_66_xTok_000144
+Wien	Wien	NE::top	Duden	tu_66_xTok_000146
+vollzogen	vollziehen	VVPP	Duden	tu_66_xTok_000148
+wird	werden	VAFIN	Duden	tu_66_xTok_000150
+<g/>
+.
+</titlePart>
 <p id="fb_17571022_NiclasSt_p_0001">
 Zumalen	zumal	KOUS	Duden	tu_66_xTok_000153
 dieser	diese	PDAT	Duden	tu_66_xTok_000155

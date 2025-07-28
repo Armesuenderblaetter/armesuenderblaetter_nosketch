@@ -1,4 +1,202 @@
 <doc id="fb_17400304_CatharinaH" delinquent_sexes="female" title="Todesurteil Catharina H." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_17_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_17_xTok_000002
+<g/>
+/
+Einer	ein	ART	Duden	tu_17_xTok_000008
+ledigen	ledig	ADJA	Duden	tu_17_xTok_000010
+Weibs=Persohn	Weibsperson	NN	Duden	tu_17_xTok_000012
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_17_xTok_000015
+<persName id="catharinah17">
+Catharina	Catharina	NE	oov	tu_17_xTok_000017
+H.	H.	NE	oov	tu_17_xTok_000019
+</persName>
+Cathol.	katholisch	ADJA	Duden	tu_17_xTok_000021
+Religion	Religion	NN	Duden	tu_17_xTok_000024
+<g/>
+/
+bey	bei	APPR	Duden	tu_17_xTok_000028
+21.	21	CARD		tu_17_xTok_000030
+Jahr	Jahr	NN	Duden	tu_17_xTok_000033
+alt	alt	ADJD	Duden	tu_17_xTok_000035
+<g/>
+/
+von	von	APPR	Duden	tu_17_xTok_000038
+<placeName id="pn17">
+Haitzenberg	Hauzenberg	NE::top	oov	tu_17_xTok_000040
+ohnweit	unweit	APPR	Duden	tu_17_xTok_000042
+Passau	Passau	NE::top	Duden	tu_17_xTok_000044
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_17_xTok_000046
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Um weilen	umweil	KOUS		tu_17_xTok_000048
+dieselbe	dieselbe	PDS	Duden	tu_17_xTok_000052
+in	in	APPR	Duden	tu_17_xTok_000054
+dem	d	ART	Duden	tu_17_xTok_000056
+allhiesigen	allhiesig	ADJA	DWB	tu_17_xTok_000058
+Zucht=	Zuchthaus	TRUNC	Duden	tu_17_xTok_000060
+und	und	KON	Duden	tu_17_xTok_000062
+ArbeitsHauß	Arbeitshaus	NN	Duden	tu_17_xTok_000064
+<g/>
+(
+dahin	dahin	PAV	Duden	tu_17_xTok_000068
+sie	sie	PPER	Duden	tu_17_xTok_000070
+wegen	wegen	APPR	Duden	tu_17_xTok_000072
+wiederhollter massen	wiederholtermaßen	ADV		tu_17_xTok_000074
+begangenen	begehen	ADJA	Duden	tu_17_xTok_000078
+Hauß Diebstahl	Hausdiebstahl	NN		tu_17_xTok_000080
+<g/>
+/
+und	und	KON	Duden	tu_17_xTok_000085
+darüber	darüber	PAV	Duden	tu_17_xTok_000087
+gebrochenen	brechen	ADJA	Duden	tu_17_xTok_000089
+Urphed	Urfehde	NN	Duden	tu_17_xTok_000091
+das	d	ART	Duden	tu_17_xTok_000093
+zweyte	zwei	ADJA	Duden	tu_17_xTok_000095
+mahl	Mal	NN	Duden	tu_17_xTok_000097
+auf	auf	APPR	Duden	tu_17_xTok_000098
+3.	3	CARD		tu_17_xTok_000100
+Jahr	Jahr	NN	Duden	tu_17_xTok_000103
+lang	lang	ADJD	Duden	tu_17_xTok_000105
+condemniret	kondemnieren	VVPP	Duden	tu_17_xTok_000107
+worden	werden	VAPP	Duden	tu_17_xTok_000110
+<g/>
+)
+eine	ein	ART	Duden	tu_17_xTok_000113
+allda	allda	ADV	Duden	tu_17_xTok_000115
+mit=verarrestirte	mitverarrestieren	ADJA	oov	tu_17_xTok_000117
+Weibs=Persohn	Weibsperson	NN	Duden	tu_17_xTok_000122
+aus	aus	APPR	Duden	tu_17_xTok_000124
+obwaltender	obwaltend	ADJA	Duden	tu_17_xTok_000126
+gantz	ganz	ADV	Duden	tu_17_xTok_000128
+gering=fügiger	geringfügig	ADJA	Duden	tu_17_xTok_000130
+Ursach	Ursache	NN	Duden	tu_17_xTok_000131
+<g/>
+/
+und	und	KON	Duden	tu_17_xTok_000135
+dessenthalben	dessenthalben	PAV	Duden	tu_17_xTok_000137
+gefaster	fassen	ADJA	Duden	tu_17_xTok_000139
+widriger	widrig	ADJA	Duden	tu_17_xTok_000141
+Neigung	Neigung	NN	Duden	tu_17_xTok_000143
+<g/>
+/
+durch	durch	APPR	Duden	tu_17_xTok_000147
+zwey	zwei	CARD	Duden	tu_17_xTok_000149
+ihr	sie	PPER	Duden	tu_17_xTok_000150
+mit=Arrestantin	Mitarrestierte	NN	oov	tu_17_xTok_000152
+vermög	vermöge	APPR	Duden	tu_17_xTok_000156
+eines	ein	ART	Duden	tu_17_xTok_000158
+ihnen	sie	PPER	Duden	tu_17_xTok_000160
+gemeinschafftlich=	gemeinschaftlich	ADJA	Duden	tu_17_xTok_000162
+gewesten	sein	ADJA	Duden	tu_17_xTok_000162b
+Wasser=Krugs	Wasserkrug	NN	Duden	tu_17_xTok_000165
+<g/>
+/
+gewaltsam	gewaltsam	ADJD	Duden	tu_17_xTok_000169
+zu	zu	APPR	Duden	tu_17_xTok_000171
+dem	d	ART	Duden	tu_17_xTok_000173
+lincken	linke	ADJA	Duden	tu_17_xTok_000175
+Schlaff	Schlaf	NN	Duden	tu_17_xTok_000177
+zugebrachten	zubringen	ADJA	Duden	tu_17_xTok_000179
+Streichen	Streich	NN	Duden	tu_17_xTok_000182
+<g/>
+/
+dann	dann	ADV	Duden	tu_17_xTok_000186
+vollends	vollends	ADV	Duden	tu_17_xTok_000188
+mit	mit	APPR	Duden	tu_17_xTok_000190
+einen	ein	ART	Duden	tu_17_xTok_000192
+eigenes	eigen	ADJA	Duden	tu_17_xTok_000194
+Fleisses	Fleiß	NN	Duden	tu_17_xTok_000196
+bey	bei	APPR	Duden	tu_17_xTok_000198
+sich	sich	PRF	Duden	tu_17_xTok_000199
+getragenen	tragen	ADJA	Duden	tu_17_xTok_000201
+Spinnrad=Strickels	Spinnradstrick	NN	oov	tu_17_xTok_000203
+beschehenen	beschehen	ADJA	DWB	tu_17_xTok_000205
+gäntzlichen	gänzlich	ADJA	Duden	tu_17_xTok_000207
+Erwürgung	Erwürgung	NN	Duden	tu_17_xTok_000208
+<g/>
+/
+vorsetzlich	vorsätzlich	ADJD	Duden	tu_17_xTok_000212
+um	um	APPR	Duden	tu_17_xTok_000214
+das	d	ART	Duden	tu_17_xTok_000216
+Leben	Leben	NN	Duden	tu_17_xTok_000218
+gebracht	bringen	VVPP	Duden	tu_17_xTok_000220
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Als	als	ADV	Duden	tu_17_xTok_000222
+wird	werden	VAFIN	Duden	tu_17_xTok_000224
+dieselbe	dieselbe	PDS	Duden	tu_17_xTok_000226
+heute	heute	ADV	Duden	tu_17_xTok_000228
+Freytag	Freitag	NN	Duden	tu_17_xTok_000230
+als	als	ADV	Duden	tu_17_xTok_000232
+den	d	ART	Duden	tu_17_xTok_000234
+<date id="date17">
+4.	4	ADJA		tu_17_xTok_000236
+Martij	März	NN	Duden	tu_17_xTok_000238
+1740.	1740	ADJA		tu_17_xTok_000240
+</date>
+Jahrs	Jahr	NN	Duden	tu_17_xTok_000241
+anderen	ander	PIS	Duden	tu_17_xTok_000243
+zum	zum	APPRART	Duden	tu_17_xTok_000245
+Beyspiel	Beispiel	NN	Duden	tu_17_xTok_000247
+auf	auf	APPR	Duden	tu_17_xTok_000249
+dem	d	ART	Duden	tu_17_xTok_000251
+hohen	hoch	ADJA	Duden	tu_17_xTok_000253
+Wagen	Wagen	NN	Duden	tu_17_xTok_000255
+gesetzet	setzen	VVPP	Duden	tu_17_xTok_000257
+<g/>
+/
+zum	zum	APPRART	Duden	tu_17_xTok_000260
+Räder=Creutz	Räderkreuz	NN	oov	tu_17_xTok_000262
+auf	auf	APPR	Duden	tu_17_xTok_000264
+die	d	ART	Duden	tu_17_xTok_000266
+gewöhnliche	gewöhnlich	ADJA	Duden	tu_17_xTok_000268
+Richtstatt	Richtstatt	NN	DWB	tu_17_xTok_000270
+geführet	führen	VVPP	Duden	tu_17_xTok_000272
+<g/>
+/
+daselbst	daselbst	ADV	Duden	tu_17_xTok_000275
+mit	mit	APPR	Duden	tu_17_xTok_000277
+dem	d	ART	Duden	tu_17_xTok_000279
+Schwerd	Schwert	NN	Duden	tu_17_xTok_000281
+vom	vom	APPRART	Duden	tu_17_xTok_000283
+Leben	Leben	NN	Duden	tu_17_xTok_000285
+zum	zum	APPRART	Duden	tu_17_xTok_000287
+Todt	Tod	NN	Duden	tu_17_xTok_000289
+hingerichtet	hinrichten	VVPP	Duden	tu_17_xTok_000291
+<g/>
+/
+der	d	ART	Duden	tu_17_xTok_000294
+Kopf	Kopf	NN	Duden	tu_17_xTok_000296
+aber	aber	ADV	Duden	tu_17_xTok_000298
+auf	auf	APPR	Duden	tu_17_xTok_000300
+einen	ein	ART	Duden	tu_17_xTok_000302
+Pfahl	Pfahl	NN	Duden	tu_17_xTok_000304
+gestecket	stecken	VVPP	Duden	tu_17_xTok_000306
+werden	werden	VAINF	Duden	tu_17_xTok_000308
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+NB.	Notabene	NN	Duden	tu_17_xTok_000310
+Der	d	ART	Duden	tu_17_xTok_000313
+fernere	ferner	ADJA	Duden	tu_17_xTok_000315
+Jnnhalt	Inhalt	NN	Duden	tu_17_xTok_000317
+ihres	ihr	PPOSAT	Duden	tu_17_xTok_000319
+Verbrechens	Verbrechen	NN	Duden	tu_17_xTok_000321
+ist	sein	VAFIN	Duden	tu_17_xTok_000323
+hierinnen	hierinnen	PAV	Duden	tu_17_xTok_000325
+zu	zu	PTKZU	Duden	tu_17_xTok_000327
+vernehmen	vernehmen	VVINF	Duden	tu_17_xTok_000329
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_17_xTok_000344
 des	d	ART	Duden	tu_17_xTok_000347
@@ -162,6 +360,8 @@ und	und	KON	Duden	tu_17_xTok_000649
 kund=gemachten	kundmachen	ADJA	Duden	tu_17_xTok_000651
 Urtheil	Urteil	NN	Duden	tu_17_xTok_000653
 bey	bei	APPR	Duden	tu_17_xTok_000655
+Aussetzun	Aussetzung	NN	Duden	tu_17_xTok_000657
+gauf	auf	APPR	Duden	tu_17_xTok_000659
 den	d	ART	Duden	tu_17_xTok_000661
 hohen	hoch	ADJA	Duden	tu_17_xTok_000663
 Wagen	Wagen	NN	Duden	tu_17_xTok_000665

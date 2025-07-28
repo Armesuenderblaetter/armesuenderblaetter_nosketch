@@ -1,4 +1,82 @@
 <doc id="fb_17420918_PhilippN" delinquent_sexes="male" title="Todesurteil Philipp N." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Recht	Recht	NN	Duden	tu_22_xTok_000002
+und	und	KON	Duden	tu_22_xTok_000004
+billiges	billig	ADJA	Duden	tu_22_xTok_000006
+End=Urtheil	Endurteil	NN	Duden	tu_22_xTok_000007
+<g/>
+/
+Einer	ein	ART	Duden	tu_22_xTok_000014
+verheyrathen	verheiratet	ADJA	Duden	tu_22_xTok_000016
+Manns=Persohn	Mannsperson	NN	Duden	tu_22_xTok_000018
+Nahmens	namens	ADV	Duden	tu_22_xTok_000019
+<persName id="philippn22">
+Philipp	Philipp	NE	Duden	tu_22_xTok_000020
+N.	N.	NE	oov	tu_22_xTok_000023
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_22_xTok_000025
+Religion	Religion	NN	Duden	tu_22_xTok_000027
+36.	36	CARD		tu_22_xTok_000030
+Jahr	Jahr	NN	Duden	tu_22_xTok_000032
+alt	alt	ADJD	Duden	tu_22_xTok_000035
+<g/>
+/
+Bey	bei	APPR	Duden	tu_22_xTok_000039
+<placeName id="pn22">
+St. Pölten	St.Pölten	NE::top		tu_22_xTok_000041
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_22_xTok_000046
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+<g/>
+(
+Um weilen	umweil	KOUS		tu_22_xTok_000049
+derselbe	derselbe	PDS	Duden	tu_22_xTok_000053
+lauth	laut	APPR	Duden	tu_22_xTok_000055
+beyliegenden	beiliegend	ADJA	Duden	tu_22_xTok_000057
+Jnnhalt	Inhalt	NN	Duden	tu_22_xTok_000059
+vielfältig=	vielfältig	ADJA	Duden	tu_22_xTok_000062
+namhafte	namhaft	ADJA	Duden	tu_22_xTok_000064
+Diebstähle	Diebstahl	NN	Duden	tu_22_xTok_000066
+begangen	begehen	VVPP	Duden	tu_22_xTok_000068
+<g/>
+)
+</titlePart>
+<titlePart type="main">
+Als	als	ADV	Duden	tu_22_xTok_000070
+wird	werden	VAFIN	Duden	tu_22_xTok_000072
+selber	selbe	PDS	Duden	tu_22_xTok_000074
+heute	heute	ADV	Duden	tu_22_xTok_000076
+Erchtag	Erchtag	NN	DWB	tu_22_xTok_000078
+den	d	ART	Duden	tu_22_xTok_000080
+<date id="date22">
+18.	18	ADJA		tu_22_xTok_000082
+September	September	NN	Duden	tu_22_xTok_000084
+1742.	1742	CARD		tu_22_xTok_000087
+</date>
+andern	ander	PIS	Duden	tu_22_xTok_000089
+zum	zum	APPRART	Duden	tu_22_xTok_000091
+Beyspiel	Beispiel	NN	Duden	tu_22_xTok_000093
+<g/>
+/
+und	und	KON	Duden	tu_22_xTok_000097
+Exempel	Exempel	NN	Duden	tu_22_xTok_000099
+auf	auf	APPR	Duden	tu_22_xTok_000100
+dem	d	ART	Duden	tu_22_xTok_000102
+Wiener=Berg	Wienerberg	NE::top	oov	tu_22_xTok_000104
+mit	mit	APPR	Duden	tu_22_xTok_000106
+dem	d	ART	Duden	tu_22_xTok_000108
+Strang	Strang	NN	Duden	tu_22_xTok_000110
+vom	vom	APPRART	Duden	tu_22_xTok_000112
+Leben	Leben	NN	Duden	tu_22_xTok_000114
+zum	zum	APPRART	Duden	tu_22_xTok_000115
+Todt	Tod	NN	Duden	tu_22_xTok_000117
+hingericht	hinrichten	VVPP	Duden	tu_22_xTok_000119
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_22_xTok_000135
 dieses	diese	PDAT	Duden	tu_22_xTok_000138
@@ -209,6 +287,7 @@ selbst=geständiger massen	selbstgeständigermaßen	ADV		tu_22_xTok_000529
 <g/>
 ,
 anderthalb	anderthalb	CARD	Duden	tu_22_xTok_000534
+Emer	Eimer	NN	Duden	tu_22_xTok_000536
 Wein	Wein	NN	Duden	tu_22_xTok_000538
 <g/>
 :

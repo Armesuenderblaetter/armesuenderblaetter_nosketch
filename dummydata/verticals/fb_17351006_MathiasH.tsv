@@ -1,4 +1,312 @@
 <doc id="fb_17351006_MathiasH" delinquent_sexes="male" title="Todesurteil Mathias H." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Rechtmässiges	rechtmäßig	ADJA	Duden	tu_7_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_7_xTok_000002
+Welches	welch	PRELS	Duden	tu_7_xTok_000006
+vollzogen	vollziehen	VVPP	Duden	tu_7_xTok_000008
+wird	werden	VAFIN	Duden	tu_7_xTok_000010
+heut	heute	ADV	Duden	tu_7_xTok_000012
+Donnerstag	Donnerstag	NN	Duden	tu_7_xTok_000014
+<g/>
+/
+Den	d	ART	Duden	tu_7_xTok_000017
+<date id="date7">
+6ten	6	ADJA		tu_7_xTok_000019
+Octobris	Oktober	NN	Duden	tu_7_xTok_000022
+1735.	1735	CARD		tu_7_xTok_000024
+</date>
+an	an	APPR	Duden	tu_7_xTok_000026
+einer	ein	ART	Duden	tu_7_xTok_000028
+ledigen	ledig	ADJA	Duden	tu_7_xTok_000030
+Manns=Persohn	Mannsperson	NN	Duden	tu_7_xTok_000031
+Nahmens	namens	ADV	Duden	tu_7_xTok_000033
+<persName id="mathiash7">
+Mathias	Matthias	NE	Duden	tu_7_xTok_000034
+H.	H.	NE	oov	tu_7_xTok_000037
+</persName>
+<placeName id="pn7">
+Von	von	APPR	Duden	tu_7_xTok_000039
+Heidelberg	Heidelberg	NE::top	Duden	tu_7_xTok_000041
+aus	aus	APPR	Duden	tu_7_xTok_000043
+der	d	ART	Duden	tu_7_xTok_000045
+unteren Pfaltz	UnterePfalz	NE::top		tu_7_xTok_000047
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_7_xTok_000051
+<g/>
+/
+Cathol.	katholisch	ADJA	Duden	tu_7_xTok_000054
+Religion	Religion	NN	Duden	tu_7_xTok_000057
+<g/>
+/
+und	und	KON	Duden	tu_7_xTok_000061
+35	35	CARD		tu_7_xTok_000063
+Jahr	Jahr	NN	Duden	tu_7_xTok_000065
+alt	alt	ADJD	Duden	tu_7_xTok_000067
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Alldieweilen	alldieweil	KOUS	Duden	tu_7_xTok_000069
+derselbe	derselbe	PDS	Duden	tu_7_xTok_000071
+den	d	ART	Duden	tu_7_xTok_000073
+12.	12	ADJA	Duden	tu_7_xTok_000075
+April	April	NN	Duden	tu_7_xTok_000078
+dieses	diese	PDAT	Duden	tu_7_xTok_000080
+Jahrs	Jahr	NN	Duden	tu_7_xTok_000082
+bey	bei	APPR	Duden	tu_7_xTok_000084
+einer	ein	ART	Duden	tu_7_xTok_000086
+vornehmen	vornehm	ADJA	Duden	tu_7_xTok_000087
+Herrschafft	Herrschaft	NN	Duden	tu_7_xTok_000089
+allhier	allhier	ADV	Duden	tu_7_xTok_000091
+erstlichen	erstlich	ADV	Duden	tu_7_xTok_000093
+um	um	APPR	Duden	tu_7_xTok_000095
+8.	8	CARD		tu_7_xTok_000097
+Uhr	Uhr	NN	Duden	tu_7_xTok_000099
+Abends	abends	ADV	Duden	tu_7_xTok_000101
+eine	ein	ART	Duden	tu_7_xTok_000103
+mit	mit	APPR	Duden	tu_7_xTok_000105
+Diamanten	D	NN	Duden	tu_7_xTok_000106
+besetzt=	besetzen	ADJA	Duden	tu_7_xTok_000110
+goldene	golden	ADJA	Duden	tu_7_xTok_000110b
+Uhr	Uhr	NN	Duden	tu_7_xTok_000112
+<g/>
+/
+samt	samt	APPR	Duden	tu_7_xTok_000116
+der	d	ART	Duden	tu_7_xTok_000118
+darzu gehörigen	dazugehörig	ADJA		tu_7_xTok_000120
+gleichfalls	gleichfalls	ADV	Duden	tu_7_xTok_000124
+mit	mit	APPR	Duden	tu_7_xTok_000126
+Brillianten	Brillant	NN	Duden	tu_7_xTok_000127
+besetzten	besetzen	ADJA	Duden	tu_7_xTok_000129
+goldenen	golden	ADJA	Duden	tu_7_xTok_000131
+Ketten	Kette	NN	Duden	tu_7_xTok_000133
+<g/>
+/
+samt	samt	APPR	Duden	tu_7_xTok_000137
+deto	dito	ADV	Duden	tu_7_xTok_000139
+Hacken	Hacke	NN	Duden	tu_7_xTok_000141
+<g/>
+/
+wie	wie	KON	Duden	tu_7_xTok_000145
+nicht	nicht	PTKNEG	Duden	tu_7_xTok_000147
+weniger	wenig	ADV	Duden	tu_7_xTok_000149
+einen	ein	ART	Duden	tu_7_xTok_000152
+goldenen	golden	ADJA	Duden	tu_7_xTok_000154
+Mund=Zeug	Mundzeug	NN	oov	tu_7_xTok_000156
+<g/>
+/
+dann	dann	ADV	Duden	tu_7_xTok_000160
+in	in	APPR	Duden	tu_7_xTok_000162
+der	d	ART	Duden	tu_7_xTok_000164
+darauf	darauf	PAV	Duden	tu_7_xTok_000166
+gefolgten	folgend	ADJA	Duden	tu_7_xTok_000168
+Nacht	Nacht	NN	Duden	tu_7_xTok_000170
+<g/>
+/
+da	da	KOUS	Duden	tu_7_xTok_000173
+schon	schon	ADV	Duden	tu_7_xTok_000175
+alles	all	PIS	Duden	tu_7_xTok_000177
+in	in	APPR	Duden	tu_7_xTok_000179
+bester	beste	ADJA	Duden	tu_7_xTok_000181
+Ruhe	Ruhe	NN	Duden	tu_7_xTok_000183
+lage	liegen	VVFIN	Duden	tu_7_xTok_000185
+<g/>
+/
+eine	ein	ART	Duden	tu_7_xTok_000189
+goldene	golden	ADJA	Duden	tu_7_xTok_000191
+Englische	englisch	ADJA	Duden	tu_7_xTok_000193
+<g/>
+/
+und	und	KON	Duden	tu_7_xTok_000197
+eine	ein	ART	Duden	tu_7_xTok_000199
+silberne	silbern	ADJA	Duden	tu_7_xTok_000201
+Uhr	Uhr	NN	Duden	tu_7_xTok_000202
+<g/>
+/
+eine	ein	ART	Duden	tu_7_xTok_000206
+Tobacks=Dosen	Tabakdose	NN	Duden	tu_7_xTok_000208
+<g/>
+/
+einen	ein	ART	Duden	tu_7_xTok_000212
+Brillianten=Ring	Brillantring	NN	Duden	tu_7_xTok_000214
+<g/>
+/
+einen	ein	ART	Duden	tu_7_xTok_000218
+seidenen	seiden	ADJA	Duden	tu_7_xTok_000220
+Beutel	Beutel	NN	Duden	tu_7_xTok_000222
+mit	mit	APPR	Duden	tu_7_xTok_000223
+13.	13	CARD		tu_7_xTok_000225
+ordinari	ordinarius	FM	G-LDHW	tu_7_xTok_000228
+Ducaten	Dukat	NN	Duden	tu_7_xTok_000230
+<g/>
+/
+dann	dann	ADV	Duden	tu_7_xTok_000234
+einen	ein	ART	Duden	tu_7_xTok_000236
+Sack	Sack	NN	Duden	tu_7_xTok_000238
+mit	mit	APPR	Duden	tu_7_xTok_000240
+160	160	CARD		tu_7_xTok_000242
+fl.	Flore	NN	DWB	tu_7_xTok_000244
+Silber=Müntz	Silbermünze	NN	Duden	tu_7_xTok_000247
+<g/>
+/
+einen	ein	ART	Duden	tu_7_xTok_000250
+mit	mit	APPR	Duden	tu_7_xTok_000252
+Silber	Silber	NN	Duden	tu_7_xTok_000254
+bordirten	bordieren	ADJA	Duden	tu_7_xTok_000256
+Hut	Hut	NN	Duden	tu_7_xTok_000258
+samt	samt	APPR	Duden	tu_7_xTok_000260
+einem	ein	ART	Duden	tu_7_xTok_000262
+Roccolor	Rockelor	NN	Duden	tu_7_xTok_000264
+<g/>
+/
+und	und	KON	Duden	tu_7_xTok_000268
+endlich	endlich	ADV	Duden	tu_7_xTok_000270
+einen	ein	ART	Duden	tu_7_xTok_000272
+silbernen	silbern	ADJA	Duden	tu_7_xTok_000273
+Degen	Degen	NN	Duden	tu_7_xTok_000275
+<g/>
+/
+so	so	PRELS	Duden	tu_7_xTok_000279
+zusammen	zusammen	ADV	Duden	tu_7_xTok_000281
+im	im	APPRART	Duden	tu_7_xTok_000283
+Werth	Wert	NN	Duden	tu_7_xTok_000285
+2752.	2752	CARD		tu_7_xTok_000287
+fl.	Flore	NN	DWB	tu_7_xTok_000290
+10.	10	CARD		tu_7_xTok_000293
+kr.	Kreuzer	NN	Duden	tu_7_xTok_000296
+betragen	betragen	VVPP	Duden	tu_7_xTok_000299
+<g/>
+/
+entfremdet	entfremden	VVPP	Duden	tu_7_xTok_000303
+<g/>
+/
+wie	wie	KON	Duden	tu_7_xTok_000308
+nicht	nicht	PTKNEG	Duden	tu_7_xTok_000310
+weniger	wenig	ADV	Duden	tu_7_xTok_000312
+schon	schon	ADV	Duden	tu_7_xTok_000314
+ehedessen	ehedessen	ADV	DWB	tu_7_xTok_000316
+in	in	APPR	Duden	tu_7_xTok_000318
+München	München	NE::top	Duden	tu_7_xTok_000320
+bey	bei	APPR	Duden	tu_7_xTok_000322
+einer	ein	ART	Duden	tu_7_xTok_000324
+sicheren	sicher	ADJA	DWB	tu_7_xTok_000326
+Herrschafft	Herrschaft	NN	Duden	tu_7_xTok_000327
+<g/>
+(
+allwo	allwo	PWAV	Duden	tu_7_xTok_000330
+er	er	PPER	Duden	tu_7_xTok_000332
+Delinquent	Delinquent	NN	Duden	tu_7_xTok_000334
+von	von	APPR	Duden	tu_7_xTok_000336
+dem	d	ART	Duden	tu_7_xTok_000338
+6ten	6	ADJA		tu_7_xTok_000340
+Jahr	Jahr	NN	Duden	tu_7_xTok_000343
+seines	sein	PPOSAT	Duden	tu_7_xTok_000345
+Alters	Alter	NN	Duden	tu_7_xTok_000347
+bis	bis	APPR	Duden	tu_7_xTok_000349
+Anno	annus	FM	G-LDHW	tu_7_xTok_000350
+1733.	1733	CARD		tu_7_xTok_000352
+besondere	besondere	ADJA	Duden	tu_7_xTok_000354
+Gnaden	Gnade	NN	Duden	tu_7_xTok_000356
+genossen	genießen	VVPP	Duden	tu_7_xTok_000358
+<g/>
+)
+er	er	PPER	Duden	tu_7_xTok_000362
+Mathias	Matthias	NE	Duden	tu_7_xTok_000364
+H.	H.	NE	oov	tu_7_xTok_000366
+anfänglichen	anfänglich	ADJA	Duden	tu_7_xTok_000369
+100.	100	CARD		tu_7_xTok_000370
+fl	Flore	NN	DWB	tu_7_xTok_000372
+baares	bar	ADJA	Duden	tu_7_xTok_000374
+Geld	Geld	NN	Duden	tu_7_xTok_000376
+<g/>
+/
+weiters	weiters	ADV	Duden	tu_7_xTok_000380
+ein	ein	ART	Duden	tu_7_xTok_000382
+roth=	rot	ADJA	Duden	tu_7_xTok_000384
+mit	mit	APPR	Duden	tu_7_xTok_000386
+Silber	Silber	NN	Duden	tu_7_xTok_000388
+gesticktes	sticken	ADJA	Duden	tu_7_xTok_000390
+Kleid	Kleid	NN	Duden	tu_7_xTok_000392
+von	von	APPR	Duden	tu_7_xTok_000394
+reichem	reich	ADJA	Duden	tu_7_xTok_000395
+Zeug	Zeug	NN	Duden	tu_7_xTok_000397
+<g/>
+/
+eine	ein	ART	Duden	tu_7_xTok_000401
+silberne	silbern	ADJA	Duden	tu_7_xTok_000403
+Spiel=Schachtel	Spielschachtel	NN	oov	tu_7_xTok_000405
+mit	mit	APPR	Duden	tu_7_xTok_000407
+50.	50	CARD		tu_7_xTok_000409
+silbernen	silbern	ADJA	Duden	tu_7_xTok_000411
+Dantes	Dantes	NN	Duden	tu_7_xTok_000413
+<g/>
+/
+entfremdet	entfremden	VVPP	Duden	tu_7_xTok_000416
+<g/>
+/
+welcher	welch	PRELAT	Duden	tu_7_xTok_000420
+letztere	letztere	ADJA	Duden	tu_7_xTok_000422
+Diebstahl	Diebstahl	NN	Duden	tu_7_xTok_000424
+sich	sich	PRF	Duden	tu_7_xTok_000426
+auf	auf	APPR	Duden	tu_7_xTok_000428
+985.	985	CARD		tu_7_xTok_000430
+fl.	Flore	NN	DWB	tu_7_xTok_000432
+belauffet	belaufen	VVFIN	Duden	tu_7_xTok_000435
+<g/>
+;
+und	und	KON	Duden	tu_7_xTok_000438
+also	also	ADV	Duden	tu_7_xTok_000440
+zwey	zwei	CARD	Duden	tu_7_xTok_000441
+namhaffte	namhaft	ADJA	Duden	tu_7_xTok_000443
+Diebstähle	Diebstahl	NN	Duden	tu_7_xTok_000445
+begangen	begehen	VVPP	Duden	tu_7_xTok_000447
+<g/>
+/
+woran	woran	PWAV	Duden	tu_7_xTok_000451
+von	von	APPR	Duden	tu_7_xTok_000453
+dem	d	ART	Duden	tu_7_xTok_000455
+ersten	erste	ADJ-NN	Duden	tu_7_xTok_000457
+alles	all	PIS	Duden	tu_7_xTok_000459
+bis	bis	APPR	Duden	tu_7_xTok_000461
+auf	auf	APPR	Duden	tu_7_xTok_000463
+37.	37	CARD		tu_7_xTok_000465
+fl.	Flore	NN	DWB	tu_7_xTok_000468
+von	von	APPR	Duden	tu_7_xTok_000471
+dem	d	ART	Duden	tu_7_xTok_000473
+letztern	letztere	ADJ-NN	Duden	tu_7_xTok_000475
+in	in	APPR	Duden	tu_7_xTok_000477
+München	München	NE::top	Duden	tu_7_xTok_000479
+hingegen	hingegen	ADV	Duden	tu_7_xTok_000481
+nicht	nicht	PTKNEG	Duden	tu_7_xTok_000483
+mehr	mehr	PIS	Duden	tu_7_xTok_000485
+als	als	KOKOM	Duden	tu_7_xTok_000487
+600.	600	CARD		tu_7_xTok_000489
+fl.	Flore	NN	DWB	tu_7_xTok_000492
+wieder	wieder	ADV	Duden	tu_7_xTok_000495
+zuruck	zurück	PTKVZ	Duden	tu_7_xTok_000498
+gestellet	zurückstellen	VVPP	Duden	tu_7_xTok_000500
+worden	werden	VAPP	Duden	tu_7_xTok_000502
+Als	als	ADV	Duden	tu_7_xTok_000505
+wird	werden	VAFIN	Duden	tu_7_xTok_000507
+derselbe	derselbe	PDS	Duden	tu_7_xTok_000509
+auf	auf	APPR	Duden	tu_7_xTok_000511
+dem	d	ART	Duden	tu_7_xTok_000513
+Wienner=Berg	Wienerberg	NE::top	oov	tu_7_xTok_000515
+anderen	ander	PIS	Duden	tu_7_xTok_000516
+zum	zum	APPRART	Duden	tu_7_xTok_000518
+Beyspiel	Beispiel	NN	Duden	tu_7_xTok_000520
+mit	mit	APPR	Duden	tu_7_xTok_000522
+dem	d	ART	Duden	tu_7_xTok_000524
+Strang	Strang	NN	Duden	tu_7_xTok_000526
+vom	vom	APPRART	Duden	tu_7_xTok_000528
+Leben	Leben	NN	Duden	tu_7_xTok_000530
+zum	zum	APPRART	Duden	tu_7_xTok_000532
+Todt	Tod	NN	Duden	tu_7_xTok_000534
+hingerichtet	hinrichten	VVPP	Duden	tu_7_xTok_000535
+werden	werden	VAINF	Duden	tu_7_xTok_000537
+<g/>
+.
+</titlePart>
 <lg type="poem">
 <lg type="stanza">
 <head>

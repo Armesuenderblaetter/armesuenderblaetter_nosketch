@@ -1,4 +1,98 @@
 <doc id="fb_17720924_MelchiorS" delinquent_sexes="male" title="Todesurteil Melchior S." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_100_xTok_000001
+einer	ein	ART	Duden	tu_100_xTok_000003
+verheuratheten	verheiratet	ADJA	Duden	tu_100_xTok_000005
+Mannsperson	Mannsperson	NN	Duden	tu_100_xTok_000007
+<g/>
+,
+Namens	namens	ADV	Duden	tu_100_xTok_000009
+<g/>
+:
+<persName id="melchiors100">
+Melchior	Melchior	NE	Duden	tu_100_xTok_000011
+S.	S.	NE	oov	tu_100_xTok_000015
+</persName>
+bey	bei	APPR	Duden	tu_100_xTok_000017
+34.	34	CARD		tu_100_xTok_000019
+Jahre	Jahr	NN	Duden	tu_100_xTok_000021
+alt	alt	ADJD	Duden	tu_100_xTok_000023
+<g/>
+,
+zu	zu	APPR	Duden	tu_100_xTok_000025
+<placeName id="pn100">
+Mörsbach	Mörsbach	NE::top	oov	tu_100_xTok_000027
+in	in	APPR	Duden	tu_100_xTok_000029
+Bayern	Bayern	NE::top	Duden	tu_100_xTok_000031
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_100_xTok_000033
+<g/>
+,
+und	und	KON	Duden	tu_100_xTok_000035
+katholischer	katholisch	ADJA	Duden	tu_100_xTok_000037
+Religion	Religion	NN	Duden	tu_100_xTok_000039
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_100_xTok_000041
+in	in	APPR	Duden	tu_100_xTok_000043
+Folge	Folge	NN	Duden	tu_100_xTok_000045
+der	d	ART	Duden	tu_100_xTok_000047
+bey	bei	APPR	Duden	tu_100_xTok_000049
+dem	d	ART	Duden	tu_100_xTok_000051
+hiesigen	hiesig	ADJA	Duden	tu_100_xTok_000053
+kaiserl.	kaiserlich	ADJA	Duden	tu_100_xTok_000055
+königl.	königlich	ADJA	Duden	tu_100_xTok_000058
+Stadt=	Stadtgericht	TRUNC	Duden	tu_100_xTok_000060
+und	und	KON	Duden	tu_100_xTok_000062
+Landgerichte	Landgericht	NN	Duden	tu_100_xTok_000064
+wider	wider	APPR	Duden	tu_100_xTok_000066
+ihn	er	PPER	Duden	tu_100_xTok_000068
+abgeführten	abführen	ADJA	DRW	tu_100_xTok_000070
+Kriminalverfahrung	Kriminalverfahrung	NN	oov	tu_100_xTok_000072
+<g/>
+,
+und	und	KON	Duden	tu_100_xTok_000076
+darüber	darüber	PAV	Duden	tu_100_xTok_000078
+geschöpften	schöpfen	ADJA	Duden	tu_100_xTok_000080
+<g/>
+,
+auch	auch	ADV	Duden	tu_100_xTok_000083
+von	von	APPR	Duden	tu_100_xTok_000085
+einer	ein	ART	Duden	tu_100_xTok_000087
+hochlöbl.	hochlöblich	ADJA	Duden	tu_100_xTok_000088
+Landesfürstlichen	landesfürstlich	ADJA	DWB	tu_100_xTok_000091
+Niederösterreichischen	niederösterreichisch	ADJA	Duden	tu_100_xTok_000093
+Regierung	Regierung	NN	Duden	tu_100_xTok_000095
+bestättigten	bestätigen	ADJA	Duden	tu_100_xTok_000098
+Erkänntniß	Erkenntnis	NN	Duden	tu_100_xTok_000100
+an	an	APPR	Duden	tu_100_xTok_000102
+gleich ernannten	gleichernannt	ADJA		tu_100_xTok_000104
+Delinquenten	Delinquent	NN	Duden	tu_100_xTok_000108
+dem	d	ART	Duden	tu_100_xTok_000111
+zu	zu	APPR	Duden	tu_100_xTok_000113
+Ende	Ende	NN	Duden	tu_100_xTok_000115
+angeführten	angeführt	ADJA	Duden	tu_100_xTok_000117
+Jnnhalte	Inhalt	NN	Duden	tu_100_xTok_000119
+gemäß	gemäß	APPO	Duden	tu_100_xTok_000121
+<g/>
+,
+heute	heute	ADV	Duden	tu_100_xTok_000123
+den	d	ART	Duden	tu_100_xTok_000125
+<date id="date100">
+24.	24	ADJA		tu_100_xTok_000127
+September	September	NN	Duden	tu_100_xTok_000129
+1772.	1772	CARD		tu_100_xTok_000131
+</date>
+allhier	allhier	ADV	Duden	tu_100_xTok_000133
+in	in	APPR	Duden	tu_100_xTok_000135
+Wien	Wien	NE::top	Duden	tu_100_xTok_000136
+vollzogen	vollziehen	VVPP	Duden	tu_100_xTok_000138
+wird	werden	VAFIN	Duden	tu_100_xTok_000140
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_100_xTok_000142
 seines	sein	PPOSAT	Duden	tu_100_xTok_000144

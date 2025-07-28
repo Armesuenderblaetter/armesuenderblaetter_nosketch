@@ -1,4 +1,102 @@
 <doc id="fb_17490729_DorotheaH" delinquent_sexes="female" title="Todesurteil Dorothea H." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_44_xTok_000002
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_44_xTok_000003
+<g/>
+,
+So	so	PRELS	Duden	tu_44_xTok_000008
+heut	heute	ADV	Duden	tu_44_xTok_000010
+Dato	dato	ADV	Duden	tu_44_xTok_000012
+den	d	ART	Duden	tu_44_xTok_000014
+<date id="date44">
+29.	29	ADJA		tu_44_xTok_000016
+Julij	Juli	NN	Duden	tu_44_xTok_000018
+An.	annus	FM	G-LDHW	tu_44_xTok_000020
+1749.	1749	CARD		tu_44_xTok_000023
+</date>
+an	an	APPR	Duden	tu_44_xTok_000025
+einer	ein	ART	Duden	tu_44_xTok_000027
+Ledigen	ledig	ADJA	Duden	tu_44_xTok_000028
+Weibs=Persohn	Weibsperson	NN	Duden	tu_44_xTok_000030
+Nahmens	namens	ADV	Duden	tu_44_xTok_000031
+<persName id="dorotheah44">
+Dorothea	Dorothea	NE	Duden	tu_44_xTok_000033
+H.	H.	NE	oov	tu_44_xTok_000035
+</persName>
+Gegen	gegen	APPR	Duden	tu_44_xTok_000037
+21.	21	CARD		tu_44_xTok_000039
+Jahr	Jahr	NN	Duden	tu_44_xTok_000041
+alt	alt	ADJD	Duden	tu_44_xTok_000043
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+Dahier	dahier	ADV	Duden	tu_44_xTok_000045
+in	in	APPR	Duden	tu_44_xTok_000047
+dem	d	ART	Duden	tu_44_xTok_000049
+<placeName id="pn44">
+alten Lerchenfeld	AltesLerchenfeld	NE::top		tu_44_xTok_000051
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_44_xTok_000055
+<g/>
+,
+Catholischer	katholisch	ADJA	Duden	tu_44_xTok_000059
+Religion	Religion	NN	Duden	tu_44_xTok_000061
+<g/>
+,
+wegen	wegen	APPR	Duden	tu_44_xTok_000064
+an	an	APPR	Duden	tu_44_xTok_000066
+einem	ein	ART	Duden	tu_44_xTok_000068
+fremden	fremd	ADJA	Duden	tu_44_xTok_000071
+5.=jährigen	fünfjährig	ADJA	Duden	tu_44_xTok_000073
+Knaben	Knabe	NN	Duden	tu_44_xTok_000076
+begangenen	begehen	ADJA	Duden	tu_44_xTok_000078
+KindesMord	Kindesmord	NN	Duden	tu_44_xTok_000080
+<g/>
+/
+vor	vor	APPR	Duden	tu_44_xTok_000085
+dem	d	ART	Duden	tu_44_xTok_000087
+Schotten=Thor	Schottentor	NE::top	oov	tu_44_xTok_000089
+auf	auf	APPR	Duden	tu_44_xTok_000091
+dasigen	dasig	ADJA	Duden	tu_44_xTok_000093
+Rabenstein	Rabenstein	NN	Duden	tu_44_xTok_000095
+der	d	ART	Duden	tu_44_xTok_000097
+Kopf	Kopf	NN	Duden	tu_44_xTok_000098
+und	und	KON	Duden	tu_44_xTok_000100
+die	d	ART	Duden	tu_44_xTok_000102
+rechte	rechte	ADJA	Duden	tu_44_xTok_000104
+Hand	Hand	NN	Duden	tu_44_xTok_000106
+zugleich	zugleich	ADV	Duden	tu_44_xTok_000108
+abgeschlagen	abschlagen	VVPP	Duden	tu_44_xTok_000110
+<g/>
+/
+sodann	sodann	ADV	Duden	tu_44_xTok_000114
+die	d	ART	Duden	tu_44_xTok_000115
+abgeschlagene	abschlagen	ADJA	Duden	tu_44_xTok_000117
+Hand	Hand	NN	Duden	tu_44_xTok_000119
+an	an	APPR	Duden	tu_44_xTok_000121
+dem	d	ART	Duden	tu_44_xTok_000123
+daselbstigen	daselbstig	ADJA	oov	tu_44_xTok_000125
+Pranger	Pranger	NN	Duden	tu_44_xTok_000126
+angeheftet	anheften	VVPP	Duden	tu_44_xTok_000128
+<g/>
+/
+vollzogen	vollziehen	VVPP	Duden	tu_44_xTok_000132
+wird	werden	VAFIN	Duden	tu_44_xTok_000133
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Der	d	ART	Duden	tu_44_xTok_000135
+Jnnhalt	Inhalt	NN	Duden	tu_44_xTok_000137
+ihres	ihr	PPOSAT	Duden	tu_44_xTok_000139
+Verbrechens	Verbrechen	NN	Duden	tu_44_xTok_000141
+zeiget	zeigen	VVFIN	Duden	tu_44_xTok_000143
+das	d	ART	Duden	tu_44_xTok_000145
+mehrere	mehrere	PIS	Duden	tu_44_xTok_000147
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_44_xTok_000168
 des	d	ART	Duden	tu_44_xTok_000170

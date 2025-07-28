@@ -1,4 +1,117 @@
 <doc id="fb_17540528_FriederichK" delinquent_sexes="male" title="Todesurteil Friederich K." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_58_xTok_000001
+des	d	ART	Duden	tu_58_xTok_000003
+<persName id="friederichk58">
+Friederich	Friederich	NE	oov	tu_58_xTok_000005
+K.	K.	NE	oov	tu_58_xTok_000008
+</persName>
+<g/>
+.
+<g/>
+.
+<g/>
+.
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Eines	ein	ART	Duden	tu_58_xTok_000018
+35.			oov	tu_58_xTok_000020
+jährig=			oov	tu_58_xTok_000022
+<placeName id="pn58">
+aus	aus	APPR	Duden	tu_58_xTok_000024
+der	d	ART	Duden	tu_58_xTok_000026
+Brandeburgischen	brandenburgisch	ADJA	Duden	tu_58_xTok_000028
+March	March	NE::top	oov	tu_58_xTok_000030
+von	von	APPR	Duden	tu_58_xTok_000032
+Retz	Retz	NE::top	oov	tu_58_xTok_000034
+</placeName>
+gebürtig=	gebürtig	ADJA	Duden	tu_58_xTok_000036
+verheyrateten	verheiratet	ADJA	Duden	tu_58_xTok_000038
+<g/>
+/
+nach	nach	APPR	Duden	tu_58_xTok_000042
+vor	vor	APPR	Duden	tu_58_xTok_000044
+8.	8	CARD		tu_58_xTok_000046
+Jahren	Jahr	NN	Duden	tu_58_xTok_000048
+abgelegter	ablegen	ADJA	Duden	tu_58_xTok_000050
+Glaubens=bekanntnuß	Glaubensbekenntnis	NN	Duden	tu_58_xTok_000052
+<g/>
+,
+anjetzo	anjetzo	ADV	DWB	tu_58_xTok_000055
+Catholischen	katholisch	ADJA	Duden	tu_58_xTok_000057
+<g/>
+,
+ehemaligen	ehemalig	ADJA	Duden	tu_58_xTok_000060
+Preussischen	preußisch	ADJA	Duden	tu_58_xTok_000062
+Soldatens	Soldat	NN	Duden	tu_58_xTok_000064
+<g/>
+,
+letzterer	letztere	ADJA	Duden	tu_58_xTok_000067
+Zeiten	Zeit	NN	Duden	tu_58_xTok_000069
+her	her	APZR	Duden	tu_58_xTok_000071
+aber	aber	ADV	Duden	tu_58_xTok_000073
+gewesten	gewesen	ADJA	Duden	tu_58_xTok_000075
+Herrschafts=bedientens	Herrschaftsbedienter	NN	oov	tu_58_xTok_000077
+<g/>
+,
+welcher	welch	PRELS	Duden	tu_58_xTok_000080
+vermög	vermöge	APPR	Duden	tu_58_xTok_000082
+des	d	ART	Duden	tu_58_xTok_000084
+über	über	APPR	Duden	tu_58_xTok_000086
+die	d	ART	Duden	tu_58_xTok_000088
+mit	mit	APPR	Duden	tu_58_xTok_000090
+ihme	er	PPER	Duden	tu_58_xTok_000092
+abgeführte	abführen	ADJA	DRW	tu_58_xTok_000094
+Criminal-Inquisition	Kriminalinquisition	NN	oov	tu_58_xTok_000096
+bey	bei	APPR	Duden	tu_58_xTok_000098
+dem	d	ART	Duden	tu_58_xTok_000100
+allhiesig=	allhiesig	ADJA	DWB	tu_58_xTok_000102
+Kaiserl.	kaiserlich	ADJA	Duden	tu_58_xTok_000104
+Königl.	königlich	ADJA	Duden	tu_58_xTok_000107
+Stadt=	Stadtgericht	TRUNC	Duden	tu_58_xTok_000111
+und	und	KON	Duden	tu_58_xTok_000113
+Land=gericht	Landgericht	NN	Duden	tu_58_xTok_000115
+wider	wider	APPR	Duden	tu_58_xTok_000117
+ihne	er	PPER	Duden	tu_58_xTok_000119
+geschöpft=	schöpfen	ADJA	Duden	tu_58_xTok_000121
+und	und	KON	Duden	tu_58_xTok_000123
+von	von	APPR	Duden	tu_58_xTok_000125
+Hochlöbl.	hochlöblich	ADJA	Duden	tu_58_xTok_000127
+N. O.	niederösterreichisch	ADJA		tu_58_xTok_000130
+Regierung	Regierung	NN	Duden	tu_58_xTok_000136
+in	in	APPR	Duden	tu_58_xTok_000137
+Justiz-Sachen	Justizsache	NN	DRW	tu_58_xTok_000139
+bestättigten	bestätigen	ADJA	Duden	tu_58_xTok_000142
+End=urtheils	Endurteil	NN	Duden	tu_58_xTok_000144
+heute	heute	ADV	Duden	tu_58_xTok_000146
+den	d	ART	Duden	tu_58_xTok_000148
+<date id="date58">
+28.	28	ADJA		tu_58_xTok_000150
+May	Mai	NN	Duden	tu_58_xTok_000152
+1754.	1754	CARD		tu_58_xTok_000154
+</date>
+vor	vor	APPR	Duden	tu_58_xTok_000156
+dem	d	ART	Duden	tu_58_xTok_000158
+allhiesigen	allhiesig	ADJA	DWB	tu_58_xTok_000160
+Schotten=thor	Schottentor	NE::top	oov	tu_58_xTok_000163
+auf	auf	APPR	Duden	tu_58_xTok_000165
+der	d	ART	Duden	tu_58_xTok_000167
+alldasigen	alldasig	ADJA	oov	tu_58_xTok_000169
+Richt=stadt	Richtstatt	NN	DWB	tu_58_xTok_000171
+mit	mit	APPR	Duden	tu_58_xTok_000173
+dem	d	ART	Duden	tu_58_xTok_000175
+Strang	Strang	NN	Duden	tu_58_xTok_000177
+vom	vom	APPRART	Duden	tu_58_xTok_000178
+Leben	Leben	NN	Duden	tu_58_xTok_000180
+zum	zum	APPRART	Duden	tu_58_xTok_000182
+Tod	Tod	NN	Duden	tu_58_xTok_000184
+hingerichtet	hinrichten	VVPP	Duden	tu_58_xTok_000186
+wird	werden	VAFIN	Duden	tu_58_xTok_000188
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_58_xTok_000191
 seines	sein	PPOSAT	Duden	tu_58_xTok_000193

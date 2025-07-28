@@ -1,4 +1,16 @@
 <doc id="fb_17950728_AndreasRiedel" delinquent_sexes="male" title="Urteil Andreas Riedel" attrs="word lemma pos vocab id">
+<titlePart type="main">
+Urtheil	Urteil	NN	Duden	tu_133_xTok_000001
+über	über	APPR	Duden	tu_133_xTok_000002
+den	d	ART	Duden	tu_133_xTok_000004
+Landesverräther	Landesverräter	NN	Duden	tu_133_xTok_000005
+und	und	KON	Duden	tu_133_xTok_000006
+Verführer	Verführer	NN	Duden	tu_133_xTok_000007
+Andreas	Andreas	NE	Duden	tu_133_xTok_000008
+Riedel	Riedel	NE	oov	tu_133_xTok_000010
+<g/>
+.
+</titlePart>
 <p id="fb_17950728_AndreasRiedel_p_0001">
 <persName id="andreasriedel133">
 Andreas	Andreas	NE	Duden	tu_133_xTok_000052
@@ -546,6 +558,7 @@ ausgestellt	ausstellen	VVPP	Duden	tu_133_xTok_000937
 ,
 sohin	sohin	ADV	Duden	tu_133_xTok_000940
 durch	durch	APPR	Duden	tu_133_xTok_000941
+sechszig	sechzig	CARD	Duden	tu_133_xTok_000943
 Jahre	Jahr	NN	Duden	tu_133_xTok_000945
 in	in	APPR	Duden	tu_133_xTok_000947
 dem	d	ART	Duden	tu_133_xTok_000949

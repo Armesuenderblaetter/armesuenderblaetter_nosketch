@@ -1,4 +1,133 @@
 <doc id="fb_17750317_AdamG_LeonhardS_Ig" delinquent_sexes="male" title="Todesurteil Adam G., Leonhard S., Jgnaz A." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_112_xTok_000001
+dreyer	drei	CARD	Duden	tu_112_xTok_000003
+ledigen	ledig	ADJA	Duden	tu_112_xTok_000005
+Mannspersonen	Mannsperson	NN	Duden	tu_112_xTok_000007
+Namens	namens	ADV	Duden	tu_112_xTok_000008
+<persName id="adamg112">
+Adam	Adam	NE	Duden	tu_112_xTok_000009
+G.	G.	NE	oov	tu_112_xTok_000011
+</persName>
+als	als	KOKOM	Duden	tu_112_xTok_000013
+23	23	CARD		tu_112_xTok_000015
+Jahre	Jahr	NN	Duden	tu_112_xTok_000017
+<g/>
+,
+zu	zu	APPR	Duden	tu_112_xTok_000020
+<placeName id="pn112">
+Langfeld	Langfeld	NE::top	oov	tu_112_xTok_000022
+in	in	APPR	Duden	tu_112_xTok_000024
+Oberösterreich	Oberösterreich	NE::top	Duden	tu_112_xTok_000026
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_112_xTok_000028
+<g/>
+,
+<persName id="leonhards112">
+Leonhard	Leonhard	NE	Duden	tu_112_xTok_000030
+S.	S.	NE	oov	tu_112_xTok_000032
+</persName>
+alt	alt	ADJD	Duden	tu_112_xTok_000034
+23	23	CARD		tu_112_xTok_000036
+Jahre	Jahr	NN	Duden	tu_112_xTok_000038
+<g/>
+,
+zu	zu	APPR	Duden	tu_112_xTok_000041
+<placeName id="pn112b">
+Javena	Javena	NE::top	oov	tu_112_xTok_000043
+in	in	APPR	Duden	tu_112_xTok_000045
+den	d	ART	Duden	tu_112_xTok_000047
+venetianischen	venezianisch	ADJA	Duden	tu_112_xTok_000049
+Gebiete	Gebiet	NN	Duden	tu_112_xTok_000051
+an	an	APPR	Duden	tu_112_xTok_000053
+den	d	ART	Duden	tu_112_xTok_000055
+kärntnerischen	kärntnerisch	ADJA	Duden	tu_112_xTok_000056
+Gränzen	Grenze	NN	Duden	tu_112_xTok_000058
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_112_xTok_000060
+<g/>
+,
+und	und	KON	Duden	tu_112_xTok_000063
+<persName id="ignaza112">
+Jgnaz	Ignaz	NE	Duden	tu_112_xTok_000064
+A.	A.	NE	oov	tu_112_xTok_000066
+</persName>
+alt	alt	ADJD	Duden	tu_112_xTok_000068
+24	24	CARD		tu_112_xTok_000070
+Jahre	Jahr	NN	Duden	tu_112_xTok_000072
+<g/>
+,
+zu	zu	APPR	Duden	tu_112_xTok_000075
+<placeName id="pn112c">
+Satz	Satz	NE::top	oov	tu_112_xTok_000077
+in	in	APPR	Duden	tu_112_xTok_000079
+Deutschböheim	Deutschböheim	NE::top	oov	tu_112_xTok_000081
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_112_xTok_000083
+<g/>
+,
+alle	all	PIS	Duden	tu_112_xTok_000085
+katholischer	katholisch	ADJA	Duden	tu_112_xTok_000087
+Religion	Religion	NN	Duden	tu_112_xTok_000089
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+welches	welch	PRELS	Duden	tu_112_xTok_000091
+an	an	APPR	Duden	tu_112_xTok_000093
+denselben	derselbe	PDS	Duden	tu_112_xTok_000095
+in	in	APPR	Duden	tu_112_xTok_000097
+Folge	Folge	NN	Duden	tu_112_xTok_000099
+der	d	ART	Duden	tu_112_xTok_000101
+bey	bei	APPR	Duden	tu_112_xTok_000103
+dem	d	ART	Duden	tu_112_xTok_000105
+allhiesigen	allhiesig	ADJA	DWB	tu_112_xTok_000107
+k.	kaiserlich	ADJA	Duden	tu_112_xTok_000109
+k.	königlich	ADJA	Duden	tu_112_xTok_000112
+Stadt=	Stadtgericht	TRUNC	Duden	tu_112_xTok_000115
+und	und	KON	Duden	tu_112_xTok_000117
+Landgrrichte	Landgericht	NN	Duden	tu_112_xTok_000119
+wider	wider	APPR	Duden	tu_112_xTok_000121
+sie	sie	PPER	Duden	tu_112_xTok_000125
+abgeführten	abführen	ADJA	DRW	tu_112_xTok_000127
+Criminalverfahrungen	Kriminalverfahrung	NN	oov	tu_112_xTok_000129
+<g/>
+,
+und	und	KON	Duden	tu_112_xTok_000132
+darüber	darüber	PAV	Duden	tu_112_xTok_000134
+geschöpften	schöpfen	ADJA	Duden	tu_112_xTok_000136
+<g/>
+,
+auch	auch	ADV	Duden	tu_112_xTok_000139
+von	von	APPR	Duden	tu_112_xTok_000141
+einer	ein	ART	Duden	tu_112_xTok_000143
+hochlöbl.	hochlöblich	ADJA	Duden	tu_112_xTok_000145
+landesfürstl.	landesfürstlich	ADJA	DWB	tu_112_xTok_000149
+ni. öst.	niederösterreichisch	ADJA		tu_112_xTok_000152
+Regierung	Regierung	NN	Duden	tu_112_xTok_000158
+bestättigten	bestätigen	ADJA	Duden	tu_112_xTok_000160
+Erkanntnissen	Erkanntnis	NN	DWB	tu_112_xTok_000162
+dem	d	ART	Duden	tu_112_xTok_000164
+zu	zu	APPR	Duden	tu_112_xTok_000166
+Ende	Ende	NN	Duden	tu_112_xTok_000168
+angeführten	angeführt	ADJA	Duden	tu_112_xTok_000170
+Jnhalte	Inhalt	NN	Duden	tu_112_xTok_000173
+gemäß	gemäß	APPO	Duden	tu_112_xTok_000175
+heute	heute	ADV	Duden	tu_112_xTok_000177
+den	d	ART	Duden	tu_112_xTok_000179
+<date id="date112">
+17.	17	ADJA		tu_112_xTok_000181
+März	März	NN	Duden	tu_112_xTok_000183
+1775	1775	CARD		tu_112_xTok_000185
+</date>
+allhier	allhier	ADV	Duden	tu_112_xTok_000187
+in	in	APPR	Duden	tu_112_xTok_000189
+Wien	Wien	NE::top	Duden	tu_112_xTok_000191
+vollzogen	vollziehen	VVPP	Duden	tu_112_xTok_000193
+wird	werden	VAFIN	Duden	tu_112_xTok_000195
+<g/>
+.
+</titlePart>
 <head>
 Jnhalt	Inhalt	NN	Duden	tu_112_xTok_000197
 ihrer	ihr	PPOSAT	Duden	tu_112_xTok_000199
@@ -1351,6 +1480,7 @@ anderer	andere	ADJA	Duden	tu_112_xTok_002534
 Purschen	Bursche	NN	Duden	tu_112_xTok_002536
 den	d	ART	Duden	tu_112_xTok_002538
 6	6	ADJA		tu_112_xTok_002540
+Jäner	Jänner	NN	Duden	tu_112_xTok_002542
 1771	1771	CARD		tu_112_xTok_002544
 dem	d	ART	Duden	tu_112_xTok_002546
 Herrschaft	Herrschaft	NN	Duden	tu_112_xTok_002547

@@ -1,4 +1,100 @@
 <doc id="fb_17710131_JohannGeorgP" delinquent_sexes="male" title="Todesurteil Johann Georg P." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_93_xTok_000001
+einer	ein	ART	Duden	tu_93_xTok_000005
+ledigen	ledig	ADJA	Duden	tu_93_xTok_000007
+Mannsperson	Mannsperson	NN	Duden	tu_93_xTok_000009
+<g/>
+,
+Namens	namens	ADV	Duden	tu_93_xTok_000011
+<g/>
+:
+<persName id="johanngeorgp93">
+Johann	Johann	NE	Duden	tu_93_xTok_000013
+Georg	Georg	NE	Duden	tu_93_xTok_000015
+P.	P.	NE	oov	tu_93_xTok_000017
+</persName>
+alt	alt	ADJD	Duden	tu_93_xTok_000019
+24.	24	CARD		tu_93_xTok_000021
+Jahre	Jahr	NN	Duden	tu_93_xTok_000023
+<g/>
+,
+zu	zu	APPR	Duden	tu_93_xTok_000025
+<placeName id="pn93">
+Kirchdorf	Kirchdorf	NE::top	oov	tu_93_xTok_000027
+in	in	APPR	Duden	tu_93_xTok_000029
+Oberösterreich	Oberösterreich	NE::top	Duden	tu_93_xTok_000031
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_93_xTok_000033
+<g/>
+,
+und	und	KON	Duden	tu_93_xTok_000035
+Catholischer	katholisch	ADJA	Duden	tu_93_xTok_000037
+Religion	Religion	NN	Duden	tu_93_xTok_000039
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_93_xTok_000041
+in	in	APPR	Duden	tu_93_xTok_000043
+Folge	Folge	NN	Duden	tu_93_xTok_000045
+der	d	ART	Duden	tu_93_xTok_000047
+bey	bei	APPR	Duden	tu_93_xTok_000049
+dem	d	ART	Duden	tu_93_xTok_000051
+allhiesigen	allhiesig	ADJA	DWB	tu_93_xTok_000053
+Kaiserl.	kaiserlich	ADJA	Duden	tu_93_xTok_000055
+Kön.	königlich	ADJA	Duden	tu_93_xTok_000058
+Stadt=	Stadtgericht	TRUNC	Duden	tu_93_xTok_000060
+und	und	KON	Duden	tu_93_xTok_000062
+Landgerichte	Landgericht	NN	Duden	tu_93_xTok_000064
+wider	wider	APPR	Duden	tu_93_xTok_000066
+ihn	er	PPER	Duden	tu_93_xTok_000068
+abgeführten	abführen	ADJA	DRW	tu_93_xTok_000070
+Criminalverfahrung	Kriminalverfahrung	NN	oov	tu_93_xTok_000072
+<g/>
+,
+und	und	KON	Duden	tu_93_xTok_000076
+darüber	darüber	PAV	Duden	tu_93_xTok_000078
+geschöpften	schöpfen	ADJA	Duden	tu_93_xTok_000080
+<g/>
+,
+auch	auch	ADV	Duden	tu_93_xTok_000083
+von	von	APPR	Duden	tu_93_xTok_000085
+einer	ein	ART	Duden	tu_93_xTok_000086
+hochlöblichen	hochlöblich	ADJA	Duden	tu_93_xTok_000088
+Landesfürstlichen	landesfürstlich	ADJA	DWB	tu_93_xTok_000090
+Niederösterreichischen	niederösterreichisch	ADJA	Duden	tu_93_xTok_000092
+Regierung	Regierung	NN	Duden	tu_93_xTok_000095
+bestättigten	bestätigen	ADJA	Duden	tu_93_xTok_000097
+Erkenntniß	Erkenntnis	NN	Duden	tu_93_xTok_000099
+an	an	APPR	Duden	tu_93_xTok_000101
+gleich ernannten	gleichernannt	ADJA		tu_93_xTok_000103
+Delinquenten	Delinquent	NN	Duden	tu_93_xTok_000108
+<g/>
+,
+dem	d	ART	Duden	tu_93_xTok_000111
+zu	zu	APPR	Duden	tu_93_xTok_000113
+Ende	Ende	NN	Duden	tu_93_xTok_000115
+angeführten	angeführt	ADJA	Duden	tu_93_xTok_000117
+Jnnhalte	Inhalt	NN	Duden	tu_93_xTok_000118
+gemäß	gemäß	APPO	Duden	tu_93_xTok_000120
+<g/>
+,
+heute	heute	ADV	Duden	tu_93_xTok_000123
+den	d	ART	Duden	tu_93_xTok_000125
+<date id="date93">
+31.	31	ADJA		tu_93_xTok_000127
+Jänner	Jänner	NN	Duden	tu_93_xTok_000129
+1771.	1771	CARD		tu_93_xTok_000131
+</date>
+allhier	allhier	ADV	Duden	tu_93_xTok_000132
+in	in	APPR	Duden	tu_93_xTok_000134
+Wien	Wien	NE::top	Duden	tu_93_xTok_000136
+vollzogen	vollziehen	VVPP	Duden	tu_93_xTok_000138
+wird	werden	VAFIN	Duden	tu_93_xTok_000140
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_93_xTok_000142
 seines	sein	PPOSAT	Duden	tu_93_xTok_000144

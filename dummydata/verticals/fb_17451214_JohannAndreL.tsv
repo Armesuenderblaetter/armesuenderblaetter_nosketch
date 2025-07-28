@@ -1,4 +1,134 @@
 <doc id="fb_17451214_JohannAndreL" delinquent_sexes="male" title="Todesurteil Johann Andre L." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_32_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_32_xTok_000002
+<g/>
+/
+Einer	ein	ART	Duden	tu_32_xTok_000009
+ledigen	ledig	ADJA	Duden	tu_32_xTok_000012
+Manns=Persohn	Mannsperson	NN	Duden	tu_32_xTok_000014
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_32_xTok_000021
+<persName id="johannandrel32">
+Johann	Johann	NE	Duden	tu_32_xTok_000022
+Andre	Andre	NE	oov	tu_32_xTok_000025
+L.	L.	NE	oov	tu_32_xTok_000028
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_32_xTok_000030
+Religion	Religion	NN	Duden	tu_32_xTok_000033
+<g/>
+/
+zu	zu	APPR	Duden	tu_32_xTok_000038
+<placeName id="pn32">
+Dirnholtz	Dirnholz	NE::top	oov	tu_32_xTok_000040
+in	in	APPR	Duden	tu_32_xTok_000042
+Mähren	Mähren	NE::top	Duden	tu_32_xTok_000044
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_32_xTok_000046
+<g/>
+/
+seines	sein	PPOSAT	Duden	tu_32_xTok_000050
+Alters	Alter	NN	Duden	tu_32_xTok_000052
+50.	50	CARD		tu_32_xTok_000054
+Jahr	Jahr	NN	Duden	tu_32_xTok_000056
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welcher	welch	PRELS	Duden	tu_32_xTok_000058
+heut	heute	ADV	Duden	tu_32_xTok_000060
+Dato	dato	ADV	Duden	tu_32_xTok_000062
+den	d	ART	Duden	tu_32_xTok_000064
+<date id="date32">
+14.	14	ADJA		tu_32_xTok_000066
+December	Dezember	NN	Duden	tu_32_xTok_000068
+1745.	1745	CARD		tu_32_xTok_000070
+</date>
+auf	auf	APPR	Duden	tu_32_xTok_000072
+den	d	ART	Duden	tu_32_xTok_000074
+hohen	hoch	ADJA	Duden	tu_32_xTok_000076
+Wagen	Wagen	NN	Duden	tu_32_xTok_000079
+gesetzt	setzen	VVPP	Duden	tu_32_xTok_000081
+<g/>
+/
+auf	auf	APPR	Duden	tu_32_xTok_000085
+disem	diese	PDS	Duden	tu_32_xTok_000087
+vor	vor	APPR	Duden	tu_32_xTok_000089
+dem	d	ART	Duden	tu_32_xTok_000091
+Cärnthner=Thor	Kärntnertor	NE::top	oov	tu_32_xTok_000093
+ausser	außer	APPR	Duden	tu_32_xTok_000095
+dasigen	dasig	ADJA	Duden	tu_32_xTok_000096
+Schrancken	Schranken	NN	Duden	tu_32_xTok_000098
+mit	mit	APPR	Duden	tu_32_xTok_000100
+einer	ein	ART	Duden	tu_32_xTok_000102
+glüenden	glühend	ADJA	Duden	tu_32_xTok_000104
+Zangen	Zange	NN	Duden	tu_32_xTok_000106
+an	an	APPR	Duden	tu_32_xTok_000108
+der	d	ART	Duden	tu_32_xTok_000110
+rechten	rechte	ADJA	Duden	tu_32_xTok_000112
+Brust	Brust	NN	Duden	tu_32_xTok_000114
+gezwicket	zwicken	VVPP	Duden	tu_32_xTok_000116
+<g/>
+/
+folgends	folgends	ADV	DWB	tu_32_xTok_000121
+zu	zu	APPR	Duden	tu_32_xTok_000123
+dem	d	ART	Duden	tu_32_xTok_000125
+Räder=Creutz	Räderkreuz	NN	oov	tu_32_xTok_000127
+an	an	APPR	Duden	tu_32_xTok_000129
+die	d	ART	Duden	tu_32_xTok_000131
+gewöhnliche	gewöhnlich	ADJA	Duden	tu_32_xTok_000133
+Richtstadt	Richtstatt	NN	DWB	tu_32_xTok_000135
+geführet	führen	VVPP	Duden	tu_32_xTok_000137
+<g/>
+/
+daselbsten	daselbst	ADV	Duden	tu_32_xTok_000141
+mit	mit	APPR	Duden	tu_32_xTok_000145
+dem	d	ART	Duden	tu_32_xTok_000147
+Rad	Rad	NN	Duden	tu_32_xTok_000149
+von	von	APPR	Duden	tu_32_xTok_000151
+oben	oben	ADV	Duden	tu_32_xTok_000153
+herab	herab	ADV	Duden	tu_32_xTok_000155
+vom	vom	APPRART	Duden	tu_32_xTok_000157
+Leben	Leben	NN	Duden	tu_32_xTok_000159
+zum	zum	APPRART	Duden	tu_32_xTok_000161
+Todt	Tod	NN	Duden	tu_32_xTok_000163
+hingerichtet	hinrichten	VVPP	Duden	tu_32_xTok_000165
+<g/>
+/
+den	d	ART	Duden	tu_32_xTok_000169
+Cörper	Körper	NN	Duden	tu_32_xTok_000171
+auf	auf	APPR	Duden	tu_32_xTok_000173
+das	d	ART	Duden	tu_32_xTok_000175
+Rad	Rad	NN	Duden	tu_32_xTok_000177
+geflochten	flechten	VVPP	Duden	tu_32_xTok_000179
+<g/>
+/
+und	und	KON	Duden	tu_32_xTok_000183
+darüber	darüber	PAV	Duden	tu_32_xTok_000185
+ein	ein	ART	Duden	tu_32_xTok_000187
+Galgen	Galgen	NN	Duden	tu_32_xTok_000189
+mit	mit	APPR	Duden	tu_32_xTok_000191
+abhangenden	abhangen	ADJA	Duden	tu_32_xTok_000192
+Strang	Strang	NN	Duden	tu_32_xTok_000194
+aufgerichtet	aufrichten	VVPP	Duden	tu_32_xTok_000196
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Den	d	ART	Duden	tu_32_xTok_000198
+Jnnhalt	Inhalt	NN	Duden	tu_32_xTok_000200
+seines	sein	PPOSAT	Duden	tu_32_xTok_000202
+Verbrechen	Verbrechen	NN	Duden	tu_32_xTok_000204
+wird	werden	VAFIN	Duden	tu_32_xTok_000206
+der	d	ART	Duden	tu_32_xTok_000208
+geneigte	geneigt	ADJA	Duden	tu_32_xTok_000210
+Leser	Leser	NN	Duden	tu_32_xTok_000212
+hierinnen	hierinnen	PAV	Duden	tu_32_xTok_000213
+finden	finden	VVINF	Duden	tu_32_xTok_000215
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_32_xTok_000235
 des	d	ART	Duden	tu_32_xTok_000238
@@ -476,6 +606,7 @@ mit	mit	APPR	Duden	tu_32_xTok_001094
 denen	d	ART	Duden	tu_32_xTok_001096
 Händen	Hand	NN	Duden	tu_32_xTok_001098
 sich	sich	PRF	Duden	tu_32_xTok_001100
+möglichister	möglich	ADJA	Duden	tu_32_xTok_001102
 Dingen	Ding	NN	Duden	tu_32_xTok_001104
 gewöhret	wehren	VVPP	Duden	tu_32_xTok_001106
 <g/>

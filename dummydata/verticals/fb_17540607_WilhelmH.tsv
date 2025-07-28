@@ -1,4 +1,108 @@
 <doc id="fb_17540607_WilhelmH" delinquent_sexes="male" title="Todesurteil Wilhelm H." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_59_xTok_000002
+des	d	ART	Duden	tu_59_xTok_000004
+<persName id="wilhelmh59">
+Wilhelm	Wilhelm	NE	Duden	tu_59_xTok_000006
+H.	H.	NE	oov	tu_59_xTok_000008
+</persName>
+<g/>
+.
+<g/>
+.
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Eines	ein	ART	Duden	tu_59_xTok_000016
+42.=jährig	42-jährig	ADJD	oov	tu_59_xTok_000016b
+<g/>
+,
+von	von	APPR	Duden	tu_59_xTok_000021
+<placeName id="pn59">
+Amberg	Amberg	NE::top	oov	tu_59_xTok_000023
+aus	aus	APPR	Duden	tu_59_xTok_000025
+der	d	ART	Duden	tu_59_xTok_000027
+Pfalz	Pfalz	NE::top	Duden	tu_59_xTok_000029
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_59_xTok_000031
+<g/>
+,
+Catholisch	katholisch	ADJA	Duden	tu_59_xTok_000034
+<g/>
+,
+verheyrateten	verheiratet	ADJA	Duden	tu_59_xTok_000037
+Fragners	Fragner	NN	DWB	tu_59_xTok_000039
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+Welcher	welch	PRELS	Duden	tu_59_xTok_000042
+vermög	vermöge	APPR	Duden	tu_59_xTok_000044
+der	d	ART	Duden	tu_59_xTok_000046
+über	über	APPR	Duden	tu_59_xTok_000048
+die	d	ART	Duden	tu_59_xTok_000050
+mit	mit	APPR	Duden	tu_59_xTok_000052
+ihme	er	PPER	Duden	tu_59_xTok_000054
+abgeführte	abführen	ADJA	DRW	tu_59_xTok_000056
+Criminal-Inquisition	Kriminalinquisition	NN	oov	tu_59_xTok_000058
+bey	bei	APPR	Duden	tu_59_xTok_000061
+dem	d	ART	Duden	tu_59_xTok_000063
+alhiesig=	allhiesig	ADJA	DWB	tu_59_xTok_000065
+Kaiserl.	kaiserlich	ADJA	Duden	tu_59_xTok_000067
+Königl.	königlich	ADJA	Duden	tu_59_xTok_000070
+Stadt=	Stadtgericht	TRUNC	Duden	tu_59_xTok_000073
+und	und	KON	Duden	tu_59_xTok_000075
+Land=gericht	Landgericht	NN	Duden	tu_59_xTok_000076
+wider	wider	APPR	Duden	tu_59_xTok_000078
+ihne	er	PPER	Duden	tu_59_xTok_000080
+geschöpft=	schöpfen	ADJA	Duden	tu_59_xTok_000082
+und	und	KON	Duden	tu_59_xTok_000084
+von	von	APPR	Duden	tu_59_xTok_000086
+Hochlöbl.	hochlöblich	ADJA	Duden	tu_59_xTok_000088
+Ni. Oe.	niederösterreichisch	ADJA		tu_59_xTok_000091
+Regierung	Regierung	NN	Duden	tu_59_xTok_000097
+in	in	APPR	Duden	tu_59_xTok_000098
+Justiz-sachen	Justizsache	NN	DRW	tu_59_xTok_000098b
+bestättigten	bestätigen	ADJA	Duden	tu_59_xTok_000102
+Erkanntnuß	Erkanntnis	NN	DWB	tu_59_xTok_000104
+heute	heute	ADV	Duden	tu_59_xTok_000106
+den	d	ART	Duden	tu_59_xTok_000108
+<date id="date59">
+7.	7	ADJA		tu_59_xTok_000110
+Junii	Juni	NN	Duden	tu_59_xTok_000112
+1754.	1754	CARD		tu_59_xTok_000114
+</date>
+vor	vor	APPR	Duden	tu_59_xTok_000116
+dem	d	ART	Duden	tu_59_xTok_000117
+alhiesigen	allhiesig	ADJA	DWB	tu_59_xTok_000119
+Schotten=thor	Schottentor	NE::top	oov	tu_59_xTok_000121
+auf	auf	APPR	Duden	tu_59_xTok_000123
+der	d	ART	Duden	tu_59_xTok_000125
+alldasigen	alldasig	ADJA	oov	tu_59_xTok_000127
+Richt=stadt	Richtstatt	NN	DWB	tu_59_xTok_000129
+mit	mit	APPR	Duden	tu_59_xTok_000131
+dem	d	ART	Duden	tu_59_xTok_000133
+Schwert	Schwert	NN	Duden	tu_59_xTok_000135
+von	von	APPR	Duden	tu_59_xTok_000137
+dem	d	ART	Duden	tu_59_xTok_000139
+Leben	Leben	NN	Duden	tu_59_xTok_000141
+zum	zum	APPRART	Duden	tu_59_xTok_000143
+Tod	Tod	NN	Duden	tu_59_xTok_000145
+hingerichtet	hinrichten	VVPP	Duden	tu_59_xTok_000147
+<g/>
+,
+und	und	KON	Duden	tu_59_xTok_000150
+ihme	er	PPER	Duden	tu_59_xTok_000152
+zugleich	zugleich	ADV	Duden	tu_59_xTok_000154
+die	d	ART	Duden	tu_59_xTok_000157
+rechte	rechte	ADJA	Duden	tu_59_xTok_000159
+Hand	Hand	NN	Duden	tu_59_xTok_000161
+abgehauen	abhauen	VVPP	Duden	tu_59_xTok_000163
+wird	werden	VAFIN	Duden	tu_59_xTok_000165
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_59_xTok_000167
 seines	sein	PPOSAT	Duden	tu_59_xTok_000169

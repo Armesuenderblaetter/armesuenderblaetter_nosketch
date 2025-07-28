@@ -1,4 +1,75 @@
 <doc id="fb_17510525_GregoriS" delinquent_sexes="male" title="Todesurteil Gregori S." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wol=verdientes	wohlverdientes	ADJA	Duden	tu_54_xTok_000002
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_54_xTok_000003
+<g/>
+/
+Einer	ein	ART	Duden	tu_54_xTok_000010
+Verwittibten	verwitwet	ADJA	Duden	tu_54_xTok_000011
+Manns=Person	Mannsperson	NN	Duden	tu_54_xTok_000013
+<g/>
+,
+Namens	namens	ADV	Duden	tu_54_xTok_000016
+<persName id="gregoris54">
+Gregori	Gregori	NE	oov	tu_54_xTok_000018
+S.	S.	NE	oov	tu_54_xTok_000020
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_54_xTok_000023
+Religion	Religion	NN	Duden	tu_54_xTok_000025
+<g/>
+,
+bey	bei	APPR	Duden	tu_54_xTok_000027
+70.	70	CARD		tu_54_xTok_000029
+Jahr	Jahr	NN	Duden	tu_54_xTok_000031
+alt	alt	ADJD	Duden	tu_54_xTok_000033
+<g/>
+,
+und	und	KON	Duden	tu_54_xTok_000036
+von	von	APPR	Duden	tu_54_xTok_000038
+<placeName id="pn54">
+Burg=Lehenfeld	Burglengenfeld	NE::top	oov	tu_54_xTok_000040
+aus	aus	APPR	Duden	tu_54_xTok_000042
+der	d	ART	Duden	tu_54_xTok_000044
+oberen Pfalz	OberePfalz	NE::top		tu_54_xTok_000046
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_54_xTok_000050
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+So	so	PRELS	Duden	tu_54_xTok_000052
+Heut	heute	ADV	Duden	tu_54_xTok_000053
+Dato	dato	ADV	Duden	tu_54_xTok_000055
+den	d	ART	Duden	tu_54_xTok_000057
+<date id="date54">
+25.	25	ADJA		tu_54_xTok_000059
+Maji	Mai	NN	Duden	tu_54_xTok_000061
+1751.	1751	CARD		tu_54_xTok_000063
+</date>
+inn= bemeldt	inbemeldet	ADJA		tu_54_xTok_000065
+begangenen	begehen	ADJA	Duden	tu_54_xTok_000068
+Verbrechen	Verbrechen	NN	Duden	tu_54_xTok_000070
+halber	halber	APPO	Duden	tu_54_xTok_000072
+vor	vor	APPR	Duden	tu_54_xTok_000074
+dem	d	ART	Duden	tu_54_xTok_000076
+Schotten=Thor	Schottentor	NE::top	oov	tu_54_xTok_000078
+auf	auf	APPR	Duden	tu_54_xTok_000079
+der	d	ART	Duden	tu_54_xTok_000081
+gewöhnlichen	gewöhnlich	ADJA	Duden	tu_54_xTok_000083
+Richt=statt	Richtstatt	NN	DWB	tu_54_xTok_000085
+mit	mit	APPR	Duden	tu_54_xTok_000087
+dem	d	ART	Duden	tu_54_xTok_000089
+Schwert	Schwert	NN	Duden	tu_54_xTok_000091
+von	von	APPR	Duden	tu_54_xTok_000093
+dem	d	ART	Duden	tu_54_xTok_000094
+Leben	Leben	NN	Duden	tu_54_xTok_000096
+zum	zum	APPRART	Duden	tu_54_xTok_000098
+Tod	Tod	NN	Duden	tu_54_xTok_000100
+hingerichtet	hinrichten	VVPP	Duden	tu_54_xTok_000102
+worden	werden	VAPP	Duden	tu_54_xTok_000103
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_54_xTok_000123
 des	d	ART	Duden	tu_54_xTok_000125
@@ -211,6 +282,7 @@ auch	auch	ADV	Duden	tu_54_xTok_000496
 seinen	sein	PPOSAT	Duden	tu_54_xTok_000498
 Stief=Sohn	Stiefsohn	NN	Duden	tu_54_xTok_000500
 zum	zum	APPRART	Duden	tu_54_xTok_000501
+Sehlen	stehlen	VVINF-NN	Duden	tu_54_xTok_000503
 und	und	KON	Duden	tu_54_xTok_000505
 Säckel=raumen	Säckelräumen	NN	oov	tu_54_xTok_000507
 abgerichtet	abrichten	VVPP	Duden	tu_54_xTok_000509

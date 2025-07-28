@@ -1,4 +1,105 @@
 <doc id="fb_17470222_JohannPeregrinB" delinquent_sexes="male" title="Todesurteil Johann Peregrin B." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_37_xTok_000002
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_37_xTok_000003
+<g/>
+/
+Einer	ein	ART	Duden	tu_37_xTok_000010
+Verheyrathen	verheiratet	ADJA	Duden	tu_37_xTok_000011
+Manns=Persohn	Mannsperson	NN	Duden	tu_37_xTok_000014
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_37_xTok_000021
+<persName id="johannperegrinb37">
+Johann	Johann	NE	Duden	tu_37_xTok_000022
+Peregrin	Peregrin	NE	oov	tu_37_xTok_000025
+B.	B.	NE	oov	tu_37_xTok_000028
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_37_xTok_000030
+Religion	Religion	NN	Duden	tu_37_xTok_000033
+<g/>
+/
+allhier	allhier	ADV	Duden	tu_37_xTok_000038
+im	im	APPRART	Duden	tu_37_xTok_000040
+<placeName id="pn37">
+Liechtenthall	Lichtental	NE::top	oov	tu_37_xTok_000041
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_37_xTok_000043
+<g/>
+/
+25.	25	CARD		tu_37_xTok_000047
+Jahr	Jahr	NN	Duden	tu_37_xTok_000049
+alt	alt	ADJD	Duden	tu_37_xTok_000051
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Welcher	welch	PRELS	Duden	tu_37_xTok_000053
+Heunt	heute	ADV	Duden	tu_37_xTok_000054
+Dato	dato	ADV	Duden	tu_37_xTok_000056
+den	d	ART	Duden	tu_37_xTok_000058
+<date id="date37">
+22.	22	ADJA		tu_37_xTok_000060
+Februarii	Februar	NN	Duden	tu_37_xTok_000062
+1747.	1747	CARD		tu_37_xTok_000064
+</date>
+auf	auf	APPR	Duden	tu_37_xTok_000066
+den	d	ART	Duden	tu_37_xTok_000068
+hohen	hoch	ADJA	Duden	tu_37_xTok_000069
+Wagen	Wagen	NN	Duden	tu_37_xTok_000071
+gesetzt	setzen	VVPP	Duden	tu_37_xTok_000073
+<g/>
+,
+alsdann	alsdann	ADV	Duden	tu_37_xTok_000076
+zu	zu	APPR	Duden	tu_37_xTok_000078
+dem	d	ART	Duden	tu_37_xTok_000080
+Räder=Creutz	Räderkreuz	NN	oov	tu_37_xTok_000082
+an	an	APPR	Duden	tu_37_xTok_000084
+die	d	ART	Duden	tu_37_xTok_000085
+gewöhnliche	gewöhnlich	ADJA	Duden	tu_37_xTok_000087
+Richtstadt	Richtstatt	NN	DWB	tu_37_xTok_000089
+geführet	führen	VVPP	Duden	tu_37_xTok_000091
+<g/>
+/
+daselbst	daselbst	ADV	Duden	tu_37_xTok_000095
+mit	mit	APPR	Duden	tu_37_xTok_000097
+dem	d	ART	Duden	tu_37_xTok_000099
+Rad	Rad	NN	Duden	tu_37_xTok_000101
+von	von	APPR	Duden	tu_37_xTok_000102
+oben	oben	ADV	Duden	tu_37_xTok_000104
+herab	herab	ADV	Duden	tu_37_xTok_000106
+vom	vom	APPRART	Duden	tu_37_xTok_000108
+Leben	Leben	NN	Duden	tu_37_xTok_000110
+zum	zum	APPRART	Duden	tu_37_xTok_000112
+Todt	Tod	NN	Duden	tu_37_xTok_000114
+hingerichtet	hinrichten	VVPP	Duden	tu_37_xTok_000116
+wird	werden	VAFIN	Duden	tu_37_xTok_000118
+<g/>
+/
+und	und	KON	Duden	tu_37_xTok_000122
+der	d	ART	Duden	tu_37_xTok_000124
+Cörper	Körper	NN	Duden	tu_37_xTok_000126
+auf	auf	APPR	Duden	tu_37_xTok_000128
+das	d	ART	Duden	tu_37_xTok_000130
+Rad	Rad	NN	Duden	tu_37_xTok_000132
+geflochten	flechten	VVPP	Duden	tu_37_xTok_000134
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Den	d	ART	Duden	tu_37_xTok_000136
+Jnnhalt	Inhalt	NN	Duden	tu_37_xTok_000138
+seines	sein	PPOSAT	Duden	tu_37_xTok_000140
+Verbrechens	Verbrechen	NN	Duden	tu_37_xTok_000142
+wird	werden	VAFIN	Duden	tu_37_xTok_000144
+der	d	ART	Duden	tu_37_xTok_000146
+geneigte	geneigt	ADJA	Duden	tu_37_xTok_000148
+Leser	Leser	NN	Duden	tu_37_xTok_000150
+hierinnen	hierinnen	PAV	Duden	tu_37_xTok_000151
+finden	finden	VVINF	Duden	tu_37_xTok_000153
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_37_xTok_000173
 des	d	ART	Duden	tu_37_xTok_000176
@@ -93,6 +194,7 @@ eingefunden	einfinden	VVPP	Duden	tu_37_xTok_000338
 und	und	KON	Duden	tu_37_xTok_000342
 ohne	ohne	APPR	Duden	tu_37_xTok_000344
 erhaltender	erhalten	ADJA	Duden	tu_37_xTok_000346
+Befridignng	Befriedigung	NN	Duden	tu_37_xTok_000348
 <g/>
 ,
 oder	oder	KON	Duden	tu_37_xTok_000351

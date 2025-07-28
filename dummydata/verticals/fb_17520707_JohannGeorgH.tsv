@@ -1,4 +1,86 @@
 <doc id="fb_17520707_JohannGeorgH" delinquent_sexes="male" title="Todesurteil Johann Georg H." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_55_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_55_xTok_000002
+<g/>
+/
+Einer	ein	ART	Duden	tu_55_xTok_000009
+Ledigen	ledig	ADJA	Duden	tu_55_xTok_000010
+Manns=Person	Mannsperson	NN	Duden	tu_55_xTok_000012
+<g/>
+,
+Nahmens	namens	ADV	Duden	tu_55_xTok_000014
+<persName id="johanngeorgh55">
+Johann	Johann	NE	Duden	tu_55_xTok_000015
+Georg	Georg	NE	Duden	tu_55_xTok_000017
+H.	H.	NE	oov	tu_55_xTok_000019
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_55_xTok_000021
+Religion	Religion	NN	Duden	tu_55_xTok_000023
+<g/>
+,
+zu	zu	APPR	Duden	tu_55_xTok_000026
+<placeName id="pn55">
+Prespurg	Pressburg	NE::top	Duden	tu_55_xTok_000028
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_55_xTok_000029
+<g/>
+,
+25.	25	CARD		tu_55_xTok_000032
+Jahr	Jahr	NN	Duden	tu_55_xTok_000034
+alt	alt	ADJD	Duden	tu_55_xTok_000036
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Welcher	welch	PRELS	Duden	tu_55_xTok_000038
+Heut	heute	ADV	Duden	tu_55_xTok_000039
+Dato	dato	ADV	Duden	tu_55_xTok_000041
+den	d	ART	Duden	tu_55_xTok_000043
+<date id="date55">
+7.	7	ADJA		tu_55_xTok_000045
+Julii	Juli	NN	Duden	tu_55_xTok_000047
+1752.	1752	CARD		tu_55_xTok_000049
+</date>
+wegen	wegen	APPR	Duden	tu_55_xTok_000051
+dreymalig	dreimalig	ADJD	Duden	tu_55_xTok_000053
+gebrochener	brechen	ADJA	Duden	tu_55_xTok_000056
+Urphed	Urfehde	NN	Duden	tu_55_xTok_000058
+halber	halber	APPO	Duden	tu_55_xTok_000060
+vor	vor	APPR	Duden	tu_55_xTok_000062
+dem	d	ART	Duden	tu_55_xTok_000064
+Schotten=Thor	Schottentor	NE::top	oov	tu_55_xTok_000066
+auf	auf	APPR	Duden	tu_55_xTok_000067
+der	d	ART	Duden	tu_55_xTok_000069
+gewöhnlichen	gewöhnlich	ADJA	Duden	tu_55_xTok_000071
+Richt=Statt	Richtstatt	NN	DWB	tu_55_xTok_000073
+mit	mit	APPR	Duden	tu_55_xTok_000075
+dem	d	ART	Duden	tu_55_xTok_000077
+Schwerdt	Schwert	NN	Duden	tu_55_xTok_000079
+von	von	APPR	Duden	tu_55_xTok_000081
+dem	d	ART	Duden	tu_55_xTok_000082
+Leben	Leben	NN	Duden	tu_55_xTok_000084
+zum	zum	APPRART	Duden	tu_55_xTok_000086
+Todt	Tod	NN	Duden	tu_55_xTok_000088
+hingerichtet	hinrichten	VVPP	Duden	tu_55_xTok_000090
+wurde	werden	VAFIN	Duden	tu_55_xTok_000092
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Den	d	ART	Duden	tu_55_xTok_000094
+Jnnhalt	Inhalt	NN	Duden	tu_55_xTok_000096
+seines	sein	PPOSAT	Duden	tu_55_xTok_000098
+Verbrechens	Verbrechen	NN	Duden	tu_55_xTok_000100
+wird	werden	VAFIN	Duden	tu_55_xTok_000102
+der	d	ART	Duden	tu_55_xTok_000104
+geneigte	geneigt	ADJA	Duden	tu_55_xTok_000106
+Leser	Leser	NN	Duden	tu_55_xTok_000108
+hierinnen	hierinnen	PAV	Duden	tu_55_xTok_000111
+finden	finden	VVINF	Duden	tu_55_xTok_000113
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_55_xTok_000133
 des	d	ART	Duden	tu_55_xTok_000135

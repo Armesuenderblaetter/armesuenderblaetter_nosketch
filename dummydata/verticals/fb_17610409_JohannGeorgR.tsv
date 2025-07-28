@@ -1,4 +1,91 @@
 <doc id="fb_17610409_JohannGeorgR" delinquent_sexes="male" title="Todesurteil Johann Georg R." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_77_xTok_000001
+Einer	ein	ART	Duden	tu_77_xTok_000005
+ledigen	ledig	ADJA	Duden	tu_77_xTok_000007
+Manns=person	Mannsperson	NN	Duden	tu_77_xTok_000009
+<g/>
+,
+Namens	namens	ADV	Duden	tu_77_xTok_000011
+<g/>
+:
+<persName id="johanngeorgr77">
+Johann	Johann	NE	Duden	tu_77_xTok_000013
+Georg	Georg	NE	Duden	tu_77_xTok_000016
+R.	R.	NE	oov	tu_77_xTok_000019
+</persName>
+Alt	alt	ADJD	Duden	tu_77_xTok_000021
+26.	26	CARD		tu_77_xTok_000023
+Jahr	Jahr	NN	Duden	tu_77_xTok_000025
+<g/>
+,
+Von	von	APPR	Duden	tu_77_xTok_000027
+<placeName id="pn77">
+Tulln	Tulln	NE::top	Duden	tu_77_xTok_000029
+in	in	APPR	Duden	tu_77_xTok_000032
+Unter=Oestereich	Unterösterreich	NE::top	oov	tu_77_xTok_000035
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_77_xTok_000038
+<g/>
+,
+Catholischer	katholisch	ADJA	Duden	tu_77_xTok_000040
+Religion	Religion	NN	Duden	tu_77_xTok_000042
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_77_xTok_000044
+in	in	APPR	Duden	tu_77_xTok_000046
+Folge	Folge	NN	Duden	tu_77_xTok_000048
+der	d	ART	Duden	tu_77_xTok_000050
+<g/>
+,
+über	über	APPR	Duden	tu_77_xTok_000053
+die	d	ART	Duden	tu_77_xTok_000055
+mit	mit	APPR	Duden	tu_77_xTok_000057
+ihme	er	PPER	Duden	tu_77_xTok_000059
+bey	bei	APPR	Duden	tu_77_xTok_000061
+dem	d	ART	Duden	tu_77_xTok_000062
+alhiesig=	allhiesig	ADJA	DWB	tu_77_xTok_000064
+Kaiserl.	kaiserlich	ADJA	Duden	tu_77_xTok_000066
+Königl.	königlich	ADJA	Duden	tu_77_xTok_000070
+Stadt=	Stadtgericht	TRUNC	Duden	tu_77_xTok_000073
+und	und	KON	Duden	tu_77_xTok_000075
+Land=gericht	Landgericht	NN	Duden	tu_77_xTok_000077
+wegen	wegen	APPR	Duden	tu_77_xTok_000078
+zu	zu	APPR	Duden	tu_77_xTok_000080
+Schwechat	Schwechat	NE::top	oov	tu_77_xTok_000082
+begangener	begehen	ADJA	Duden	tu_77_xTok_000084
+Entleibung	Entleibung	NN	DWB	tu_77_xTok_000086
+des	d	ART	Duden	tu_77_xTok_000088
+aldasigen	alldasig	ADJA	oov	tu_77_xTok_000090
+Markt=gerichts=dieners	Marktgerichtsdiener	NN	DRW	tu_77_xTok_000094
+abgeführte	abführen	ADJA	DRW	tu_77_xTok_000096
+Criminal=verfahrung	Kriminalverfahrung	NN	oov	tu_77_xTok_000098
+geschöpft	schöpfen	VVPP	Duden	tu_77_xTok_000101
+<g/>
+,
+und	und	KON	Duden	tu_77_xTok_000104
+von	von	APPR	Duden	tu_77_xTok_000106
+einer	ein	ART	Duden	tu_77_xTok_000108
+hohen	hoch	ADJA	Duden	tu_77_xTok_000110
+Landes=fürstl.	landesfürstlich	ADJA	DWB	tu_77_xTok_000112
+N. Oe.	niederösterreichisch	ADJA		tu_77_xTok_000116
+Regierung	Regierung	NN	Duden	tu_77_xTok_000121
+bestättigten	bestätigen	ADJA	Duden	tu_77_xTok_000123
+Erkanntnuß	Erkanntnis	NN	DWB	tu_77_xTok_000125
+heute	heute	ADV	Duden	tu_77_xTok_000127
+den	d	ART	Duden	tu_77_xTok_000129
+<date id="date77">
+9.	9	ADJA		tu_77_xTok_000131
+April	April	NN	Duden	tu_77_xTok_000132
+1761.	1761	CARD		tu_77_xTok_000134
+</date>
+vollzogen	vollziehen	VVPP	Duden	tu_77_xTok_000136
+wird	werden	VAFIN	Duden	tu_77_xTok_000138
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_77_xTok_000140
 seines	sein	PPOSAT	Duden	tu_77_xTok_000142

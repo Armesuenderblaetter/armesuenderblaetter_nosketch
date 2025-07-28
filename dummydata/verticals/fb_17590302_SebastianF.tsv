@@ -1,4 +1,97 @@
 <doc id="fb_17590302_SebastianF" delinquent_sexes="male" title="Todesurteil Sebastian F." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_70_xTok_000001
+Einer	ein	ART	Duden	tu_70_xTok_000005
+verheyrateten	verheiratet	ADJA	Duden	tu_70_xTok_000007
+Manns=person	Mannsperson	NN	Duden	tu_70_xTok_000009
+<g/>
+,
+Namens	namens	ADV	Duden	tu_70_xTok_000011
+<g/>
+:
+<persName id="sebastianf70">
+Sebastian	Sebastian	NE	Duden	tu_70_xTok_000014
+F.	F.	NE	oov	tu_70_xTok_000018
+</persName>
+Alt	alt	ADJD	Duden	tu_70_xTok_000021
+40.	40	CARD		tu_70_xTok_000023
+Jahr	Jahr	NN	Duden	tu_70_xTok_000025
+<g/>
+,
+Von	von	APPR	Duden	tu_70_xTok_000027
+<placeName id="pn70">
+Weitersfeld	Weitersfeld	NE::top	oov	tu_70_xTok_000029
+aus	aus	APPR	Duden	tu_70_xTok_000031
+Unter=Osterreich	Unterösterreich	NE::top	oov	tu_70_xTok_000033
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_70_xTok_000035
+<g/>
+,
+Catholischer	katholisch	ADJA	Duden	tu_70_xTok_000037
+Religion	Religion	NN	Duden	tu_70_xTok_000041
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_70_xTok_000043
+in	in	APPR	Duden	tu_70_xTok_000046
+Folge	Folge	NN	Duden	tu_70_xTok_000048
+der	d	ART	Duden	tu_70_xTok_000050
+bey	bei	APPR	Duden	tu_70_xTok_000052
+dem	d	ART	Duden	tu_70_xTok_000054
+alhiesig	allhiesig	ADJA	DWB	tu_70_xTok_000056
+Kaiserl.	kaiserlich	ADJA	Duden	tu_70_xTok_000058
+Königl.	königlich	ADJA	Duden	tu_70_xTok_000061
+Stadt=	Stadtgericht	TRUNC	Duden	tu_70_xTok_000064
+und	und	KON	Duden	tu_70_xTok_000065
+Land=gericht	Landgericht	NN	Duden	tu_70_xTok_000067
+wider	wider	APPR	Duden	tu_70_xTok_000069
+ihne	er	PPER	Duden	tu_70_xTok_000071
+abgeführten	abführen	ADJA	DRW	tu_70_xTok_000073
+Criminal-verfahrung	Kriminalverfahrung	NN	oov	tu_70_xTok_000075
+<g/>
+,
+und	und	KON	Duden	tu_70_xTok_000080
+darüber	darüber	PAV	Duden	tu_70_xTok_000082
+geschöpften	schöpfen	ADJA	Duden	tu_70_xTok_000084
+<g/>
+,
+auch	auch	ADV	Duden	tu_70_xTok_000087
+von	von	APPR	Duden	tu_70_xTok_000089
+einer	ein	ART	Duden	tu_70_xTok_000091
+Hochlöbl.	hochlöblich	ADJA	Duden	tu_70_xTok_000093
+Landes=fürstlichen	landesfürstlich	ADJA	DWB	tu_70_xTok_000097
+N. Oe.	niederösterreichisch	ADJA		tu_70_xTok_000099
+Regierung	Regierung	NN	Duden	tu_70_xTok_000105
+in	in	APPR	Duden	tu_70_xTok_000107
+Justitz=sachen	Justizsache	NN	DRW	tu_70_xTok_000109
+bestättigten	bestätigen	ADJA	Duden	tu_70_xTok_000111
+Erkanntnuß	Erkanntnis	NN	DWB	tu_70_xTok_000114
+an	an	APPR	Duden	tu_70_xTok_000116
+gleich=benannten	gleichbenannt	ADJA	DWB	tu_70_xTok_000118
+Sebastian	Sebastian	NE	Duden	tu_70_xTok_000120
+F.	F.	NE	oov	tu_70_xTok_000122
+dem	d	ART	Duden	tu_70_xTok_000125
+zu	zu	APPR	Duden	tu_70_xTok_000127
+End	Ende	NN	Duden	tu_70_xTok_000129
+angefügten	anfügen	ADJA	Duden	tu_70_xTok_000130
+Jnnhalt	Inhalt	NN	Duden	tu_70_xTok_000132
+gemäß	gemäß	APPO	Duden	tu_70_xTok_000134
+heut	heute	ADV	Duden	tu_70_xTok_000136
+den	d	ART	Duden	tu_70_xTok_000138
+<date id="date70">
+2.	2	ADJA		tu_70_xTok_000140
+Martii	März	NN	Duden	tu_70_xTok_000142
+1759.	1759	CARD		tu_70_xTok_000144
+</date>
+alhier	allhier	ADV	Duden	tu_70_xTok_000146
+in	in	APPR	Duden	tu_70_xTok_000148
+Wien	Wien	NE::top	Duden	tu_70_xTok_000149
+vollzogen	vollziehen	VVPP	Duden	tu_70_xTok_000151
+wird	werden	VAFIN	Duden	tu_70_xTok_000153
+<g/>
+.
+</titlePart>
 <p id="fb_17590302_SebastianF_p_0001">
 Es	es	PPER	Duden	tu_70_xTok_000155
 ist	sein	VAFIN	Duden	tu_70_xTok_000157

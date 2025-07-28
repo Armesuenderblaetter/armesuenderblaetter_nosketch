@@ -1,4 +1,94 @@
 <doc id="fb_17470127_AnnaMariaM" delinquent_sexes="female" title="Todesurteil Anna Maria M." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_35_xTok_000002
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_35_xTok_000003
+<g/>
+/
+Einer	ein	ART	Duden	tu_35_xTok_000010
+ledigen	ledig	ADJA	Duden	tu_35_xTok_000013
+Weibs=Persohn	Weibsperson	NN	Duden	tu_35_xTok_000015
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_35_xTok_000022
+<persName id="annamariam35">
+Anna	Anna	NE	Duden	tu_35_xTok_000023
+Maria	Maria	NE	Duden	tu_35_xTok_000026
+M.	M.	NE	oov	tu_35_xTok_000029
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_35_xTok_000031
+Religion	Religion	NN	Duden	tu_35_xTok_000034
+<g/>
+/
+von	von	APPR	Duden	tu_35_xTok_000039
+<placeName id="pn35">
+Straubing	Straubing	NE::top	oov	tu_35_xTok_000041
+aus	aus	APPR	Duden	tu_35_xTok_000045
+Bayrn	Bayern	NE::top	Duden	tu_35_xTok_000047
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_35_xTok_000049
+<g/>
+/
+bey	bei	APPR	Duden	tu_35_xTok_000053
+40.	40	CARD		tu_35_xTok_000054
+Jahr	Jahr	NN	Duden	tu_35_xTok_000056
+alt	alt	ADJD	Duden	tu_35_xTok_000058
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welche	welch	PRELS	Duden	tu_35_xTok_000060
+Heut	heute	ADV	Duden	tu_35_xTok_000061
+Dato	dato	ADV	Duden	tu_35_xTok_000063
+den	d	ART	Duden	tu_35_xTok_000065
+<date id="date35">
+27.	27	ADJA		tu_35_xTok_000067
+Jenner	Jänner	NN	Duden	tu_35_xTok_000069
+1747.	1747	CARD		tu_35_xTok_000071
+</date>
+als	als	KOKOM	Duden	tu_35_xTok_000073
+eine	ein	ART	Duden	tu_35_xTok_000075
+dreyfach=	dreifach	ADJD	Duden	tu_35_xTok_000077
+meyneidige	meineidig	ADJA	Duden	tu_35_xTok_000077b
+Urpheds=Brecherin	Urfehdebrecherin	NN	oov	tu_35_xTok_000080
+<g/>
+,
+zumahlen	zumal	KOUS	Duden	tu_35_xTok_000083
+angewohnt=	angewohnt	ADJA	DRW	tu_35_xTok_000085
+und	und	KON	Duden	tu_35_xTok_000088
+incorrigible	inkorrigibel	ADJA	oov	tu_35_xTok_000090
+Diebin	Diebin	NN	Duden	tu_35_xTok_000093
+<g/>
+/
+vor	vor	APPR	Duden	tu_35_xTok_000097
+dem	d	ART	Duden	tu_35_xTok_000099
+Schotten=Thor	Schottentor	NE::top	oov	tu_35_xTok_000101
+auf	auf	APPR	Duden	tu_35_xTok_000103
+dasigen	dasig	ADJA	Duden	tu_35_xTok_000104
+Raabenstein	Rabenstein	NN	Duden	tu_35_xTok_000106
+mit	mit	APPR	Duden	tu_35_xTok_000108
+dem	d	ART	Duden	tu_35_xTok_000110
+Schwerdt	Schwert	NN	Duden	tu_35_xTok_000112
+vom	vom	APPRART	Duden	tu_35_xTok_000114
+Leben	Leben	NN	Duden	tu_35_xTok_000116
+zum	zum	APPRART	Duden	tu_35_xTok_000118
+Todt	Tod	NN	Duden	tu_35_xTok_000119
+hingerichtet	hinrichten	VVPP	Duden	tu_35_xTok_000121
+wird	werden	VAFIN	Duden	tu_35_xTok_000123
+<g/>
+.
+Den	d	ART	Duden	tu_35_xTok_000125
+Jnnhalt	Inhalt	NN	Duden	tu_35_xTok_000127
+ihres	ihr	PPOSAT	Duden	tu_35_xTok_000129
+Verbrechens	Verbrechen	NN	Duden	tu_35_xTok_000131
+wird	werden	VAFIN	Duden	tu_35_xTok_000133
+der	d	ART	Duden	tu_35_xTok_000135
+geneigte	geneigt	ADJA	Duden	tu_35_xTok_000137
+Leser	Leser	NN	Duden	tu_35_xTok_000139
+hierinnen	hierinnen	PAV	Duden	tu_35_xTok_000140
+finden	finden	VVINF	Duden	tu_35_xTok_000142
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_35_xTok_000162
 des	d	ART	Duden	tu_35_xTok_000165

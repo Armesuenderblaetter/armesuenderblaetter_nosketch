@@ -1,4 +1,121 @@
 <doc id="fb_17391110_JohannK" delinquent_sexes="male" title="Todesurteil Johann K." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_15_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_15_xTok_000002
+<g/>
+/
+Einer	ein	ART	Duden	tu_15_xTok_000011
+Ledigen	ledig	ADJA	Duden	tu_15_xTok_000013
+Manns=Persohn	Mannsperson	NN	Duden	tu_15_xTok_000015
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_15_xTok_000019
+<persName id="johannk15">
+Johann	Johann	NE	Duden	tu_15_xTok_000021
+K.	K.	NE	oov	tu_15_xTok_000021c
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_15_xTok_000026
+Religion	Religion	NN	Duden	tu_15_xTok_000028
+<g/>
+/
+und	und	KON	Duden	tu_15_xTok_000032
+22.	22	CARD		tu_15_xTok_000034
+Jahr	Jahr	NN	Duden	tu_15_xTok_000037
+alt	alt	ADJD	Duden	tu_15_xTok_000040
+<g/>
+/
+von	von	APPR	Duden	tu_15_xTok_000044
+<placeName id="pn15">
+hier	hier	ADV	Duden	tu_15_xTok_000046
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_15_xTok_000048
+<g/>
+/
+</titlePart>
+<titlePart type="main">
+Um weilen	umweil	KOUS		tu_15_xTok_000052
+derselbe nach verschiedenen begangenen Diebstählen, und darüber zu dreymahlen abgeschwornen Urpheden vorhin zwar schon zu zweymahlen in dem Zucht=Hauß abgestraffet / letztens aber anf auf 6. Jahr lang nacher Raab condemniret / inzwischen wegen fürwehrender Hungarischen Contagion in allhiesiges Gnaden=Stockhauß verleget worden / allda aber einen mit=verarrestirten Geistlichen mit einem schwären viereckigen Marmorstein um solch seiner 6. Jährigen	sechsjährig	ADJA		tu_15_xTok_000056
+Straff=Zeit	Strafzeit	NN	Duden	tu_15_xTok_000176
+zu	zu	PTKZU	Duden	tu_15_xTok_000178
+entgehen	entgehen	VVINF	Duden	tu_15_xTok_000180
+<g/>
+/
+todt	tot	PTKVZ	Duden	tu_15_xTok_000184
+geschlagen	totschlagen	VVPP	Duden	tu_15_xTok_000186
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Als	als	ADV	Duden	tu_15_xTok_000188
+wird	werden	VAFIN	Duden	tu_15_xTok_000190
+derselbe	derselbe	PDS	Duden	tu_15_xTok_000192
+heute	heute	ADV	Duden	tu_15_xTok_000194
+Dienstag	Dienstag	NN	Duden	tu_15_xTok_000196
+den	d	ART	Duden	tu_15_xTok_000198
+<date id="date15">
+10.	10	ADJA		tu_15_xTok_000200
+November	November	NN	Duden	tu_15_xTok_000203
+</date>
+andern	ander	PIS	Duden	tu_15_xTok_000205
+zum	zum	APPRART	Duden	tu_15_xTok_000208
+Beyspiel	Beispiel	NN	Duden	tu_15_xTok_000210
+auf	auf	APPR	Duden	tu_15_xTok_000212
+den	d	ART	Duden	tu_15_xTok_000214
+hohen	hoch	ADJA	Duden	tu_15_xTok_000216
+Wagen	Wagen	NN	Duden	tu_15_xTok_000218
+gesetzet	setzen	VVPP	Duden	tu_15_xTok_000220
+<g/>
+/
+sodann	sodann	ADV	Duden	tu_15_xTok_000224
+auf	auf	APPR	Duden	tu_15_xTok_000226
+den	d	ART	Duden	tu_15_xTok_000228
+Wienner=Berg	Wienerberg	NE::top	oov	tu_15_xTok_000230
+zur	zur	APPRART	Duden	tu_15_xTok_000232
+gewöhnlichen	gewöhnlich	ADJA	Duden	tu_15_xTok_000234
+Richtstatt	Richtstatt	NN	DWB	tu_15_xTok_000236
+geführt	führen	VVPP	Duden	tu_15_xTok_000238
+<g/>
+/
+allda	allda	ADV	Duden	tu_15_xTok_000242
+mit	mit	APPR	Duden	tu_15_xTok_000244
+dem	d	ART	Duden	tu_15_xTok_000246
+Rad	Rad	NN	Duden	tu_15_xTok_000248
+von	von	APPR	Duden	tu_15_xTok_000250
+oben	oben	ADV	Duden	tu_15_xTok_000252
+herab	herab	ADV	Duden	tu_15_xTok_000254
+vom	vom	APPRART	Duden	tu_15_xTok_000256
+Leben	Leben	NN	Duden	tu_15_xTok_000258
+zum	zum	APPRART	Duden	tu_15_xTok_000260
+Todt	Tod	NN	Duden	tu_15_xTok_000262
+hingerichtet	hinrichten	VVPP	Duden	tu_15_xTok_000264
+<g/>
+/
+der	d	ART	Duden	tu_15_xTok_000269
+todte	tot	ADJA	Duden	tu_15_xTok_000271
+Cörper	Körper	NN	Duden	tu_15_xTok_000273
+aber	aber	ADV	Duden	tu_15_xTok_000275
+auf	auf	APPR	Duden	tu_15_xTok_000277
+das	d	ART	Duden	tu_15_xTok_000279
+Rad	Rad	NN	Duden	tu_15_xTok_000281
+geflochten	flechten	VVPP	Duden	tu_15_xTok_000283
+werden	werden	VAINF	Duden	tu_15_xTok_000285
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+NB.	Notabene	NN	Duden	tu_15_xTok_000287
+Der	d	ART	Duden	tu_15_xTok_000290
+fernere	ferner	ADJA	Duden	tu_15_xTok_000292
+Jnnhalt	Inhalt	NN	Duden	tu_15_xTok_000294
+seines	sein	PPOSAT	Duden	tu_15_xTok_000296
+Verbrechens	Verbrechen	NN	Duden	tu_15_xTok_000298
+ist	sein	VAFIN	Duden	tu_15_xTok_000300
+hierinnen	hierinnen	PAV	Duden	tu_15_xTok_000302
+zu	zu	PTKZU	Duden	tu_15_xTok_000304
+vernehmen	vernehmen	VVINF	Duden	tu_15_xTok_000306
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_15_xTok_000322
 des	d	ART	Duden	tu_15_xTok_000325
@@ -152,6 +269,7 @@ Ubelthäter	Übeltäter	NN	Duden	tu_15_xTok_000600
 nicht	nicht	PTKNEG	Duden	tu_15_xTok_000602
 mehr	mehr	ADV	Duden	tu_15_xTok_000604
 zu	zu	PTKZU	Duden	tu_15_xTok_000606
+erinderen	erinnern	VVINF	Duden	tu_15_xTok_000608
 gewust	wissen	VVPP	Duden	tu_15_xTok_000610
 <g/>
 )
@@ -177,6 +295,7 @@ nicht	nicht	PTKNEG	Duden	tu_15_xTok_000645
 mehr	mehr	ADV	Duden	tu_15_xTok_000647
 im	im	APPRART	Duden	tu_15_xTok_000649
 geringsten	gering	ADJ-NN	Duden	tu_15_xTok_000651
+gerühet	rühren	VVPP	Duden	tu_15_xTok_000653
 <g/>
 /
 oder	oder	KON	Duden	tu_15_xTok_000657

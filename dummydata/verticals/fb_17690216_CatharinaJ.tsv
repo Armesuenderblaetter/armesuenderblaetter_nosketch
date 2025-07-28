@@ -1,4 +1,95 @@
 <doc id="fb_17690216_CatharinaJ" delinquent_sexes="female" title="Todesurteil Catharina J." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_92_xTok_000001
+einer	ein	ART	Duden	tu_92_xTok_000003
+ledigen	ledig	ADJA	Duden	tu_92_xTok_000005
+Weibsperson	Weibsperson	NN	Duden	tu_92_xTok_000007
+<g/>
+,
+Namens	namens	ADV	Duden	tu_92_xTok_000009
+<persName id="catharinaj92">
+Catharina	Catharina	NE	oov	tu_92_xTok_000010
+J.	J.	NE	oov	tu_92_xTok_000012
+</persName>
+alt	alt	ADJD	Duden	tu_92_xTok_000014
+bey	bei	APPR	Duden	tu_92_xTok_000016
+24.	24	CARD		tu_92_xTok_000018
+Jahr	Jahr	NN	Duden	tu_92_xTok_000021
+<g/>
+,
+Von	von	APPR	Duden	tu_92_xTok_000023
+<placeName id="pn92">
+Kowanecz	Kowanecz	NE::top	oov	tu_92_xTok_000025
+im	im	APPRART	Duden	tu_92_xTok_000027
+Königreich	Königreich	NN	Duden	tu_92_xTok_000029
+Böheim	Böhmen	NE::top	Duden	tu_92_xTok_000031
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_92_xTok_000033
+<g/>
+,
+und	und	KON	Duden	tu_92_xTok_000035
+katholischer	katholisch	ADJA	Duden	tu_92_xTok_000036
+Religion	Religion	NN	Duden	tu_92_xTok_000038
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_92_xTok_000040
+in	in	APPR	Duden	tu_92_xTok_000042
+Folge	Folge	NN	Duden	tu_92_xTok_000044
+der	d	ART	Duden	tu_92_xTok_000046
+bey	bei	APPR	Duden	tu_92_xTok_000048
+dem	d	ART	Duden	tu_92_xTok_000050
+allhiesig	allhiesig	ADJA	DWB	tu_92_xTok_000052
+k.	kaiserlich	ADJA	Duden	tu_92_xTok_000054
+k.	königlich	ADJA	Duden	tu_92_xTok_000057
+Stadt=	Stadtgericht	TRUNC	Duden	tu_92_xTok_000060
+und	und	KON	Duden	tu_92_xTok_000062
+Landgericht	Landgericht	NN	Duden	tu_92_xTok_000064
+wider	wider	APPR	Duden	tu_92_xTok_000067
+sie	sie	PPER	Duden	tu_92_xTok_000070
+abgeführten	abführen	ADJA	DRW	tu_92_xTok_000072
+Criminalverfahrung	Kriminalverfahrung	NN	oov	tu_92_xTok_000074
+<g/>
+,
+und	und	KON	Duden	tu_92_xTok_000077
+darüber	darüber	PAV	Duden	tu_92_xTok_000079
+geschöpften	schöpfen	ADJA	Duden	tu_92_xTok_000081
+<g/>
+,
+auch	auch	ADV	Duden	tu_92_xTok_000083
+von	von	APPR	Duden	tu_92_xTok_000084
+einem	ein	ART	Duden	tu_92_xTok_000086
+hochlöbl.	hochlöblich	ADJA	Duden	tu_92_xTok_000089
+Landesfürstl.	landesfürstlich	ADJA	DWB	tu_92_xTok_000094
+Ni.	niederösterreichisch	ADJA		tu_92_xTok_000097
+Regierung	Regierung	NN	Duden	tu_92_xTok_000105
+bestätigten	bestätigen	ADJA	Duden	tu_92_xTok_000107
+Erkanntnuß	Erkanntnis	NN	DWB	tu_92_xTok_000110
+an	an	APPR	Duden	tu_92_xTok_000113
+gleichbenannter	gleichbenannt	ADJA	DWB	tu_92_xTok_000115
+Catharina	Catharina	NE	oov	tu_92_xTok_000117
+J.	J.	NE	oov	tu_92_xTok_000119
+dem	d	ART	Duden	tu_92_xTok_000122
+zu	zu	APPR	Duden	tu_92_xTok_000124
+Ende	Ende	NN	Duden	tu_92_xTok_000126
+angefügten	anfügen	ADJA	Duden	tu_92_xTok_000128
+Jnnhalt	Inhalt	NN	Duden	tu_92_xTok_000130
+gemäß	gemäß	APPO	Duden	tu_92_xTok_000131
+den	d	ART	Duden	tu_92_xTok_000133
+<date id="date92">
+16.	16	ADJA		tu_92_xTok_000135
+Februarii	Februar	NN	Duden	tu_92_xTok_000138
+1769.	1769	CARD		tu_92_xTok_000140
+</date>
+allhier	allhier	ADV	Duden	tu_92_xTok_000142
+in	in	APPR	Duden	tu_92_xTok_000144
+Wien	Wien	NE::top	Duden	tu_92_xTok_000146
+vollzogen	vollziehen	VVPP	Duden	tu_92_xTok_000148
+worden	werden	VAPP	Duden	tu_92_xTok_000150
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_92_xTok_000155
 ihres	ihr	PPOSAT	Duden	tu_92_xTok_000157
@@ -1621,6 +1712,7 @@ Kupfer	Kupfer	NN	Duden	tu_92_xTok_002798
 worinnen	worin	PWAV	Duden	tu_92_xTok_002801
 alle	all	PIAT	Duden	tu_92_xTok_002803
 6.	6	CARD		tu_92_xTok_002805
+Mordaten	Mordtat	NN	Duden	tu_92_xTok_002807
 abgeschildert	abschildern	VVPP	Duden	tu_92_xTok_002809
 zu	zu	PTKZU	Duden	tu_92_xTok_002812
 ersehen	ersehen	VVINF	Duden	tu_92_xTok_002814

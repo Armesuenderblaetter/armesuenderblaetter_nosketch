@@ -1,4 +1,109 @@
 <doc id="fb_17421002_AndraeB" delinquent_sexes="male" title="Todesurteil Andrä B." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Billiges	billig	ADJA	Duden	tu_23_xTok_000002
+Recht	Recht	NN	Duden	tu_23_xTok_000004
+Und	und	KON	Duden	tu_23_xTok_000005
+End=Urtheil	Endurteil	NN	Duden	tu_23_xTok_000006
+<g/>
+/
+Einer	ein	ART	Duden	tu_23_xTok_000013
+ledigen	ledig	ADJA	Duden	tu_23_xTok_000016
+Manns=Persohn	Mannsperson	NN	Duden	tu_23_xTok_000018
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_23_xTok_000024
+<persName id="andräb23">
+Andrä	Andrä	NE	oov	tu_23_xTok_000025
+B.	B.	NE	oov	tu_23_xTok_000027
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_23_xTok_000029
+Religion	Religion	NN	Duden	tu_23_xTok_000032
+<g/>
+/
+31.	31	CARD		tu_23_xTok_000037
+Jahr	Jahr	NN	Duden	tu_23_xTok_000039
+alt	alt	ADJD	Duden	tu_23_xTok_000042
+<g/>
+/
+Aus	aus	APPR	Duden	tu_23_xTok_000046
+dem	d	ART	Duden	tu_23_xTok_000048
+Dorf	Dorf	NN	Duden	tu_23_xTok_000050
+<placeName id="pn23">
+Joppecour	Joppecour	NE::top	oov	tu_23_xTok_000052
+<g/>
+,
+der	d	ART	Duden	tu_23_xTok_000055
+Grafschafft	Grafschaft	NN	Duden	tu_23_xTok_000057
+Mercy	Mercy	NE::top	oov	tu_23_xTok_000060
+in	in	APPR	Duden	tu_23_xTok_000062
+Lothringen	Lothringen	NE::top	Duden	tu_23_xTok_000064
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_23_xTok_000066
+<g/>
+/
+</titlePart>
+<titlePart type="main">
+Um	um	APPR	Duden	tu_23_xTok_000069
+willen	willen	APZR	Duden	tu_23_xTok_000071
+selbster	selbe	PDS	Duden	tu_23_xTok_000073
+den	d	ART	Duden	tu_23_xTok_000075
+<date id="date23">
+2ten	2	ADJA		tu_23_xTok_000077
+Octobris	Oktober	NN	Duden	tu_23_xTok_000079
+dieses	diese	PDAT	Duden	tu_23_xTok_000081
+Jahrs	Jahr	NN	Duden	tu_23_xTok_000082
+</date>
+an	an	APPR	Duden	tu_23_xTok_000084
+einem	ein	ART	Duden	tu_23_xTok_000086
+sicheren	sicher	ADJA	DWB	tu_23_xTok_000088
+Burger	Bürger	NN	Duden	tu_23_xTok_000090
+und	und	KON	Duden	tu_23_xTok_000092
+Bierwirth	Bierwirt	NN	Duden	tu_23_xTok_000094
+auf	auf	APPR	Duden	tu_23_xTok_000096
+dem	d	ART	Duden	tu_23_xTok_000098
+Neuen Marckt	NeuerMarkt	NE::top		tu_23_xTok_000099
+in	in	APPR	Duden	tu_23_xTok_000103
+der	d	ART	Duden	tu_23_xTok_000105
+Stadt	Stadt	NN	Duden	tu_23_xTok_000107
+allhier	allhier	ADV	Duden	tu_23_xTok_000109
+ohne	ohne	APPR	Duden	tu_23_xTok_000111
+eintzig=	einzig	ADJA	Duden	tu_23_xTok_000113
+erheblicher	erheblich	ADJA	Duden	tu_23_xTok_000115
+Beweg=Ursach	Bewegursache	NN	DWB	tu_23_xTok_000117
+<g/>
+/
+mithin	mithin	ADV	Duden	tu_23_xTok_000122
+allerdings	allerdings	ADV	Duden	tu_23_xTok_000124
+frevelmüthig	frevelmütig	ADJD	DWB	tu_23_xTok_000126
+<g/>
+/
+zum	zum	APPRART	Duden	tu_23_xTok_000130
+theil	Teil	NN	Duden	tu_23_xTok_000132
+aber	aber	ADV	Duden	tu_23_xTok_000134
+auch	auch	ADV	Duden	tu_23_xTok_000135
+dolosè	dolosus	FM	G-LDHW	tu_23_xTok_000137
+begangener	begehen	ADJA	Duden	tu_23_xTok_000139
+Entleibung	Entleibung	NN	DWB	tu_23_xTok_000141
+<g/>
+/
+vor	vor	APPR	Duden	tu_23_xTok_000145
+dem	d	ART	Duden	tu_23_xTok_000147
+Schotten=Thor	Schottentor	NE::top	oov	tu_23_xTok_000149
+auf	auf	APPR	Duden	tu_23_xTok_000150
+dasigem	dasig	ADJA	Duden	tu_23_xTok_000152
+Rabenstein	Rabenstein	NN	Duden	tu_23_xTok_000154
+mit	mit	APPR	Duden	tu_23_xTok_000156
+dem	d	ART	Duden	tu_23_xTok_000158
+Schwerd	Schwert	NN	Duden	tu_23_xTok_000160
+vom	vom	APPRART	Duden	tu_23_xTok_000162
+Leben	Leben	NN	Duden	tu_23_xTok_000164
+zum	zum	APPRART	Duden	tu_23_xTok_000165
+Todt	Tod	NN	Duden	tu_23_xTok_000167
+hingerichtet	hinrichten	VVPP	Duden	tu_23_xTok_000169
+wird	werden	VAFIN	Duden	tu_23_xTok_000171
+<g/>
+.
+</titlePart>
 <lg type="poem">
 <head>
 Urlaub=Lied	Urlaublied	NN	DWB	tu_23_xTok_000187

@@ -1,4 +1,98 @@
 <doc id="fb_17600627_MariaAnnaG" delinquent_sexes="female" title="Todesurteil Maria Anna G." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wolverdientes	wohlverdient	ADJA	Duden	tu_73_xTok_000001
+Todes=Urtheil	Todesurteil	NN	Duden	tu_73_xTok_000002
+Einer	ein	ART	Duden	tu_73_xTok_000006
+ledigen	ledig	ADJA	Duden	tu_73_xTok_000008
+Weibs=person	Weibsperson	NN	Duden	tu_73_xTok_000010
+<g/>
+,
+Namens	namens	ADV	Duden	tu_73_xTok_000012
+<g/>
+:
+<persName id="mariaannag73">
+Maria	Maria	NE	Duden	tu_73_xTok_000014
+Anna	Anna	NE	Duden	tu_73_xTok_000017
+G.	G.	NE	oov	tu_73_xTok_000020
+</persName>
+Alt	alt	ADJD	Duden	tu_73_xTok_000022
+20.	20	CARD		tu_73_xTok_000024
+Jahr	Jahr	NN	Duden	tu_73_xTok_000026
+<g/>
+,
+Auf	auf	APPR	Duden	tu_73_xTok_000028
+dem	d	ART	Duden	tu_73_xTok_000030
+<placeName id="pn73">
+Maria=hülfer=grund	Mariahilfergrund	NE::top	oov	tu_73_xTok_000032
+alhier	allhier	ADV	Duden	tu_73_xTok_000034
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_73_xTok_000036
+<g/>
+,
+Catholischer	katholisch	ADJA	Duden	tu_73_xTok_000038
+Religion	Religion	NN	Duden	tu_73_xTok_000040
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_73_xTok_000042
+in	in	APPR	Duden	tu_73_xTok_000044
+Folge	Folge	NN	Duden	tu_73_xTok_000046
+der	d	ART	Duden	tu_73_xTok_000048
+bey	bei	APPR	Duden	tu_73_xTok_000050
+dem	d	ART	Duden	tu_73_xTok_000052
+alhiesig=	allhiesig	ADJA	DWB	tu_73_xTok_000054
+Kaiserl.	kaiserlich	ADJA	Duden	tu_73_xTok_000054b
+Königl.	königlich	ADJA	Duden	tu_73_xTok_000058
+Stadt=	Stadtgericht	TRUNC	Duden	tu_73_xTok_000061
+und	und	KON	Duden	tu_73_xTok_000063
+Land=gericht	Landgericht	NN	Duden	tu_73_xTok_000065
+wider	wider	APPR	Duden	tu_73_xTok_000067
+sie	sie	PPER	Duden	tu_73_xTok_000069
+abgeführten	abführen	ADJA	DRW	tu_73_xTok_000071
+Criminal=verfahrung	Kriminalverfahrung	NN	oov	tu_73_xTok_000074
+<g/>
+,
+und	und	KON	Duden	tu_73_xTok_000077
+darüber	darüber	PAV	Duden	tu_73_xTok_000079
+geschöpft=	schöpfen	ADJA	Duden	tu_73_xTok_000081
+auch	auch	ADV	Duden	tu_73_xTok_000084
+von	von	APPR	Duden	tu_73_xTok_000086
+einer	ein	ART	Duden	tu_73_xTok_000088
+hohen	hoch	ADJA	Duden	tu_73_xTok_000090
+Landes=fürstl.	landesfürstlich	ADJA	DWB	tu_73_xTok_000092
+N. Oe.	niederösterreichisch	ADJA		tu_73_xTok_000095
+Regierung	Regierung	NN	Duden	tu_73_xTok_000100
+bestättigten	bestätigen	ADJA	Duden	tu_73_xTok_000102
+Erkanntnuß	Erkanntnis	NN	DWB	tu_73_xTok_000104
+an	an	APPR	Duden	tu_73_xTok_000106
+ihr	sie	PPER	Duden	tu_73_xTok_000108
+Maria	Maria	NE	Duden	tu_73_xTok_000110
+Anna	Anna	NE	Duden	tu_73_xTok_000111
+G.	G.	NE	oov	tu_73_xTok_000113
+dem	d	ART	Duden	tu_73_xTok_000116
+zu	zu	APPR	Duden	tu_73_xTok_000118
+Ende	Ende	NN	Duden	tu_73_xTok_000120
+gesetzten	setzen	ADJA	Duden	tu_73_xTok_000122
+Jnnhalt=	Inhalt	NN	Duden	tu_73_xTok_000124
+gemäß	gemäß	APPO	Duden	tu_73_xTok_000124b
+<g/>
+,
+heute	heute	ADV	Duden	tu_73_xTok_000126
+den	d	ART	Duden	tu_73_xTok_000129
+<date id="date73">
+27.	27	ADJA		tu_73_xTok_000131
+Junii	Juni	NN	Duden	tu_73_xTok_000133
+1760.	1760	CARD		tu_73_xTok_000135
+</date>
+alhier	allhier	ADV	Duden	tu_73_xTok_000137
+in	in	APPR	Duden	tu_73_xTok_000139
+Wien	Wien	NE::top	Duden	tu_73_xTok_000141
+vollzogen	vollziehen	VVPP	Duden	tu_73_xTok_000142
+wird	werden	VAFIN	Duden	tu_73_xTok_000144
+<g/>
+.
+</titlePart>
 <p id="fb_17600627_MariaAnnaG_p_0001">
 ES	es	PPER	Duden	tu_73_xTok_000147
 hat	haben	VAFIN	Duden	tu_73_xTok_000150

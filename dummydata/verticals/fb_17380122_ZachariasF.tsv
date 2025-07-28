@@ -1,4 +1,89 @@
 <doc id="fb_17380122_ZachariasF" delinquent_sexes="male" title="Todesurteil Zacharias F." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_12_xTok_000002
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_12_xTok_000003
+<g/>
+/
+Einer	ein	ART	Duden	tu_12_xTok_000009
+verwittibten	verwitwet	ADJA	Duden	tu_12_xTok_000011
+Manns=Persohn	Mannsperson	NN	Duden	tu_12_xTok_000013
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_12_xTok_000016
+<persName id="zachariasf12">
+Zacharias	Zacharias	NE	Duden	tu_12_xTok_000018
+F.	F.	NE	oov	tu_12_xTok_000023
+</persName>
+Bey	bei	APPR	Duden	tu_12_xTok_000025
+67.	67	CARD		tu_12_xTok_000027
+Jahr	Jahr	NN	Duden	tu_12_xTok_000030
+alt	alt	ADJD	Duden	tu_12_xTok_000032
+<g/>
+/
+von	von	APPR	Duden	tu_12_xTok_000036
+<placeName id="pn12">
+Göstling	Göstling	NE::top	oov	tu_12_xTok_000038
+in	in	APPR	Duden	tu_12_xTok_000040
+Oesterreich	Österreich	NE::top	Duden	tu_12_xTok_000042
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_12_xTok_000043
+<g/>
+/
+Catholischer	katholisch	ADJA	Duden	tu_12_xTok_000047
+Religion	Religion	NN	Duden	tu_12_xTok_000049
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Um weilen	umweil	KOUS		tu_12_xTok_000051
+derselbe sich mit seiner 27. jährigen	27-jährig	ADJA		tu_12_xTok_000055
+eheleiblichen=	eheleiblich	ADJA	DWB	tu_12_xTok_000068
+letzthin=	letzthin	ADV	Duden	tu_12_xTok_000068b
+verstorbenen	versterben	ADJA	Duden	tu_12_xTok_000068c
+Tochter	Tochter	NN	Duden	tu_12_xTok_000070
+wider	wider	APPR	Duden	tu_12_xTok_000072
+GOtt	Gott	NN	Duden	tu_12_xTok_000074
+und	und	KON	Duden	tu_12_xTok_000075
+die	d	ART	Duden	tu_12_xTok_000077
+Natur	Natur	NN	Duden	tu_12_xTok_000079
+versündiget	versündigen	VVPP	Duden	tu_12_xTok_000081
+<g/>
+;
+Als	als	ADV	Duden	tu_12_xTok_000084
+wird	werden	VAFIN	Duden	tu_12_xTok_000086
+derselbe	derselbe	PDS	Duden	tu_12_xTok_000088
+heute	heute	ADV	Duden	tu_12_xTok_000090
+Mittwoch	Mittwoch	NN	Duden	tu_12_xTok_000091
+den	d	ART	Duden	tu_12_xTok_000093
+<date id="date12">
+22.	22	CARD		tu_12_xTok_000095
+Jenner	Jänner	NN	Duden	tu_12_xTok_000098
+1738.	1738	CARD		tu_12_xTok_000100
+</date>
+vor	vor	APPR	Duden	tu_12_xTok_000103
+dem	d	ART	Duden	tu_12_xTok_000105
+SchottenThor	Schottentor	NE::top	oov	tu_12_xTok_000107
+auf	auf	APPR	Duden	tu_12_xTok_000110
+dem	d	ART	Duden	tu_12_xTok_000112
+alldasigen	alldasig	ADJA	oov	tu_12_xTok_000114
+Rabenstein	Rabenstein	NN	Duden	tu_12_xTok_000116
+allen	all	PIAT	Duden	tu_12_xTok_000118
+andern	ander	PIS	Duden	tu_12_xTok_000120
+zu	zu	APPR	Duden	tu_12_xTok_000121
+einem	ein	ART	Duden	tu_12_xTok_000123
+Beyspiel	Beispiel	NN	Duden	tu_12_xTok_000125
+mit	mit	APPR	Duden	tu_12_xTok_000127
+dem	d	ART	Duden	tu_12_xTok_000129
+Schwerd	Schwert	NN	Duden	tu_12_xTok_000131
+vom	vom	APPRART	Duden	tu_12_xTok_000133
+Leben	Leben	NN	Duden	tu_12_xTok_000134
+zum	zum	APPRART	Duden	tu_12_xTok_000136
+Todt	Tod	NN	Duden	tu_12_xTok_000138
+hingerichtet	hinrichten	VVPP	Duden	tu_12_xTok_000140
+werden	werden	VAINF	Duden	tu_12_xTok_000141
+<g/>
+.
+</titlePart>
 <lg type="poem">
 <lg type="stanza">
 <head>

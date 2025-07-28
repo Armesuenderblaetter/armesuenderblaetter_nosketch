@@ -1,4 +1,278 @@
 <doc id="fb_17380305_MargarethaD" delinquent_sexes="female" title="Todesurteil Margaretha D." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Das	d	ART	Duden	tu_13_xTok_000002
+Von	von	APPR	Duden	tu_13_xTok_000003
+Sünden	Sünde	NN	Duden	tu_13_xTok_000005
+und	und	KON	Duden	tu_13_xTok_000007
+Lastern	Laster	NN	Duden	tu_13_xTok_000009
+abhaltende	abhalten	ADJA	Duden	tu_13_xTok_000011
+Beyspiel	Beispiel	NN	Duden	tu_13_xTok_000012
+<g/>
+/
+bestehend	bestehen	ADJD	Duden	tu_13_xTok_000016
+in	in	APPR	Duden	tu_13_xTok_000018
+einer	ein	ART	Duden	tu_13_xTok_000020
+Todtes=Straff	Todesstrafe	NN	Duden	tu_13_xTok_000021
+<g/>
+/
+Welche	welch	PRELS	Duden	tu_13_xTok_000028
+vollzogen	vollziehen	VVPP	Duden	tu_13_xTok_000030
+wird	werden	VAFIN	Duden	tu_13_xTok_000032
+heute	heute	ADV	Duden	tu_13_xTok_000034
+Mittwoch	Mittwoch	NN	Duden	tu_13_xTok_000036
+den	d	ART	Duden	tu_13_xTok_000038
+<date id="date13">
+5.	5	ADJA		tu_13_xTok_000039
+Martij	März	NN	Duden	tu_13_xTok_000042
+1738.	1738	CARD		tu_13_xTok_000044
+</date>
+an	an	APPR	Duden	tu_13_xTok_000047
+einer	ein	ART	Duden	tu_13_xTok_000049
+verheyrathen	verheiratet	ADJA	Duden	tu_13_xTok_000051
+WeibsPersohn	Weibsperson	NN	Duden	tu_13_xTok_000053
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_13_xTok_000058
+<persName id="margarethad13">
+Margaretha	Margaretha	NE	oov	tu_13_xTok_000059
+D.	D.	NE	oov	tu_13_xTok_000062
+</persName>
+Von	von	APPR	Duden	tu_13_xTok_000064
+<placeName id="pn13">
+hier	hier	ADV	Duden	tu_13_xTok_000066
+auf	auf	APPR	Duden	tu_13_xTok_000068
+der	d	ART	Duden	tu_13_xTok_000070
+Wieden	Wieden	NE::top	oov	tu_13_xTok_000072
+nächst	nächst	APPR	Duden	tu_13_xTok_000074
+Wienn	Wien	NE::top	Duden	tu_13_xTok_000076
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_13_xTok_000078
+<g/>
+/
+Catholischer	katholisch	ADJA	Duden	tu_13_xTok_000082
+Religion	Religion	NN	Duden	tu_13_xTok_000085
+<g/>
+/
+und	und	KON	Duden	tu_13_xTok_000089
+bey	bei	APPR	Duden	tu_13_xTok_000091
+24.	24	CARD		tu_13_xTok_000093
+Jahr	Jahr	NN	Duden	tu_13_xTok_000096
+alt	alt	ADJD	Duden	tu_13_xTok_000098
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Um weilen	umweil	KOUS		tu_13_xTok_000100
+dieselbe	dieselbe	PDS	Duden	tu_13_xTok_000104
+schon	schon	ADV	Duden	tu_13_xTok_000106
+vor	vor	APPR	Duden	tu_13_xTok_000108
+anderthalb	anderthalb	CARD	Duden	tu_13_xTok_000110
+Jahren	Jahr	NN	Duden	tu_13_xTok_000112
+zu	zu	APPR	Duden	tu_13_xTok_000114
+Weinhauß	Weinhaus	NE::top	Duden	tu_13_xTok_000116
+ein	ein	ART	Duden	tu_13_xTok_000117
+kleines	klein	ADJA	Duden	tu_13_xTok_000119
+Mägdlein	Mägdlein	NN	Duden	tu_13_xTok_000121
+mit	mit	APPR	Duden	tu_13_xTok_000123
+einem	ein	ART	Duden	tu_13_xTok_000125
+eigenes	eigen	ADJA	Duden	tu_13_xTok_000127
+Fleisses	Fleiß	NN	Duden	tu_13_xTok_000129
+darzu	darzu	PAV	Duden	tu_13_xTok_000131
+erkaufften	erkaufen	ADJA	Duden	tu_13_xTok_000133
+Sack=Messer	Sackmesser	NN	Duden	tu_13_xTok_000135
+umbringen	umbringen	VVINF	Duden	tu_13_xTok_000138
+wollen	wollen	VMINF	Duden	tu_13_xTok_000140
+<g/>
+/
+auch	auch	ADV	Duden	tu_13_xTok_000144
+diese	diese	PDAT	Duden	tu_13_xTok_000146
+Gelegenheit	Gelegenheit	NN	Duden	tu_13_xTok_000148
+zu	zu	APPR	Duden	tu_13_xTok_000150
+solchem	solch	PIAT	Duden	tu_13_xTok_000152
+Mord	Mord	NN	Duden	tu_13_xTok_000154
+zu	zu	APPR	Duden	tu_13_xTok_000156
+3.	3	CARD		tu_13_xTok_000158
+mahlen	Mal	NN	Duden	tu_13_xTok_000160
+gesuchet	suchen	VVPP	Duden	tu_13_xTok_000161
+<g/>
+/
+solche	solch	PDS	Duden	tu_13_xTok_000165
+aber	aber	ADV	Duden	tu_13_xTok_000167
+füglich	füglich	ADJD	Duden	tu_13_xTok_000169
+nicht	nicht	PTKNEG	Duden	tu_13_xTok_000171
+gefunden	finden	VVPP	Duden	tu_13_xTok_000173
+<g/>
+/
+sondern	sondern	KON	Duden	tu_13_xTok_000177
+auch	auch	ADV	Duden	tu_13_xTok_000179
+über	über	APPR	Duden	tu_13_xTok_000181
+dieses	diese	PDS	Duden	tu_13_xTok_000183
+den	d	ART	Duden	tu_13_xTok_000185
+20.	20	CARD		tu_13_xTok_000186
+Februarij	Februar	NN	Duden	tu_13_xTok_000189
+dieses	diese	PDAT	Duden	tu_13_xTok_000191
+Jahrs	Jahr	NN	Duden	tu_13_xTok_000193
+sich	sich	PRF	Duden	tu_13_xTok_000195
+entschlossen	entschließen	VVPP	Duden	tu_13_xTok_000197
+<g/>
+/
+daß	dass	KOUS	Duden	tu_13_xTok_000201
+sie	sie	PPER	Duden	tu_13_xTok_000203
+eines	ein	ART	Duden	tu_13_xTok_000205
+sichern	sicher	ADJA	DWB	tu_13_xTok_000207
+Schusters	Schuster	NN	Duden	tu_13_xTok_000209
+Kind	Kind	NN	Duden	tu_13_xTok_000210
+vorsetzlicher	vorsätzlich	ADJA	Duden	tu_13_xTok_000212
+Weiß	Weise	NN	Duden	tu_13_xTok_000214
+um	um	APPR	Duden	tu_13_xTok_000216
+das	d	ART	Duden	tu_13_xTok_000218
+Leben	Leben	NN	Duden	tu_13_xTok_000220
+bringen	bringen	VVINF	Duden	tu_13_xTok_000222
+wollen	wollen	VMINF	Duden	tu_13_xTok_000224
+<g/>
+/
+zu	zu	APPR	Duden	tu_13_xTok_000228
+solchem	solch	PIAT	Duden	tu_13_xTok_000230
+Ende	Ende	NN	Duden	tu_13_xTok_000232
+hat	haben	VAFIN	Duden	tu_13_xTok_000234
+sie	sie	PPER	Duden	tu_13_xTok_000235
+an	an	APPR	Duden	tu_13_xTok_000237
+einem	ein	ART	Duden	tu_13_xTok_000239
+3ten	3	ADJA		tu_13_xTok_000241
+Orth	Ort	NN	Duden	tu_13_xTok_000244
+ein	ein	ART	Duden	tu_13_xTok_000246
+Messer	Messer	NN	Duden	tu_13_xTok_000248
+entfrembdet	entfremden	VVPP	Duden	tu_13_xTok_000250
+<g/>
+/
+zu	zu	APPR	Duden	tu_13_xTok_000254
+obgedachtem	obgedacht	ADJA	oov	tu_13_xTok_000256
+Schuster	Schuster	NN	Duden	tu_13_xTok_000258
+gegangen	gehen	VVPP	Duden	tu_13_xTok_000260
+<g/>
+/
+allda	allda	ADV	Duden	tu_13_xTok_000265
+4.	4	CARD		tu_13_xTok_000267
+Stund	Stunde	NN	Duden	tu_13_xTok_000270
+lang	lang	ADJD	Duden	tu_13_xTok_000272
+verweilet	verweilen	VVPP	Duden	tu_13_xTok_000274
+<g/>
+/
+endlichen	endlich	ADV	Duden	tu_13_xTok_000278
+aber	aber	ADV	Duden	tu_13_xTok_000280
+desselben	derselbe	PDS	Duden	tu_13_xTok_000282
+Kind	Kind	NN	Duden	tu_13_xTok_000284
+auszutragen	austragen	VVIZU	Duden	tu_13_xTok_000286
+begehret	begehren	VVPP	Duden	tu_13_xTok_000289
+<g/>
+/
+hernachmals	hernachmals	ADV	DWB	tu_13_xTok_000293
+solches	solch	PIAT	Duden	tu_13_xTok_000295
+Kind	Kind	NN	Duden	tu_13_xTok_000297
+gegen	gegen	APPR	Duden	tu_13_xTok_000299
+Wäring	Währing	NE::top	oov	tu_13_xTok_000301
+auf	auf	APPR	Duden	tu_13_xTok_000303
+einen	ein	ART	Duden	tu_13_xTok_000305
+Misthauffen	Misthaufen	NN	Duden	tu_13_xTok_000307
+getragen	tragen	VVPP	Duden	tu_13_xTok_000310
+<g/>
+/
+einen	ein	ART	Duden	tu_13_xTok_000314
+Schnitt	Schnitt	NN	Duden	tu_13_xTok_000316
+in	in	APPR	Duden	tu_13_xTok_000318
+die	d	ART	Duden	tu_13_xTok_000320
+Gurgel	Gurgel	NN	Duden	tu_13_xTok_000322
+gegeben	geben	VVPP	Duden	tu_13_xTok_000324
+<g/>
+/
+welcher	welch	PRELS	Duden	tu_13_xTok_000328
+aber	aber	ADV	Duden	tu_13_xTok_000330
+nicht	nicht	PTKNEG	Duden	tu_13_xTok_000332
+eingegangen	eingehen	VVPP	Duden	tu_13_xTok_000333
+<g/>
+/
+sondern	sondern	KON	Duden	tu_13_xTok_000337
+darauf	darauf	PAV	Duden	tu_13_xTok_000339
+dem	d	ART	Duden	tu_13_xTok_000341
+Kind	Kind	NN	Duden	tu_13_xTok_000343
+vorwärts	vorwärts	ADV	Duden	tu_13_xTok_000345
+in	in	APPR	Duden	tu_13_xTok_000347
+die	d	ART	Duden	tu_13_xTok_000349
+Gurgel	Gurgel	NN	Duden	tu_13_xTok_000351
+ein	ein	ART	Duden	tu_13_xTok_000353
+so	so	ADV	Duden	tu_13_xTok_000355
+gewaltigen	gewaltig	ADJA	Duden	tu_13_xTok_000357
+Stich	Stich	NN	Duden	tu_13_xTok_000360
+gegeben	geben	VVPP	Duden	tu_13_xTok_000362
+<g/>
+/
+daß	dass	KOUS	Duden	tu_13_xTok_000366
+das	d	ART	Duden	tu_13_xTok_000368
+helle	hell	ADJA	Duden	tu_13_xTok_000370
+Blut	Blut	NN	Duden	tu_13_xTok_000372
+hergeflossen	herfließen	VVPP	DWB	tu_13_xTok_000374
+<g/>
+/
+nachmahls	nachmals	ADV	DWB	tu_13_xTok_000377
+noch	noch	ADV	Duden	tu_13_xTok_000379
+dem	d	ART	Duden	tu_13_xTok_000380
+Kind	Kind	NN	Duden	tu_13_xTok_000382
+einen	ein	ART	Duden	tu_13_xTok_000384
+Schnitt	Schnitt	NN	Duden	tu_13_xTok_000386
+rechterhand	rechterhand	ADJD	oov	tu_13_xTok_000388
+am	am	APPRART	Duden	tu_13_xTok_000390
+Halß	Hals	NN	Duden	tu_13_xTok_000392
+zugefüget	zufügen	VVPP	Duden	tu_13_xTok_000394
+<g/>
+/
+daß	dass	KOUS	Duden	tu_13_xTok_000397
+das	d	ART	Duden	tu_13_xTok_000399
+Kind	Kind	NN	Duden	tu_13_xTok_000401
+zur	zur	APPRART	Duden	tu_13_xTok_000403
+Stund	Stunde	NN	Duden	tu_13_xTok_000405
+todt	tot	ADJD	Duden	tu_13_xTok_000407
+geblieben	bleiben	VVPP	Duden	tu_13_xTok_000409
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Als	als	ADV	Duden	tu_13_xTok_000411
+wird	werden	VAFIN	Duden	tu_13_xTok_000413
+dieselbe	dieselbe	PDS	Duden	tu_13_xTok_000415
+andern	ander	PIS	Duden	tu_13_xTok_000417
+zum	zum	APPRART	Duden	tu_13_xTok_000419
+Beyspiel	Beispiel	NN	Duden	tu_13_xTok_000421
+<g/>
+/
+vor	vor	APPR	Duden	tu_13_xTok_000425
+dem	d	ART	Duden	tu_13_xTok_000427
+SchottenThor	Schottentor	NE::top	oov	tu_13_xTok_000429
+auf	auf	APPR	Duden	tu_13_xTok_000432
+alldasigen	alldasig	ADJA	oov	tu_13_xTok_000434
+Rabenstein	Rabenstein	NN	Duden	tu_13_xTok_000436
+mit	mit	APPR	Duden	tu_13_xTok_000438
+dem	d	ART	Duden	tu_13_xTok_000440
+Schwerd	Schwert	NN	Duden	tu_13_xTok_000442
+zum	zum	APPRART	Duden	tu_13_xTok_000444
+Todt	Tod	NN	Duden	tu_13_xTok_000446
+hingerichtet	hinrichten	VVPP	Duden	tu_13_xTok_000448
+<g/>
+/
+die	d	ART	Duden	tu_13_xTok_000451
+rechte	rechte	ADJA	Duden	tu_13_xTok_000453
+Hand	Hand	NN	Duden	tu_13_xTok_000455
+abgehauen	abhauen	VVPP	Duden	tu_13_xTok_000457
+<g/>
+/
+und	und	KON	Duden	tu_13_xTok_000461
+auf	auf	APPR	Duden	tu_13_xTok_000463
+alldasige	alldasig	ADJA	oov	tu_13_xTok_000465
+Stangen	Stange	NN	Duden	tu_13_xTok_000467
+angehefftet	anheften	VVPP	Duden	tu_13_xTok_000468
+werden	werden	VAINF	Duden	tu_13_xTok_000470
+<g/>
+.
+</titlePart>
 <lg type="poem">
 <lg type="stanza">
 <head>
@@ -768,4 +1042,8 @@ Peyn	Pein	NN	Duden	tu_13_xTok_001313
 ENDE	Ende	NN	Duden	tu_13_xTok_001315
 <g/>
 .
+<p id="fb_17380305_MargarethaD_p_0001">
+SIC	sic	FM	G-LDHW	tu_13_xTok_001317
+VANESCIMUS	vanesco	FM	G-LDHW	tu_13_xTok_001319
+</p>
 </doc>

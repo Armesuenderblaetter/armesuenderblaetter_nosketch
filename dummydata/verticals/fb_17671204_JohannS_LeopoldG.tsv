@@ -1,4 +1,122 @@
 <doc id="fb_17671204_JohannS_LeopoldG" delinquent_sexes="male" title="Todesurteil Johann S., Leopold G." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_90_xTok_000001
+zweyer	zwei	CARD	Duden	tu_90_xTok_000002
+verheyratheten	verheiratet	ADJA	Duden	tu_90_xTok_000004
+Mannspersonen	Mannsperson	NN	Duden	tu_90_xTok_000006
+Namens	namens	ADV	Duden	tu_90_xTok_000007
+<g/>
+:
+<persName id="johanns90">
+Johann	Johann	NE	Duden	tu_90_xTok_000010
+S.	S.	NE	oov	tu_90_xTok_000012
+</persName>
+alt	alt	ADJD	Duden	tu_90_xTok_000014
+38.	38	CARD		tu_90_xTok_000016
+Jahre	Jahr	NN	Duden	tu_90_xTok_000018
+<g/>
+,
+zu	zu	APPR	Duden	tu_90_xTok_000021
+<placeName id="pn90">
+Mörderstorf	Mörtersdorf	NE::top	oov	tu_90_xTok_000023
+nächst	nächst	APPR	Duden	tu_90_xTok_000025
+Horn	Horn	NE::top	oov	tu_90_xTok_000027
+in	in	APPR	Duden	tu_90_xTok_000029
+Unterösterreich	Unterösterreich	NE::top	oov	tu_90_xTok_000031
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_90_xTok_000033
+<g/>
+,
+und	und	KON	Duden	tu_90_xTok_000035
+<persName id="leopoldg90">
+Leopold	Leopold	NE	Duden	tu_90_xTok_000036
+G.	G.	NE	oov	tu_90_xTok_000038
+</persName>
+alt	alt	ADJD	Duden	tu_90_xTok_000040
+52.	52	CARD		tu_90_xTok_000042
+Jahre	Jahr	NN	Duden	tu_90_xTok_000044
+<g/>
+,
+zu	zu	APPR	Duden	tu_90_xTok_000047
+<placeName id="pn90b">
+Kienwert	Kienwert	NE::top	oov	tu_90_xTok_000049
+nächst	nächst	APPR	Duden	tu_90_xTok_000051
+Geföll	Gföhl	NE::top	oov	tu_90_xTok_000053
+in	in	APPR	Duden	tu_90_xTok_000055
+Unterösterreich	Unterösterreich	NE::top	oov	tu_90_xTok_000057
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_90_xTok_000059
+<g/>
+,
+beyde	beide	PIS	Duden	tu_90_xTok_000061
+katholischer	katholisch	ADJA	Duden	tu_90_xTok_000063
+Religion	Religion	NN	Duden	tu_90_xTok_000065
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_90_xTok_000067
+in	in	APPR	Duden	tu_90_xTok_000069
+Folge	Folge	NN	Duden	tu_90_xTok_000071
+der	d	ART	Duden	tu_90_xTok_000073
+bey	bei	APPR	Duden	tu_90_xTok_000075
+dem	d	ART	Duden	tu_90_xTok_000077
+allhiesigen	allhiesig	ADJA	DWB	tu_90_xTok_000079
+kais.	kaiserlich	ADJA	Duden	tu_90_xTok_000081
+königl.	königlich	ADJA	Duden	tu_90_xTok_000084
+Stadt=	Stadtgericht	TRUNC	Duden	tu_90_xTok_000087
+und	und	KON	Duden	tu_90_xTok_000089
+Landgerichte	Landgericht	NN	Duden	tu_90_xTok_000091
+wider	wider	APPR	Duden	tu_90_xTok_000094
+sie	sie	PPER	Duden	tu_90_xTok_000096
+abgeführten	abführen	ADJA	DRW	tu_90_xTok_000098
+Criminalverfahrungen	Kriminalverfahrung	NN	oov	tu_90_xTok_000100
+<g/>
+,
+und	und	KON	Duden	tu_90_xTok_000103
+darüber	darüber	PAV	Duden	tu_90_xTok_000105
+geschöpft	schöpfen	VVPP	Duden	tu_90_xTok_000107
+<g/>
+,
+auch	auch	ADV	Duden	tu_90_xTok_000110
+von	von	APPR	Duden	tu_90_xTok_000112
+einer	ein	ART	Duden	tu_90_xTok_000114
+hochlöbl.	hochlöblich	ADJA	Duden	tu_90_xTok_000115
+Landesfürstl.	landesfürstlich	ADJA	DWB	tu_90_xTok_000118
+N. Oe.	niederösterreichisch	ADJA		tu_90_xTok_000124
+Regierung	Regierung	NN	Duden	tu_90_xTok_000130
+bestättigten	bestätigen	ADJA	Duden	tu_90_xTok_000132
+Erkanntnißen	Erkanntnis	NN	DWB	tu_90_xTok_000134
+<g/>
+:
+an	an	APPR	Duden	tu_90_xTok_000137
+gleich ernannten	gleichernannt	ADJA		tu_90_xTok_000139
+Johann	Johann	NE	Duden	tu_90_xTok_000143
+S.	S.	NE	oov	tu_90_xTok_000144
+und	und	KON	Duden	tu_90_xTok_000147
+Leopold	Leopold	NE	Duden	tu_90_xTok_000149
+G.	G.	NE	oov	tu_90_xTok_000151
+dem	d	ART	Duden	tu_90_xTok_000154
+zu	zu	APPR	Duden	tu_90_xTok_000156
+Ende	Ende	NN	Duden	tu_90_xTok_000158
+angeführten	angeführt	ADJA	Duden	tu_90_xTok_000160
+Jnnhalte	Inhalt	NN	Duden	tu_90_xTok_000162
+gemäß	gemäß	APPO	Duden	tu_90_xTok_000164
+heute	heute	ADV	Duden	tu_90_xTok_000166
+den	d	ART	Duden	tu_90_xTok_000168
+<date id="date90">
+4.	4	ADJA		tu_90_xTok_000170
+Decemb.	Dezember	NN	Duden	tu_90_xTok_000172
+1767.	1767	CARD		tu_90_xTok_000174
+</date>
+allhier	allhier	ADV	Duden	tu_90_xTok_000176
+in	in	APPR	Duden	tu_90_xTok_000178
+Wien	Wien	NE::top	Duden	tu_90_xTok_000180
+vollzogen	vollziehen	VVPP	Duden	tu_90_xTok_000182
+wird	werden	VAFIN	Duden	tu_90_xTok_000184
+<g/>
+.
+</titlePart>
 <p id="fb_17671204_JohannS_LeopoldG_p_0001">
 Nachdem	nachdem	KOUS	Duden	tu_90_xTok_000187
 von	von	APPR	Duden	tu_90_xTok_000190
@@ -343,6 +461,7 @@ aller	all	PIAT	Duden	tu_90_xTok_000826
 übrigen	übrig	ADJA	Duden	tu_90_xTok_000828
 kais.	kaiserlich	ADJA	Duden	tu_90_xTok_000830
 kön.	königlich	ADJA	Duden	tu_90_xTok_000833
+dentschen	deutsch	ADJA	Duden	tu_90_xTok_000835
 Erblanden	Erblande	NN	Duden	tu_90_xTok_000837
 <g/>
 ,
@@ -789,6 +908,7 @@ zu	zu	APPR	Duden	tu_90_xTok_001636
 Eisenstadt	Eisenstadt	NE::top	Duden	tu_90_xTok_001638
 erhaltenen	erhalten	ADJA	Duden	tu_90_xTok_001640
 letzteren	letztere	ADJA	Duden	tu_90_xTok_001642
+Freyheie	Freiheit	NN	Duden	tu_90_xTok_001644
 des	d	ART	Duden	tu_90_xTok_001648
 öftern	öfter	ADV-NN	Duden	tu_90_xTok_001650
 Urphedsbrüchig	urfehdebrüchig	ADJD	oov	tu_90_xTok_001652

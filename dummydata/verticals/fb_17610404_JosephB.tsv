@@ -1,4 +1,94 @@
 <doc id="fb_17610404_JosephB" delinquent_sexes="male" title="Todesurteil Joseph B." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_76_xTok_000001
+Einer	ein	ART	Duden	tu_76_xTok_000005
+verwittibten	verwitwet	ADJA	Duden	tu_76_xTok_000007
+Manns=person	Mannsperson	NN	Duden	tu_76_xTok_000009
+<g/>
+,
+Namens	namens	ADV	Duden	tu_76_xTok_000011
+<g/>
+:
+<persName id="josephb76">
+Joseph	Joseph	NE	Duden	tu_76_xTok_000013
+B.	B.	NE	oov	tu_76_xTok_000016
+</persName>
+Alt	alt	ADJD	Duden	tu_76_xTok_000018
+45.	45	CARD		tu_76_xTok_000020
+Jahr	Jahr	NN	Duden	tu_76_xTok_000022
+<g/>
+,
+Auf	auf	APPR	Duden	tu_76_xTok_000024
+dem	d	ART	Duden	tu_76_xTok_000026
+<placeName id="pn76">
+Maria=hülfer Grund	Mariahilfergrund	NE::top		tu_76_xTok_000028
+alhier	allhier	ADV	Duden	tu_76_xTok_000032
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_76_xTok_000034
+<g/>
+,
+Catholischer	katholisch	ADJA	Duden	tu_76_xTok_000036
+Religion	Religion	NN	Duden	tu_76_xTok_000038
+<g/>
+,
+Welches	welch	PRELS	Duden	tu_76_xTok_000040
+im	im	APPRART	Duden	tu_76_xTok_000042
+Folge	Folge	NN	Duden	tu_76_xTok_000044
+der	d	ART	Duden	tu_76_xTok_000046
+<g/>
+,
+über	über	APPR	Duden	tu_76_xTok_000049
+die	d	ART	Duden	tu_76_xTok_000051
+ihme	er	PPER	Duden	tu_76_xTok_000053
+bey	bei	APPR	Duden	tu_76_xTok_000055
+dem	d	ART	Duden	tu_76_xTok_000057
+alhiesig=	allhiesig	ADJA	DWB	tu_76_xTok_000058
+Kaiserl.	kaiserlich	ADJA	Duden	tu_76_xTok_000060
+Königl.	königlich	ADJA	Duden	tu_76_xTok_000063
+Stadt=	Stadtgericht	TRUNC	Duden	tu_76_xTok_000066
+und	und	KON	Duden	tu_76_xTok_000068
+Land=gericht	Landgericht	NN	Duden	tu_76_xTok_000070
+wegen	wegen	APPR	Duden	tu_76_xTok_000071
+begangener	begehen	ADJA	Duden	tu_76_xTok_000073
+Entleibung	Entleibung	NN	DWB	tu_76_xTok_000075
+eines	ein	ART	Duden	tu_76_xTok_000077
+Tischler=gesellens	Tischlergeselle	NN	Duden	tu_76_xTok_000079
+<g/>
+,
+Namens	namens	ADV	Duden	tu_76_xTok_000081
+Johann	Johann	NE	Duden	tu_76_xTok_000083
+Flegetisch	Flegetisch	NE	oov	tu_76_xTok_000085
+<g/>
+,
+aus	aus	APPR	Duden	tu_76_xTok_000088
+Böheim	Böhmen	NE::top	Duden	tu_76_xTok_000090
+gebürtig	gebürtig	ADJD	Duden	tu_76_xTok_000092
+abgeführte	abführen	ADJA	DRW	tu_76_xTok_000094
+Criminal=verfahrung	Kriminalverfahrung	NN	oov	tu_76_xTok_000097
+geschöpft	schöpfen	VVPP	Duden	tu_76_xTok_000099
+<g/>
+,
+und	und	KON	Duden	tu_76_xTok_000102
+von	von	APPR	Duden	tu_76_xTok_000104
+einer	ein	ART	Duden	tu_76_xTok_000106
+hohen	hoch	ADJA	Duden	tu_76_xTok_000107
+Landes=fürstl.	landesfürstlich	ADJA	DWB	tu_76_xTok_000109
+N. Oe.	niederösterreichisch	ADJA		tu_76_xTok_000112
+Regierung	Regierung	NN	Duden	tu_76_xTok_000118
+bestättigten	bestätigen	ADJA	Duden	tu_76_xTok_000120
+Erkanntnuß	Erkanntnis	NN	DWB	tu_76_xTok_000122
+heute	heute	ADV	Duden	tu_76_xTok_000125
+den	d	ART	Duden	tu_76_xTok_000127
+<date id="date76">
+4.	4	ADJA		tu_76_xTok_000129
+April	April	NN	Duden	tu_76_xTok_000131
+1761.	1761	CARD		tu_76_xTok_000133
+</date>
+vollzogen	vollziehen	VVPP	Duden	tu_76_xTok_000134
+wird	werden	VAFIN	Duden	tu_76_xTok_000136
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_76_xTok_000140
 seines	sein	PPOSAT	Duden	tu_76_xTok_000142
@@ -248,6 +338,7 @@ er	er	PPER	Duden	tu_76_xTok_000556
 Tischler=gesell	Tischlergeselle	NN	Duden	tu_76_xTok_000558
 gegen	gegen	APPR	Duden	tu_76_xTok_000560
 ihme	er	PPER	Duden	tu_76_xTok_000562
+Delinquentin	Delinquentin	NN	Duden	tu_76_xTok_000564
 sich	sich	PRF	Duden	tu_76_xTok_000567
 umgewendet	umwenden	VVPP	Duden	tu_76_xTok_000569
 <g/>

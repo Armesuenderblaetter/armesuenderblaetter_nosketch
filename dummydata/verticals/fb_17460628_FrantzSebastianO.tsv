@@ -1,4 +1,141 @@
 <doc id="fb_17460628_FrantzSebastianO" delinquent_sexes="male" title="Todesurteil Frantz Sebastian O." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_34_xTok_000002
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_34_xTok_000003
+<g/>
+/
+Einer	ein	ART	Duden	tu_34_xTok_000010
+ledigen	ledig	ADJA	Duden	tu_34_xTok_000013
+Manns=Persohn	Mannsperson	NN	Duden	tu_34_xTok_000015
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_34_xTok_000022
+<persName id="frantzsebastiano34">
+Frantz	Franz	NE	Duden	tu_34_xTok_000023
+Sebastian	Sebastian	NE	Duden	tu_34_xTok_000026
+O.	O.	NE	oov	tu_34_xTok_000029
+</persName>
+Sich	sich	PRF	Duden	tu_34_xTok_000031
+dermahlen	dermalen	ADV	Duden	tu_34_xTok_000033
+angebender	angeben	ADJA	Duden	tu_34_xTok_000035
+Anton	Anton	NE	Duden	tu_34_xTok_000036
+Ferdinand	Ferdinand	NE	Duden	tu_34_xTok_000039
+B.	P.	NE	oov	tu_34_xTok_000042
+Catholischer	katholisch	ADJA	Duden	tu_34_xTok_000044
+Religion	Religion	NN	Duden	tu_34_xTok_000046
+<g/>
+/
+von	von	APPR	Duden	tu_34_xTok_000050
+<placeName id="pn34">
+Breßlau	Breslau	NE::top	Duden	tu_34_xTok_000052
+aus	aus	APPR	Duden	tu_34_xTok_000054
+Schlesien	Schlesien	NE::top	Duden	tu_34_xTok_000055
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_34_xTok_000057
+<g/>
+,
+bei	bei	APPR	Duden	tu_34_xTok_000060
+28.	28	CARD		tu_34_xTok_000062
+Jahr	Jahr	NN	Duden	tu_34_xTok_000064
+alt	alt	ADJD	Duden	tu_34_xTok_000066
+<g/>
+,
+seinen	sein	PPOSAT	Duden	tu_34_xTok_000069
+Vorgeben	vorgeben	VVINF-NN	Duden	tu_34_xTok_000071
+nach	nach	APPO	Duden	tu_34_xTok_000074
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Welcher	welch	PRELS	Duden	tu_34_xTok_000076
+heut	heute	ADV	Duden	tu_34_xTok_000078
+Erchtag	Erchtag	NN	DWB	tu_34_xTok_000080
+als	als	KOKOM	Duden	tu_34_xTok_000082
+den	d	ART	Duden	tu_34_xTok_000084
+<date id="date34">
+28.	28	ADJA		tu_34_xTok_000086
+Junii	Juni	NN	Duden	tu_34_xTok_000088
+1746.	1746	CARD		tu_34_xTok_000090
+</date>
+wegen	wegen	APPR	Duden	tu_34_xTok_000092
+falschen	falsch	ADJA	Duden	tu_34_xTok_000094
+Geld=Müntzen	geldmünzen	VVINF-NN	oov	tu_34_xTok_000097
+sohin	sohin	ADV	Duden	tu_34_xTok_000099
+begangenen	begehen	ADJA	Duden	tu_34_xTok_000101
+Lasters	Laster	NN	Duden	tu_34_xTok_000103
+der	d	ART	Duden	tu_34_xTok_000105
+beleydigten	beleidigt	ADJA	Duden	tu_34_xTok_000107
+Majestät	Majestät	NN	Duden	tu_34_xTok_000108
+auf	auf	APPR	Duden	tu_34_xTok_000110
+den	d	ART	Duden	tu_34_xTok_000112
+hohen	hoch	ADJA	Duden	tu_34_xTok_000114
+Wagen	Wagen	NN	Duden	tu_34_xTok_000116
+gesetzt	setzen	VVPP	Duden	tu_34_xTok_000118
+<g/>
+/
+nach	nach	APPR	Duden	tu_34_xTok_000122
+der	d	ART	Duden	tu_34_xTok_000124
+Gänß=Weyd	Gänseweide	NE::top	oov	tu_34_xTok_000126
+zur	zur	APPRART	Duden	tu_34_xTok_000128
+gewöhnlichen	gewöhnlich	ADJA	Duden	tu_34_xTok_000130
+Richtstatt	Richtstatt	NN	DWB	tu_34_xTok_000133
+geführt	führen	VVPP	Duden	tu_34_xTok_000135
+<g/>
+/
+daselbst	daselbst	ADV	Duden	tu_34_xTok_000139
+mit	mit	APPR	Duden	tu_34_xTok_000141
+dem	d	ART	Duden	tu_34_xTok_000143
+Schwerdt	Schwert	NN	Duden	tu_34_xTok_000145
+von	von	APPR	Duden	tu_34_xTok_000147
+Leben	Leben	NN	Duden	tu_34_xTok_000149
+zum	zum	APPRART	Duden	tu_34_xTok_000150
+Todt	Tod	NN	Duden	tu_34_xTok_000152
+hingerichtet	hinrichten	VVPP	Duden	tu_34_xTok_000154
+<g/>
+/
+sodann	sodann	ADV	Duden	tu_34_xTok_000158
+der	d	ART	Duden	tu_34_xTok_000160
+Cörper	Körper	NN	Duden	tu_34_xTok_000162
+auf	auf	APPR	Duden	tu_34_xTok_000164
+einen	ein	ART	Duden	tu_34_xTok_000166
+Schaitter=Hauffen	Scheiterhaufen	NN	Duden	tu_34_xTok_000168
+zu	zu	APPR	Duden	tu_34_xTok_000171
+Staub	Staub	NN	Duden	tu_34_xTok_000173
+und	und	KON	Duden	tu_34_xTok_000175
+Aschen	Asche	NN	Duden	tu_34_xTok_000177
+verbrennet	verbrennen	VVPP	Duden	tu_34_xTok_000179
+<g/>
+/
+folgends	folgends	ADV	DWB	tu_34_xTok_000183
+der	d	ART	Duden	tu_34_xTok_000185
+Aschen	Asche	NN	Duden	tu_34_xTok_000187
+in	in	APPR	Duden	tu_34_xTok_000189
+den	d	ART	Duden	tu_34_xTok_000191
+vorbey flüssenden	vorbeifließen	ADJA		tu_34_xTok_000192
+Donau=Strohm	Donaustrom	NE::top	oov	tu_34_xTok_000194
+geworffen	werfen	VVPP	Duden	tu_34_xTok_000196
+<g/>
+/
+und	und	KON	Duden	tu_34_xTok_000200
+vertilget	vertilgen	VVPP	Duden	tu_34_xTok_000202
+werden	werden	VAINF	Duden	tu_34_xTok_000204
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Den	d	ART	Duden	tu_34_xTok_000206
+Jnnhalt	Inhalt	NN	Duden	tu_34_xTok_000208
+seines	sein	PPOSAT	Duden	tu_34_xTok_000210
+Verbrechens	Verbrechen	NN	Duden	tu_34_xTok_000212
+wird	werden	VAFIN	Duden	tu_34_xTok_000214
+der	d	ART	Duden	tu_34_xTok_000216
+geneigte	geneigt	ADJA	Duden	tu_34_xTok_000218
+Leser	Leser	NN	Duden	tu_34_xTok_000220
+hierinnen	hierinnen	PAV	Duden	tu_34_xTok_000221
+finden	finden	VVINF	Duden	tu_34_xTok_000223
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_34_xTok_000243
 des	d	ART	Duden	tu_34_xTok_000246

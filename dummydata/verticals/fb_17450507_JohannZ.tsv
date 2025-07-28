@@ -1,4 +1,80 @@
 <doc id="fb_17450507_JohannZ" delinquent_sexes="male" title="Todesurteil Johann Z." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_27_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_27_xTok_000002
+<g/>
+/
+Einer	ein	ART	Duden	tu_27_xTok_000009
+verheyraten	verheiratet	ADJA	Duden	tu_27_xTok_000012
+Manns=Persohn	Mannsperson	NN	Duden	tu_27_xTok_000014
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_27_xTok_000021
+<persName id="johannz27">
+Johann	Johann	NE	Duden	tu_27_xTok_000022
+Z.	Z.	NE	oov	tu_27_xTok_000025
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_27_xTok_000027
+Religion	Religion	NN	Duden	tu_27_xTok_000030
+<g/>
+/
+von	von	APPR	Duden	tu_27_xTok_000035
+<placeName id="pn27">
+Hertzogburg	Herzogenburg	NE::top	oov	tu_27_xTok_000037
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_27_xTok_000041
+<g/>
+/
+seines	sein	PPOSAT	Duden	tu_27_xTok_000045
+Alters	Alter	NN	Duden	tu_27_xTok_000047
+30.	30	CARD		tu_27_xTok_000049
+Jahr	Jahr	NN	Duden	tu_27_xTok_000051
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welcher	welch	PRELS	Duden	tu_27_xTok_000053
+heut	heute	ADV	Duden	tu_27_xTok_000055
+Dato	dato	ADV	Duden	tu_27_xTok_000057
+den	d	ART	Duden	tu_27_xTok_000059
+<date id="date27">
+7ten	7	ADJA		tu_27_xTok_000061
+May	Mai	NN	Duden	tu_27_xTok_000064
+1745.	1745	CARD		tu_27_xTok_000066
+</date>
+anderen	ander	PIS	Duden	tu_27_xTok_000069
+seines gleichen	seinesgleichen	PIS		tu_27_xTok_000071
+zum	zum	APPRART	Duden	tu_27_xTok_000074
+Beyspiel	Beispiel	NN	Duden	tu_27_xTok_000076
+auf	auf	APPR	Duden	tu_27_xTok_000078
+dem	d	ART	Duden	tu_27_xTok_000080
+Wienner=Berg	Wienerberg	NE::top	oov	tu_27_xTok_000082
+mit	mit	APPR	Duden	tu_27_xTok_000084
+dem	d	ART	Duden	tu_27_xTok_000086
+Strang	Strang	NN	Duden	tu_27_xTok_000087
+vom	vom	APPRART	Duden	tu_27_xTok_000089
+Leben	Leben	NN	Duden	tu_27_xTok_000091
+zum	zum	APPRART	Duden	tu_27_xTok_000093
+Todt	Tod	NN	Duden	tu_27_xTok_000095
+hingerichtet	hinrichten	VVPP	Duden	tu_27_xTok_000097
+wird	werden	VAFIN	Duden	tu_27_xTok_000100
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Der	d	ART	Duden	tu_27_xTok_000102
+Jnnhalt	Inhalt	NN	Duden	tu_27_xTok_000104
+seines	sein	PPOSAT	Duden	tu_27_xTok_000106
+Verbrechen	Verbrechen	NN	Duden	tu_27_xTok_000108
+wird	werden	VAFIN	Duden	tu_27_xTok_000110
+der	d	ART	Duden	tu_27_xTok_000112
+geneigte	geneigt	ADJA	Duden	tu_27_xTok_000114
+Leser	Leser	NN	Duden	tu_27_xTok_000116
+hierinnen	hierinnen	PAV	Duden	tu_27_xTok_000117
+finden	finden	VVINF	Duden	tu_27_xTok_000119
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_27_xTok_000139
 des	d	ART	Duden	tu_27_xTok_000142

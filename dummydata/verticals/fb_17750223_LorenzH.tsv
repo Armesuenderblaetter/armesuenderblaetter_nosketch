@@ -1,4 +1,93 @@
 <doc id="fb_17750223_LorenzH" delinquent_sexes="male" title="Todesurteil Lorenz H." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_111_xTok_000001
+einer	ein	ART	Duden	tu_111_xTok_000003
+ledigen	ledig	ADJA	Duden	tu_111_xTok_000005
+Mannsperson	Mannsperson	NN	Duden	tu_111_xTok_000007
+Namens	namens	ADV	Duden	tu_111_xTok_000008
+<persName id="lorenzh111">
+Lorenz	Lorenz	NE	Duden	tu_111_xTok_000009
+H.	H.	NE	oov	tu_111_xTok_000012
+</persName>
+alt	alt	ADJD	Duden	tu_111_xTok_000014
+26.	26	CARD		tu_111_xTok_000016
+Jahre	Jahr	NN	Duden	tu_111_xTok_000018
+<g/>
+,
+Zu	zu	APPR	Duden	tu_111_xTok_000020
+<placeName id="pn111">
+Starzing	Starzing	NE::top	oov	tu_111_xTok_000022
+bey	bei	APPR	Duden	tu_111_xTok_000024
+Neuenlengbach	Neulengbach	NE::top	oov	tu_111_xTok_000026
+in	in	APPR	Duden	tu_111_xTok_000028
+V. O. W. W.	ViertelobWienerwald	NE::top		tu_111_xTok_000030
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_111_xTok_000043
+<g/>
+,
+katholischer	katholisch	ADJA	Duden	tu_111_xTok_000045
+Religion	Religion	NN	Duden	tu_111_xTok_000047
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_111_xTok_000049
+in	in	APPR	Duden	tu_111_xTok_000051
+Folge	Folge	NN	Duden	tu_111_xTok_000053
+der	d	ART	Duden	tu_111_xTok_000055
+bey	bei	APPR	Duden	tu_111_xTok_000057
+dem	d	ART	Duden	tu_111_xTok_000059
+allhiesigen	allhiesig	ADJA	DWB	tu_111_xTok_000061
+K.	kaiserlich	ADJA	Duden	tu_111_xTok_000063
+K.	königlich	ADJA	Duden	tu_111_xTok_000066
+Stadt	Stadtgericht	TRUNC	Duden	tu_111_xTok_000069
+und	und	KON	Duden	tu_111_xTok_000070
+Landgerichte	Landgericht	NN	Duden	tu_111_xTok_000072
+wider	wider	APPR	Duden	tu_111_xTok_000074
+ihn	er	PPER	Duden	tu_111_xTok_000076
+abgeführten	abführen	ADJA	DRW	tu_111_xTok_000078
+Criminal=Verfahrung	Kriminalverfahrung	NN	oov	tu_111_xTok_000080
+<g/>
+,
+und	und	KON	Duden	tu_111_xTok_000084
+darüber	darüber	PAV	Duden	tu_111_xTok_000086
+geschöpften	schöpfen	ADJA	Duden	tu_111_xTok_000088
+<g/>
+,
+auch	auch	ADV	Duden	tu_111_xTok_000091
+von	von	APPR	Duden	tu_111_xTok_000093
+einer	ein	ART	Duden	tu_111_xTok_000095
+hochlöbl.	hochlöblich	ADJA	Duden	tu_111_xTok_000097
+Landesfürstl.	landesfürstlich	ADJA	DWB	tu_111_xTok_000101
+Nied. Oest.	niederösterreichisch	ADJA		tu_111_xTok_000104
+Regierung	Regierung	NN	Duden	tu_111_xTok_000110
+bestättigten	bestätigen	ADJA	Duden	tu_111_xTok_000112
+Erkanntniß	Erkanntnis	NN	DWB	tu_111_xTok_000113
+an	an	APPR	Duden	tu_111_xTok_000115
+gleich ernannten	gleichernannt	ADJA		tu_111_xTok_000117
+Lorenz	Lorenz	NE	Duden	tu_111_xTok_000121
+H.	H.	NE	oov	tu_111_xTok_000123
+dem	d	ART	Duden	tu_111_xTok_000126
+zu	zu	APPR	Duden	tu_111_xTok_000128
+Ende	Ende	NN	Duden	tu_111_xTok_000130
+angeführten	angeführt	ADJA	Duden	tu_111_xTok_000131
+Jnnhalte	Inhalt	NN	Duden	tu_111_xTok_000133
+gemäß	gemäß	APPO	Duden	tu_111_xTok_000135
+heute	heute	ADV	Duden	tu_111_xTok_000137
+den	d	ART	Duden	tu_111_xTok_000139
+<date id="date111">
+23.	23	ADJA		tu_111_xTok_000141
+Hornung	Hornung	NN	Duden	tu_111_xTok_000143
+1775.	1775	CARD		tu_111_xTok_000144
+</date>
+allhier	allhier	ADV	Duden	tu_111_xTok_000146
+in	in	APPR	Duden	tu_111_xTok_000148
+Wien	Wien	NE::top	Duden	tu_111_xTok_000150
+vollzogen	vollziehen	VVPP	Duden	tu_111_xTok_000152
+wird	werden	VAFIN	Duden	tu_111_xTok_000154
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_111_xTok_000157
 seines	sein	PPOSAT	Duden	tu_111_xTok_000159
@@ -355,6 +444,7 @@ selbstgeständigermassen	selbstgeständigermaßen	ADV	oov	tu_111_xTok_000772
 sohin	sohin	ADV	Duden	tu_111_xTok_000774
 dem	d	ART	Duden	tu_111_xTok_000776
 Müssiggange	Müßiggang	NN	Duden	tu_111_xTok_000777
+nachzoh	nachziehen	VVFIN	Duden	tu_111_xTok_000779
 <g/>
 ,
 auf	auf	APPR	Duden	tu_111_xTok_000784
@@ -365,6 +455,7 @@ verlegte	verlegen	VVFIN	DWB	tu_111_xTok_000792
 <g/>
 ,
 gerichtlich	gerichtlich	ADJD	Duden	tu_111_xTok_000794
+bekanten	bekannt	ADJA	Duden	tu_111_xTok_000796
 Dieben	Dieb	NN	Duden	tu_111_xTok_000799
 wechselweise	wechselweise	ADJD	Duden	tu_111_xTok_000801
 sich	sich	PRF	Duden	tu_111_xTok_000803

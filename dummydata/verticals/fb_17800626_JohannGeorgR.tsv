@@ -1,4 +1,97 @@
 <doc id="fb_17800626_JohannGeorgR" delinquent_sexes="male" title="Todesurteil Johann Georg R." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_119_xTok_000001
+einer	ein	ART	Duden	tu_119_xTok_000003
+ledigen	ledig	ADJA	Duden	tu_119_xTok_000005
+Mannsperson	Mannsperson	NN	Duden	tu_119_xTok_000007
+<g/>
+,
+Namens	namens	ADV	Duden	tu_119_xTok_000009
+<g/>
+:
+<persName id="johanngeorgr119">
+Johann	Johann	NE	Duden	tu_119_xTok_000011
+Georg	Georg	NE	Duden	tu_119_xTok_000013
+R.	R.	NE	oov	tu_119_xTok_000015
+</persName>
+bey	bei	APPR	Duden	tu_119_xTok_000017
+40	40	CARD		tu_119_xTok_000019
+Jahr	Jahr	NN	Duden	tu_119_xTok_000021
+alt	alt	ADJD	Duden	tu_119_xTok_000023
+<g/>
+,
+zu	zu	APPR	Duden	tu_119_xTok_000025
+<placeName id="pn119">
+Pöckstall	Pöggstall	NE::top	oov	tu_119_xTok_000027
+in	in	APPR	Duden	tu_119_xTok_000029
+Nieder=Oesterreich	Niederösterreich	NE::top	Duden	tu_119_xTok_000031
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_119_xTok_000033
+<g/>
+,
+und	und	KON	Duden	tu_119_xTok_000035
+katholischer	katholisch	ADJA	Duden	tu_119_xTok_000036
+Religion	Religion	NN	Duden	tu_119_xTok_000038
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+welches	welch	PRELS	Duden	tu_119_xTok_000040
+in	in	APPR	Duden	tu_119_xTok_000043
+Folge	Folge	NN	Duden	tu_119_xTok_000045
+der	d	ART	Duden	tu_119_xTok_000047
+über	über	APPR	Duden	tu_119_xTok_000049
+die	d	ART	Duden	tu_119_xTok_000051
+bey	bei	APPR	Duden	tu_119_xTok_000053
+dem	d	ART	Duden	tu_119_xTok_000055
+allhiesigen	allhiesig	ADJA	DWB	tu_119_xTok_000057
+k.	kaiserlich	ADJA	Duden	tu_119_xTok_000059
+k.	königlich	ADJA	Duden	tu_119_xTok_000062
+Stadt=	Stadtgericht	TRUNC	Duden	tu_119_xTok_000070
+und	und	KON	Duden	tu_119_xTok_000072
+Landgerichte	Landgericht	NN	Duden	tu_119_xTok_000074
+wider	wider	APPR	Duden	tu_119_xTok_000076
+ihn	er	PPER	Duden	tu_119_xTok_000078
+abgeführten	abführen	ADJA	DRW	tu_119_xTok_000080
+Kriminalverfahrung	Kriminalverfahrung	NN	oov	tu_119_xTok_000083
+<g/>
+,
+von	von	APPR	Duden	tu_119_xTok_000086
+einer	ein	ART	Duden	tu_119_xTok_000088
+hohen	hoch	ADJA	Duden	tu_119_xTok_000090
+landesfürstl.	landesfürstlich	ADJA	DWB	tu_119_xTok_000092
+Ni. Oe.	niederösterreichisch	ADJA		tu_119_xTok_000097
+Regierung	Regierung	NN	Duden	tu_119_xTok_000103
+geschöpften	schöpfen	ADJA	Duden	tu_119_xTok_000105
+Erkanntniß	Erkanntnis	NN	DWB	tu_119_xTok_000107
+an	an	APPR	Duden	tu_119_xTok_000111
+gleich ernannten	gleichernannt	ADJA		tu_119_xTok_000113
+Johann	Johann	NE	Duden	tu_119_xTok_000117
+Georg	Georg	NE	Duden	tu_119_xTok_000119
+R.	R.	NE	oov	tu_119_xTok_000121
+dem	d	ART	Duden	tu_119_xTok_000124
+zu	zu	APPR	Duden	tu_119_xTok_000126
+Ende	Ende	NN	Duden	tu_119_xTok_000128
+angeführten	angeführt	ADJA	Duden	tu_119_xTok_000130
+Jnhalte	Inhalt	NN	Duden	tu_119_xTok_000132
+gemäß	gemäß	APPO	Duden	tu_119_xTok_000134
+<g/>
+,
+heute	heute	ADV	Duden	tu_119_xTok_000137
+den	d	ART	Duden	tu_119_xTok_000138
+<date id="date119">
+26.	26	ADJA		tu_119_xTok_000139
+Juny	Juni	NN	Duden	tu_119_xTok_000141
+1780	1780	CARD		tu_119_xTok_000143
+</date>
+allhier	allhier	ADV	Duden	tu_119_xTok_000145
+in	in	APPR	Duden	tu_119_xTok_000147
+Wien	Wien	NE::top	Duden	tu_119_xTok_000149
+vollzogen	vollziehen	VVPP	Duden	tu_119_xTok_000151
+wird	werden	VAFIN	Duden	tu_119_xTok_000153
+<g/>
+.
+</titlePart>
 <head>
 Jnhalt	Inhalt	NN	Duden	tu_119_xTok_000155
 seines	sein	PPOSAT	Duden	tu_119_xTok_000157

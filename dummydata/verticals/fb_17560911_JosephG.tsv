@@ -1,4 +1,101 @@
 <doc id="fb_17560911_JosephG" delinquent_sexes="male" title="Todesurteil Joseph G." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_65_xTok_000001
+Einer	ein	ART	Duden	tu_65_xTok_000005
+verheyrateten	verheiratet	ADJA	Duden	tu_65_xTok_000007
+Manns=person	Mannsperson	NN	Duden	tu_65_xTok_000009
+<g/>
+,
+Namens	namens	ADV	Duden	tu_65_xTok_000011
+<g/>
+:
+<persName id="josephg65">
+Joseph	Joseph	NE	Duden	tu_65_xTok_000013
+G.	G.	NE	oov	tu_65_xTok_000015
+</persName>
+Eines	ein	ART	Duden	tu_65_xTok_000017
+gewesten	gewesen	ADJA	Duden	tu_65_xTok_000019
+Gartners	Gärtner	NN	Duden	tu_65_xTok_000021
+<g/>
+,
+Alt	alt	ADJD	Duden	tu_65_xTok_000023
+36.	36	CARD		tu_65_xTok_000025
+Jahr	Jahr	NN	Duden	tu_65_xTok_000027
+<g/>
+,
+Von	von	APPR	Duden	tu_65_xTok_000029
+<placeName id="pn65">
+hier	hier	ADV	Duden	tu_65_xTok_000031
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_65_xTok_000033
+<g/>
+,
+und	und	KON	Duden	tu_65_xTok_000036
+Catholischer	katholisch	ADJA	Duden	tu_65_xTok_000038
+Religion	Religion	NN	Duden	tu_65_xTok_000040
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+WElches	welch	PRELS	Duden	tu_65_xTok_000042
+in	in	APPR	Duden	tu_65_xTok_000045
+Folge	Folge	NN	Duden	tu_65_xTok_000047
+der	d	ART	Duden	tu_65_xTok_000049
+bey	bei	APPR	Duden	tu_65_xTok_000051
+dem	d	ART	Duden	tu_65_xTok_000053
+alhiesigen	allhiesig	ADJA	DWB	tu_65_xTok_000055
+Kaiserl.	kaiserlich	ADJA	Duden	tu_65_xTok_000058
+Königl.	königlich	ADJA	Duden	tu_65_xTok_000061
+Stadt=	Stadtgericht	TRUNC	Duden	tu_65_xTok_000064
+und	und	KON	Duden	tu_65_xTok_000066
+Land=gericht	Landgericht	NN	Duden	tu_65_xTok_000067
+abgeführten	abführen	ADJA	DRW	tu_65_xTok_000069
+Criminal-verfahrung	Kriminalverfahrung	NN	oov	tu_65_xTok_000071
+<g/>
+,
+und	und	KON	Duden	tu_65_xTok_000076
+darüber	darüber	PAV	Duden	tu_65_xTok_000078
+geschöpften	schöpfen	ADJA	Duden	tu_65_xTok_000080
+<g/>
+,
+auch	auch	ADV	Duden	tu_65_xTok_000083
+von	von	APPR	Duden	tu_65_xTok_000084
+einer	ein	ART	Duden	tu_65_xTok_000086
+Hoch=löbl.	hochlöblich	ADJA	Duden	tu_65_xTok_000088
+Landes=fürstl.	landesfürstlich	ADJA	DWB	tu_65_xTok_000091
+N. Oesterreichischen	niederösterreichisch	ADJA		tu_65_xTok_000094
+Regierung	Regierung	NN	Duden	tu_65_xTok_000100
+in	in	APPR	Duden	tu_65_xTok_000102
+Justitz=sachen	Justizsache	NN	DRW	tu_65_xTok_000104
+bestättigten	bestätigen	ADJA	Duden	tu_65_xTok_000105
+Erkanntnuß	Erkanntnis	NN	DWB	tu_65_xTok_000107
+<g/>
+,
+an	an	APPR	Duden	tu_65_xTok_000110
+gleich=ernannten	gleichernannt	ADJA	oov	tu_65_xTok_000112
+Joseph	Joseph	NE	Duden	tu_65_xTok_000115
+G.	G.	NE	oov	tu_65_xTok_000117
+dem	d	ART	Duden	tu_65_xTok_000120
+zu	zu	APPR	Duden	tu_65_xTok_000122
+End	Ende	NN	Duden	tu_65_xTok_000124
+angefügten	anfügen	ADJA	Duden	tu_65_xTok_000126
+Jnnhalt	Inhalt	NN	Duden	tu_65_xTok_000128
+gemäß	gemäß	APPO	Duden	tu_65_xTok_000131
+heut	heute	ADV	Duden	tu_65_xTok_000133
+den	d	ART	Duden	tu_65_xTok_000135
+<date id="date65">
+11.	11	ADJA		tu_65_xTok_000137
+September	September	NN	Duden	tu_65_xTok_000139
+1756.	1756	CARD		tu_65_xTok_000141
+</date>
+alhier	allhier	ADV	Duden	tu_65_xTok_000142
+in	in	APPR	Duden	tu_65_xTok_000144
+Wien	Wien	NE::top	Duden	tu_65_xTok_000146
+vollzogen	vollziehen	VVPP	Duden	tu_65_xTok_000148
+wird	werden	VAFIN	Duden	tu_65_xTok_000150
+<g/>
+;
+</titlePart>
 <p id="fb_17560911_JosephG_p_0001">
 Zumalen	zumal	KOUS	Duden	tu_65_xTok_000153
 dieser	diese	PDAT	Duden	tu_65_xTok_000155

@@ -1,4 +1,148 @@
 <doc id="fb_17490910_MathiasP_MathiasH" delinquent_sexes="male" title="Todesurteil Mathias P., Mathias H." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_47_xTok_000002
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_47_xTok_000003
+<g/>
+,
+Zweyer	zwei	CARD	Duden	tu_47_xTok_000008
+Manns=Persohnen	Mannsperson	NN	Duden	tu_47_xTok_000010
+<g/>
+,
+Nahmens	namens	ADV	Duden	tu_47_xTok_000013
+<persName id="mathiasp47">
+Mathias	Matthias	NE	Duden	tu_47_xTok_000014
+P.	P.	NE	oov	tu_47_xTok_000016
+</persName>
+30.	30	CARD		tu_47_xTok_000018
+Jahr	Jahr	NN	Duden	tu_47_xTok_000020
+alt	alt	ADJD	Duden	tu_47_xTok_000022
+<g/>
+,
+ledigen	ledig	ADJA	Duden	tu_47_xTok_000025
+Stands	Stand	NN	Duden	tu_47_xTok_000027
+<g/>
+,
+von	von	APPR	Duden	tu_47_xTok_000030
+<placeName id="pn47">
+Au	Au	NE::top	oov	tu_47_xTok_000032
+unweit	unweit	APPR	Duden	tu_47_xTok_000034
+Männerstorff	Mannersdorf	NE::top	oov	tu_47_xTok_000036
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_47_xTok_000038
+<g/>
+;
+Dann	dann	ADV	Duden	tu_47_xTok_000040
+<persName id="mathiash47">
+Mathias	Matthias	NE	Duden	tu_47_xTok_000042
+H.	H.	NE	oov	tu_47_xTok_000044
+</persName>
+Ungefehr	ungefähr	ADV	Duden	tu_47_xTok_000046
+24.	24	CARD		tu_47_xTok_000048
+Jahr	Jahr	NN	Duden	tu_47_xTok_000051
+alt	alt	ADJD	Duden	tu_47_xTok_000053
+<g/>
+,
+verheyratheten	verheiratet	ADJA	Duden	tu_47_xTok_000056
+Stands	Stand	NN	Duden	tu_47_xTok_000059
+<g/>
+,
+von	von	APPR	Duden	tu_47_xTok_000062
+<placeName id="pn47b">
+Caschau	Kaschau	NE::top	oov	tu_47_xTok_000064
+in	in	APPR	Duden	tu_47_xTok_000066
+Hungarn	Ungarn	NE::top	Duden	tu_47_xTok_000068
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_47_xTok_000070
+<g/>
+,
+beede	beide	PIS	Duden	tu_47_xTok_000074
+Catholischer	katholisch	ADJA	Duden	tu_47_xTok_000076
+Religion	Religion	NN	Duden	tu_47_xTok_000078
+<g/>
+:
+</titlePart>
+<titlePart type="main">
+So	so	PRELS	Duden	tu_47_xTok_000080
+heute	heute	ADV	Duden	tu_47_xTok_000082
+Mittwoch	Mittwoch	NN	Duden	tu_47_xTok_000084
+<g/>
+,
+den	d	ART	Duden	tu_47_xTok_000087
+<date id="date47">
+10.	10	ADJA		tu_47_xTok_000089
+Sept.	September	NN	Duden	tu_47_xTok_000091
+1749.	1749	CARD		tu_47_xTok_000094
+</date>
+wegen	wegen	APPR	Duden	tu_47_xTok_000096
+begangenen	begehen	ADJA	Duden	tu_47_xTok_000099
+Strassen=Raubs	Straßenraub	NN	Duden	tu_47_xTok_000101
+auf	auf	APPR	Duden	tu_47_xTok_000103
+den	d	ART	Duden	tu_47_xTok_000105
+hochen	hoch	ADJA	Duden	tu_47_xTok_000107
+Wagen	Wagen	NN	Duden	tu_47_xTok_000109
+gesetzt	setzen	VVPP	Duden	tu_47_xTok_000111
+<g/>
+/
+und	und	KON	Duden	tu_47_xTok_000115
+vor	vor	APPR	Duden	tu_47_xTok_000117
+das	d	ART	Duden	tu_47_xTok_000119
+Schotten=Thor	Schottentor	NE::top	oov	tu_47_xTok_000121
+zur	zur	APPRART	Duden	tu_47_xTok_000123
+gewöhnlichen	gewöhnlich	ADJA	Duden	tu_47_xTok_000125
+Richtstatt	Richtstatt	NN	DWB	tu_47_xTok_000127
+geführet	führen	VVPP	Duden	tu_47_xTok_000130
+<g/>
+/
+allda	allda	ADV	Duden	tu_47_xTok_000134
+mit	mit	APPR	Duden	tu_47_xTok_000136
+dem	d	ART	Duden	tu_47_xTok_000138
+Schwerdt	Schwert	NN	Duden	tu_47_xTok_000140
+vom	vom	APPRART	Duden	tu_47_xTok_000142
+Leben	Leben	NN	Duden	tu_47_xTok_000144
+zum	zum	APPRART	Duden	tu_47_xTok_000146
+Todt	Tod	NN	Duden	tu_47_xTok_000148
+hingerichtet	hinrichten	VVPP	Duden	tu_47_xTok_000150
+<g/>
+/
+sodann	sodann	ADV	Duden	tu_47_xTok_000155
+derenselben	derselbe	PDAT	Duden	tu_47_xTok_000157
+Cörper	Körper	NN	Duden	tu_47_xTok_000159
+auf	auf	APPR	Duden	tu_47_xTok_000161
+Räder	Rad	NN	Duden	tu_47_xTok_000163
+geflochten	flechten	VVPP	Duden	tu_47_xTok_000165
+<g/>
+/
+die	d	ART	Duden	tu_47_xTok_000169
+Köpf	Kopf	NN	Duden	tu_47_xTok_000171
+auf	auf	APPR	Duden	tu_47_xTok_000172
+Pfähle	Pfahl	NN	Duden	tu_47_xTok_000174
+aufgestecket	aufstecken	VVPP	Duden	tu_47_xTok_000176
+<g/>
+/
+und	und	KON	Duden	tu_47_xTok_000180
+über	über	APPR	Duden	tu_47_xTok_000182
+jeglichen	jegliche	PIS	Duden	tu_47_xTok_000184
+ein	ein	ART	Duden	tu_47_xTok_000186
+Galgen	Galgen	NN	Duden	tu_47_xTok_000188
+mit	mit	APPR	Duden	tu_47_xTok_000190
+abhangenden	abhangen	ADJA	Duden	tu_47_xTok_000192
+Strang	Strang	NN	Duden	tu_47_xTok_000195
+aufgerichtet	aufrichten	VVPP	Duden	tu_47_xTok_000197
+werden	werden	VAINF	Duden	tu_47_xTok_000199
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Der	d	ART	Duden	tu_47_xTok_000201
+Jnnhalt	Inhalt	NN	Duden	tu_47_xTok_000203
+ihres	ihr	PPOSAT	Duden	tu_47_xTok_000205
+Verbrechens	Verbrechen	NN	Duden	tu_47_xTok_000207
+zeiget	zeigen	VVFIN	Duden	tu_47_xTok_000209
+das	d	ART	Duden	tu_47_xTok_000211
+mehrere	mehrere	PIS	Duden	tu_47_xTok_000213
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_47_xTok_000234
 des	d	ART	Duden	tu_47_xTok_000236

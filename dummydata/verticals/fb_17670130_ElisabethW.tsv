@@ -1,4 +1,88 @@
 <doc id="fb_17670130_ElisabethW" delinquent_sexes="female" title="Todesurteil Elisabeth W." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_89_xTok_000001
+Einer	ein	ART	Duden	tu_89_xTok_000005
+verheuratheten	verheiratet	ADJA	Duden	tu_89_xTok_000007
+Weibs=person	Weibsperson	NN	Duden	tu_89_xTok_000009
+<g/>
+,
+Namens	namens	ADV	Duden	tu_89_xTok_000011
+<g/>
+:
+<persName id="elisabethw89">
+Elisabeth	Elisabeth	NE	Duden	tu_89_xTok_000013
+W.	W.	NE	oov	tu_89_xTok_000015
+</persName>
+Alt	alt	ADJD	Duden	tu_89_xTok_000017
+37.	37	CARD		tu_89_xTok_000019
+Jahr	Jahr	NN	Duden	tu_89_xTok_000021
+<g/>
+.
+<placeName id="pn89">
+Allhier	allhier	ADV	Duden	tu_89_xTok_000023
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_89_xTok_000025
+<g/>
+,
+und	und	KON	Duden	tu_89_xTok_000028
+Catholischer	katholisch	ADJA	Duden	tu_89_xTok_000030
+Religion	Religion	NN	Duden	tu_89_xTok_000032
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_89_xTok_000034
+in	in	APPR	Duden	tu_89_xTok_000037
+Folge	Folge	NN	Duden	tu_89_xTok_000039
+der	d	ART	Duden	tu_89_xTok_000041
+bey	bei	APPR	Duden	tu_89_xTok_000043
+dem	d	ART	Duden	tu_89_xTok_000045
+allhiesig	allhiesig	ADJA	DWB	tu_89_xTok_000047
+Kaiserl.	kaiserlich	ADJA	Duden	tu_89_xTok_000048
+Königl.	königlich	ADJA	Duden	tu_89_xTok_000051
+Stadt=	Stadtgericht	TRUNC	Duden	tu_89_xTok_000054
+und	und	KON	Duden	tu_89_xTok_000056
+Landgericht	Landgericht	NN	Duden	tu_89_xTok_000058
+abgeführten	abführen	ADJA	DRW	tu_89_xTok_000061
+Criminal-verfahrung	Kriminalverfahrung	NN	oov	tu_89_xTok_000063
+<g/>
+,
+und	und	KON	Duden	tu_89_xTok_000066
+darüber	darüber	PAV	Duden	tu_89_xTok_000068
+von	von	APPR	Duden	tu_89_xTok_000070
+einer	ein	ART	Duden	tu_89_xTok_000072
+Hochlöbl.	hochlöblich	ADJA	Duden	tu_89_xTok_000074
+Landesfürstl.	landesfürstlich	ADJA	DWB	tu_89_xTok_000077
+N. Oe.	niederösterreichisch	ADJA		tu_89_xTok_000081
+Regierung	Regierung	NN	Duden	tu_89_xTok_000087
+geschöpften	schöpfen	ADJA	Duden	tu_89_xTok_000089
+Erkanntniß	Erkanntnis	NN	DWB	tu_89_xTok_000091
+<g/>
+,
+an	an	APPR	Duden	tu_89_xTok_000095
+gleich ernannter	gleichernannt	ADJA		tu_89_xTok_000097
+Elisabeth	Elisabeth	NE	Duden	tu_89_xTok_000101
+W.	W.	NE	oov	tu_89_xTok_000103
+dem	d	ART	Duden	tu_89_xTok_000105
+zu	zu	APPR	Duden	tu_89_xTok_000107
+Ende	Ende	NN	Duden	tu_89_xTok_000109
+angeführten	angeführt	ADJA	Duden	tu_89_xTok_000111
+Jnnhalt	Inhalt	NN	Duden	tu_89_xTok_000113
+gemäß	gemäß	APPO	Duden	tu_89_xTok_000115
+<g/>
+,
+den	d	ART	Duden	tu_89_xTok_000117
+<date id="date89">
+30sten	30	ADJA		tu_89_xTok_000119
+Jänner	Jänner	NN	Duden	tu_89_xTok_000122
+1767.	1767	CARD		tu_89_xTok_000124
+</date>
+allhier	allhier	ADV	Duden	tu_89_xTok_000126
+vollzogen	vollziehen	VVPP	Duden	tu_89_xTok_000128
+wird	werden	VAFIN	Duden	tu_89_xTok_000130
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_89_xTok_000132
 ihres	ihr	PPOSAT	Duden	tu_89_xTok_000134

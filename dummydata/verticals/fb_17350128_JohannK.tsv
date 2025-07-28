@@ -1,4 +1,221 @@
 <doc id="fb_17350128_JohannK" delinquent_sexes="male" title="Todesurteil Johann K." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_4_xTok_000001
+Urtheil	Urteil	NN	Duden	tu_4_xTok_000002
+und	und	KON	Duden	tu_4_xTok_000005
+Recht	Recht	NN	Duden	tu_4_xTok_000007
+Einer	ein	ART	Duden	tu_4_xTok_000009
+Verheyrathen	verheiratet	ADJA	Duden	tu_4_xTok_000010
+Manns=Persohn	Mannsperson	NN	Duden	tu_4_xTok_000013
+Nahmens	namens	ADV	Duden	tu_4_xTok_000017
+<persName id="johannk4">
+Johann	Johann	NE	Duden	tu_4_xTok_000018
+K.	K.	NE	oov	tu_4_xTok_000021
+</persName>
+<placeName id="pn4">
+Von	von	APPR	Duden	tu_4_xTok_000023
+der	d	ART	Duden	tu_4_xTok_000025
+Mauer	Mauer	NE::top	Duden	tu_4_xTok_000027
+unweit	unweit	APPR	Duden	tu_4_xTok_000029
+Wienn	Wien	NE::top	Duden	tu_4_xTok_000031
+allhier	allhier	ADV	Duden	tu_4_xTok_000033
+gebürtig	gebürtig	ADJD	Duden	tu_4_xTok_000035
+</placeName>
+<g/>
+/
+Catholischer	katholisch	ADJA	Duden	tu_4_xTok_000040
+Religion	Religion	NN	Duden	tu_4_xTok_000042
+<g/>
+/
+und	und	KON	Duden	tu_4_xTok_000046
+bey	bei	APPR	Duden	tu_4_xTok_000048
+42.	42	CARD		tu_4_xTok_000050
+Jahr	Jahr	NN	Duden	tu_4_xTok_000053
+alt	alt	ADJD	Duden	tu_4_xTok_000054
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Dieweilen	dieweilen	KOUS	Duden	tu_4_xTok_000056
+derselbe	derselbe	PDS	Duden	tu_4_xTok_000058
+nicht	nicht	PTKNEG	Duden	tu_4_xTok_000060
+allein	allein	ADV	Duden	tu_4_xTok_000062
+selbst	selbst	ADV	Duden	tu_4_xTok_000064
+geständig	geständig	ADJD	Duden	tu_4_xTok_000066
+<g/>
+:
+sondern	sondern	KON	Duden	tu_4_xTok_000069
+auch	auch	ADV	Duden	tu_4_xTok_000071
+laut	laut	APPR	Duden	tu_4_xTok_000073
+vielfältig=	vielfältig	ADJA	Duden	tu_4_xTok_000074
+eingeholt=	einholen	ADJA	Duden	tu_4_xTok_000074b
+gerichtlicher	gerichtlich	ADJA	Duden	tu_4_xTok_000074c
+Urkunden	Urkunde	NN	Duden	tu_4_xTok_000076
+endlich	endlich	ADV	Duden	tu_4_xTok_000078
+bestättigter massen	bestätigtermaßen	ADV		tu_4_xTok_000080
+hin	hin	ADV	Duden	tu_4_xTok_000084
+und	und	KON	Duden	tu_4_xTok_000086
+wider	wieder	ADV	Duden	tu_4_xTok_000087
+auf	auf	APPR	Duden	tu_4_xTok_000089
+dem	d	ART	Duden	tu_4_xTok_000091
+Land	Land	NN	Duden	tu_4_xTok_000093
+in	in	APPR	Duden	tu_4_xTok_000095
+verschiedene	verschieden	ADJA	Duden	tu_4_xTok_000097
+Bauren=Höf	Bauernhof	NN	Duden	tu_4_xTok_000099
+und	und	KON	Duden	tu_4_xTok_000101
+Häuser	Haus	NN	Duden	tu_4_xTok_000103
+jedesmal	jedesmal	ADV	DWB	tu_4_xTok_000105
+NachtsZeit	Nachtzeit	NN	Duden	tu_4_xTok_000107
+gegangen	gehen	VVPP	Duden	tu_4_xTok_000110
+<g/>
+/
+und	und	KON	Duden	tu_4_xTok_000114
+die	d	ART	Duden	tu_4_xTok_000116
+daselbst	daselbst	ADV	Duden	tu_4_xTok_000118
+angetroffen=	antreffen	ADJA	Duden	tu_4_xTok_000120
+mit	mit	APPR	Duden	tu_4_xTok_000120b
+Eysen	Eisen	NN	Duden	tu_4_xTok_000122
+beschlagene	beschlagen	ADJA	Duden	tu_4_xTok_000124
+WagenRäder	Wagenrad	NN	Duden	tu_4_xTok_000126
+samt	samt	APPR	Duden	tu_4_xTok_000129
+andern	andere	ADJA	Duden	tu_4_xTok_000131
+Eysen=Werck	Eisenwerk	NN	DWB	tu_4_xTok_000133
+mit	mit	APPR	Duden	tu_4_xTok_000135
+sich	sich	PRF	Duden	tu_4_xTok_000137
+heimlich	heimlich	ADJD	Duden	tu_4_xTok_000139
+hinweg	hinweg	ADV	Duden	tu_4_xTok_000141
+geschleppet	schleppen	VVPP	Duden	tu_4_xTok_000143
+und	und	KON	Duden	tu_4_xTok_000145
+entfrembdet	entfremden	VVPP	Duden	tu_4_xTok_000146
+<g/>
+/
+folgends	folgends	ADV	DWB	tu_4_xTok_000150
+von	von	APPR	Duden	tu_4_xTok_000152
+Rädern	Rad	NN	Duden	tu_4_xTok_000154
+die	d	ART	Duden	tu_4_xTok_000156
+eyserne	eisern	ADJA	Duden	tu_4_xTok_000158
+Schine	Schiene	NN	Duden	tu_4_xTok_000160
+und	und	KON	Duden	tu_4_xTok_000162
+Raiff	Reifen	NN	Duden	tu_4_xTok_000164
+hinweg	hinweg	PTKVZ	Duden	tu_4_xTok_000166
+geschlagen	hinwegschlagen	VVPP	DRW	tu_4_xTok_000167
+<g/>
+/
+und	und	KON	Duden	tu_4_xTok_000171
+das	d	ART	Duden	tu_4_xTok_000173
+von	von	APPR	Duden	tu_4_xTok_000175
+sothan=	sothan	ADJA	DWB	tu_4_xTok_000177
+verkaufften	verkaufen	ADJA	Duden	tu_4_xTok_000177b
+Eysen	Eisen	NN	Duden	tu_4_xTok_000179
+erlöste	erlösen	ADJA	Duden	tu_4_xTok_000181
+Geld	Geld	NN	Duden	tu_4_xTok_000183
+zu	zu	APPR	Duden	tu_4_xTok_000185
+seinem	sein	PPOSAT	Duden	tu_4_xTok_000187
+Nutzen	Nutzen	NN	Duden	tu_4_xTok_000188
+verwendet	verwenden	VVPP	Duden	tu_4_xTok_000190
+<g/>
+/
+einfolglichen	einfolglich	ADV	DWB	tu_4_xTok_000194
+die	d	ART	Duden	tu_4_xTok_000196
+arme	arm	ADJA	Duden	tu_4_xTok_000198
+Bauers=Leuth	Bauersleute	NN	Duden	tu_4_xTok_000200
+mittels	mittels	APPR	Duden	tu_4_xTok_000202
+also	also	ADV	Duden	tu_4_xTok_000204
+vielmalig=	vielmalig	ADJA	Duden	tu_4_xTok_000206
+und	und	KON	Duden	tu_4_xTok_000209
+verschiedene	verschieden	ADJA	Duden	tu_4_xTok_000211
+Orthen	Ort	NN	Duden	tu_4_xTok_000213
+ruinirt=	ruiniert	ADJA	Duden	tu_4_xTok_000215
+und	und	KON	Duden	tu_4_xTok_000218
+hinweg geraubte	hinwegrauben	ADJA		tu_4_xTok_000220
+Wagen=Räder	Wagenrad	NN	Duden	tu_4_xTok_000224
+nicht	nicht	PTKNEG	Duden	tu_4_xTok_000227
+allein	allein	ADV	Duden	tu_4_xTok_000229
+in	in	APPR	Duden	tu_4_xTok_000231
+ihrer	ihr	PPOSAT	Duden	tu_4_xTok_000233
+hiermit	hiermit	PAV	Duden	tu_4_xTok_000235
+gehabten	haben	ADJA	Duden	tu_4_xTok_000237
+Würthschafft	Wirtschaft	NN	Duden	tu_4_xTok_000239
+mercklichen	merklich	ADJA	Duden	tu_4_xTok_000241
+gehemmet	hemmen	VVPP	Duden	tu_4_xTok_000243
+<g/>
+/
+sondern	sondern	KON	Duden	tu_4_xTok_000248
+auch	auch	ADV	Duden	tu_4_xTok_000250
+zusammen	zusammen	ADV	Duden	tu_4_xTok_000252
+calculirter massen	kalkuliertermaßen	ADV		tu_4_xTok_000254
+in	in	APPR	Duden	tu_4_xTok_000259
+einen	ein	ART	Duden	tu_4_xTok_000261
+sehr	sehr	ADV	Duden	tu_4_xTok_000263
+nahmhafften	namhaft	ADJA	Duden	tu_4_xTok_000265
+Schaden	Schaden	NN	Duden	tu_4_xTok_000266
+gebracht	bringen	VVPP	Duden	tu_4_xTok_000268
+<g/>
+/
+und	und	KON	Duden	tu_4_xTok_000272
+beynebens	beinebens	ADV	DWB	tu_4_xTok_000274
+allen	all	PIAT	Duden	tu_4_xTok_000276
+diesen	diese	PDS	Duden	tu_4_xTok_000278
+auch	auch	ADV	Duden	tu_4_xTok_000280
+ein	ein	ART	Duden	tu_4_xTok_000282
+so	so	ADV	Duden	tu_4_xTok_000284
+andern	andere	ADJA	Duden	tu_4_xTok_000286
+Bauren	Bauer	NN	Duden	tu_4_xTok_000288
+<g/>
+/
+allwo	allwo	PWAV	Duden	tu_4_xTok_000291
+er	er	PPER	Duden	tu_4_xTok_000293
+Delinquent	Delinquent	NN	Duden	tu_4_xTok_000295
+in	in	APPR	Duden	tu_4_xTok_000297
+Dreschers=Diensten	Dreschersdienst	NN	oov	tu_4_xTok_000299
+gewesen	sein	VAPP	Duden	tu_4_xTok_000301
+<g/>
+/
+an	an	APPR	Duden	tu_4_xTok_000305
+Waitz	Weizen	NN	Duden	tu_4_xTok_000307
+<g/>
+/
+Gersten	Gerste	NN	Duden	tu_4_xTok_000311
+<g/>
+/
+Habern	Haber	NN	Duden	tu_4_xTok_000316
+und	und	KON	Duden	tu_4_xTok_000318
+dergleichen	dergleichen	PIS	Duden	tu_4_xTok_000320
+boßhafftig	boshaft	ADJD	Duden	tu_4_xTok_000322
+überfortlet	übervorteilen	VVPP	Duden	tu_4_xTok_000324
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Als	als	ADV	Duden	tu_4_xTok_000326
+wird	werden	VAFIN	Duden	tu_4_xTok_000328
+derselbe	derselbe	PDS	Duden	tu_4_xTok_000330
+heute	heute	ADV	Duden	tu_4_xTok_000332
+Freytag	Freitag	NN	Duden	tu_4_xTok_000334
+den	d	ART	Duden	tu_4_xTok_000336
+<date id="date4">
+28.	28	ADJA		tu_4_xTok_000338
+Januarii	Januar	NN	Duden	tu_4_xTok_000340
+1735.	1735	CARD		tu_4_xTok_000342
+</date>
+auf	auf	APPR	Duden	tu_4_xTok_000344
+dem	d	ART	Duden	tu_4_xTok_000346
+Wienner=Berg	Wienerberg	NE::top	oov	tu_4_xTok_000347
+andern	ander	PIS	Duden	tu_4_xTok_000349
+zum	zum	APPRART	Duden	tu_4_xTok_000351
+Beyspiel	Beispiel	NN	Duden	tu_4_xTok_000353
+mit	mit	APPR	Duden	tu_4_xTok_000355
+dem	d	ART	Duden	tu_4_xTok_000357
+Strang	Strang	NN	Duden	tu_4_xTok_000359
+vom	vom	APPRART	Duden	tu_4_xTok_000361
+Leben	Leben	NN	Duden	tu_4_xTok_000363
+zum	zum	APPRART	Duden	tu_4_xTok_000365
+Todt	Tod	NN	Duden	tu_4_xTok_000366
+hingerichtet	hinrichten	VVPP	Duden	tu_4_xTok_000368
+werden	werden	VAINF	Duden	tu_4_xTok_000370
+<g/>
+.
+</titlePart>
 <lg type="poem">
 <head>
 Der	d	ART	Duden	tu_4_xTok_000393
@@ -166,6 +383,7 @@ Schmertzen	Schmerz	NN	Duden	tu_4_xTok_000604
 <l id="fb_17350128_JohannK_l_0010">
 Ein	ein	ART	Duden	tu_4_xTok_000607
 Mann	Mann	NN	Duden	tu_4_xTok_000609
+dey	bei	APPR	Duden	tu_4_xTok_000611
 viertzig	vierzig	CARD	Duden	tu_4_xTok_000613
 Jahren	Jahr	NN	Duden	tu_4_xTok_000615
 <g/>

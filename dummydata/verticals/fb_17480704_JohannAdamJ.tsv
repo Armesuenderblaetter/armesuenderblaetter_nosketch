@@ -1,4 +1,74 @@
 <doc id="fb_17480704_JohannAdamJ" delinquent_sexes="male" title="Todesurteil Johann Adam J." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohlverdientes	wohlverdient	ADJA	Duden	tu_41_xTok_000002
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_41_xTok_000003
+<g/>
+/
+Heute	heute	ADV	Duden	tu_41_xTok_000010
+Donnerstag	Donnerstag	NN	Duden	tu_41_xTok_000012
+als	als	KOKOM	Duden	tu_41_xTok_000014
+den	d	ART	Duden	tu_41_xTok_000016
+<date id="date41">
+4.	4	ADJA		tu_41_xTok_000018
+Julii	Juli	NN	Duden	tu_41_xTok_000020
+1748.	1748	CARD		tu_41_xTok_000022
+</date>
+wird	werden	VAFIN	Duden	tu_41_xTok_000023
+eine	ein	ART	Duden	tu_41_xTok_000025
+verheyrathe	verheiratet	ADJA	Duden	tu_41_xTok_000027
+Manns=Persohn	Mannsperson	NN	Duden	tu_41_xTok_000029
+Nahmens	namens	ADV	Duden	tu_41_xTok_000030
+<persName id="johannadamj41">
+Johann	Johann	NE	Duden	tu_41_xTok_000031
+Adam	Adam	NE	Duden	tu_41_xTok_000034
+J.	J.	NE	oov	tu_41_xTok_000037
+</persName>
+35.	35	CARD		tu_41_xTok_000040
+Jahr	Jahr	NN	Duden	tu_41_xTok_000042
+alt	alt	ADJD	Duden	tu_41_xTok_000045
+<g/>
+/
+Von	von	APPR	Duden	tu_41_xTok_000049
+<placeName id="pn42">
+Weißmann	Weißmann	NE::top	oov	tu_41_xTok_000051
+aus	aus	APPR	Duden	tu_41_xTok_000053
+Francken	Franken	NE::top	Duden	tu_41_xTok_000055
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_41_xTok_000057
+<g/>
+/
+Catholischer	katholisch	ADJA	Duden	tu_41_xTok_000061
+Religion	Religion	NN	Duden	tu_41_xTok_000064
+<g/>
+/
+</titlePart>
+<titlePart type="main">
+Vor	vor	APPR	Duden	tu_41_xTok_000068
+dem	d	ART	Duden	tu_41_xTok_000070
+Schotten=Thor	Schottentor	NE::top	oov	tu_41_xTok_000072
+auf	auf	APPR	Duden	tu_41_xTok_000074
+dasigen	dasig	ADJA	Duden	tu_41_xTok_000076
+Raabenstein	Rabenstein	NN	Duden	tu_41_xTok_000078
+zur	zur	APPRART	Duden	tu_41_xTok_000081
+gewöhnlichen	gewöhnlich	ADJA	Duden	tu_41_xTok_000083
+Richtstatt	Richtstatt	NN	DWB	tu_41_xTok_000085
+geführt	führen	VVPP	Duden	tu_41_xTok_000087
+<g/>
+,
+und	und	KON	Duden	tu_41_xTok_000090
+allda	allda	ADV	Duden	tu_41_xTok_000092
+mit	mit	APPR	Duden	tu_41_xTok_000094
+dem	d	ART	Duden	tu_41_xTok_000096
+Schwerdt	Schwert	NN	Duden	tu_41_xTok_000098
+vom	vom	APPRART	Duden	tu_41_xTok_000100
+Leben	Leben	NN	Duden	tu_41_xTok_000102
+zum	zum	APPRART	Duden	tu_41_xTok_000104
+Todt	Tod	NN	Duden	tu_41_xTok_000106
+hingerichtet	hinrichten	VVPP	Duden	tu_41_xTok_000107
+werden	werden	VAINF	Duden	tu_41_xTok_000109
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_41_xTok_000128
 des	d	ART	Duden	tu_41_xTok_000131

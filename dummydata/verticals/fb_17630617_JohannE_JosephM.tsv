@@ -1,4 +1,123 @@
 <doc id="fb_17630617_JohannE_JosephM" delinquent_sexes="male" title="Todesurteil Johann E., Joseph M." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wolverdientes	wohlverdient	ADJA	Duden	tu_85_xTok_000001
+Todes=Urtheil	Todesurteil	NN	Duden	tu_85_xTok_000002
+Zweyer	zwei	ADJA	Duden	tu_85_xTok_000007
+ledigen	ledig	ADJA	Duden	tu_85_xTok_000009
+Manns=Personen	Mannspersonen	NN	Duden	tu_85_xTok_000011
+Namens	namens	ADV	Duden	tu_85_xTok_000012
+<g/>
+:
+<persName id="johanne85">
+Johann	Johann	NE	Duden	tu_85_xTok_000015
+E.	E.	NE	oov	tu_85_xTok_000017
+</persName>
+Alt	alt	ADJD	Duden	tu_85_xTok_000020
+21.	21	CARD		tu_85_xTok_000022
+Jahr	Jahr	NN	Duden	tu_85_xTok_000024
+<g/>
+,
+Von	von	APPR	Duden	tu_85_xTok_000027
+<placeName id="pn85">
+heiligen Creutz	Heiligenkreuz	NE::top		tu_85_xTok_000029
+nächst	nächst	APPR	Duden	tu_85_xTok_000033
+Gaden	Gaden	NE::top	oov	tu_85_xTok_000035
+</placeName>
+<g/>
+.
+Dann	dann	ADV	Duden	tu_85_xTok_000038
+<persName id="josephm85">
+Joseph	Joseph	NE	Duden	tu_85_xTok_000039
+M.	M.	NE	oov	tu_85_xTok_000041
+</persName>
+20.	20	CARD		tu_85_xTok_000043
+Jahr	Jahr	NN	Duden	tu_85_xTok_000045
+alt	alt	ADJD	Duden	tu_85_xTok_000047
+<g/>
+,
+Zu	zu	APPR	Duden	tu_85_xTok_000050
+<placeName id="pn85b">
+Hätzelstorf	Hätzelsdorf	NE::top	oov	tu_85_xTok_000052
+unter	unter	APPR	Duden	tu_85_xTok_000054
+der	d	ART	Duden	tu_85_xTok_000056
+Herrschaft	Herrschaft	NN	Duden	tu_85_xTok_000058
+Closter=	Kloster	NN	Duden	tu_85_xTok_000060
+Perneck	Perneck	NE::top	oov	tu_85_xTok_000060b
+in	in	APPR	Duden	tu_85_xTok_000062
+Nieder=Oesterreich	Niederösterreich	NE::top	Duden	tu_85_xTok_000064
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_85_xTok_000066
+<g/>
+,
+Beyde	beide	PIS	Duden	tu_85_xTok_000069
+Catholischer	katholisch	ADJA	Duden	tu_85_xTok_000071
+Religion	Religion	NN	Duden	tu_85_xTok_000073
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_85_xTok_000075
+in	in	APPR	Duden	tu_85_xTok_000077
+Folge	Folge	NN	Duden	tu_85_xTok_000079
+deren	d	PDAT	Duden	tu_85_xTok_000081
+bey	bei	APPR	Duden	tu_85_xTok_000083
+dem	d	ART	Duden	tu_85_xTok_000085
+allhiesig=	allhiesig	ADJA	DWB	tu_85_xTok_000087
+Kaiserl.	kaiserlich	ADJA	Duden	tu_85_xTok_000089
+Königl.	königlich	ADJA	Duden	tu_85_xTok_000092
+Stadt=	Stadtgericht	TRUNC	Duden	tu_85_xTok_000095
+und	und	KON	Duden	tu_85_xTok_000097
+Land=Gericht	Landgericht	NN	Duden	tu_85_xTok_000099
+wider	wider	APPR	Duden	tu_85_xTok_000101
+selbe	selbe	PDS	Duden	tu_85_xTok_000103
+abgeführten	abführen	ADJA	DRW	tu_85_xTok_000105
+Criminal=Verfahrungen	Kriminalverfahrung	NN	oov	tu_85_xTok_000107
+<g/>
+,
+und	und	KON	Duden	tu_85_xTok_000110
+darüber	darüber	PAV	Duden	tu_85_xTok_000112
+geschöpften	schöpfen	ADJA	Duden	tu_85_xTok_000114
+<g/>
+,
+auch	auch	ADV	Duden	tu_85_xTok_000117
+von	von	APPR	Duden	tu_85_xTok_000119
+einer	ein	ART	Duden	tu_85_xTok_000121
+hohen	hoch	ADJA	Duden	tu_85_xTok_000123
+Landesfürstl.	landesfürstlich	ADJA	DWB	tu_85_xTok_000125
+N. Oe.	niederösterreichisch	ADJA		tu_85_xTok_000128
+Regierung	Regierung	NN	Duden	tu_85_xTok_000134
+bestättigten	bestätigen	ADJA	Duden	tu_85_xTok_000136
+Erkanntnussen	Erkanntnis	NN	DWB	tu_85_xTok_000138
+an	an	APPR	Duden	tu_85_xTok_000140
+gleich ernannten	gleichernannt	ADJA		tu_85_xTok_000142
+Johann	Johann	NE	Duden	tu_85_xTok_000146
+E.	E.	NE	oov	tu_85_xTok_000148
+und	und	KON	Duden	tu_85_xTok_000151
+Joseph	Joseph	NE	Duden	tu_85_xTok_000153
+M.	M.	NE	oov	tu_85_xTok_000155
+dem	d	ART	Duden	tu_85_xTok_000158
+zu	zu	APPR	Duden	tu_85_xTok_000160
+Ende	Ende	NN	Duden	tu_85_xTok_000162
+angefügten	anfügen	ADJA	Duden	tu_85_xTok_000164
+Jnnhalt	Inhalt	NN	Duden	tu_85_xTok_000167
+gemäß	gemäß	APPO	Duden	tu_85_xTok_000169
+<g/>
+,
+heute	heute	ADV	Duden	tu_85_xTok_000172
+den	d	ART	Duden	tu_85_xTok_000174
+<date id="date85">
+17.	17	ADJA		tu_85_xTok_000176
+Junii	Juni	NN	Duden	tu_85_xTok_000178
+1763.	1763	CARD		tu_85_xTok_000180
+</date>
+allhier	allhier	ADV	Duden	tu_85_xTok_000182
+in	in	APPR	Duden	tu_85_xTok_000184
+Wien	Wien	NE::top	Duden	tu_85_xTok_000186
+vollzogen	vollziehen	VVPP	Duden	tu_85_xTok_000188
+wird	werden	VAFIN	Duden	tu_85_xTok_000190
+<g/>
+.
+</titlePart>
 <p id="fb_17630617_JohannE_JosephM_p_0001">
 ES	es	PPER	Duden	tu_85_xTok_000193
 seynd	sein	VAFIN	Duden	tu_85_xTok_000196

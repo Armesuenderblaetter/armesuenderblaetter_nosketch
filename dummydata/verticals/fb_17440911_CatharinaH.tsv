@@ -1,4 +1,78 @@
 <doc id="fb_17440911_CatharinaH" delinquent_sexes="female" title="Todesurteil Catharina H." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_25_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_25_xTok_000002
+<g/>
+/
+Einer	ein	ART	Duden	tu_25_xTok_000009
+Ledigen	ledig	ADJA	Duden	tu_25_xTok_000011
+Weibs=Persohn	Weibsperson	NN	Duden	tu_25_xTok_000013
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_25_xTok_000017
+<persName id="catharinah25">
+Catharina	Catharina	NE	oov	tu_25_xTok_000018
+H.	H.	NE	oov	tu_25_xTok_000021
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_25_xTok_000023
+Religion	Religion	NN	Duden	tu_25_xTok_000026
+<g/>
+/
+18.	18	CARD		tu_25_xTok_000031
+Jahr	Jahr	NN	Duden	tu_25_xTok_000033
+alt	alt	ADJD	Duden	tu_25_xTok_000036
+<g/>
+/
+allhier	allhier	ADV	Duden	tu_25_xTok_000040
+gebürtig	gebürtig	ADJD	Duden	tu_25_xTok_000042
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welche	welch	PRELS	Duden	tu_25_xTok_000044
+heute	heute	ADV	Duden	tu_25_xTok_000046
+Freytag	Freitag	NN	Duden	tu_25_xTok_000048
+<g/>
+/
+den	d	ART	Duden	tu_25_xTok_000052
+<date id="date25">
+11.	11	ADJA		tu_25_xTok_000054
+September	September	NN	Duden	tu_25_xTok_000056
+1744.	1744	CARD		tu_25_xTok_000057
+</date>
+anderen	ander	PIS	Duden	tu_25_xTok_000059
+zum	zum	APPRART	Duden	tu_25_xTok_000061
+Beyspiel	Beispiel	NN	Duden	tu_25_xTok_000063
+vor	vor	APPR	Duden	tu_25_xTok_000065
+dem	d	ART	Duden	tu_25_xTok_000067
+Schotten=Thor	Schottentor	NE::top	oov	tu_25_xTok_000069
+auf	auf	APPR	Duden	tu_25_xTok_000070
+dasigen	dasig	ADJA	Duden	tu_25_xTok_000072
+Raaben=Stein	Rabenstein	NN	Duden	tu_25_xTok_000074
+<g/>
+/
+durch	durch	APPR	Duden	tu_25_xTok_000078
+das	d	ART	Duden	tu_25_xTok_000080
+Schwerd	Schwert	NN	Duden	tu_25_xTok_000082
+samt	samt	APPR	Duden	tu_25_xTok_000084
+Kopf=	Kopfabschlagung	TRUNC	oov	tu_25_xTok_000085
+und	und	KON	Duden	tu_25_xTok_000087
+Hand=Abschlagung	Handabschlagung	NN	Duden	tu_25_xTok_000089
+hingerichtet	hinrichten	VVPP	Duden	tu_25_xTok_000091
+wird	werden	VAFIN	Duden	tu_25_xTok_000093
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Der	d	ART	Duden	tu_25_xTok_000095
+Jnnhalt	Inhalt	NN	Duden	tu_25_xTok_000097
+ist	sein	VAFIN	Duden	tu_25_xTok_000099
+hierinnen	hierinnen	PAV	Duden	tu_25_xTok_000101
+zu	zu	PTKZU	Duden	tu_25_xTok_000103
+vernehmen	vernehmen	VVINF	Duden	tu_25_xTok_000105
+<g/>
+.
+</titlePart>
 <head>
 End=Urtheil	Endurteil	NN	Duden	tu_25_xTok_000122
 dieser	diese	PDAT	Duden	tu_25_xTok_000127

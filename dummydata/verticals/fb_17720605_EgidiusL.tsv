@@ -1,4 +1,72 @@
 <doc id="fb_17720605_EgidiusL" delinquent_sexes="male" title="Todesurteil Egidius L." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohlverdientes	wohlverdient	ADJA	Duden	tu_97_xTok_000001
+Todes=Urtheil	Todesurteil	NN	Duden	tu_97_xTok_000002
+einer	ein	ART	Duden	tu_97_xTok_000006
+verheyratheten	verheiratet	ADJA	Duden	tu_97_xTok_000008
+Mannsperson	Mannsperson	NN	Duden	tu_97_xTok_000010
+<g/>
+,
+Namens	namens	ADV	Duden	tu_97_xTok_000012
+<persName id="egidiusl97">
+Egidius	Ägidius	NE	Duden	tu_97_xTok_000013
+L.	L.	NE	oov	tu_97_xTok_000015
+</persName>
+27.	27	CARD		tu_97_xTok_000017
+Jahr	Jahr	NN	Duden	tu_97_xTok_000020
+alt	alt	ADJD	Duden	tu_97_xTok_000022
+<g/>
+,
+kathol.	katholisch	ADJA	Duden	tu_97_xTok_000025
+Religion	Religion	NN	Duden	tu_97_xTok_000028
+<g/>
+,
+von	von	APPR	Duden	tu_97_xTok_000031
+<placeName id="pn97">
+Brodiß	Brodiß	NE::top	oov	tu_97_xTok_000033
+in	in	APPR	Duden	tu_97_xTok_000034
+Oesterreich	Österreich	NE::top	Duden	tu_97_xTok_000036
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_97_xTok_000038
+</titlePart>
+<titlePart type="main">
+welcher	welch	PRELS	Duden	tu_97_xTok_000039
+Heute	heute	ADV	Duden	tu_97_xTok_000042
+Freytags	Freitag	NN	Duden	tu_97_xTok_000044
+<g/>
+,
+als	als	KOKOM	Duden	tu_97_xTok_000047
+den	d	ART	Duden	tu_97_xTok_000049
+<date id="date97">
+5.	5	ADJA		tu_97_xTok_000051
+Junii	Juni	NN	Duden	tu_97_xTok_000053
+1772.	1772	CARD		tu_97_xTok_000055
+</date>
+allhier	allhier	ADV	Duden	tu_97_xTok_000057
+zu	zu	APPR	Duden	tu_97_xTok_000058
+Preßburg	Pressburg	NE::top	Duden	tu_97_xTok_000060
+wegen	wegen	APPR	Duden	tu_97_xTok_000062
+innbemeldt	inbemeldet	ADJA	oov	tu_97_xTok_000064
+begangenen	begehen	ADJA	Duden	tu_97_xTok_000066
+Mordthaten	Mordtat	NN	Duden	tu_97_xTok_000068
+zum	zum	APPRART	Duden	tu_97_xTok_000070
+Hochgericht	Hochgericht	NN	Duden	tu_97_xTok_000071
+hinausgeführt	hinausführen	VVPP	Duden	tu_97_xTok_000073
+<g/>
+,
+und	und	KON	Duden	tu_97_xTok_000076
+mit	mit	APPR	Duden	tu_97_xTok_000078
+dem	d	ART	Duden	tu_97_xTok_000080
+Rade	Rad	NN	Duden	tu_97_xTok_000082
+vom	vom	APPRART	Duden	tu_97_xTok_000084
+Leben	Leben	NN	Duden	tu_97_xTok_000086
+zum	zum	APPRART	Duden	tu_97_xTok_000087
+Tode	Tod	NN	Duden	tu_97_xTok_000089
+hingerichtet	hinrichten	VVPP	Duden	tu_97_xTok_000091
+worden	werden	VAPP	Duden	tu_97_xTok_000093
+<g/>
+.
+</titlePart>
 <p id="fb_17720605_EgidiusL_p_0001">
 Es	es	PPER	Duden	tu_97_xTok_000107
 hat	haben	VAFIN	Duden	tu_97_xTok_000110

@@ -1,4 +1,98 @@
 <doc id="fb_17580818_CatharinaO" delinquent_sexes="female" title="Todesurteil Catharina O." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_69_xTok_000001
+Einer	ein	ART	Duden	tu_69_xTok_000005
+ledigen	ledig	ADJA	Duden	tu_69_xTok_000007
+Weibs=person	Weibsperson	NN	Duden	tu_69_xTok_000009
+<g/>
+,
+Namens	namens	ADV	Duden	tu_69_xTok_000011
+<g/>
+:
+<persName id="catharinao69">
+Catharina	Catharina	NE	oov	tu_69_xTok_000013
+O.	O.	NE	oov	tu_69_xTok_000015
+</persName>
+Alt	alt	ADJD	Duden	tu_69_xTok_000017
+26.	26	CARD		tu_69_xTok_000019
+Jahr	Jahr	NN	Duden	tu_69_xTok_000021
+<g/>
+,
+Von	von	APPR	Duden	tu_69_xTok_000023
+<placeName id="pn69">
+Kritzendorf	Kritzendorf	NE::top	oov	tu_69_xTok_000025
+nächst	nächst	APPR	Duden	tu_69_xTok_000027
+Kloster=neuburg	Klosterneuburg	NE::top	oov	tu_69_xTok_000029
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_69_xTok_000031
+<g/>
+,
+Catholischer	katholisch	ADJA	Duden	tu_69_xTok_000033
+Religion	Religion	NN	Duden	tu_69_xTok_000037
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+WElches	welch	PRELS	Duden	tu_69_xTok_000039
+in	in	APPR	Duden	tu_69_xTok_000042
+Folge	Folge	NN	Duden	tu_69_xTok_000044
+der	d	ART	Duden	tu_69_xTok_000046
+bey	bei	APPR	Duden	tu_69_xTok_000048
+dem	d	ART	Duden	tu_69_xTok_000050
+alhiesig	allhiesig	ADJA	DWB	tu_69_xTok_000052
+Kaiserl.	kaiserlich	ADJA	Duden	tu_69_xTok_000054
+Königl.	königlich	ADJA	Duden	tu_69_xTok_000057
+Stadt	Stadtgericht	TRUNC	Duden	tu_69_xTok_000060
+und	und	KON	Duden	tu_69_xTok_000061
+Land=gericht	Landgericht	NN	Duden	tu_69_xTok_000063
+wider	wider	APPR	Duden	tu_69_xTok_000065
+sie	sie	PPER	Duden	tu_69_xTok_000067
+abgeführten	abführen	ADJA	DRW	tu_69_xTok_000069
+Criminal-verfahrung	Kriminalverfahrung	NN	oov	tu_69_xTok_000071
+und	und	KON	Duden	tu_69_xTok_000073
+darüber	darüber	PAV	Duden	tu_69_xTok_000075
+geschöpften	schöpfen	ADJA	Duden	tu_69_xTok_000077
+<g/>
+,
+auch	auch	ADV	Duden	tu_69_xTok_000080
+von	von	APPR	Duden	tu_69_xTok_000082
+einer	ein	ART	Duden	tu_69_xTok_000084
+Hoch=löbl.	hochlöblich	ADJA	Duden	tu_69_xTok_000086
+Landesfürstl.	landesfürstlich	ADJA	DWB	tu_69_xTok_000089
+N. Oe.	niederösterreichisch	ADJA		tu_69_xTok_000093
+Regierung	Regierung	NN	Duden	tu_69_xTok_000099
+in	in	APPR	Duden	tu_69_xTok_000101
+Justitz=sachen	Justizsache	NN	DRW	tu_69_xTok_000103
+bestättigten	bestätigen	ADJA	Duden	tu_69_xTok_000105
+Erkanntnuß	Erkanntnis	NN	DWB	tu_69_xTok_000107
+an	an	APPR	Duden	tu_69_xTok_000109
+gleich=benannter	gleichbenannt	ADJA	DWB	tu_69_xTok_000110
+Catharina	Catharina	NE	oov	tu_69_xTok_000112
+O.	O.	NE	oov	tu_69_xTok_000114
+einer	ein	ART	Duden	tu_69_xTok_000117
+treu=losen	treulos	ADJA	Duden	tu_69_xTok_000119
+Dienst=magd	Dienstmagd	NN	Duden	tu_69_xTok_000121
+dem	d	ART	Duden	tu_69_xTok_000123
+zu	zu	APPR	Duden	tu_69_xTok_000125
+End	Ende	NN	Duden	tu_69_xTok_000127
+angeführten	angeführt	ADJA	Duden	tu_69_xTok_000128
+Jnhalt	Inhalt	NN	Duden	tu_69_xTok_000130
+gemäß	gemäß	APPO	Duden	tu_69_xTok_000132
+heut	heute	ADV	Duden	tu_69_xTok_000134
+den	d	ART	Duden	tu_69_xTok_000136
+<date id="date69">
+18.	18	ADJA		tu_69_xTok_000138
+Augusti	August	NN	Duden	tu_69_xTok_000140
+1758.	1758	CARD		tu_69_xTok_000142
+</date>
+alhier	allhier	ADV	Duden	tu_69_xTok_000144
+in	in	APPR	Duden	tu_69_xTok_000146
+Wien	Wien	NE::top	Duden	tu_69_xTok_000148
+vollzogen	vollziehen	VVPP	Duden	tu_69_xTok_000149
+wird	werden	VAFIN	Duden	tu_69_xTok_000151
+<g/>
+.
+</titlePart>
 <p id="fb_17580818_CatharinaO_p_0001">
 Es	es	PPER	Duden	tu_69_xTok_000154
 hat	haben	VAFIN	Duden	tu_69_xTok_000156

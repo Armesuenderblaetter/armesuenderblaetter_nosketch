@@ -1,4 +1,233 @@
 <doc id="fb_17350114_AndreN" delinquent_sexes="male" title="Todesurteil Andre N." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_3_xTok_000001
+End=Urtheil	Endurteil	NN	Duden	tu_3_xTok_000002
+Einer	ein	ART	Duden	tu_3_xTok_000006
+Ledigen	ledig	ADJA	Duden	tu_3_xTok_000007
+Manns=Persohn	Mannsperson	NN	Duden	tu_3_xTok_000010
+Nahmens	namens	ADV	Duden	tu_3_xTok_000015
+<persName id="andren3">
+Andre	Andre	NE	oov	tu_3_xTok_000017
+N.	N.	NE	oov	tu_3_xTok_000020
+</persName>
+Von	von	APPR	Duden	tu_3_xTok_000022
+<placeName id="pn3">
+Hannsacker	Hainsacker	NE::top	oov	tu_3_xTok_000024
+bey	bei	APPR	Duden	tu_3_xTok_000026
+Regenspurg	Regensburg	NE::top	Duden	tu_3_xTok_000028
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_3_xTok_000030
+<g/>
+/
+Catholischer	katholisch	ADJA	Duden	tu_3_xTok_000034
+Religion	Religion	NN	Duden	tu_3_xTok_000037
+und	und	KON	Duden	tu_3_xTok_000039
+bey	bei	APPR	Duden	tu_3_xTok_000041
+33.	33	CARD		tu_3_xTok_000043
+Jahr	Jahr	NN	Duden	tu_3_xTok_000045
+alt	alt	ADJD	Duden	tu_3_xTok_000047
+<g/>
+/
+seiner	sein	PPOSAT	Duden	tu_3_xTok_000051
+Profession	Profession	NN	Duden	tu_3_xTok_000052
+ein	ein	ART	Duden	tu_3_xTok_000055
+Kellner	Kellner	NN	Duden	tu_3_xTok_000057
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Um weilen	umweil	KOUS		tu_3_xTok_000059
+derselbe	derselbe	PDS	Duden	tu_3_xTok_000063
+mit	mit	APPR	Duden	tu_3_xTok_000065
+dem	d	ART	Duden	tu_3_xTok_000067
+vor	vor	APPR	Duden	tu_3_xTok_000069
+3.	3	CARD		tu_3_xTok_000071
+Tägen	Tag	NN	Duden	tu_3_xTok_000073
+durch	durch	APPR	Duden	tu_3_xTok_000075
+den	d	ART	Duden	tu_3_xTok_000077
+Strang	Strang	NN	Duden	tu_3_xTok_000079
+hingerichten	hinrichten	ADJA	Duden	tu_3_xTok_000081
+Friderich	Friderich	NE	oov	tu_3_xTok_000083
+H.	H.	NE	oov	tu_3_xTok_000085
+und	und	KON	Duden	tu_3_xTok_000088
+noch	noch	ADV	Duden	tu_3_xTok_000090
+mehr	mehr	PIAT	Duden	tu_3_xTok_000092
+anderen	andere	ADJA	Duden	tu_3_xTok_000094
+Diebs=Cammeraden	Diebskamerad	NN	oov	tu_3_xTok_000096
+unterschiedliche	unterschiedlich	ADJA	Duden	tu_3_xTok_000099
+und	und	KON	Duden	tu_3_xTok_000101
+zum	zum	APPRART	Duden	tu_3_xTok_000103
+Theil	Teil	NN	Duden	tu_3_xTok_000105
+sehr	sehr	ADV	Duden	tu_3_xTok_000107
+übel	übel	ADJD	Duden	tu_3_xTok_000109
+qualificirte	qualifiziert	ADJA	Duden	tu_3_xTok_000111
+Dieb=Stähle	Diebstahl	NN	Duden	tu_3_xTok_000114
+gethan	tun	VVPP	Duden	tu_3_xTok_000116
+und	und	KON	Duden	tu_3_xTok_000118
+ausüben	ausüben	VVINF	Duden	tu_3_xTok_000119
+helffen	helfen	VVPP	Duden	tu_3_xTok_000121
+<g/>
+/
+als	als	KOKOM	Duden	tu_3_xTok_000125
+unter	unter	APPR	Duden	tu_3_xTok_000127
+anderen	andere	ADJA	Duden	tu_3_xTok_000129
+er	er	PPER	Duden	tu_3_xTok_000131
+Andre	Andre	NE	oov	tu_3_xTok_000133
+N.	N.	NE	oov	tu_3_xTok_000135
+den	d	ART	Duden	tu_3_xTok_000138
+14ten	14	ADJA		tu_3_xTok_000140
+Novembr.	November	NN	Duden	tu_3_xTok_000143
+1730.	1730	CARD		tu_3_xTok_000146
+von	von	APPR	Duden	tu_3_xTok_000147
+3.	3	CARD		tu_3_xTok_000149
+Billiarden	Billiarde	NN	Duden	tu_3_xTok_000151
+die	d	ART	Duden	tu_3_xTok_000154
+Tücher	Tuch	NN	Duden	tu_3_xTok_000156
+ausgeschnitten	ausschneiden	VVPP	Duden	tu_3_xTok_000158
+<g/>
+/
+und	und	KON	Duden	tu_3_xTok_000162
+also	also	ADV	Duden	tu_3_xTok_000164
+149.	149	CARD		tu_3_xTok_000166
+Fl.	Flore	NN	DWB	tu_3_xTok_000168
+Schaden	Schaden	NN	Duden	tu_3_xTok_000171
+verursachet	verursachen	VVPP	Duden	tu_3_xTok_000173
+<g/>
+/
+so dann	sodann	ADV		tu_3_xTok_000179
+den	d	ART	Duden	tu_3_xTok_000183
+24ten	24	ADJA		tu_3_xTok_000185
+dito	dito	ADV	Duden	tu_3_xTok_000188
+darauf	darauf	PAV	Duden	tu_3_xTok_000190
+auf	auf	APPR	Duden	tu_3_xTok_000192
+der	d	ART	Duden	tu_3_xTok_000194
+Land=Strassen	Landstraße	NE::top	oov	tu_3_xTok_000196
+mittels	mittels	APPR	Duden	tu_3_xTok_000198
+gewalthätiger	gewalttätig	ADJA	Duden	tu_3_xTok_000200
+Einbrechung	Einbrechung	NN	DRW	tu_3_xTok_000204
+an	an	APPR	Duden	tu_3_xTok_000206
+Zinn	Zinn	NN	Duden	tu_3_xTok_000208
+<g/>
+/
+Kleydung	Kleidung	NN	Duden	tu_3_xTok_000212
+<g/>
+/
+Bett=Gewand	Bettgewand	NN	DWB	tu_3_xTok_000216
+<g/>
+/
+rc.	etc.	FM	Duden	tu_3_xTok_000220
+69.	69	CARD		tu_3_xTok_000223
+Fl.	Flore	NN	DWB	tu_3_xTok_000226
+6.	6	CARD		tu_3_xTok_000229
+Kr.	Kreuzer	NN	Duden	tu_3_xTok_000232
+werth	wert	ADJD	Duden	tu_3_xTok_000235
+entfrembden	entfremden	VVINF	Duden	tu_3_xTok_000236
+geholffen	helfen	VVPP	Duden	tu_3_xTok_000238
+<g/>
+/
+wie	wie	KON	Duden	tu_3_xTok_000242
+nicht	nicht	PTKNEG	Duden	tu_3_xTok_000244
+weniger	wenig	ADV	Duden	tu_3_xTok_000246
+den	d	ART	Duden	tu_3_xTok_000248
+4ten	4	ADJA		tu_3_xTok_000250
+Tag	Tag	NN	Duden	tu_3_xTok_000253
+darauf	darauf	PAV	Duden	tu_3_xTok_000255
+in	in	APPR	Duden	tu_3_xTok_000257
+der	d	ART	Duden	tu_3_xTok_000259
+Leopoldstadt	Leopoldstadt	NE::top	oov	tu_3_xTok_000261
+an	an	APPR	Duden	tu_3_xTok_000262
+der	d	ART	Duden	tu_3_xTok_000264
+Donau	Donau	NE::top	Duden	tu_3_xTok_000266
+einen	ein	ART	Duden	tu_3_xTok_000268
+sichern	sicher	ADJA	DWB	tu_3_xTok_000270
+Wildprät=Handler	Wildprethändler	NN	oov	tu_3_xTok_000272
+mittels	mittels	APPR	Duden	tu_3_xTok_000274
+ebenmässiger	ebenmäßig	ADJA	DWB	tu_3_xTok_000276
+Einbrechung	Einbrechung	NN	DRW	tu_3_xTok_000278
+an	an	APPR	Duden	tu_3_xTok_000281
+Geld	Geld	NN	Duden	tu_3_xTok_000283
+<g/>
+/
+und	und	KON	Duden	tu_3_xTok_000287
+Gelds werth	Geldeswert	NN		tu_3_xTok_000289
+236.	236	CARD		tu_3_xTok_000293
+Fl.	Flore	NN	DWB	tu_3_xTok_000295
+21.	21	CARD		tu_3_xTok_000298
+Kr.	Kreuzer	NN	Duden	tu_3_xTok_000300
+entfrembden	entfremden	VVINF	Duden	tu_3_xTok_000303
+geholffen	helfen	VVPP	Duden	tu_3_xTok_000305
+<g/>
+;
+dann	dann	ADV	Duden	tu_3_xTok_000308
+wiederum	wiederum	ADV	Duden	tu_3_xTok_000309
+2.	2	CARD		tu_3_xTok_000311
+Täg	Tag	NN	Duden	tu_3_xTok_000313
+vor	vor	APPR	Duden	tu_3_xTok_000315
+Weyhnachten	Weihnachten	NN	Duden	tu_3_xTok_000317
+obigen	obig	ADJA	Duden	tu_3_xTok_000319
+Jahrs	Jahr	NN	Duden	tu_3_xTok_000321
+ausser	außer	APPR	Duden	tu_3_xTok_000323
+den	d	ART	Duden	tu_3_xTok_000325
+Maria=Hülft=Linien	Mariahilferlinie	NE::top	oov	tu_3_xTok_000327
+verschiedene	verschieden	ADJA	Duden	tu_3_xTok_000328
+Gefligelwerck	Geflügelwerk	NN	DWB	tu_3_xTok_000330
+und	und	KON	Duden	tu_3_xTok_000332
+60.	60	CARD		tu_3_xTok_000334
+Stuck	Stück	NN	Duden	tu_3_xTok_000336
+Zeller=Wurtzen	Zellerwurze	NN	oov	tu_3_xTok_000338
+<g/>
+(
+so	so	PRELS	Duden	tu_3_xTok_000341
+zusammen	zusammen	ADV	Duden	tu_3_xTok_000343
+auf	auf	APPR	Duden	tu_3_xTok_000345
+4.	4	CARD		tu_3_xTok_000346
+Fl.	Flore	NN	DWB	tu_3_xTok_000348
+37.	37	CARD		tu_3_xTok_000351
+Kr.	Kreuzer	NN	Duden	tu_3_xTok_000353
+taxirt	taxieren	VVPP	Duden	tu_3_xTok_000356
+<g/>
+/
+jedoch	jedoch	KON	Duden	tu_3_xTok_000361
+ihnen	sie	PPER	Duden	tu_3_xTok_000363
+Thättern	Täter	NN	Duden	tu_3_xTok_000365
+nachgesehen	nachsehen	VVPP	Duden	tu_3_xTok_000367
+worden	werden	VAPP	Duden	tu_3_xTok_000369
+<g/>
+)
+entfrembdet	entfremden	VVPP	Duden	tu_3_xTok_000371
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Als	als	KOUS	Duden	tu_3_xTok_000373
+wird	werden	VAFIN	Duden	tu_3_xTok_000375
+derselbe	derselbe	PDS	Duden	tu_3_xTok_000377
+anderen	andere	ADJA	Duden	tu_3_xTok_000379
+zum	zum	APPRART	Duden	tu_3_xTok_000381
+Beyspiel	Beispiel	NN	Duden	tu_3_xTok_000383
+heut	heute	ADV	Duden	tu_3_xTok_000385
+Freytag	Freitag	NN	Duden	tu_3_xTok_000387
+den	d	ART	Duden	tu_3_xTok_000389
+<date id="date3">
+14.	14	ADJA		tu_3_xTok_000391
+Januarij	Januar	NN	Duden	tu_3_xTok_000393
+1735.	1735	CARD		tu_3_xTok_000396
+</date>
+auf	auf	APPR	Duden	tu_3_xTok_000398
+dem	d	ART	Duden	tu_3_xTok_000400
+Wienner=Berg	Wienerberg	NE::top	oov	tu_3_xTok_000402
+mit	mit	APPR	Duden	tu_3_xTok_000404
+dem	d	ART	Duden	tu_3_xTok_000406
+Strang	Strang	NN	Duden	tu_3_xTok_000408
+vom	vom	APPRART	Duden	tu_3_xTok_000410
+Leben	Leben	NN	Duden	tu_3_xTok_000412
+zum	zum	APPRART	Duden	tu_3_xTok_000414
+Todt	Tod	NN	Duden	tu_3_xTok_000416
+hingerichtet	hinrichten	VVPP	Duden	tu_3_xTok_000417
+werden	werden	VAINF	Duden	tu_3_xTok_000419
+<g/>
+.
+</titlePart>
 <lg type="poem">
 <head>
 Der	d	ART	Duden	tu_3_xTok_000443
@@ -819,6 +1048,7 @@ Todtes=Strassen	Todesstraße	NN	DWB	tu_3_xTok_001556
 </l>
 <l id="fb_17350114_AndreN_l_0051">
 Auch	auch	ADV	Duden	tu_3_xTok_001559
+Magdolena	Magdalena	NE	Duden	tu_3_xTok_001561
 steh	beistehen	VVIMP	Duden	tu_3_xTok_001563
 mir	ich	PPER	Duden	tu_3_xTok_001565
 bey	bei	PTKVZ	Duden	tu_3_xTok_001567

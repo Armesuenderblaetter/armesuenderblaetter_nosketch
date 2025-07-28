@@ -1,4 +1,106 @@
 <doc id="fb_17580318_MathiasB" delinquent_sexes="male" title="Todesurteil Mathias B." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_68_xTok_000001
+Einer	ein	ART	Duden	tu_68_xTok_000005
+verheyrateten	verheiratet	ADJA	Duden	tu_68_xTok_000007
+Manns=person	Mannsperson	NN	Duden	tu_68_xTok_000009
+<g/>
+,
+Namens	namens	ADV	Duden	tu_68_xTok_000011
+<g/>
+:
+<persName id="mathiasb68">
+Mathias	Matthias	NE	Duden	tu_68_xTok_000013
+B.	B.	NE	oov	tu_68_xTok_000015
+</persName>
+Alt	alt	ADJD	Duden	tu_68_xTok_000017
+37.	37	CARD		tu_68_xTok_000019
+Jahr	Jahr	NN	Duden	tu_68_xTok_000021
+<g/>
+,
+Von	von	APPR	Duden	tu_68_xTok_000023
+<placeName id="pn68">
+Ottackring	Ottakring	NE::top	oov	tu_68_xTok_000025
+</placeName>
+<g/>
+,
+unweit	unweit	APPR	Duden	tu_68_xTok_000028
+von	von	APPR	Duden	tu_68_xTok_000030
+hier	hier	ADV	Duden	tu_68_xTok_000032
+<g/>
+,
+gebürtig	gebürtig	ADJD	Duden	tu_68_xTok_000035
+<g/>
+,
+Catholischer	katholisch	ADJA	Duden	tu_68_xTok_000037
+Religion	Religion	NN	Duden	tu_68_xTok_000041
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+WElches	welch	PRELS	Duden	tu_68_xTok_000043
+in	in	APPR	Duden	tu_68_xTok_000046
+Folge	Folge	NN	Duden	tu_68_xTok_000048
+der	d	ART	Duden	tu_68_xTok_000050
+bey	bei	APPR	Duden	tu_68_xTok_000052
+dem	d	ART	Duden	tu_68_xTok_000054
+alhiesig	allhiesig	ADJA	DWB	tu_68_xTok_000056
+Kaiserl.	kaiserlich	ADJA	Duden	tu_68_xTok_000057
+Königl.	königlich	ADJA	Duden	tu_68_xTok_000060
+Stadt=	Stadtgericht	TRUNC	Duden	tu_68_xTok_000063
+und	und	KON	Duden	tu_68_xTok_000065
+Landgericht	Landgericht	NN	Duden	tu_68_xTok_000067
+wider	wider	APPR	Duden	tu_68_xTok_000070
+ihne	er	PPER	Duden	tu_68_xTok_000072
+abgeführten	abführen	ADJA	DRW	tu_68_xTok_000074
+Criminal=verfahrung	Kriminalverfahrung	NN	oov	tu_68_xTok_000076
+und	und	KON	Duden	tu_68_xTok_000079
+darüber	darüber	PAV	Duden	tu_68_xTok_000081
+geschöpften	schöpfen	ADJA	Duden	tu_68_xTok_000083
+<g/>
+,
+auch	auch	ADV	Duden	tu_68_xTok_000085
+von	von	APPR	Duden	tu_68_xTok_000087
+Einer	ein	ART	Duden	tu_68_xTok_000089
+Hochlöbl.	hochlöblich	ADJA	Duden	tu_68_xTok_000091
+Landes=fürstl.	landesfürstlich	ADJA	DWB	tu_68_xTok_000094
+N. Oe.	niederösterreichisch	ADJA		tu_68_xTok_000097
+Regierung	Regierung	NN	Duden	tu_68_xTok_000102
+in	in	APPR	Duden	tu_68_xTok_000104
+Justiz=sachen	Justizsache	NN	DRW	tu_68_xTok_000106
+bestättigten	bestätigen	ADJA	Duden	tu_68_xTok_000108
+Erkanntnuß	Erkanntnis	NN	DWB	tu_68_xTok_000110
+an	an	APPR	Duden	tu_68_xTok_000113
+gleich=benannten	gleichbenannt	ADJA	DWB	tu_68_xTok_000115
+Mathias	Matthias	NE	Duden	tu_68_xTok_000117
+B.	B.	NE	oov	tu_68_xTok_000119
+einem	ein	ART	Duden	tu_68_xTok_000121
+Bauren=knecht	Bauernknecht	NN	Duden	tu_68_xTok_000123
+<g/>
+,
+dem	d	ART	Duden	tu_68_xTok_000126
+zu	zu	APPR	Duden	tu_68_xTok_000128
+End	Ende	NN	Duden	tu_68_xTok_000130
+angefügten	anfügen	ADJA	Duden	tu_68_xTok_000132
+Jnnhalt	Inhalt	NN	Duden	tu_68_xTok_000135
+gemäß	gemäß	APPO	Duden	tu_68_xTok_000137
+<g/>
+,
+heut	heute	ADV	Duden	tu_68_xTok_000140
+den	d	ART	Duden	tu_68_xTok_000142
+<date id="date68">
+18.	18	ADJA		tu_68_xTok_000144
+März	März	NN	Duden	tu_68_xTok_000146
+1758.	1758	CARD		tu_68_xTok_000148
+</date>
+alhier	allhier	ADV	Duden	tu_68_xTok_000149
+in	in	APPR	Duden	tu_68_xTok_000151
+Wien	Wien	NE::top	Duden	tu_68_xTok_000153
+volzogen	vollziehen	VVPP	Duden	tu_68_xTok_000155
+wird	werden	VAFIN	Duden	tu_68_xTok_000158
+<g/>
+.
+</titlePart>
 <p id="fb_17580318_MathiasB_p_0001">
 Es	es	PPER	Duden	tu_68_xTok_000161
 hat	haben	VAFIN	Duden	tu_68_xTok_000163

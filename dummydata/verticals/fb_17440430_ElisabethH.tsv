@@ -1,4 +1,47 @@
 <doc id="fb_17440430_ElisabethH" delinquent_sexes="female" title="Todesurteil Elisabeth H." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_24_xTok_000002
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_24_xTok_000003
+<g/>
+/
+Einer	ein	ART	Duden	tu_24_xTok_000009
+ledigen	ledig	ADJA	Duden	tu_24_xTok_000011
+Weibs=Persohn	Weibsperson	NN	Duden	tu_24_xTok_000013
+<g/>
+/
+Namens	namens	ADV	Duden	tu_24_xTok_000017
+<persName id="elisabethh24">
+Elisabeth	Elisabeth	NE	Duden	tu_24_xTok_000018
+H.	H.	NE	oov	tu_24_xTok_000021
+</persName>
+Alt	alt	ADJD	Duden	tu_24_xTok_000023
+19.	19	CARD		tu_24_xTok_000025
+Jahr	Jahr	NN	Duden	tu_24_xTok_000028
+<g/>
+/
+Catholischer	katholisch	ADJA	Duden	tu_24_xTok_000032
+Religion	Religion	NN	Duden	tu_24_xTok_000036
+<g/>
+/
+<placeName id="pn24">
+Allhier	allhier	ADV	Duden	tu_24_xTok_000039
+</placeName>
+gebürthig	gebürtig	ADJD	Duden	tu_24_xTok_000041
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Der	d	ART	Duden	tu_24_xTok_000043
+Jnnhalt	Inhalt	NN	Duden	tu_24_xTok_000045
+wird	werden	VAFIN	Duden	tu_24_xTok_000047
+dem	d	ART	Duden	tu_24_xTok_000049
+Leser	Leser	NN	Duden	tu_24_xTok_000051
+es	es	PPER	Duden	tu_24_xTok_000053
+außführlich	ausführlich	ADJD	Duden	tu_24_xTok_000055
+geben	geben	VVINF	Duden	tu_24_xTok_000057
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_24_xTok_000077
 des	d	ART	Duden	tu_24_xTok_000080

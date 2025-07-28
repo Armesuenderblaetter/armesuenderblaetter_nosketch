@@ -1,4 +1,92 @@
 <doc id="fb_17640831_MariaAnnaN" delinquent_sexes="female" title="Todesurteil Maria Anna N." attrs="word lemma pos vocab id">
+<titlePart>
+Todes=Urtheil	Todesurteil	NN	Duden	tu_87_xTok_000001
+<g/>
+,
+einer	ein	ART	Duden	tu_87_xTok_000006
+verwittibten	verwitwet	ADJA	Duden	tu_87_xTok_000008
+Weibs=person	Weibsperson	NN	Duden	tu_87_xTok_000010
+Namens	namens	ADV	Duden	tu_87_xTok_000011
+<g/>
+:
+<persName id="mariaannan87">
+Maria	Maria	NE	Duden	tu_87_xTok_000013
+Anna	Anna	NE	Duden	tu_87_xTok_000015
+N.	N.	NE	oov	tu_87_xTok_000017
+</persName>
+alt	alt	ADJD	Duden	tu_87_xTok_000019
+26.	26	CARD		tu_87_xTok_000021
+Jahr	Jahr	NN	Duden	tu_87_xTok_000023
+<g/>
+,
+allhier	allhier	ADV	Duden	tu_87_xTok_000025
+auf	auf	APPR	Duden	tu_87_xTok_000027
+dem	d	ART	Duden	tu_87_xTok_000029
+<placeName id="pn87">
+Schottenfeld	Schottenfeld	NE::top	oov	tu_87_xTok_000031
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_87_xTok_000033
+<g/>
+,
+Catholischer	katholisch	ADJA	Duden	tu_87_xTok_000035
+Religion	Religion	NN	Duden	tu_87_xTok_000037
+<g/>
+,
+</titlePart>
+<titlePart>
+Welches	welch	PRELS	Duden	tu_87_xTok_000039
+in	in	APPR	Duden	tu_87_xTok_000041
+Folge	Folge	NN	Duden	tu_87_xTok_000043
+der	d	ART	Duden	tu_87_xTok_000045
+<g/>
+,
+über	über	APPR	Duden	tu_87_xTok_000048
+die	d	ART	Duden	tu_87_xTok_000050
+mit	mit	APPR	Duden	tu_87_xTok_000052
+ihr	sie	PPER	Duden	tu_87_xTok_000054
+bey	bei	APPR	Duden	tu_87_xTok_000056
+dem	d	ART	Duden	tu_87_xTok_000058
+allhiesig=	allhiesig	ADJA	DWB	tu_87_xTok_000060
+Kaiserl.	kaiserlich	ADJA	Duden	tu_87_xTok_000062
+Königl.	königlich	ADJA	Duden	tu_87_xTok_000065
+Stadt=	Stadtgericht	TRUNC	Duden	tu_87_xTok_000068
+und	und	KON	Duden	tu_87_xTok_000070
+Land=Gericht	Landgericht	NN	Duden	tu_87_xTok_000072
+wegen	wegen	APPR	Duden	tu_87_xTok_000075
+begangener	begehen	ADJA	Duden	tu_87_xTok_000077
+Ermordung	Ermordung	NN	Duden	tu_87_xTok_000079
+eines	ein	ART	Duden	tu_87_xTok_000081
+6.	6	CARD		tu_87_xTok_000083
+ein	ein	ART	Duden	tu_87_xTok_000085
+halbjährigen	halbjährig	ADJA	Duden	tu_87_xTok_000087
+Knäbleins	Knäblein	NN	Duden	tu_87_xTok_000089
+abgeführte	abführen	ADJA	DRW	tu_87_xTok_000091
+Criminal=Verfahrung	Kriminalverfahrung	NN	oov	tu_87_xTok_000093
+geschöpft=	schöpfen	ADJA	Duden	tu_87_xTok_000095
+und	und	KON	Duden	tu_87_xTok_000097
+von	von	APPR	Duden	tu_87_xTok_000099
+einer	ein	ART	Duden	tu_87_xTok_000101
+hohen	hoch	ADJA	Duden	tu_87_xTok_000103
+Landesfürstlichen	landesfürstlich	ADJA	DWB	tu_87_xTok_000105
+Nieder=Oesterreichischen	niederösterreichisch	ADJA	Duden	tu_87_xTok_000107
+Regierung	Regierung	NN	Duden	tu_87_xTok_000108
+bestättigten	bestätigen	ADJA	Duden	tu_87_xTok_000110
+Erkanntnuß	Erkanntnis	NN	DWB	tu_87_xTok_000112
+heute	heute	ADV	Duden	tu_87_xTok_000114
+den	d	ART	Duden	tu_87_xTok_000116
+<date id="date87">
+31.	31	ADJA		tu_87_xTok_000118
+Augusti	August	NN	Duden	tu_87_xTok_000120
+1764.	1764	CARD		tu_87_xTok_000121
+</date>
+allhier	allhier	ADV	Duden	tu_87_xTok_000123
+in	in	APPR	Duden	tu_87_xTok_000125
+Wien	Wien	NE::top	Duden	tu_87_xTok_000127
+vollzogen	vollziehen	VVPP	Duden	tu_87_xTok_000129
+wird	werden	VAFIN	Duden	tu_87_xTok_000131
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_87_xTok_000133
 ihres	ihr	PPOSAT	Duden	tu_87_xTok_000135

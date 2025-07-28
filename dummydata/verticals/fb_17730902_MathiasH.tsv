@@ -1,4 +1,91 @@
 <doc id="fb_17730902_MathiasH" delinquent_sexes="male" title="Todesurteil Mathias H." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_106_xTok_000001
+einer	ein	ART	Duden	tu_106_xTok_000003
+verheyrathen	verheiratet	ADJA	Duden	tu_106_xTok_000005
+Mannsperson	Mannsperson	NN	Duden	tu_106_xTok_000007
+Namens	namens	ADV	Duden	tu_106_xTok_000008
+<persName id="mathiash106">
+Mathias	Matthias	NE	Duden	tu_106_xTok_000009
+H.	H.	NE	oov	tu_106_xTok_000011
+</persName>
+alt	alt	ADJD	Duden	tu_106_xTok_000013
+32.	32	CARD		tu_106_xTok_000015
+Jahr	Jahr	NN	Duden	tu_106_xTok_000017
+<g/>
+.
+Zu	zu	APPR	Duden	tu_106_xTok_000019
+<placeName id="pn106">
+Eisenstadt	Eisenstadt	NE::top	Duden	tu_106_xTok_000021
+in	in	APPR	Duden	tu_106_xTok_000023
+Hungarn	Ungarn	NE::top	Duden	tu_106_xTok_000025
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_106_xTok_000027
+<g/>
+,
+katholischer	katholisch	ADJA	Duden	tu_106_xTok_000029
+Religion	Religion	NN	Duden	tu_106_xTok_000031
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_106_xTok_000033
+in	in	APPR	Duden	tu_106_xTok_000035
+Folge	Folge	NN	Duden	tu_106_xTok_000037
+der	d	ART	Duden	tu_106_xTok_000039
+bey	bei	APPR	Duden	tu_106_xTok_000041
+dem	d	ART	Duden	tu_106_xTok_000043
+allhiesigen	allhiesig	ADJA	DWB	tu_106_xTok_000045
+K.	kaiserlich	ADJA	Duden	tu_106_xTok_000047
+K.	königlich	ADJA	Duden	tu_106_xTok_000050
+Stadt	Stadtgericht	TRUNC	Duden	tu_106_xTok_000053
+und	und	KON	Duden	tu_106_xTok_000054
+Landgerichte	Landgericht	NN	Duden	tu_106_xTok_000056
+wider	wider	APPR	Duden	tu_106_xTok_000058
+ihn	er	PPER	Duden	tu_106_xTok_000060
+abgeführten	abführen	ADJA	DRW	tu_106_xTok_000062
+Criminal=Verfahrung	Kriminalverfahrung	NN	oov	tu_106_xTok_000064
+<g/>
+,
+und	und	KON	Duden	tu_106_xTok_000068
+darüber	darüber	PAV	Duden	tu_106_xTok_000070
+geschöpften	schöpfen	ADJA	Duden	tu_106_xTok_000072
+<g/>
+,
+auch	auch	ADV	Duden	tu_106_xTok_000075
+von	von	APPR	Duden	tu_106_xTok_000077
+einer	ein	ART	Duden	tu_106_xTok_000079
+hochlöbl.	hochlöblich	ADJA	Duden	tu_106_xTok_000081
+Landesfürstl.	landesfürstlich	ADJA	DWB	tu_106_xTok_000085
+Nied. Oest.	niederösterreichisch	ADJA		tu_106_xTok_000088
+Regierung	Regierung	NN	Duden	tu_106_xTok_000094
+bestättigten	bestätigen	ADJA	Duden	tu_106_xTok_000096
+Erkanntniß	Erkanntnis	NN	DWB	tu_106_xTok_000097
+an	an	APPR	Duden	tu_106_xTok_000099
+gleich ernannten	gleichernannt	ADJA		tu_106_xTok_000101
+Mathias	Matthias	NE	Duden	tu_106_xTok_000105
+H.	H.	NE	oov	tu_106_xTok_000107
+dem	d	ART	Duden	tu_106_xTok_000110
+zu	zu	APPR	Duden	tu_106_xTok_000112
+Ende	Ende	NN	Duden	tu_106_xTok_000114
+angeführten	angeführt	ADJA	Duden	tu_106_xTok_000115
+Jnnhalte	Inhalt	NN	Duden	tu_106_xTok_000117
+gemäß	gemäß	APPO	Duden	tu_106_xTok_000119
+heute	heute	ADV	Duden	tu_106_xTok_000121
+den	d	ART	Duden	tu_106_xTok_000123
+<date id="date106">
+2.	2	ADJA		tu_106_xTok_000125
+Herbstmonat	Herbstmonat	NN	Duden	tu_106_xTok_000127
+1773.	1773	CARD		tu_106_xTok_000128
+</date>
+allhier	allhier	ADV	Duden	tu_106_xTok_000130
+in	in	APPR	Duden	tu_106_xTok_000132
+Wien	Wien	NE::top	Duden	tu_106_xTok_000134
+vollzogen	vollziehen	VVPP	Duden	tu_106_xTok_000136
+wird	werden	VAFIN	Duden	tu_106_xTok_000138
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_106_xTok_000140
 seines	sein	PPOSAT	Duden	tu_106_xTok_000142

@@ -1,4 +1,82 @@
 <doc id="fb_17490619_JohannP" delinquent_sexes="male" title="Todesurteil Johann P." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_43_xTok_000002
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_43_xTok_000004
+<g/>
+/
+Einer	ein	ART	Duden	tu_43_xTok_000010
+Verwittibten	verwitwet	ADJA	Duden	tu_43_xTok_000011
+Manns=Persohn	Mannsperson	NN	Duden	tu_43_xTok_000013
+<g/>
+,
+<persName id="johannp43">
+Johann	Johann	NE	Duden	tu_43_xTok_000016
+P.	P.	NE	oov	tu_43_xTok_000018
+</persName>
+50.	50	CARD		tu_43_xTok_000020
+Jahr	Jahr	NN	Duden	tu_43_xTok_000022
+alt	alt	ADJD	Duden	tu_43_xTok_000024
+<g/>
+,
+Catholischer	katholisch	ADJA	Duden	tu_43_xTok_000027
+Religion	Religion	NN	Duden	tu_43_xTok_000029
+Seinen	sein	PPOSAT	Duden	tu_43_xTok_000030
+angeben	angeben	VVINF-NN	Duden	tu_43_xTok_000032
+nach	nach	APPO	Duden	tu_43_xTok_000034
+von	von	APPR	Duden	tu_43_xTok_000036
+<placeName id="pn43">
+Rom	Rom	NE::top	Duden	tu_43_xTok_000038
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_43_xTok_000040
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Welcher	welch	PRELS	Duden	tu_43_xTok_000042
+heut	heute	ADV	Duden	tu_43_xTok_000044
+Donnerstag	Donnerstag	NN	Duden	tu_43_xTok_000046
+<g/>
+,
+als	als	KOKOM	Duden	tu_43_xTok_000049
+den	d	ART	Duden	tu_43_xTok_000051
+<date id="date43">
+19.	19	ADJA		tu_43_xTok_000053
+Junij	Juni	NN	Duden	tu_43_xTok_000055
+1749.	1749	CARD		tu_43_xTok_000057
+</date>
+vor	vor	APPR	Duden	tu_43_xTok_000058
+dem	d	ART	Duden	tu_43_xTok_000060
+Schotten=Thor	Schottentor	NE::top	oov	tu_43_xTok_000062
+<g/>
+/
+auf	auf	APPR	Duden	tu_43_xTok_000066
+dasigen	dasig	ADJA	Duden	tu_43_xTok_000068
+Raaben Stein	Rabenstein	NN		tu_43_xTok_000070
+<g/>
+/
+mit	mit	APPR	Duden	tu_43_xTok_000076
+dem	d	ART	Duden	tu_43_xTok_000078
+Schwerd	Schwert	NN	Duden	tu_43_xTok_000080
+vom	vom	APPRART	Duden	tu_43_xTok_000082
+Leben	Leben	NN	Duden	tu_43_xTok_000084
+zum	zum	APPRART	Duden	tu_43_xTok_000086
+Todt	Tod	NN	Duden	tu_43_xTok_000088
+hingerichtet	hinrichten	VVPP	Duden	tu_43_xTok_000090
+wird	werden	VAFIN	Duden	tu_43_xTok_000092
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Der	d	ART	Duden	tu_43_xTok_000094
+Jnnhalt	Inhalt	NN	Duden	tu_43_xTok_000096
+seines	sein	PPOSAT	Duden	tu_43_xTok_000098
+Verbrechens	Verbrechen	NN	Duden	tu_43_xTok_000100
+zeiget	zeigen	VVFIN	Duden	tu_43_xTok_000102
+das	d	ART	Duden	tu_43_xTok_000104
+mehrere	mehrere	PIS	Duden	tu_43_xTok_000106
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_43_xTok_000126
 des	d	ART	Duden	tu_43_xTok_000128

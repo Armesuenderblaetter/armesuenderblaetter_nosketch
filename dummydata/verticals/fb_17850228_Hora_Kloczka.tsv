@@ -1,4 +1,53 @@
 <doc id="fb_17850228_Hora_Kloczka" delinquent_sexes="male" title="Todesurteil Hora, Kloczka" attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_127_xTok_000001
+und	und	KON	Duden	tu_127_xTok_000002
+wohlverdiente	wohlverdient	ADJA	Duden	tu_127_xTok_000003
+Strafe	Strafe	NN	Duden	tu_127_xTok_000005
+<g/>
+,
+so	so	PRELS	Duden	tu_127_xTok_000007
+an	an	APPR	Duden	tu_127_xTok_000009
+den	d	ART	Duden	tu_127_xTok_000011
+zween	zwei	CARD	Duden	tu_127_xTok_000013
+Haupt=Rebellen	Hauptrebell	NN	oov	tu_127_xTok_000015
+<persName id="hora127">
+Hora	Hora	NE	oov	tu_127_xTok_000016
+</persName>
+und	und	KON	Duden	tu_127_xTok_000019
+<persName id="kloczka127">
+Kloczka	Kloczka	NE	oov	tu_127_xTok_000021
+</persName>
+den	d	ART	Duden	tu_127_xTok_000023
+<date id="date127">
+28.	28	ADJA		tu_127_xTok_000025
+Hornung	Hornung	NN	Duden	tu_127_xTok_000028
+1785	1785	CARD		tu_127_xTok_000030
+</date>
+Zu	zu	APPR	Duden	tu_127_xTok_000031
+Karlsburg	Karlsburg	NE::top	oov	tu_127_xTok_000033
+im	im	APPRART	Duden	tu_127_xTok_000035
+Großfürstenthume	Großfürstentum	NN	DRW	tu_127_xTok_000037
+Siebenbürgen	Siebenbürgen	NE::top	Duden	tu_127_xTok_000039
+vollführet	vollführen	VVPP	Duden	tu_127_xTok_000042
+worden	werden	VAPP	Duden	tu_127_xTok_000044
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Wien	Wien	NE::top	Duden	tu_127_xTok_000046
+<g/>
+,
+zu	zu	PTKZU	Duden	tu_127_xTok_000049
+finden	finden	VVINF	Duden	tu_127_xTok_000051
+im	im	APPRART	Duden	tu_127_xTok_000053
+grossen	groß	ADJA	Duden	tu_127_xTok_000055
+Jakoberhof	Jakoberhof	NN	oov	tu_127_xTok_000057
+Nro.	Numero	NN	Duden	tu_127_xTok_000059
+837	837	CARD		tu_127_xTok_000062
+<g/>
+.
+</titlePart>
 <p id="fb_17850228_Hora_Kloczka_p_0001">
 Ewig	ewig	ADJD	Duden	tu_127_xTok_000065
 verabscheuende	verabscheuen	ADJA	Duden	tu_127_xTok_000068
@@ -339,6 +388,7 @@ Haupt=Rebellen	Hauptrebell	NN	oov	tu_127_xTok_000624
 auf	auf	APPR	Duden	tu_127_xTok_000626
 dem	d	ART	Duden	tu_127_xTok_000628
 bestimmten	bestimmt	ADJA	Duden	tu_127_xTok_000630
+Richtplaz	Richtplatz	NN	Duden	tu_127_xTok_000632
 geführet	führen	VVPP	Duden	tu_127_xTok_000634
 <g/>
 ,

@@ -1,4 +1,97 @@
 <doc id="fb_17760531_JosephK" delinquent_sexes="male" title="Todesurteil Joseph K." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_114_xTok_000001
+einer	ein	ART	Duden	tu_114_xTok_000003
+ledigen	ledig	ADJA	Duden	tu_114_xTok_000005
+Mannsperson	Mannsperson	NN	Duden	tu_114_xTok_000007
+<g/>
+,
+Namens	namens	ADV	Duden	tu_114_xTok_000009
+<persName id="josephk114">
+Joseph	Joseph	NE	Duden	tu_114_xTok_000010
+K.	K.	NE	oov	tu_114_xTok_000012
+</persName>
+alt	alt	ADJD	Duden	tu_114_xTok_000015
+bey	bei	APPR	Duden	tu_114_xTok_000017
+30	30	CARD		tu_114_xTok_000019
+Jahre	Jahr	NN	Duden	tu_114_xTok_000021
+<g/>
+,
+zu	zu	APPR	Duden	tu_114_xTok_000023
+<placeName id="pn114">
+Süssenbrunn	Süßenbrunn	NE::top	oov	tu_114_xTok_000025
+in	in	APPR	Duden	tu_114_xTok_000027
+Niederöstreich	Niederösterreich	NE::top	Duden	tu_114_xTok_000029
+im	im	APPRART	Duden	tu_114_xTok_000031
+V. U. M. B.	ViertelunterManhartsberg	NE::top		tu_114_xTok_000033
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_114_xTok_000044
+<g/>
+,
+und	und	KON	Duden	tu_114_xTok_000046
+katholischer	katholisch	ADJA	Duden	tu_114_xTok_000047
+Religion	Religion	NN	Duden	tu_114_xTok_000049
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+welches	welch	PRELS	Duden	tu_114_xTok_000051
+in	in	APPR	Duden	tu_114_xTok_000054
+Folge	Folge	NN	Duden	tu_114_xTok_000056
+der	d	ART	Duden	tu_114_xTok_000058
+bey	bei	APPR	Duden	tu_114_xTok_000060
+dem	d	ART	Duden	tu_114_xTok_000062
+alhiesigen	allhiesig	ADJA	DWB	tu_114_xTok_000064
+kaiserl.	kaiserlich	ADJA	Duden	tu_114_xTok_000066
+königl.	königlich	ADJA	Duden	tu_114_xTok_000069
+Stadt	Stadtgericht	TRUNC	Duden	tu_114_xTok_000072
+und	und	KON	Duden	tu_114_xTok_000073
+Landgerichte	Landgericht	NN	Duden	tu_114_xTok_000075
+wider	wider	APPR	Duden	tu_114_xTok_000077
+ihn	er	PPER	Duden	tu_114_xTok_000079
+abgeführten	abführen	ADJA	DRW	tu_114_xTok_000081
+Criminalverfahrung	Kriminalverfahrung	NN	oov	tu_114_xTok_000083
+<g/>
+,
+und	und	KON	Duden	tu_114_xTok_000087
+darüber	darüber	PAV	Duden	tu_114_xTok_000089
+geschöpften	schöpfen	ADJA	Duden	tu_114_xTok_000091
+<g/>
+,
+auch	auch	ADV	Duden	tu_114_xTok_000094
+von	von	APPR	Duden	tu_114_xTok_000096
+einer	ein	ART	Duden	tu_114_xTok_000098
+hochlöbl.	hochlöblich	ADJA	Duden	tu_114_xTok_000100
+landesfürstl.	landesfürstlich	ADJA	DWB	tu_114_xTok_000102
+ni. öst.	niederösterreichisch	ADJA		tu_114_xTok_000105
+Regierung	Regierung	NN	Duden	tu_114_xTok_000111
+bestättigten	bestätigen	ADJA	Duden	tu_114_xTok_000113
+Erkanntniß	Erkanntnis	NN	DWB	tu_114_xTok_000115
+an	an	APPR	Duden	tu_114_xTok_000116
+gleich ernannten	gleichernannt	ADJA		tu_114_xTok_000118
+Joseph	Joseph	NE	Duden	tu_114_xTok_000122
+K.	K.	NE	oov	tu_114_xTok_000124
+dem	d	ART	Duden	tu_114_xTok_000127
+zu	zu	APPR	Duden	tu_114_xTok_000129
+Ende	Ende	NN	Duden	tu_114_xTok_000131
+angeführten	angeführt	ADJA	Duden	tu_114_xTok_000133
+Jnnhalte	Inhalt	NN	Duden	tu_114_xTok_000134
+gemäß	gemäß	APPO	Duden	tu_114_xTok_000136
+heute	heute	ADV	Duden	tu_114_xTok_000138
+den	d	ART	Duden	tu_114_xTok_000140
+<date id="date114">
+31.	31	ADJA		tu_114_xTok_000142
+May	Mai	NN	Duden	tu_114_xTok_000144
+1776	1776	CARD		tu_114_xTok_000146
+</date>
+alhier	allhier	ADV	Duden	tu_114_xTok_000148
+in	in	APPR	Duden	tu_114_xTok_000149
+Wien	Wien	NE::top	Duden	tu_114_xTok_000151
+vollzogen	vollziehen	VVPP	Duden	tu_114_xTok_000153
+worden	werden	VAPP	Duden	tu_114_xTok_000155
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_114_xTok_000159
 seines	sein	PPOSAT	Duden	tu_114_xTok_000161

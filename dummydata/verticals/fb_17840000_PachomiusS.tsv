@@ -1,4 +1,38 @@
 <doc id="fb_17840000_PachomiusS" delinquent_sexes="male" title="Todesurteil Pachomius S." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Der	d	ART	Duden	tu_126_xTok_000002
+verstellte	verstellen	ADJA	Duden	tu_126_xTok_000003
+Einsiedler	Einsiedler	NN	Duden	tu_126_xTok_000007
+welcher	welch	PRELS	Duden	tu_126_xTok_000010
+entdecket	entdecken	VVPP	Duden	tu_126_xTok_000014
+<g/>
+,
+hernach	hernach	PAV	Duden	tu_126_xTok_000018
+als	als	KOKOM	Duden	tu_126_xTok_000020
+Mörder	Mörder	NN	Duden	tu_126_xTok_000021
+und	und	KON	Duden	tu_126_xTok_000023
+Strassenräuber	Straßenräuber	NN	Duden	tu_126_xTok_000025
+in	in	APPR	Duden	tu_126_xTok_000026
+seinem	sein	PPOSAT	Duden	tu_126_xTok_000028
+60sten	60	ADJA	Duden	tu_126_xTok_000030
+Jahre	Jahr	NN	Duden	tu_126_xTok_000033
+mit	mit	APPR	Duden	tu_126_xTok_000034
+dem	d	ART	Duden	tu_126_xTok_000036
+Rade	Rad	NN	Duden	tu_126_xTok_000038
+zum	zum	APPRART	Duden	tu_126_xTok_000040
+Tod	Tod	NN	Duden	tu_126_xTok_000042
+ist	sein	VAFIN	Duden	tu_126_xTok_000043
+verurtheilet	verurteilen	VVPP	Duden	tu_126_xTok_000045
+worden	werden	VAPP	Duden	tu_126_xTok_000047
+<g/>
+;
+zu	zu	APPR	Duden	tu_126_xTok_000049
+Abtenzell	Abtenzell	NE::top	oov	tu_126_xTok_000050
+in	in	APPR	Duden	tu_126_xTok_000052
+Schwaben	Schwaben	NE::top	Duden	tu_126_xTok_000054
+<g/>
+.
+</titlePart>
 <p id="fb_17840000_PachomiusS_p_0001">
 Daß	dass	KOUS	Duden	tu_126_xTok_000056
 wir	wir	PPER	Duden	tu_126_xTok_000059
@@ -362,6 +396,7 @@ grüßte	grüßen	VVFIN	Duden	tu_126_xTok_000601
 ihn	er	PPER	Duden	tu_126_xTok_000603
 selber	selber	ADV	Duden	tu_126_xTok_000605
 sehr	sehr	ADV	Duden	tu_126_xTok_000607
+frenndlich	freundlich	ADJD	Duden	tu_126_xTok_000609
 <g/>
 ,
 öffnete	öffnen	VVFIN	Duden	tu_126_xTok_000612

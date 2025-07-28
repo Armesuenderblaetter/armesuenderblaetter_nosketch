@@ -1,4 +1,69 @@
 <doc id="fb_17480626_JohannAdamF" delinquent_sexes="male" title="Todesurteil Johann Adam F." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_40_xTok_000002
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_40_xTok_000003
+<g/>
+,
+Einer	ein	ART	Duden	tu_40_xTok_000008
+verheyrathen	verheiratet	ADJA	Duden	tu_40_xTok_000010
+Manns= Persohn	Mannsperson	NN		tu_40_xTok_000012
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_40_xTok_000018
+<persName id="johannadamf40">
+Johann	Johann	NE	Duden	tu_40_xTok_000019
+Adam	Adam	NE	Duden	tu_40_xTok_000022
+F.	F.	NE	oov	tu_40_xTok_000025
+</persName>
+24.	24	CARD		tu_40_xTok_000027
+Jahr	Jahr	NN	Duden	tu_40_xTok_000029
+alt	alt	ADJD	Duden	tu_40_xTok_000031
+<g/>
+/
+Seinem	sein	PPOSAT	Duden	tu_40_xTok_000035
+dermaligen	dermalig	ADJA	Duden	tu_40_xTok_000037
+Angeben	angeben	VVINF-NN	Duden	tu_40_xTok_000039
+nach	nach	APPO	Duden	tu_40_xTok_000041
+zu	zu	APPR	Duden	tu_40_xTok_000043
+<placeName id="pn40">
+Steinbach ob der Ennß	SteinbachobderEnns	NE::top		tu_40_xTok_000045
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_40_xTok_000054
+<g/>
+,
+Catholischer	katholisch	ADJA	Duden	tu_40_xTok_000057
+Religion	Religion	NN	Duden	tu_40_xTok_000061
+<g/>
+/
+</titlePart>
+<titlePart type="main">
+Welcher	welch	PRELS	Duden	tu_40_xTok_000065
+heute	heute	ADV	Duden	tu_40_xTok_000067
+Mittwoch	Mittwoch	NN	Duden	tu_40_xTok_000069
+den	d	ART	Duden	tu_40_xTok_000071
+<date id="date40">
+26.	26	ADJA		tu_40_xTok_000073
+Junii	Juni	NN	Duden	tu_40_xTok_000075
+1748.	1748	CARD		tu_40_xTok_000077
+</date>
+vor	vor	APPR	Duden	tu_40_xTok_000078
+dem	d	ART	Duden	tu_40_xTok_000080
+Schotten=Thor	Schottentor	NE::top	oov	tu_40_xTok_000082
+auf	auf	APPR	Duden	tu_40_xTok_000084
+gewöhnlicher	gewöhnlich	ADJA	Duden	tu_40_xTok_000086
+Richtstatt	Richtstatt	NN	DWB	tu_40_xTok_000088
+mit	mit	APPR	Duden	tu_40_xTok_000089
+dem	d	ART	Duden	tu_40_xTok_000091
+Strang	Strang	NN	Duden	tu_40_xTok_000093
+vom	vom	APPRART	Duden	tu_40_xTok_000095
+Leben	Leben	NN	Duden	tu_40_xTok_000097
+zum	zum	APPRART	Duden	tu_40_xTok_000099
+Todt	Tod	NN	Duden	tu_40_xTok_000101
+hingerichtet	hinrichten	VVPP	Duden	tu_40_xTok_000103
+wird	werden	VAFIN	Duden	tu_40_xTok_000104
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_40_xTok_000123
 des	d	ART	Duden	tu_40_xTok_000126

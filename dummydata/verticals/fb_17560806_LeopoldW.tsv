@@ -1,4 +1,102 @@
 <doc id="fb_17560806_LeopoldW" delinquent_sexes="male" title="Todesurteil Leopold W." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_63_xTok_000002
+Einer	ein	ART	Duden	tu_63_xTok_000006
+ledigen	ledig	ADJA	Duden	tu_63_xTok_000008
+Manns=person	Mannsperson	NN	Duden	tu_63_xTok_000010
+<g/>
+,
+Namens	namens	ADV	Duden	tu_63_xTok_000013
+<g/>
+:
+<persName id="leopoldw63">
+Leopold	Leopold	NE	Duden	tu_63_xTok_000015
+W.	W.	NE	oov	tu_63_xTok_000017
+</persName>
+Alt	alt	ADJD	Duden	tu_63_xTok_000019
+34.	34	CARD		tu_63_xTok_000021
+Jahr	Jahr	NN	Duden	tu_63_xTok_000023
+<g/>
+.
+Von	von	APPR	Duden	tu_63_xTok_000025
+<placeName id="pn63">
+Oedt	Oed	NE::top	oov	tu_63_xTok_000027
+<g/>
+,
+unweit	unweit	APPR	Duden	tu_63_xTok_000030
+Nieder=walsee	Niederwallsee	NE::top	oov	tu_63_xTok_000032
+in	in	APPR	Duden	tu_63_xTok_000034
+Unter=österreich	Unterösterreich	NE::top	oov	tu_63_xTok_000036
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_63_xTok_000038
+<g/>
+,
+Catholischer	katholisch	ADJA	Duden	tu_63_xTok_000041
+Religion	Religion	NN	Duden	tu_63_xTok_000043
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+WElches	welch	PRELS	Duden	tu_63_xTok_000049
+in	in	APPR	Duden	tu_63_xTok_000052
+Folge	Folge	NN	Duden	tu_63_xTok_000054
+der	d	ART	Duden	tu_63_xTok_000056
+bey	bei	APPR	Duden	tu_63_xTok_000058
+dem	d	ART	Duden	tu_63_xTok_000060
+alhiesigen	allhiesig	ADJA	DWB	tu_63_xTok_000062
+Kaiserl.	kaiserlich	ADJA	Duden	tu_63_xTok_000064
+Königl.	königlich	ADJA	Duden	tu_63_xTok_000067
+Stadt	Stadtgericht	TRUNC	Duden	tu_63_xTok_000074
+und	und	KON	Duden	tu_63_xTok_000075
+Land=gericht	Landgericht	NN	Duden	tu_63_xTok_000077
+abgeführten	abführen	ADJA	DRW	tu_63_xTok_000080
+Criminal-verfahrung	Kriminalverfahrung	NN	oov	tu_63_xTok_000082
+und	und	KON	Duden	tu_63_xTok_000085
+darüber	darüber	PAV	Duden	tu_63_xTok_000087
+geschöpften	schöpfen	ADJA	Duden	tu_63_xTok_000090
+<g/>
+,
+auch	auch	ADV	Duden	tu_63_xTok_000094
+von	von	APPR	Duden	tu_63_xTok_000096
+einer	ein	ART	Duden	tu_63_xTok_000096b
+Hochlöbl.	hochlöblich	ADJA	Duden	tu_63_xTok_000098
+Landes=fürstl.	landesfürstlich	ADJA	DWB	tu_63_xTok_000103
+N. Oe.	niederösterreichisch	ADJA		tu_63_xTok_000107
+Regierung	Regierung	NN	Duden	tu_63_xTok_000113
+in	in	APPR	Duden	tu_63_xTok_000116
+Justiz-sachen	Justizsache	NN	DRW	tu_63_xTok_000118
+bestättigten	bestätigen	ADJA	Duden	tu_63_xTok_000122
+Erkanntnuß	Erkanntnis	NN	DWB	tu_63_xTok_000124
+an	an	APPR	Duden	tu_63_xTok_000126
+gleich	gleichbenannt	ADJA		tu_63_xTok_000129
+Leopold	Leopold	NE	Duden	tu_63_xTok_000131
+W.	W.	NE	oov	tu_63_xTok_000133
+einem	ein	ART	Duden	tu_63_xTok_000137
+gelernten	gelernt	ADJA	Duden	tu_63_xTok_000139
+Fleischhacker=knecht	Fleischhackerknecht	NN	DRW	tu_63_xTok_000141
+<g/>
+,
+dem	d	ART	Duden	tu_63_xTok_000144
+zu	zu	APPR	Duden	tu_63_xTok_000146
+End	Ende	NN	Duden	tu_63_xTok_000148
+angefügten	anfügen	ADJA	Duden	tu_63_xTok_000150
+Jnnhalt	Inhalt	NN	Duden	tu_63_xTok_000152b
+gemäß	gemäß	APPO	Duden	tu_63_xTok_000154
+heut	heute	ADV	Duden	tu_63_xTok_000156
+den	d	ART	Duden	tu_63_xTok_000158
+<date id="date63">
+6.	6	ADJA		tu_63_xTok_000160
+Augusti	August	NN	Duden	tu_63_xTok_000162
+1756.	1756	CARD		tu_63_xTok_000164
+</date>
+alhier	allhier	ADV	Duden	tu_63_xTok_000166
+in	in	APPR	Duden	tu_63_xTok_000168
+Wien	Wien	NE::top	Duden	tu_63_xTok_000170
+vollzogen	vollziehen	VVPP	Duden	tu_63_xTok_000172
+wird	werden	VAFIN	Duden	tu_63_xTok_000175
+<g/>
+.
+</titlePart>
 <p id="fb_17560806_LeopoldW_p_0001">
 Zumalen	zumal	KOUS	Duden	tu_63_xTok_000177
 wider	wider	APPR	Duden	tu_63_xTok_000179

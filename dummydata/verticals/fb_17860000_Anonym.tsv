@@ -1,4 +1,31 @@
 <doc id="fb_17860000_Anonym" delinquent_sexes="male" title="Beschreibung mehrerer Morde und der Exekution des Täters" attrs="word lemma pos vocab id">
+<titlePart type="main">
+Ausführliche	ausführlich	ADJA	Duden	tu_129_xTok_000001
+Beschreibung	Beschreibung	NN	Duden	tu_129_xTok_000004
+einer	ein	ART	Duden	tu_129_xTok_000007
+gräulichen	gräulich	ADJA	Duden	tu_129_xTok_000009
+und	und	KON	Duden	tu_129_xTok_000011
+nie	nie	ADV	Duden	tu_129_xTok_000013
+erhörten	erhören	ADJA	DWB	tu_129_xTok_000015
+Mordgeschichte	Mordgeschichte	NN	DWB	tu_129_xTok_000016
+welche	welch	PRELS	Duden	tu_129_xTok_000019
+ein	ein	ART	Duden	tu_129_xTok_000021
+<persName id="pfarrer129">
+Pfarrer	Pfarrer	NN	Duden	tu_129_xTok_000023
+zu	zu	APPR	Duden	tu_129_xTok_000025
+L	L	NE::top	oov	tu_129_xTok_000027
+<g/>
+*
+<g/>
+*
+<g/>
+*
+</persName>
+ausgeübet	ausüben	VVPP	Duden	tu_129_xTok_000035
+hat	haben	VAFIN	Duden	tu_129_xTok_000037
+<g/>
+.
+</titlePart>
 <p id="fb_17860000_Anonym_p_0001">
 Zu	zu	APPR	Duden	tu_129_xTok_000041
 Littich	Littich	NE::top	oov	tu_129_xTok_000044

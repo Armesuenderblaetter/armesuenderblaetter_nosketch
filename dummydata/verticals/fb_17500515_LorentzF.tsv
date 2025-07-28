@@ -1,4 +1,91 @@
 <doc id="fb_17500515_LorentzF" delinquent_sexes="male" title="Todesurteil Lorentz F." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_48_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_48_xTok_000002
+<g/>
+/
+Einer	ein	ART	Duden	tu_48_xTok_000009
+Ledigen	ledig	ADJA	Duden	tu_48_xTok_000010
+Manns=Persohn	Mannsperson	NN	Duden	tu_48_xTok_000012
+<g/>
+,
+Nahmens	namens	ADV	Duden	tu_48_xTok_000014
+<persName id="lorentzf48">
+Lorentz	Lorenz	NE	Duden	tu_48_xTok_000016
+F.	F.	NE	oov	tu_48_xTok_000018
+</persName>
+19.	19	CARD		tu_48_xTok_000020
+Jahr	Jahr	NN	Duden	tu_48_xTok_000022
+alt	alt	ADJD	Duden	tu_48_xTok_000024
+<g/>
+,
+Dahier	dahier	ADV	Duden	tu_48_xTok_000026
+auf	auf	APPR	Duden	tu_48_xTok_000028
+den	d	ART	Duden	tu_48_xTok_000030
+<placeName id="pn48">
+Wieden	Wieden	NE::top	oov	tu_48_xTok_000032
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_48_xTok_000034
+<g/>
+,
+Catholischer	katholisch	ADJA	Duden	tu_48_xTok_000037
+Religion	Religion	NN	Duden	tu_48_xTok_000038
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Welche	welch	PRELS	Duden	tu_48_xTok_000040
+heut	heute	ADV	Duden	tu_48_xTok_000042
+Dato	dato	ADV	Duden	tu_48_xTok_000044
+den	d	ART	Duden	tu_48_xTok_000046
+<date id="date48">
+15.	15	ADJA		tu_48_xTok_000048
+May	Mai	NN	Duden	tu_48_xTok_000050
+An.	annus	FM	G-LDHW	tu_48_xTok_000052
+1750.	1750	CARD		tu_48_xTok_000055
+</date>
+</titlePart>
+<titlePart type="main">
+Vor	vor	APPR	Duden	tu_48_xTok_000056
+dem	d	ART	Duden	tu_48_xTok_000058
+Schotten=Thor	Schottentor	NE::top	oov	tu_48_xTok_000060
+auf	auf	APPR	Duden	tu_48_xTok_000062
+dasigen	dasig	ADJA	Duden	tu_48_xTok_000064
+RaabenStein	Rabenstein	NN	Duden	tu_48_xTok_000066
+an	an	APPR	Duden	tu_48_xTok_000069
+die	d	ART	Duden	tu_48_xTok_000071
+gewöhnliche	gewöhnlich	ADJA	Duden	tu_48_xTok_000073
+Richtstadt	Richtstatt	NN	DWB	tu_48_xTok_000075
+geführt	führen	VVPP	Duden	tu_48_xTok_000077
+<g/>
+,
+und	und	KON	Duden	tu_48_xTok_000080
+daselbst	daselbst	ADV	Duden	tu_48_xTok_000082
+mit	mit	APPR	Duden	tu_48_xTok_000083
+dem	d	ART	Duden	tu_48_xTok_000085
+Schwerdt	Schwert	NN	Duden	tu_48_xTok_000087
+vom	vom	APPRART	Duden	tu_48_xTok_000089
+Leben	Leben	NN	Duden	tu_48_xTok_000091
+zum	zum	APPRART	Duden	tu_48_xTok_000093
+Todt	Tod	NN	Duden	tu_48_xTok_000095
+hingerichtet	hinrichten	VVPP	Duden	tu_48_xTok_000097
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Den	d	ART	Duden	tu_48_xTok_000099
+Jnnhalt	Inhalt	NN	Duden	tu_48_xTok_000101
+seines	sein	PPOSAT	Duden	tu_48_xTok_000103
+Verbrechens	Verbrechen	NN	Duden	tu_48_xTok_000105
+wird	werden	VAFIN	Duden	tu_48_xTok_000107
+der	d	ART	Duden	tu_48_xTok_000109
+geneigte	geneigt	ADJA	Duden	tu_48_xTok_000111
+Leser	Leser	NN	Duden	tu_48_xTok_000113
+hierinnen	hierinnen	PAV	Duden	tu_48_xTok_000114
+finden	finden	VVINF	Duden	tu_48_xTok_000116
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_48_xTok_000136
 des	d	ART	Duden	tu_48_xTok_000138

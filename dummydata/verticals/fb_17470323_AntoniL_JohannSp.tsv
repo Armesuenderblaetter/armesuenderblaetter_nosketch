@@ -1,4 +1,73 @@
 <doc id="fb_17470323_AntoniL_JohannSp" delinquent_sexes="male" title="Todesurteil Antoni L., Johann Sp." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_39_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_39_xTok_000002
+<g/>
+/
+Einer	ein	ART	Duden	tu_39_xTok_000008
+Ledig=	ledig	ADJA	Duden	tu_39_xTok_000009
+und	und	KON	Duden	tu_39_xTok_000011
+einer	ein	ART	Duden	tu_39_xTok_000013
+verheyrathen	verheiratet	ADJA	Duden	tu_39_xTok_000015
+Man̅s=Persohn	Mannsperson	NN	Duden	tu_39_xTok_000017
+Nahmens	namens	ADV	Duden	tu_39_xTok_000018
+<persName id="antonil39">
+Antoni	Anton	NE	Duden	tu_39_xTok_000019
+L.	L.	NE	oov	tu_39_xTok_000022
+</persName>
+Und	und	KON	Duden	tu_39_xTok_000024
+<persName id="johannsp39">
+Johann	Johann	NE	Duden	tu_39_xTok_000025
+Sp.	Sp.	NE	oov	tu_39_xTok_000028
+</persName>
+</titlePart>
+<titlePart type="main">
+Beede	beide	PIS	Duden	tu_39_xTok_000031
+Catholischer	katholisch	ADJA	Duden	tu_39_xTok_000033
+Religion	Religion	NN	Duden	tu_39_xTok_000035
+<g/>
+;
+welche	welch	PRELS	Duden	tu_39_xTok_000038
+heute	heute	ADV	Duden	tu_39_xTok_000040
+Donnerstags	Donnerstag	NN	Duden	tu_39_xTok_000042
+den	d	ART	Duden	tu_39_xTok_000044
+<date id="date39">
+23.	23	ADJA		tu_39_xTok_000046
+Martii	März	NN	Duden	tu_39_xTok_000048
+1747.	1747	CARD		tu_39_xTok_000050
+</date>
+anderen	ander	PIS	Duden	tu_39_xTok_000052
+ihres gleichen	ihresgleichen	PIS		tu_39_xTok_000054
+zum	zum	APPRART	Duden	tu_39_xTok_000059
+Exempel	Exempel	NN	Duden	tu_39_xTok_000061
+und	und	KON	Duden	tu_39_xTok_000063
+Beyspiel	Beispiel	NN	Duden	tu_39_xTok_000065
+auf	auf	APPR	Duden	tu_39_xTok_000067
+dem	d	ART	Duden	tu_39_xTok_000069
+WiennerBerg	Wienerberg	NE::top	oov	tu_39_xTok_000071
+mit	mit	APPR	Duden	tu_39_xTok_000074
+dem	d	ART	Duden	tu_39_xTok_000076
+Strang	Strang	NN	Duden	tu_39_xTok_000078
+vom	vom	APPRART	Duden	tu_39_xTok_000080
+Leben	Leben	NN	Duden	tu_39_xTok_000082
+zum	zum	APPRART	Duden	tu_39_xTok_000084
+Todt	Tod	NN	Duden	tu_39_xTok_000086
+hingerichtet	hinrichten	VVPP	Duden	tu_39_xTok_000087
+werden	werden	VAINF	Duden	tu_39_xTok_000089
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Der	d	ART	Duden	tu_39_xTok_000091
+Jnnhalt	Inhalt	NN	Duden	tu_39_xTok_000093
+ihres	ihr	PPOSAT	Duden	tu_39_xTok_000095
+Verbrechens	Verbrechen	NN	Duden	tu_39_xTok_000097
+zeiget	zeigen	VVFIN	Duden	tu_39_xTok_000099
+das	d	ART	Duden	tu_39_xTok_000101
+mehrere	mehrere	PIS	Duden	tu_39_xTok_000103
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_39_xTok_000123
 des	d	ART	Duden	tu_39_xTok_000126

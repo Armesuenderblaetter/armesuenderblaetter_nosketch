@@ -1,4 +1,93 @@
 <doc id="fb_17720917_LeopoldS" delinquent_sexes="male" title="Todesurteil Leopold S." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_99_xTok_000001
+einer	ein	ART	Duden	tu_99_xTok_000003
+ledigen	ledig	ADJA	Duden	tu_99_xTok_000005
+Mannsperson	Mannsperson	NN	Duden	tu_99_xTok_000007
+<g/>
+,
+Namens	namens	ADV	Duden	tu_99_xTok_000009
+<g/>
+:
+<persName id="leopolds99">
+Leopold	Leopold	NE	Duden	tu_99_xTok_000011
+S.	S.	NE	oov	tu_99_xTok_000013
+</persName>
+alt	alt	ADJD	Duden	tu_99_xTok_000015
+22.	22	CARD		tu_99_xTok_000017
+Jahre	Jahr	NN	Duden	tu_99_xTok_000019
+<g/>
+,
+zu	zu	APPR	Duden	tu_99_xTok_000021
+<placeName id="pn99">
+Zillichsdorf	Zillichsdorf	NE::top	oov	tu_99_xTok_000023
+in	in	APPR	Duden	tu_99_xTok_000025
+Unterösterreich	Unterösterreich	NE::top	oov	tu_99_xTok_000027
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_99_xTok_000029
+<g/>
+,
+und	und	KON	Duden	tu_99_xTok_000031
+katholischer	katholisch	ADJA	Duden	tu_99_xTok_000033
+Religion	Religion	NN	Duden	tu_99_xTok_000035
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_99_xTok_000037
+in	in	APPR	Duden	tu_99_xTok_000039
+Folge	Folge	NN	Duden	tu_99_xTok_000041
+der	d	ART	Duden	tu_99_xTok_000043
+bey	bei	APPR	Duden	tu_99_xTok_000045
+dem	d	ART	Duden	tu_99_xTok_000047
+hiesigen	hiesig	ADJA	Duden	tu_99_xTok_000049
+kaiserl.	kaiserlich	ADJA	Duden	tu_99_xTok_000051
+königl.	königlich	ADJA	Duden	tu_99_xTok_000054
+Stadt=	Stadtgericht	TRUNC	Duden	tu_99_xTok_000056
+und	und	KON	Duden	tu_99_xTok_000058
+Landgerichte	Landgericht	NN	Duden	tu_99_xTok_000060
+wider	wider	APPR	Duden	tu_99_xTok_000062
+ihn	er	PPER	Duden	tu_99_xTok_000064
+abgeführten	abführen	ADJA	DRW	tu_99_xTok_000066
+Kriminalverfahrung	Kriminalverfahrung	NN	oov	tu_99_xTok_000068
+<g/>
+,
+und	und	KON	Duden	tu_99_xTok_000072
+darüber	darüber	PAV	Duden	tu_99_xTok_000074
+von	von	APPR	Duden	tu_99_xTok_000076
+einer	ein	ART	Duden	tu_99_xTok_000078
+hochlöbl.	hochlöblich	ADJA	Duden	tu_99_xTok_000080
+Landesfürstlichen	landesfürstlich	ADJA	DWB	tu_99_xTok_000083
+Niederösterreichischen	niederösterreichisch	ADJA	Duden	tu_99_xTok_000086
+Regierung	Regierung	NN	Duden	tu_99_xTok_000088
+geschöpften	schöpfen	ADJA	Duden	tu_99_xTok_000090
+Erkänntniß	Erkenntnis	NN	Duden	tu_99_xTok_000091
+an	an	APPR	Duden	tu_99_xTok_000093
+gleich ernannten	gleichernannt	ADJA		tu_99_xTok_000095
+Delinquenten	Delinquent	NN	Duden	tu_99_xTok_000099
+dem	d	ART	Duden	tu_99_xTok_000101
+zu	zu	APPR	Duden	tu_99_xTok_000103
+Ende	Ende	NN	Duden	tu_99_xTok_000104
+angeführten	angeführt	ADJA	Duden	tu_99_xTok_000106
+Jnnhalte	Inhalt	NN	Duden	tu_99_xTok_000108
+gemäß	gemäß	APPO	Duden	tu_99_xTok_000110
+<g/>
+,
+heute	heute	ADV	Duden	tu_99_xTok_000113
+den	d	ART	Duden	tu_99_xTok_000115
+<date id="date99">
+17.	17	CARD		tu_99_xTok_000116
+September	September	NN	Duden	tu_99_xTok_000118
+1772.	1772	CARD		tu_99_xTok_000120
+</date>
+allhier	allhier	ADV	Duden	tu_99_xTok_000122
+in	in	APPR	Duden	tu_99_xTok_000124
+Wien	Wien	NE::top	Duden	tu_99_xTok_000126
+vollzogen	vollziehen	VVPP	Duden	tu_99_xTok_000127
+wird	werden	VAFIN	Duden	tu_99_xTok_000129
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_99_xTok_000131
 seines	sein	PPOSAT	Duden	tu_99_xTok_000133
@@ -326,6 +415,7 @@ vorher	vorher	ADV	Duden	tu_99_xTok_000686
 mit	mit	APPR	Duden	tu_99_xTok_000688
 einem	ein	ART	Duden	tu_99_xTok_000690
 anderen	andere	ADJA	Duden	tu_99_xTok_000692
+senigen	seinige	PPOSAT	Duden	tu_99_xTok_000694
 Diebsgespann	Diebsgespan	NN	DRW	tu_99_xTok_000696
 einen	ein	ART	Duden	tu_99_xTok_000698
 Bauern	Bauer	NN	Duden	tu_99_xTok_000699
@@ -427,6 +517,7 @@ Nachdeme	nachdem	KOUS	Duden	tu_99_xTok_000879
 aber	aber	ADV	Duden	tu_99_xTok_000882
 doch	doch	ADV	Duden	tu_99_xTok_000884
 dessen	d	PDAT	Duden	tu_99_xTok_000886
+letzterwehte	letzterwähnt	ADJA	oov	tu_99_xTok_000888
 rauberische	räuberisch	ADJA	Duden	tu_99_xTok_000890
 Handlung	Handlung	NN	Duden	tu_99_xTok_000892
 in	in	APPR	Duden	tu_99_xTok_000894

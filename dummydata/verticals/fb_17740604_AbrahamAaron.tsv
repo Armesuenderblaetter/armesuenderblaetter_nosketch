@@ -1,4 +1,105 @@
 <doc id="fb_17740604_AbrahamAaron" delinquent_sexes="male" title="Todesurteil Abraham Aaron" attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_107_xTok_000001
+eines	ein	ART	Duden	tu_107_xTok_000005
+in	in	APPR	Duden	tu_107_xTok_000006
+den	d	ART	Duden	tu_107_xTok_000008
+Brünner	Brünner	ADJA	oov	tu_107_xTok_000010
+Frohn=Festen	Fronfeste	NN	Duden	tu_107_xTok_000012
+innsitzenden	insitzend	ADJA	DWB	tu_107_xTok_000014
+Judens	Jude	NN	Duden	tu_107_xTok_000016
+<g/>
+,
+Namens	namens	ADV	Duden	tu_107_xTok_000018
+<persName id="abrahamaaron107">
+Abraham	Abraham	NE	Duden	tu_107_xTok_000019
+Aaron	Aaron	NE	Duden	tu_107_xTok_000021
+</persName>
+<g/>
+,
+alt	alt	ADJD	Duden	tu_107_xTok_000023
+22.	22	CARD		tu_107_xTok_000025
+Jahr	Jahr	NN	Duden	tu_107_xTok_000027
+<g/>
+,
+zu	zu	APPR	Duden	tu_107_xTok_000029
+<placeName id="pn107">
+Holleschau	Holleschau	NE::top	oov	tu_107_xTok_000031
+in	in	APPR	Duden	tu_107_xTok_000033
+Mähren	Mähren	NE::top	Duden	tu_107_xTok_000035
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_107_xTok_000037
+<g/>
+,
+verheyrathet	verheiratet	ADJD	Duden	tu_107_xTok_000040
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_107_xTok_000042
+in	in	APPR	Duden	tu_107_xTok_000044
+Folge	Folge	NN	Duden	tu_107_xTok_000046
+der	d	ART	Duden	tu_107_xTok_000048
+<g/>
+,
+durch	durch	APPR	Duden	tu_107_xTok_000051
+eine	ein	ART	Duden	tu_107_xTok_000053
+hierzu	hierzu	PAV	Duden	tu_107_xTok_000055
+eigends	eigens	ADV	Duden	tu_107_xTok_000057
+angestellt	anstellen	ADJD	Duden	tu_107_xTok_000059
+gewesene	sein	ADJA	Duden	tu_107_xTok_000060
+Kaiser=	kaiserlich	ADJA	Duden	tu_107_xTok_000062
+Königl.	königlich	ADJA	Duden	tu_107_xTok_000062b
+Tribunals=Appellations=Commission	Tribunalsappellationskommission	NN	oov	tu_107_xTok_000065
+vollführten	vollführen	ADJA	Duden	tu_107_xTok_000070
+Criminal-Untersuchung	Kriminaluntersuchung	NN	oov	tu_107_xTok_000072
+<g/>
+,
+und	und	KON	Duden	tu_107_xTok_000076
+darüber	darüber	PAV	Duden	tu_107_xTok_000078
+von	von	APPR	Duden	tu_107_xTok_000080
+einem	ein	ART	Duden	tu_107_xTok_000082
+Hochlöbl.	hochlöblich	ADJA	Duden	tu_107_xTok_000084
+Kaiser	kaiserlich	ADJA	Duden	tu_107_xTok_000087
+Königl.	königlich	ADJA	Duden	tu_107_xTok_000088
+Tribunal	Tribunal	NN	Duden	tu_107_xTok_000091
+<g/>
+,
+und	und	KON	Duden	tu_107_xTok_000094
+Appellations=Obergericht	Appellationsobergericht	NN	oov	tu_107_xTok_000096
+im	im	APPRART	Duden	tu_107_xTok_000099
+Markgrafthum	Markgrafthum	NN	DWB	tu_107_xTok_000101
+Mähren	Mähren	NE::top	Duden	tu_107_xTok_000103
+geschöpften	schöpfen	ADJA	Duden	tu_107_xTok_000104
+Erkanntniß	Erkanntnis	NN	DWB	tu_107_xTok_000106
+an	an	APPR	Duden	tu_107_xTok_000108
+gleich ernannten	gleichernannt	ADJA		tu_107_xTok_000110
+Juden	Jude	NN	Duden	tu_107_xTok_000114
+<g/>
+,
+dem	d	ART	Duden	tu_107_xTok_000117
+zu	zu	APPR	Duden	tu_107_xTok_000119
+Ende	Ende	NN	Duden	tu_107_xTok_000121
+angeführten	angeführt	ADJA	Duden	tu_107_xTok_000123
+Jnnhalte	Inhalt	NN	Duden	tu_107_xTok_000126
+gemäß	gemäß	APPO	Duden	tu_107_xTok_000128
+<g/>
+,
+heute	heute	ADV	Duden	tu_107_xTok_000131
+den	d	ART	Duden	tu_107_xTok_000133
+<date id="date107">
+4.	4	ADJA		tu_107_xTok_000135
+Junii	Juni	NN	Duden	tu_107_xTok_000137
+1774.	1774	CARD		tu_107_xTok_000139
+</date>
+allhier	allhier	ADV	Duden	tu_107_xTok_000141
+in	in	APPR	Duden	tu_107_xTok_000143
+Brünn	Brünn	NE::top	Duden	tu_107_xTok_000145
+vollzogen	vollziehen	VVPP	Duden	tu_107_xTok_000146
+wird	werden	VAFIN	Duden	tu_107_xTok_000148
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_107_xTok_000151
 seines	sein	PPOSAT	Duden	tu_107_xTok_000153

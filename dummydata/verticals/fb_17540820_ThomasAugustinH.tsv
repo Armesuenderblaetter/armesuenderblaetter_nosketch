@@ -1,4 +1,80 @@
 <doc id="fb_17540820_ThomasAugustinH" delinquent_sexes="male" title="Todesurteil Thomas Augustin H." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=urtheil	Todesurteil	NN	Duden	tu_60_xTok_000002
+<g/>
+,
+Welches	welch	PRELS	Duden	tu_60_xTok_000004
+in	in	APPR	Duden	tu_60_xTok_000006
+Folge	Folge	NN	Duden	tu_60_xTok_000008
+der	d	ART	Duden	tu_60_xTok_000010
+bey	bei	APPR	Duden	tu_60_xTok_000012
+dem	d	ART	Duden	tu_60_xTok_000014
+alhiesigen	allhiesig	ADJA	DWB	tu_60_xTok_000016
+Kaiserl.	kaiserlich	ADJA	Duden	tu_60_xTok_000019
+Königl.	königlich	ADJA	Duden	tu_60_xTok_000022
+Stadt=	Stadtgericht	TRUNC	Duden	tu_60_xTok_000025
+und	und	KON	Duden	tu_60_xTok_000025b
+Land=gericht	Landgericht	NN	Duden	tu_60_xTok_000027
+abgeführten	abführen	ADJA	DRW	tu_60_xTok_000028
+Criminal-verfahrung	Kriminalverfahrung	NN	oov	tu_60_xTok_000030
+<g/>
+,
+und	und	KON	Duden	tu_60_xTok_000034
+daselbst	daselbst	ADV	Duden	tu_60_xTok_000036
+geschöpften	schöpfen	ADJA	Duden	tu_60_xTok_000038
+<g/>
+,
+auch	auch	ADV	Duden	tu_60_xTok_000042
+von	von	APPR	Duden	tu_60_xTok_000044
+hoher	hoch	ADJA	Duden	tu_60_xTok_000046
+Obrigkeit	Obrigkeit	NN	Duden	tu_60_xTok_000048
+bestättigten	bestätigen	ADJA	Duden	tu_60_xTok_000050
+Erkanntnuß	Erkanntnis	NN	DWB	tu_60_xTok_000053
+</titlePart>
+<titlePart type="main">
+Heute	heute	ADV	Duden	tu_60_xTok_000054
+den	d	ART	Duden	tu_60_xTok_000056
+<date id="date60">
+20.	20	ADJA		tu_60_xTok_000058
+Augusti	August	NN	Duden	tu_60_xTok_000061
+1754.	1754	CARD		tu_60_xTok_000063
+</date>
+</titlePart>
+<titlePart type="main">
+An	an	APPR	Duden	tu_60_xTok_000065
+dem	d	ART	Duden	tu_60_xTok_000067
+25.	25	CARD		tu_60_xTok_000069
+Jahr	Jahr	NN	Duden	tu_60_xTok_000072
+alt=	alt	ADJD	Duden	tu_60_xTok_000074
+von	von	APPR	Duden	tu_60_xTok_000076
+<placeName id="pn60">
+hier	hier	ADV	Duden	tu_60_xTok_000078
+</placeName>
+gebürtig=	gebürtig	ADJA	Duden	tu_60_xTok_000080
+verheyrateten	verheiratet	ADJA	Duden	tu_60_xTok_000082
+<persName id="thomasaugustinh60">
+Thomas	Thomas	NE	Duden	tu_60_xTok_000084
+Augustin	Augustin	NE	Duden	tu_60_xTok_000086
+H....	H.	NE	oov	tu_60_xTok_000088
+</persName>
+Wegen	wegen	APPR	Duden	tu_60_xTok_000096
+begangenen	begehen	ADJA	Duden	tu_60_xTok_000098
+Mutter=mord	Muttermord	NN	Duden	tu_60_xTok_000100
+<g/>
+,
+Auf	auf	APPR	Duden	tu_60_xTok_000102
+der	d	ART	Duden	tu_60_xTok_000104
+alhiesig=	allhiesig	ADJA	DWB	tu_60_xTok_000106
+gewöhnlichen	gewöhnlich	ADJA	Duden	tu_60_xTok_000108
+Richt=stadt	Richtstatt	NN	DWB	tu_60_xTok_000110
+vor	vor	APPR	Duden	tu_60_xTok_000112
+dem	d	ART	Duden	tu_60_xTok_000114
+Schotten=thor	Schottentor	NE::top	oov	tu_60_xTok_000116
+vollzogen	vollziehen	VVPP	Duden	tu_60_xTok_000119
+wird	werden	VAFIN	Duden	tu_60_xTok_000121
+<g/>
+.
+</titlePart>
 <head>
 Hauptsächlicher	hauptsächlich	ADJA	Duden	tu_60_xTok_000137
 Auszug	Auszug	NN	Duden	tu_60_xTok_000139

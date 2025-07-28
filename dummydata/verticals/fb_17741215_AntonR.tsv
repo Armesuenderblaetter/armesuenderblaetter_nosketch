@@ -1,4 +1,97 @@
 <doc id="fb_17741215_AntonR" delinquent_sexes="male" title="Todesurteil Anton R." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_109_xTok_000001
+einer	ein	ART	Duden	tu_109_xTok_000003
+ledigen	ledig	ADJA	Duden	tu_109_xTok_000005
+Mannsperson	Mannsperson	NN	Duden	tu_109_xTok_000007
+<g/>
+,
+Namens	namens	ADV	Duden	tu_109_xTok_000009
+<persName id="antonr109">
+Anton	Anton	NE	Duden	tu_109_xTok_000010
+R.	R.	NE	oov	tu_109_xTok_000012
+</persName>
+alt	alt	ADJD	Duden	tu_109_xTok_000014
+22.	22	CARD		tu_109_xTok_000016
+Jahr	Jahr	NN	Duden	tu_109_xTok_000019
+<g/>
+,
+zu	zu	APPR	Duden	tu_109_xTok_000022
+<placeName id="pn109">
+Kremsmünster	Kremsmünster	NE::top	oov	tu_109_xTok_000024
+<g/>
+,
+in	in	APPR	Duden	tu_109_xTok_000027
+O. Oest.	Oberösterreich	NE::top		tu_109_xTok_000029
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_109_xTok_000035
+<g/>
+,
+kathol.	katholisch	ADJA	Duden	tu_109_xTok_000038
+Religion	Religion	NN	Duden	tu_109_xTok_000041
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_109_xTok_000043
+in	in	APPR	Duden	tu_109_xTok_000045
+Folge	Folge	NN	Duden	tu_109_xTok_000047
+der	d	ART	Duden	tu_109_xTok_000049
+bey	bei	APPR	Duden	tu_109_xTok_000051
+dem	d	ART	Duden	tu_109_xTok_000053
+allhiesigen	allhiesig	ADJA	DWB	tu_109_xTok_000055
+k.	kaiserlich	ADJA	Duden	tu_109_xTok_000057
+k.	königlich	ADJA	Duden	tu_109_xTok_000060
+Stadt=	Stadtgericht	TRUNC	Duden	tu_109_xTok_000063
+und	und	KON	Duden	tu_109_xTok_000065
+Landgerichte	Landgericht	NN	Duden	tu_109_xTok_000067
+wider	wider	APPR	Duden	tu_109_xTok_000069
+ihn	er	PPER	Duden	tu_109_xTok_000071
+abgeführten	abführen	ADJA	DRW	tu_109_xTok_000073
+Criminalverfahrung	Kriminalverfahrung	NN	oov	tu_109_xTok_000076
+<g/>
+,
+und	und	KON	Duden	tu_109_xTok_000079
+darüber	darüber	PAV	Duden	tu_109_xTok_000081
+geschöpften	schöpfen	ADJA	Duden	tu_109_xTok_000083
+<g/>
+,
+auch	auch	ADV	Duden	tu_109_xTok_000086
+von	von	APPR	Duden	tu_109_xTok_000088
+einer	ein	ART	Duden	tu_109_xTok_000090
+hochlöbl.	hochlöblich	ADJA	Duden	tu_109_xTok_000092
+Landesfürstl.	landesfürstlich	ADJA	DWB	tu_109_xTok_000095
+N. Oest.	Niederösterreich	NE::top		tu_109_xTok_000098
+Regierung	Regierung	NN	Duden	tu_109_xTok_000103
+bestättigten	bestätigen	ADJA	Duden	tu_109_xTok_000105
+Erkanntniß	Erkanntnis	NN	DWB	tu_109_xTok_000107
+an	an	APPR	Duden	tu_109_xTok_000109
+gleichernannten	gleichernannt	ADJA	oov	tu_109_xTok_000111
+Anton	Anton	NE	Duden	tu_109_xTok_000113
+R.	R.	NE	oov	tu_109_xTok_000115
+dem	d	ART	Duden	tu_109_xTok_000118
+zu	zu	APPR	Duden	tu_109_xTok_000120
+Ende	Ende	NN	Duden	tu_109_xTok_000122
+angeführten	angeführt	ADJA	Duden	tu_109_xTok_000124
+Jnnhalte	Inhalt	NN	Duden	tu_109_xTok_000127
+gemäß	gemäß	APPO	Duden	tu_109_xTok_000129
+<g/>
+,
+heute	heute	ADV	Duden	tu_109_xTok_000132
+den	d	ART	Duden	tu_109_xTok_000134
+<date id="date109">
+15.	15	ADJA		tu_109_xTok_000136
+Christmonats	Christmonat	NN	Duden	tu_109_xTok_000139
+1774.	1774	CARD		tu_109_xTok_000141
+</date>
+allhier	allhier	ADV	Duden	tu_109_xTok_000143
+in	in	APPR	Duden	tu_109_xTok_000145
+Wien	Wien	NE::top	Duden	tu_109_xTok_000147
+vollzogen	vollziehen	VVPP	Duden	tu_109_xTok_000148
+wird	werden	VAFIN	Duden	tu_109_xTok_000150
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_109_xTok_000152
 seines	sein	PPOSAT	Duden	tu_109_xTok_000154

@@ -1,4 +1,87 @@
 <doc id="fb_17610610_AdolphS_FranzK_Joh" delinquent_sexes="male" title="Todesurteil Adolph S., Franz K., Johann Adam K." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_79_xTok_000001
+Todes=Urtheil	Todesurteil	NN	Duden	tu_79_xTok_000002
+<g/>
+,
+dreyer	drei	CARD	Duden	tu_79_xTok_000007
+Manns=Personen	Mannspersonen	NN	Duden	tu_79_xTok_000009
+<g/>
+/
+Namens	namens	ADV	Duden	tu_79_xTok_000016
+<persName id="adolphs79">
+Adolph	Adolph	NE	oov	tu_79_xTok_000017
+S.	S.	NE	oov	tu_79_xTok_000020
+</persName>
+30.	30	CARD		tu_79_xTok_000023
+Jahr	Jahr	NN	Duden	tu_79_xTok_000025
+alt	alt	ADJD	Duden	tu_79_xTok_000027
+verheyrathet	verheiratet	ADJD	Duden	tu_79_xTok_000028
+<g/>
+/
+<persName id="franzk79">
+Franz	Franz	NE	Duden	tu_79_xTok_000031
+K.	K.	NE	oov	tu_79_xTok_000034
+</persName>
+25.	25	CARD		tu_79_xTok_000037
+Jahr	Jahr	NN	Duden	tu_79_xTok_000039
+<g/>
+/
+und	und	KON	Duden	tu_79_xTok_000043
+<persName id="johannadamk79">
+Johann	Johann	NE	Duden	tu_79_xTok_000044
+Adam	Adam	NE	Duden	tu_79_xTok_000047
+K.	K.	NE	oov	tu_79_xTok_000050
+</persName>
+20.	20	CARD		tu_79_xTok_000052
+Jahr	Jahr	NN	Duden	tu_79_xTok_000054
+alt	alt	ADJD	Duden	tu_79_xTok_000056
+<g/>
+/
+beede	beide	PIS	Duden	tu_79_xTok_000060
+ledig	ledig	ADJD	Duden	tu_79_xTok_000062
+<g/>
+/
+alle	all	PIS	Duden	tu_79_xTok_000066
+aber	aber	ADV	Duden	tu_79_xTok_000068
+Catholischer	katholisch	ADJA	Duden	tu_79_xTok_000070
+Religion	Religion	NN	Duden	tu_79_xTok_000073
+<g/>
+/
+welche	welch	PRELS	Duden	tu_79_xTok_000078
+heute	heute	ADV	Duden	tu_79_xTok_000079
+Mittwochs	Mittwoch	NN	Duden	tu_79_xTok_000081
+den	d	ART	Duden	tu_79_xTok_000083
+<date id="date79">
+10.	10	ADJA		tu_79_xTok_000085
+Junii	Juni	NN	Duden	tu_79_xTok_000087
+1761.	1761	CARD		tu_79_xTok_000089
+</date>
+zu	zu	APPR	Duden	tu_79_xTok_000090
+Preßburg	Pressburg	NE::top	Duden	tu_79_xTok_000092
+wegen	wegen	APPR	Duden	tu_79_xTok_000093
+inbemeldt	inbemeldet	ADJD	oov	tu_79_xTok_000095
+begangener	begehen	ADJA	Duden	tu_79_xTok_000097
+verschiedenen	verschieden	ADJA	Duden	tu_79_xTok_000099
+Diebstähle	Diebstahl	NN	Duden	tu_79_xTok_000101
+mit	mit	APPR	Duden	tu_79_xTok_000104
+dem	d	ART	Duden	tu_79_xTok_000106
+Strang	Strang	NN	Duden	tu_79_xTok_000108
+vom	vom	APPRART	Duden	tu_79_xTok_000110
+Leben	Leben	NN	Duden	tu_79_xTok_000112
+zum	zum	APPRART	Duden	tu_79_xTok_000114
+Tod	Tod	NN	Duden	tu_79_xTok_000116
+hingerichtet	hinrichten	VVPP	Duden	tu_79_xTok_000117
+worden	werden	VAPP	Duden	tu_79_xTok_000119
+<g/>
+.
+</titlePart>
+Mit	mit	APPR	Duden	tu_79_xTok_000121
+Erlaubnuß	Erlaubnis	NN	Duden	tu_79_xTok_000123
+der	d	ART	Duden	tu_79_xTok_000125
+Obern	Obere	NN	Duden	tu_79_xTok_000127
+<g/>
+.
 <p id="fb_17610610_AdolphS_FranzK_Joh_p_0001">
 DEmnach	demnach	PAV	Duden	tu_79_xTok_000129
 Adolph	Adolph	NE	oov	tu_79_xTok_000132

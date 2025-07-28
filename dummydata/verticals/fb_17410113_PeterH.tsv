@@ -1,4 +1,152 @@
 <doc id="fb_17410113_PeterH" delinquent_sexes="male" title="Todesurteil Peter H." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_18_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_18_xTok_000002
+<g/>
+/
+Welches	welch	PRELS	Duden	tu_18_xTok_000008
+an	an	APPR	Duden	tu_18_xTok_000010
+Einer	ein	ART	Duden	tu_18_xTok_000011
+ledigen	ledig	ADJA	Duden	tu_18_xTok_000013
+Manns=Persohn	Mannsperson	NN	Duden	tu_18_xTok_000015
+<g/>
+/
+Namens	namens	ADV	Duden	tu_18_xTok_000019
+<persName id="peterh18">
+Peter	Peter	NE	Duden	tu_18_xTok_000020
+H.	H.	NE	oov	tu_18_xTok_000023
+</persName>
+Cathol.	katholisch	ADJA	Duden	tu_18_xTok_000025
+Religion	Religion	NN	Duden	tu_18_xTok_000028
+<g/>
+/
+bey	bei	APPR	Duden	tu_18_xTok_000032
+31.	31	CARD		tu_18_xTok_000034
+Jahr	Jahr	NN	Duden	tu_18_xTok_000037
+alt	alt	ADJD	Duden	tu_18_xTok_000040
+<g/>
+/
+von	von	APPR	Duden	tu_18_xTok_000043
+<placeName id="pn18">
+Harras ober Stockerau	HarrasoberStockerau	NE::top		tu_18_xTok_000045
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_18_xTok_000051
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Um weilen	umweil	KOUS		tu_18_xTok_000053
+derselbe	derselbe	PDS	Duden	tu_18_xTok_000057
+eine	ein	ART	Duden	tu_18_xTok_000059
+sichere	sicher	ADJA	DWB	tu_18_xTok_000061
+Manns=Persohn	Mannsperson	NN	Duden	tu_18_xTok_000063
+jämmerlicher	jämmerlich	ADJA	Duden	tu_18_xTok_000065
+weiß	Weise	NN	Duden	tu_18_xTok_000068
+<g/>
+(
+wie	wie	KOUS	Duden	tu_18_xTok_000071
+beyligender	beiliegend	ADJA	Duden	tu_18_xTok_000073
+Jnnhalt	Inhalt	NN	Duden	tu_18_xTok_000075
+des	d	ART	Duden	tu_18_xTok_000077
+mehreren	mehrere	PIS	Duden	tu_18_xTok_000079
+zeiget	zeigen	VVFIN	Duden	tu_18_xTok_000080
+<g/>
+)
+um	um	APPR	Duden	tu_18_xTok_000083
+das	d	ART	Duden	tu_18_xTok_000085
+Leben	Leben	NN	Duden	tu_18_xTok_000087
+gebracht	bringen	VVPP	Duden	tu_18_xTok_000089
+<g/>
+/
+</titlePart>
+<titlePart type="main">
+Heute	heute	ADV	Duden	tu_18_xTok_000092
+Freytag	Freitag	NN	Duden	tu_18_xTok_000094
+als	als	KOKOM	Duden	tu_18_xTok_000096
+den	d	ART	Duden	tu_18_xTok_000098
+<date id="date18">
+13.	13	ADJA		tu_18_xTok_000100
+Januarij	Januar	NN	Duden	tu_18_xTok_000102
+dieses	diese	PDAT	Duden	tu_18_xTok_000104
+lauffenden	laufend	ADJA	Duden	tu_18_xTok_000106
+1741sten	1741	ADJA		tu_18_xTok_000107
+Jahrs	Jahr	NN	Duden	tu_18_xTok_000110
+</date>
+andern	ander	PIS	Duden	tu_18_xTok_000112
+zum	zum	APPRART	Duden	tu_18_xTok_000114
+Beyspill	Beispiel	NN	Duden	tu_18_xTok_000116
+<g/>
+/
+und	und	KON	Duden	tu_18_xTok_000120
+ihm	er	PPER	Duden	tu_18_xTok_000122
+zur	zur	APPRART	Duden	tu_18_xTok_000124
+wohlverdienten	wohlverdient	ADJA	Duden	tu_18_xTok_000126
+Straffe	Strafe	NN	Duden	tu_18_xTok_000129
+mit	mit	APPR	Duden	tu_18_xTok_000131
+folgenden	folgend	ADJ-NN	Duden	tu_18_xTok_000133
+vollzogen	vollziehen	VVPP	Duden	tu_18_xTok_000135
+werden	werden	VAINF	Duden	tu_18_xTok_000136
+wird	werden	VAFIN	Duden	tu_18_xTok_000138
+<g/>
+:
+</titlePart>
+<titlePart type="main">
+Es	es	PPER	Duden	tu_18_xTok_000140
+wird	werden	VAFIN	Duden	tu_18_xTok_000142
+nemblichen	nämlich	ADV	Duden	tu_18_xTok_000144
+er	er	PPER	Duden	tu_18_xTok_000146
+Delinquent	Delinquent	NN	Duden	tu_18_xTok_000148
+auf	auf	APPR	Duden	tu_18_xTok_000150
+den	d	ART	Duden	tu_18_xTok_000152
+hohen	hoch	ADJA	Duden	tu_18_xTok_000153
+Wagen	Wagen	NN	Duden	tu_18_xTok_000155
+gesetzet	setzen	VVPP	Duden	tu_18_xTok_000157
+<g/>
+,
+an	an	APPR	Duden	tu_18_xTok_000160
+die	d	ART	Duden	tu_18_xTok_000162
+gewöhnliche	gewöhnlich	ADJA	Duden	tu_18_xTok_000164
+Richtstatt	Richtstatt	NN	DWB	tu_18_xTok_000166
+zu	zu	APPR	Duden	tu_18_xTok_000168
+dem	d	ART	Duden	tu_18_xTok_000169
+Räder=Creutz	Räderkreuz	NN	oov	tu_18_xTok_000171
+geführet	führen	VVPP	Duden	tu_18_xTok_000173
+<g/>
+/
+allda	allda	ADV	Duden	tu_18_xTok_000177
+mit	mit	APPR	Duden	tu_18_xTok_000179
+dem	d	ART	Duden	tu_18_xTok_000181
+Schwerd	Schwert	NN	Duden	tu_18_xTok_000183
+vom	vom	APPRART	Duden	tu_18_xTok_000185
+Leben	Leben	NN	Duden	tu_18_xTok_000187
+zum	zum	APPRART	Duden	tu_18_xTok_000188
+Todt	Tod	NN	Duden	tu_18_xTok_000190
+hingerichtet	hinrichten	VVPP	Duden	tu_18_xTok_000192
+<g/>
+/
+sodann	sodann	ADV	Duden	tu_18_xTok_000196
+dessen	d	PDAT	Duden	tu_18_xTok_000198
+Cörper	Körper	NN	Duden	tu_18_xTok_000200
+in	in	APPR	Duden	tu_18_xTok_000202
+das	d	ART	Duden	tu_18_xTok_000204
+Rad	Rad	NN	Duden	tu_18_xTok_000206
+geflochten	flechten	VVPP	Duden	tu_18_xTok_000208
+<g/>
+/
+der	d	ART	Duden	tu_18_xTok_000211
+Kopf	Kopf	NN	Duden	tu_18_xTok_000213
+aber	aber	ADV	Duden	tu_18_xTok_000215
+auf	auf	APPR	Duden	tu_18_xTok_000217
+ein	ein	ART	Duden	tu_18_xTok_000219
+Pfal	Pfahl	NN	Duden	tu_18_xTok_000221
+ob	ob	APPR	Duden	tu_18_xTok_000223
+dem	d	ART	Duden	tu_18_xTok_000225
+Leib	Leib	NN	Duden	tu_18_xTok_000227
+aufgestecket	aufstecken	VVPP	Duden	tu_18_xTok_000229
+werden	werden	VAINF	Duden	tu_18_xTok_000231
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_18_xTok_000247
 des	d	ART	Duden	tu_18_xTok_000250
@@ -97,6 +245,7 @@ Vorgeben	Vorgeben	NN	Duden	tu_18_xTok_000419
 nach	nach	APPO	Duden	tu_18_xTok_000421
 <g/>
 )
+allzu	allzu	ADV	Duden	tu_18_xTok_000425
 einhergegangen	einhergehen	VVPP	Duden	tu_18_xTok_000427
 <g/>
 /

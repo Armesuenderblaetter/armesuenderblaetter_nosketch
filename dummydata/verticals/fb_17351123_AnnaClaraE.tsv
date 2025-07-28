@@ -1,4 +1,328 @@
 <doc id="fb_17351123_AnnaClaraE" delinquent_sexes="female" title="Todesurteil Anna Clara E." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_8_xTok_000001
+Urtheil	Urteil	NN	Duden	tu_8_xTok_000002
+und	und	KON	Duden	tu_8_xTok_000005
+Recht	Recht	NN	Duden	tu_8_xTok_000007
+<g/>
+/
+Einer	ein	ART	Duden	tu_8_xTok_000011
+ledigen	ledig	ADJA	Duden	tu_8_xTok_000013
+Weibs=Persohn	Weibsperson	NN	Duden	tu_8_xTok_000015
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_8_xTok_000019
+<persName id="annaclarae8">
+Anna	Anna	NE	Duden	tu_8_xTok_000020
+Clara	Clara	NE	oov	tu_8_xTok_000023
+E.	E.	NE	oov	tu_8_xTok_000026
+</persName>
+Von	von	APPR	Duden	tu_8_xTok_000028
+<placeName id="pn8">
+Stockerau	Stockerau	NE::top	Duden	tu_8_xTok_000030
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_8_xTok_000032
+<g/>
+/
+Catholischer	katholisch	ADJA	Duden	tu_8_xTok_000036
+Religion	Religion	NN	Duden	tu_8_xTok_000038
+<g/>
+/
+und	und	KON	Duden	tu_8_xTok_000041
+36.	36	CARD		tu_8_xTok_000043
+Jahr	Jahr	NN	Duden	tu_8_xTok_000046
+alt	alt	ADJD	Duden	tu_8_xTok_000048
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Umb weilen	umweil	KOUS		tu_8_xTok_000050
+dieselbe	dieselbe	PDS	Duden	tu_8_xTok_000054
+in	in	APPR	Duden	tu_8_xTok_000056
+ihrem	ihr	PPOSAT	Duden	tu_8_xTok_000058
+güttlich=	gütlich	ADJA	Duden	tu_8_xTok_000060
+vorgenohmenen	vornehmen	ADJA	Duden	tu_8_xTok_000060b
+Examine	examen	FM	G-LDHW	tu_8_xTok_000062
+selbst	selbst	ADV	Duden	tu_8_xTok_000063
+ausgesagt	aussagen	VVPP	Duden	tu_8_xTok_000065
+und	und	KON	Duden	tu_8_xTok_000067
+bekennet	bekennen	VVPP	Duden	tu_8_xTok_000069
+<g/>
+/
+daß	dass	KOUS	Duden	tu_8_xTok_000073
+sie	sie	PPER	Duden	tu_8_xTok_000075
+Delinquentin	Delinquentin	NN	Duden	tu_8_xTok_000077
+in	in	APPR	Duden	tu_8_xTok_000079
+ihrem	ihr	PPOSAT	Duden	tu_8_xTok_000081
+ledigen	ledig	ADJA	Duden	tu_8_xTok_000083
+Stand	Stand	NN	Duden	tu_8_xTok_000085
+schon	schon	ADV	Duden	tu_8_xTok_000086
+zwey	zwei	CARD	Duden	tu_8_xTok_000088
+Kinder	Kind	NN	Duden	tu_8_xTok_000090
+erzeuget	erzeugt	VVPP	Duden	tu_8_xTok_000092
+<g/>
+/
+nachgehends	nachgehends	ADV	DWB	tu_8_xTok_000096
+aber	aber	ADV	Duden	tu_8_xTok_000098
+<g/>
+(
+umb	um	APPR	Duden	tu_8_xTok_000101
+eine	ein	ART	Duden	tu_8_xTok_000103
+Ahmelschafft	Ammenschaft	NN	oov	tu_8_xTok_000105
+oder	oder	KON	Duden	tu_8_xTok_000106
+einen	ein	ART	Duden	tu_8_xTok_000108
+andern	andere	ADJA	Duden	tu_8_xTok_000110
+Dienst	Dienst	NN	Duden	tu_8_xTok_000112
+zu	zu	PTKZU	Duden	tu_8_xTok_000114
+bekommen	bekommen	VVINF	Duden	tu_8_xTok_000116
+<g/>
+)
+sich	sich	PRF	Duden	tu_8_xTok_000119
+hieher	hieher	PAV	Duden	tu_8_xTok_000121
+nacher	nacher	APPR	DWB	tu_8_xTok_000123
+Wienn	Wien	NE::top	Duden	tu_8_xTok_000125
+begeben	begeben	VVPP	Duden	tu_8_xTok_000127
+<g/>
+/
+allwo	allwo	PWAV	Duden	tu_8_xTok_000130
+sie	sie	PPER	Duden	tu_8_xTok_000132
+Anna	Anna	NE	Duden	tu_8_xTok_000134
+Clara	Clara	NE	oov	tu_8_xTok_000136
+E.	E.	NE	oov	tu_8_xTok_000138
+theils	teils	ADV	Duden	tu_8_xTok_000141
+als	als	KOKOM	Duden	tu_8_xTok_000143
+Ahmel	Amme	NN	Duden	tu_8_xTok_000145
+<g/>
+/
+theils	teils	ADV	Duden	tu_8_xTok_000149
+als	als	KOKOM	Duden	tu_8_xTok_000151
+Kinds=Weib	Kindweib	NN	DWB	tu_8_xTok_000153
+eine	ein	ART	Duden	tu_8_xTok_000155
+geraume	geraum	ADJA	Duden	tu_8_xTok_000157
+Zeit	Zeit	NN	Duden	tu_8_xTok_000160
+sich	sich	PRF	Duden	tu_8_xTok_000162
+ehrlich	ehrlich	ADJD	Duden	tu_8_xTok_000164
+erhalten	erhalten	VVPP	Duden	tu_8_xTok_000166
+<g/>
+/
+nachmalen	nachmalen	ADV	DWB	tu_8_xTok_000170
+aber	aber	ADV	Duden	tu_8_xTok_000172
+ist	sein	VAFIN	Duden	tu_8_xTok_000174
+sie	sie	PPER	Duden	tu_8_xTok_000176
+Delinquentin	Delinquentin	NN	Duden	tu_8_xTok_000178
+zu	zu	APPR	Duden	tu_8_xTok_000180
+einem	ein	ART	Duden	tu_8_xTok_000182
+sicheren	sicher	ADJA	DWB	tu_8_xTok_000183
+Verwalter	Verwalter	NN	Duden	tu_8_xTok_000185
+ausser	außer	APPR	Duden	tu_8_xTok_000187
+der	d	ART	Duden	tu_8_xTok_000189
+Stadt	Stadt	NN	Duden	tu_8_xTok_000191
+kommen	kommen	VVPP	Duden	tu_8_xTok_000193
+<g/>
+/
+allwo	allwo	PWAV	Duden	tu_8_xTok_000197
+selbe	selbe	PDS	Duden	tu_8_xTok_000199
+als	als	KOKOM	Duden	tu_8_xTok_000201
+Kinds=Weib	Kindweib	NN	DWB	tu_8_xTok_000203
+von	von	APPR	Duden	tu_8_xTok_000204
+einem	ein	ART	Duden	tu_8_xTok_000206
+alldasigen	alldasig	ADJA	oov	tu_8_xTok_000208
+Stuben=Mensch	Stubenmensch	NN	DWB	tu_8_xTok_000210
+also	also	ADV	Duden	tu_8_xTok_000212
+angereitzet	anreizen	VVPP	Duden	tu_8_xTok_000214
+worden	werden	VAPP	Duden	tu_8_xTok_000216
+<g/>
+/
+ihren	ihr	PPOSAT	Duden	tu_8_xTok_000220
+selbst	selbst	ADV	Duden	tu_8_xTok_000222
+eigenen	eigen	ADJA	Duden	tu_8_xTok_000223
+Truhen=Schlüssel	Truhenschlüssel	NN	oov	tu_8_xTok_000225
+zuzurichten	zurichten	VVIZU	Duden	tu_8_xTok_000227
+<g/>
+/
+und	und	KON	Duden	tu_8_xTok_000231
+zu	zu	PTKZU	Duden	tu_8_xTok_000233
+verfeilen	verfeilen	VVINF	DWB	tu_8_xTok_000235
+<g/>
+/
+damit	damit	KOUS	Duden	tu_8_xTok_000239
+sie	sie	PPER	Duden	tu_8_xTok_000241
+in	in	APPR	Duden	tu_8_xTok_000243
+den	d	ART	Duden	tu_8_xTok_000245
+Herrschafftlichen	herrschaftlich	ADJA	Duden	tu_8_xTok_000247
+Cantzley=Kasten	Kanzleikasten	NN	DRW	tu_8_xTok_000250
+einbrechen	einbrechen	VVINF	Duden	tu_8_xTok_000252
+könte	können	VMFIN	Duden	tu_8_xTok_000254
+<g/>
+/
+welches	welch	PRELS	Duden	tu_8_xTok_000258
+sie	sie	PPER	Duden	tu_8_xTok_000260
+aber	aber	ADV	Duden	tu_8_xTok_000262
+sogleich	sogleich	ADV	Duden	tu_8_xTok_000264
+widersprochen	widersprechen	VVPP	Duden	tu_8_xTok_000266
+<g/>
+;
+diesem	diese	PDAT	Duden	tu_8_xTok_000270
+allen	all	PIS	Duden	tu_8_xTok_000272
+aber	aber	ADV	Duden	tu_8_xTok_000274
+ungehindert	ungehindert	ADJD	Duden	tu_8_xTok_000276
+<g/>
+/
+hat	haben	VAFIN	Duden	tu_8_xTok_000280
+sie	sie	PPER	Duden	tu_8_xTok_000282
+sich	sich	PRF	Duden	tu_8_xTok_000284
+Delinquentin	Delinquentin	NN	Duden	tu_8_xTok_000286
+dahin	dahin	PAV	Duden	tu_8_xTok_000288
+von	von	APPR	Duden	tu_8_xTok_000289
+obgemeltem	obgemeldet	ADJA	oov	tu_8_xTok_000291
+Stuben=Mensch	Stubenmensch	NN	DWB	tu_8_xTok_000293
+bereden	bereden	VVINF	Duden	tu_8_xTok_000295
+lassen	lassen	VVINF	Duden	tu_8_xTok_000297
+<g/>
+/
+daß	dass	KOUS	Duden	tu_8_xTok_000301
+sie	sie	PPER	Duden	tu_8_xTok_000303
+gedachten	gedacht	ADJA	DWB	tu_8_xTok_000305
+Schlüssel	Schlüssel	NN	Duden	tu_8_xTok_000307
+zu recht	zurecht	PTKVZ		tu_8_xTok_000308
+gemacht	zurechtmachen	VVPP	Duden	tu_8_xTok_000312
+<g/>
+/
+aus	aus	APPR	Duden	tu_8_xTok_000316
+dem	d	ART	Duden	tu_8_xTok_000318
+Cantzley=Kasten	Kanzleikasten	NN	DRW	tu_8_xTok_000320
+auf	auf	APPR	Duden	tu_8_xTok_000322
+diebische	diebisch	ADJA	Duden	tu_8_xTok_000324
+Arth	Art	NN	Duden	tu_8_xTok_000326
+erstlich	erstlich	ADV	Duden	tu_8_xTok_000328
+20.	20	CARD		tu_8_xTok_000330
+fl.	Flore	NN	DWB	tu_8_xTok_000333
+dann	dann	ADV	Duden	tu_8_xTok_000335
+in	in	APPR	Duden	tu_8_xTok_000337
+14.	14	CARD		tu_8_xTok_000339
+Tägen	Tag	NN	Duden	tu_8_xTok_000341
+27.	27	CARD		tu_8_xTok_000343
+fl.	Flore	NN	DWB	tu_8_xTok_000346
+das	d	ART	Duden	tu_8_xTok_000349
+3te	3	ADJA		tu_8_xTok_000351
+mahl	Mal	NN	Duden	tu_8_xTok_000354
+40.	40	CARD		tu_8_xTok_000356
+fl.	Flore	NN	DWB	tu_8_xTok_000358
+mehrmalen	mehrmalen	ADV	DWB	tu_8_xTok_000361
+32.	32	CARD		tu_8_xTok_000363
+fl.	Flore	NN	DWB	tu_8_xTok_000365
+auch	auch	ADV	Duden	tu_8_xTok_000368
+hernach	hernach	PAV	Duden	tu_8_xTok_000370
+als	als	KOKOM	Duden	tu_8_xTok_000373
+ihre	ihr	PPOSAT	Duden	tu_8_xTok_000375
+Cameradin	Kameradin	NN	Duden	tu_8_xTok_000377
+aus	aus	APPR	Duden	tu_8_xTok_000379
+dem	d	ART	Duden	tu_8_xTok_000381
+Dienst	Dienst	NN	Duden	tu_8_xTok_000383
+getretten	treten	VVPP	Duden	tu_8_xTok_000385
+<g/>
+/
+zu	zu	APPR	Duden	tu_8_xTok_000389
+drey	drei	CARD	Duden	tu_8_xTok_000391
+verschidenen	verschieden	ADJA	Duden	tu_8_xTok_000393
+malen	Mal	NN	Duden	tu_8_xTok_000395
+52.	52	CARD		tu_8_xTok_000398
+fl.	Flore	NN	DWB	tu_8_xTok_000401
+selbsten	selbst	ADV	Duden	tu_8_xTok_000404
+entfremdet	entfremden	VVPP	Duden	tu_8_xTok_000406
+<g/>
+/
+und	und	KON	Duden	tu_8_xTok_000410
+also	also	ADV	Duden	tu_8_xTok_000412
+einen	ein	ART	Duden	tu_8_xTok_000414
+Schaden	Schaden	NN	Duden	tu_8_xTok_000416
+per	per	APPR	Duden	tu_8_xTok_000418
+614.	614	CARD		tu_8_xTok_000420
+fl.	Flore	NN	DWB	tu_8_xTok_000422
+16.	16	CARD		tu_8_xTok_000425
+kr.	Kreuzer	NN	Duden	tu_8_xTok_000428
+2.	2	CARD		tu_8_xTok_000431
+pf.	Pfennig	NN	Duden	tu_8_xTok_000433
+verursachet	verursachen	VVPP	Duden	tu_8_xTok_000435
+<g/>
+;
+diesem	diese	PDAT	Duden	tu_8_xTok_000438
+allen	all	PIS	Duden	tu_8_xTok_000440
+aber	aber	ADV	Duden	tu_8_xTok_000442
+ungehindert	ungehindert	ADJD	Duden	tu_8_xTok_000444
+betheuret	beteuern	VVFIN	Duden	tu_8_xTok_000446
+der	d	ART	Duden	tu_8_xTok_000448
+verlustigte	verlustig	ADJA	DWB	tu_8_xTok_000450
+Herr	Herr	NN	Duden	tu_8_xTok_000452
+<g/>
+/
+daß	dass	KOUS	Duden	tu_8_xTok_000455
+er	er	PPER	Duden	tu_8_xTok_000457
+ehedessen	ehedessen	ADV	DWB	tu_8_xTok_000459
+einen	ein	ART	Duden	tu_8_xTok_000461
+Schaden	Schaden	NN	Duden	tu_8_xTok_000463
+per	per	APPR	Duden	tu_8_xTok_000465
+80.	80	CARD	Duden	tu_8_xTok_000467
+fl.	Flore	NN	DWB	tu_8_xTok_000470
+nur	nur	ADV	Duden	tu_8_xTok_000473
+auf	auf	APPR	Duden	tu_8_xTok_000475
+einmal	einmal	ADV	Duden	tu_8_xTok_000477
+erlitten	erleiden	VVPP	Duden	tu_8_xTok_000479
+<g/>
+/
+demnächst	demnächst	ADV	Duden	tu_8_xTok_000483
+aber	aber	ADV	Duden	tu_8_xTok_000484
+nach	nach	ADV	Duden	tu_8_xTok_000486
+und	und	KON	Duden	tu_8_xTok_000488
+nach	nach	ADV	Duden	tu_8_xTok_000490
+170.	170	CARD		tu_8_xTok_000492
+fl.	Flore	NN	DWB	tu_8_xTok_000494
+einfolglich	einfolglich	ADV	DWB	tu_8_xTok_000497
+bey	bei	APPR	Duden	tu_8_xTok_000499
+250.	250	CARD		tu_8_xTok_000501
+fl.	Flore	NN	DWB	tu_8_xTok_000504
+aus	aus	APPR	Duden	tu_8_xTok_000507
+dessen	d	PDAT	Duden	tu_8_xTok_000509
+Schreib=Kasten	Schreibkasten	NN	DWB	tu_8_xTok_000510
+besonders	besonders	ADV	Duden	tu_8_xTok_000512
+verlohren	verloren	PTKVZ	Duden	tu_8_xTok_000514
+gangen	verlorengehen	VVPP	Duden	tu_8_xTok_000516
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Als	als	ADV	Duden	tu_8_xTok_000518
+wird	werden	VAFIN	Duden	tu_8_xTok_000520
+dieselbe	dieselbe	PDS	Duden	tu_8_xTok_000522
+anderen	ander	PIS	Duden	tu_8_xTok_000524
+zum	zum	APPRART	Duden	tu_8_xTok_000526
+Beyspiel	Beispiel	NN	Duden	tu_8_xTok_000528
+heut	heute	ADV	Duden	tu_8_xTok_000530
+Mittwoch	Mittwoch	NN	Duden	tu_8_xTok_000532
+den	d	ART	Duden	tu_8_xTok_000534
+<date id="date8">
+23.	23	ADJA		tu_8_xTok_000536
+November	November	NN	Duden	tu_8_xTok_000537
+1735.	1735	CARD		tu_8_xTok_000539
+</date>
+vor	vor	APPR	Duden	tu_8_xTok_000541
+dem	d	ART	Duden	tu_8_xTok_000543
+Schotten=Thor	Schottentor	NE::top	oov	tu_8_xTok_000545
+auf	auf	APPR	Duden	tu_8_xTok_000547
+alldasiger	alldasig	ADJA	oov	tu_8_xTok_000549
+Richtstatt	Richtstatt	NN	DWB	tu_8_xTok_000551
+mit	mit	APPR	Duden	tu_8_xTok_000553
+dem	d	ART	Duden	tu_8_xTok_000554
+Schwerd	Schwert	NN	Duden	tu_8_xTok_000556
+vom	vom	APPRART	Duden	tu_8_xTok_000558
+Leben	Leben	NN	Duden	tu_8_xTok_000560
+zum	zum	APPRART	Duden	tu_8_xTok_000562
+Todt	Tod	NN	Duden	tu_8_xTok_000564
+hingerichtet	hinrichten	VVPP	Duden	tu_8_xTok_000566
+werden	werden	VAINF	Duden	tu_8_xTok_000568
+<g/>
+.
+</titlePart>
 <lg type="poem">
 <lg type="stanza">
 <head>

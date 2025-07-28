@@ -1,4 +1,153 @@
 <doc id="fb_17400127_PhilippK" delinquent_sexes="male" title="Todesurteil Philipp K." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_16_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_16_xTok_000002
+<g/>
+/
+Einer	ein	ART	Duden	tu_16_xTok_000009
+ledigen	ledig	ADJA	Duden	tu_16_xTok_000011
+Manns=Persohn	Mannsperson	NN	Duden	tu_16_xTok_000013
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_16_xTok_000017
+<persName id="philippk16">
+Philipp	Philipp	NE	Duden	tu_16_xTok_000019
+K.	K.	NE	oov	tu_16_xTok_000022
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_16_xTok_000024
+Religion	Religion	NN	Duden	tu_16_xTok_000026
+<g/>
+/
+bey	bei	APPR	Duden	tu_16_xTok_000030
+26.	26	CARD		tu_16_xTok_000032
+Jahr	Jahr	NN	Duden	tu_16_xTok_000035
+alt	alt	ADJD	Duden	tu_16_xTok_000037
+<g/>
+/
+von	von	APPR	Duden	tu_16_xTok_000041
+<placeName id="pn16">
+Grilewitz	Grilewitz	NE::top	oov	tu_16_xTok_000043
+aus	aus	APPR	Duden	tu_16_xTok_000045
+Mähren	Mähren	NE::top	Duden	tu_16_xTok_000047
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_16_xTok_000049
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Um weilen	umweil	KOUS		tu_16_xTok_000051
+derselbe	derselbe	PDS	Duden	tu_16_xTok_000055
+nicht	nicht	PTKNEG	Duden	tu_16_xTok_000057
+allein	allein	ADV	Duden	tu_16_xTok_000059
+schon	schon	ADV	Duden	tu_16_xTok_000061
+allbereits	allbereits	ADV	Duden	tu_16_xTok_000063
+vor	vor	APPR	Duden	tu_16_xTok_000065
+ungefähr	ungefähr	ADV	Duden	tu_16_xTok_000067
+10.	10	CARD		tu_16_xTok_000070
+Jahren	Jahr	NN	Duden	tu_16_xTok_000073
+zu	zu	APPR	Duden	tu_16_xTok_000075
+Wolzeshoffen	Wulzeshofen	NE::top	oov	tu_16_xTok_000077
+in	in	APPR	Duden	tu_16_xTok_000079
+Oesterreich	Österreich	NE::top	Duden	tu_16_xTok_000081
+bey	bei	APPR	Duden	tu_16_xTok_000083
+einem	ein	ART	Duden	tu_16_xTok_000085
+dasigen	dasig	ADJA	Duden	tu_16_xTok_000087
+Bauren	Bauer	NN	Duden	tu_16_xTok_000090
+<g/>
+/
+wo	wo	PWAV	Duden	tu_16_xTok_000094
+er	er	PPER	Duden	tu_16_xTok_000096
+als	als	KOKOM	Duden	tu_16_xTok_000098
+Roß=Knecht	Rossknecht	NN	DWB	tu_16_xTok_000100
+in	in	APPR	Duden	tu_16_xTok_000102
+Diensten	Dienst	NN	Duden	tu_16_xTok_000104
+ware	sein	VAFIN	Duden	tu_16_xTok_000106
+<g/>
+/
+12.	12	CARD		tu_16_xTok_000110
+bis	bis	KON	Duden	tu_16_xTok_000112
+13.	13	CARD		tu_16_xTok_000114
+fl.	Flore	NN	DWB	tu_16_xTok_000117
+entfrembdet	entfremden	VVPP	Duden	tu_16_xTok_000120
+<g/>
+/
+sondern	sondern	KON	Duden	tu_16_xTok_000124
+auch	auch	ADV	Duden	tu_16_xTok_000126
+über	über	APPR	Duden	tu_16_xTok_000128
+dieses	diese	PDS	Duden	tu_16_xTok_000130
+hier	hier	ADV	Duden	tu_16_xTok_000132
+in	in	APPR	Duden	tu_16_xTok_000134
+Wienn	Wien	NE::top	Duden	tu_16_xTok_000136
+sowohl	sowohl	KON	Duden	tu_16_xTok_000137
+in=	inner	APPR	oov	tu_16_xTok_000139
+als	als	KON	Duden	tu_16_xTok_000141
+ausser	außer	APPR	Duden	tu_16_xTok_000143
+der	d	ART	Duden	tu_16_xTok_000145
+Stadt	Stadt	NN	Duden	tu_16_xTok_000147
+bey	bei	APPR	Duden	tu_16_xTok_000149
+Tag	Tag	NN	Duden	tu_16_xTok_000151
+und	und	KON	Duden	tu_16_xTok_000153
+Nachts=Zeit	Nachtzeit	NN	Duden	tu_16_xTok_000155
+mit	mit	APPR	Duden	tu_16_xTok_000157
+gewaltthätiger	gewalttätig	ADJA	Duden	tu_16_xTok_000158
+Aufsprengung	Aufsprengung	NN	Duden	tu_16_xTok_000160
+und	und	KON	Duden	tu_16_xTok_000162
+Erbrechung	Erbrechung	NN	DWB	tu_16_xTok_000164
+sehr	sehr	ADV	Duden	tu_16_xTok_000166
+viele	viel	PIAT	Duden	tu_16_xTok_000168
+unterschiedliche	unterschiedlich	ADJA	Duden	tu_16_xTok_000169
+s.	salvus	FM	G-LDHW	tu_16_xTok_000171
+v.	venia	FM	G-LDHW	tu_16_xTok_000174
+Diebstähle	Diebstahl	NN	Duden	tu_16_xTok_000177
+verübet	verüben	VVFIN	Duden	tu_16_xTok_000179
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Als	als	ADV	Duden	tu_16_xTok_000181
+wird	werden	VAFIN	Duden	tu_16_xTok_000183
+derselbe	derselbe	PDS	Duden	tu_16_xTok_000185
+heute	heute	ADV	Duden	tu_16_xTok_000187
+Mittwoch	Mittwoch	NN	Duden	tu_16_xTok_000189
+den	d	ART	Duden	tu_16_xTok_000191
+<date id="date16">
+27.	27	ADJA		tu_16_xTok_000193
+Januarii	Januar	NN	Duden	tu_16_xTok_000195
+Annô	annus	FM	G-LDHW	tu_16_xTok_000197
+1740.	1740	CARD		tu_16_xTok_000200
+</date>
+andern	ander	PIS	Duden	tu_16_xTok_000203
+zum	zum	APPRART	Duden	tu_16_xTok_000205
+Beyspiel	Beispiel	NN	Duden	tu_16_xTok_000207
+auf	auf	APPR	Duden	tu_16_xTok_000209
+dem	d	ART	Duden	tu_16_xTok_000211
+Wienner=Berg	Wienerberg	NE::top	oov	tu_16_xTok_000213
+mit	mit	APPR	Duden	tu_16_xTok_000215
+dem	d	ART	Duden	tu_16_xTok_000216
+Strang	Strang	NN	Duden	tu_16_xTok_000218
+vom	vom	APPRART	Duden	tu_16_xTok_000220
+Leben	Leben	NN	Duden	tu_16_xTok_000222
+zum	zum	APPRART	Duden	tu_16_xTok_000224
+Todt	Tod	NN	Duden	tu_16_xTok_000226
+hingerichtet	hinrichten	VVPP	Duden	tu_16_xTok_000228
+werden	werden	VAINF	Duden	tu_16_xTok_000230
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+NB.	Notabene	NN	Duden	tu_16_xTok_000232
+Der	d	ART	Duden	tu_16_xTok_000235
+fernere	ferner	ADJA	Duden	tu_16_xTok_000237
+Jnnhalt	Inhalt	NN	Duden	tu_16_xTok_000239
+seines	sein	PPOSAT	Duden	tu_16_xTok_000241
+Verbrechens	Verbrechen	NN	Duden	tu_16_xTok_000243
+ist	sein	VAFIN	Duden	tu_16_xTok_000245
+hierinnen	hierinnen	PAV	Duden	tu_16_xTok_000247
+zu	zu	PTKZU	Duden	tu_16_xTok_000249
+vernehmen	vernehmen	VVINF	Duden	tu_16_xTok_000251
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_16_xTok_000268
 des	d	ART	Duden	tu_16_xTok_000271

@@ -1,4 +1,145 @@
 <doc id="fb_17350215_JohannFerdinandH" delinquent_sexes="male" title="Todesurteil Johann Ferdinand H." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_5_xTok_000001
+Urtheil	Urteil	NN	Duden	tu_5_xTok_000002
+und	und	KON	Duden	tu_5_xTok_000005
+Recht	Recht	NN	Duden	tu_5_xTok_000007
+Einer	ein	ART	Duden	tu_5_xTok_000009
+Ledigen	ledig	ADJA	Duden	tu_5_xTok_000010
+Manns=Persohn	Mannsperson	NN	Duden	tu_5_xTok_000013
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_5_xTok_000019
+<persName id="johannferdinandh5">
+Johann	Johann	NE	Duden	tu_5_xTok_000020
+Ferdinand	Ferdinand	NE	Duden	tu_5_xTok_000023
+H.	H.	NE	oov	tu_5_xTok_000026
+</persName>
+<placeName id="pn5">
+Aus	aus	APPR	Duden	tu_5_xTok_000028
+dem	d	ART	Duden	tu_5_xTok_000030
+Reich	Reich	NN	Duden	tu_5_xTok_000032
+in	in	APPR	Duden	tu_5_xTok_000034
+dem	d	ART	Duden	tu_5_xTok_000036
+Feld	Feld	NN	Duden	tu_5_xTok_000038
+unwissend	unwissend	ADJD	Duden	tu_5_xTok_000040
+wo	wo	PWAV	Duden	tu_5_xTok_000042
+er	er	PPER	Duden	tu_5_xTok_000043
+gebürtig	gebürtig	ADJD	Duden	tu_5_xTok_000045
+</placeName>
+<g/>
+/
+bei	bei	APPR	Duden	tu_5_xTok_000049
+41.	41	CARD		tu_5_xTok_000051
+Jahr	Jahr	NN	Duden	tu_5_xTok_000054
+alt	alt	ADJD	Duden	tu_5_xTok_000056
+und	und	KON	Duden	tu_5_xTok_000058
+Catholischer	katholisch	ADJA	Duden	tu_5_xTok_000060
+Religion	Religion	NN	Duden	tu_5_xTok_000061
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Umb	um	APPR	Duden	tu_5_xTok_000063
+willen	willen	APZR	Duden	tu_5_xTok_000065
+derselbe	derselbe	PDS	Duden	tu_5_xTok_000067
+nicht	nicht	PTKNEG	Duden	tu_5_xTok_000069
+allein	allein	ADV	Duden	tu_5_xTok_000071
+allhier	allhier	ADV	Duden	tu_5_xTok_000073
+<g/>
+/
+sondern	sondern	KON	Duden	tu_5_xTok_000077
+auch	auch	ADV	Duden	tu_5_xTok_000079
+anderer	andere	ADJA	Duden	tu_5_xTok_000081
+Orthen	Ort	NN	Duden	tu_5_xTok_000084
+sein	sein	PPOSAT	Duden	tu_5_xTok_000086
+diebisches	diebisch	ADJA	Duden	tu_5_xTok_000088
+Leben	Leben	NN	Duden	tu_5_xTok_000090
+fortgeführet	fortführen	VVPP	Duden	tu_5_xTok_000092
+<g/>
+/
+auch	auch	ADV	Duden	tu_5_xTok_000096
+keine	kein	PIAT	Duden	tu_5_xTok_000098
+Ermahnung	Ermahnung	NN	Duden	tu_5_xTok_000100
+noch	noch	KON	Duden	tu_5_xTok_000103
+Gerichtliche	gerichtlich	ADJA	Duden	tu_5_xTok_000105
+Bestraffung	Bestrafung	NN	Duden	tu_5_xTok_000107
+etwas	etwas	PIS	Duden	tu_5_xTok_000109
+bey	bei	APPR	Duden	tu_5_xTok_000111
+ihme	er	PPER	Duden	tu_5_xTok_000113
+fruchten	fruchten	VVINF	Duden	tu_5_xTok_000115
+wollen	wollen	VMINF	Duden	tu_5_xTok_000116
+<g/>
+/
+über	über	APPR	Duden	tu_5_xTok_000120
+dises	diese	PDAT	Duden	tu_5_xTok_000122
+alles	all	PIS	Duden	tu_5_xTok_000124
+noch	noch	ADV	Duden	tu_5_xTok_000126
+die	d	ART	Duden	tu_5_xTok_000128
+vou	von	APPR	Duden	tu_5_xTok_000130
+ihme	er	PPER	Duden	tu_5_xTok_000132
+hinterlassene	hinterlassen	ADJA	Duden	tu_5_xTok_000134
+und	und	KON	Duden	tu_5_xTok_000136
+zu	zu	APPR	Duden	tu_5_xTok_000137
+dreymalen	dreimal	ADV	Duden	tu_5_xTok_000139
+abgeschworne	abschwören	ADJA	Duden	tu_5_xTok_000141
+Urphed	Urfehde	NN	Duden	tu_5_xTok_000143
+freventlich	freventlich	ADJD	Duden	tu_5_xTok_000145
+gebrochen	brechen	VVPP	Duden	tu_5_xTok_000147
+<g/>
+.
+Als	als	ADV	Duden	tu_5_xTok_000149
+wird	werden	VAFIN	Duden	tu_5_xTok_000151
+derselbe	derselbe	PDS	Duden	tu_5_xTok_000153
+allen	all	PIAT	Duden	tu_5_xTok_000155
+anderen	ander	PIS	Duden	tu_5_xTok_000157
+seines gleichen	seinesgleichen	PIS		tu_5_xTok_000159
+zu	zu	APPR	Duden	tu_5_xTok_000163
+einem	ein	ART	Duden	tu_5_xTok_000165
+Beyspiel	Beispiel	NN	Duden	tu_5_xTok_000167
+<g/>
+/
+heute	heute	ADV	Duden	tu_5_xTok_000170
+Dienstag	Dienstag	NN	Duden	tu_5_xTok_000172
+den	d	ART	Duden	tu_5_xTok_000174
+<date id="date5">
+15.	15	ADJA		tu_5_xTok_000176
+Febr.	Februar	NN	Duden	tu_5_xTok_000179
+1735.	1735	CARD		tu_5_xTok_000182
+</date>
+vor	vor	APPR	Duden	tu_5_xTok_000184
+dem	d	ART	Duden	tu_5_xTok_000186
+Schotten=Thorr̅	Schottentor	NE::top	oov	tu_5_xTok_000188
+mit	mit	APPR	Duden	tu_5_xTok_000189
+dem	d	ART	Duden	tu_5_xTok_000191
+Schwerd	Schwert	NN	Duden	tu_5_xTok_000193
+vom	vom	APPRART	Duden	tu_5_xTok_000195
+Leben	Leben	NN	Duden	tu_5_xTok_000197
+zum	zum	APPRART	Duden	tu_5_xTok_000199
+Todt	Tod	NN	Duden	tu_5_xTok_000201
+hingerichtet	hinrichten	VVPP	Duden	tu_5_xTok_000203
+werden	werden	VAINF	Duden	tu_5_xTok_000204
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+NB.	Notabene	NN	Duden	tu_5_xTok_000206
+Der	d	ART	Duden	tu_5_xTok_000209
+Auszug	Auszug	NN	Duden	tu_5_xTok_000211
+aus	aus	APPR	Duden	tu_5_xTok_000213
+dem	d	ART	Duden	tu_5_xTok_000215
+Vrtheil	Urteil	NN	Duden	tu_5_xTok_000217
+dises	diese	PDAT	Duden	tu_5_xTok_000219
+Delinquenten	Delinquent	NN	Duden	tu_5_xTok_000221
+ist	sein	VAFIN	Duden	tu_5_xTok_000224
+hierinnen	hierinnen	PAV	Duden	tu_5_xTok_000226
+etwas	etwas	ADV	Duden	tu_5_xTok_000229
+außführlicher	ausführlich	ADJD	Duden	tu_5_xTok_000231
+zu	zu	PTKZU	Duden	tu_5_xTok_000233
+vernehmen	vernehmen	VVINF	Duden	tu_5_xTok_000235
+<g/>
+.
+</titlePart>
 <head>
 Das	d	ART	Duden	tu_5_xTok_000252
 Verbrechen	Verbrechen	NN	Duden	tu_5_xTok_000255
@@ -137,6 +278,7 @@ zweyen	zwei	CARD	Duden	tu_5_xTok_000509
 unterschidlichen	unterschiedlich	ADJA	Duden	tu_5_xTok_000511
 Orten	Ort	NN	Duden	tu_5_xTok_000513
 begangenen	begehen	ADJA	Duden	tu_5_xTok_000515
+mamhafft=	namhaft	ADJA	Duden	tu_5_xTok_000517
 sehr	sehr	ADV	Duden	tu_5_xTok_000520
 übel	übel	ADJD	Duden	tu_5_xTok_000522
 qualificirten	qualifiziert	ADJA	Duden	tu_5_xTok_000524

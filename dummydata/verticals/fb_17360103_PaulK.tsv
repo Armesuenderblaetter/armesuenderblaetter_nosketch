@@ -1,4 +1,163 @@
 <doc id="fb_17360103_PaulK" delinquent_sexes="male" title="Todesurteil Paul K." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Rechtmässiges	rechtmäßig	ADJA	Duden	tu_9_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_9_xTok_000002
+<g/>
+/
+Welches	welch	PRELS	Duden	tu_9_xTok_000008
+vollzogen	vollziehen	VVPP	Duden	tu_9_xTok_000010
+wird	werden	VAFIN	Duden	tu_9_xTok_000012
+heute	heute	ADV	Duden	tu_9_xTok_000014
+Dienstag	Dienstag	NN	Duden	tu_9_xTok_000016
+den̅	d	ART	Duden	tu_9_xTok_000018
+<date id="date9">
+3ten	3	ADJA		tu_9_xTok_000019
+Januarij	Januar	NN	Duden	tu_9_xTok_000022
+1736.	1736	CARD		tu_9_xTok_000024
+</date>
+an	an	APPR	Duden	tu_9_xTok_000026
+einer	ein	ART	Duden	tu_9_xTok_000028
+verheyratheten	verheiratet	ADJA	Duden	tu_9_xTok_000030
+Manns=Persohn	Mannsperson	NN	Duden	tu_9_xTok_000031
+<g/>
+/
+Nahmens	namens	ADV	Duden	tu_9_xTok_000035
+<persName id="paulk9">
+Paul	Paul	NE	Duden	tu_9_xTok_000036
+K.	K.	NE	oov	tu_9_xTok_000039
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_9_xTok_000041
+Religion	Religion	NN	Duden	tu_9_xTok_000043
+<g/>
+/
+bey	bei	APPR	Duden	tu_9_xTok_000047
+4.	54	TRUNC		tu_9_xTok_000049
+oder	oder	KON	Duden	tu_9_xTok_000052
+55.	55	CARD		tu_9_xTok_000054
+Jahr	Jahr	NN	Duden	tu_9_xTok_000057
+alt	alt	ADJD	Duden	tu_9_xTok_000058
+<g/>
+/
+zu	zu	APPR	Duden	tu_9_xTok_000062
+<placeName id="pn9">
+Stamerstorff	Stammersdorf	NE::top	oov	tu_9_xTok_000064
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_9_xTok_000066
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Dieweilen	dieweilen	KOUS	Duden	tu_9_xTok_000068
+derselbe	derselbe	PDS	Duden	tu_9_xTok_000070
+wegen	wegen	APPR	Duden	tu_9_xTok_000072
+vielfältig	vielfältig	ADJA	Duden	tu_9_xTok_000074
+hin=	hin	ADV	Duden	tu_9_xTok_000076
+und	und	KON	Duden	tu_9_xTok_000078
+wieder	wieder	ADV	Duden	tu_9_xTok_000080
+begangenen	begehen	ADJA	Duden	tu_9_xTok_000082
+Diebstählen	Diebstahl	NN	Duden	tu_9_xTok_000083
+zu	zu	APPR	Duden	tu_9_xTok_000085
+drey	drei	CARD	Duden	tu_9_xTok_000087
+verschiedenen	verschieden	ADJA	Duden	tu_9_xTok_000089
+mahlen	Mal	NN	Duden	tu_9_xTok_000091
+des	d	ART	Duden	tu_9_xTok_000093
+gantzen	ganz	ADJA	Duden	tu_9_xTok_000095
+Landes	Land	NN	Duden	tu_9_xTok_000097
+Oesterreich	Österreich	NE::top	Duden	tu_9_xTok_000098
+<g/>
+/
+wie	wie	KOKOM	Duden	tu_9_xTok_000102
+auch	auch	ADV	Duden	tu_9_xTok_000104
+des	d	ART	Duden	tu_9_xTok_000106
+Kayserl.	kaiserlich	ADJA	Duden	tu_9_xTok_000108
+Hof=Lagers	Hoflager	NN	Duden	tu_9_xTok_000111
+auf	auf	APPR	Duden	tu_9_xTok_000113
+ewig	ewig	ADJD	Duden	tu_9_xTok_000115
+verwiesen	verweisen	VVPP	Duden	tu_9_xTok_000117
+<g/>
+/
+annebens	anneben	ADV	DWB	tu_9_xTok_000122
+mittler Weil	mittlerweile	ADV		tu_9_xTok_000124
+mit	mit	APPR	Duden	tu_9_xTok_000128
+einem	ein	ART	Duden	tu_9_xTok_000130
+gantzen	ganz	ADJA	Duden	tu_9_xTok_000132
+Schilling	Schilling	NN	Duden	tu_9_xTok_000134
+abgefertiget	abfertigen	VVPP	Duden	tu_9_xTok_000136
+<g/>
+/
+letztlichen	letztlich	ADV	Duden	tu_9_xTok_000141
+aber	aber	ADV	Duden	tu_9_xTok_000143
+auf	auf	APPR	Duden	tu_9_xTok_000145
+6.	6	CARD		tu_9_xTok_000147
+Jahr	Jahr	NN	Duden	tu_9_xTok_000150
+lang	lang	ADJD	Duden	tu_9_xTok_000152
+nacher	nacher	APPR	DWB	tu_9_xTok_000154
+Raab	Raab	NE::top	Duden	tu_9_xTok_000156
+in	in	APPR	Duden	tu_9_xTok_000158
+Band	Band	NN	Duden	tu_9_xTok_000160
+und	und	KON	Duden	tu_9_xTok_000161
+Eisen	Eisen	NN	Duden	tu_9_xTok_000163
+zur	zur	APPRART	Duden	tu_9_xTok_000165
+Arbeith	Arbeit	NN	Duden	tu_9_xTok_000167
+verschafft	verschaffen	VVPP	Duden	tu_9_xTok_000169
+worden	werden	VAPP	Duden	tu_9_xTok_000171
+<g/>
+/
+deme	d	PDS	Duden	tu_9_xTok_000175
+ungehindert	ungehindert	ADJD	Duden	tu_9_xTok_000177
+aber	aber	ADV	Duden	tu_9_xTok_000179
+sich	sich	PRF	Duden	tu_9_xTok_000181
+hierüber	hierüber	PAV	Duden	tu_9_xTok_000183
+mehrmalen	mehrmalen	ADV	DWB	tu_9_xTok_000185
+Urpheds=Brüchig	urfehdebrüchig	ADJD	oov	tu_9_xTok_000187
+eingefunden	einfinden	VVPP	Duden	tu_9_xTok_000189
+<g/>
+;
+Als	als	ADV	Duden	tu_9_xTok_000191
+wird	werden	VAFIN	Duden	tu_9_xTok_000193
+derselbe	derselbe	PDS	Duden	tu_9_xTok_000195
+vor	vor	APPR	Duden	tu_9_xTok_000197
+dem	d	ART	Duden	tu_9_xTok_000199
+Schotten=Thor	Schottentor	NE::top	oov	tu_9_xTok_000201
+<g/>
+/
+auf	auf	APPR	Duden	tu_9_xTok_000205
+alldasigem	alldasig	ADJA	oov	tu_9_xTok_000207
+Raabenstein	Rabenstein	NN	Duden	tu_9_xTok_000209
+allen	all	PIAT	Duden	tu_9_xTok_000212
+anderen	ander	PIS	Duden	tu_9_xTok_000214
+zu	zu	APPR	Duden	tu_9_xTok_000216
+einem	ein	ART	Duden	tu_9_xTok_000218
+Beyspiel	Beispiel	NN	Duden	tu_9_xTok_000220
+mit	mit	APPR	Duden	tu_9_xTok_000222
+dem	d	ART	Duden	tu_9_xTok_000224
+Schwerd	Schwert	NN	Duden	tu_9_xTok_000226
+vom	vom	APPRART	Duden	tu_9_xTok_000227
+Leben	Leben	NN	Duden	tu_9_xTok_000229
+zum	zum	APPRART	Duden	tu_9_xTok_000231
+Todt	Tod	NN	Duden	tu_9_xTok_000233
+hingerichtet	hinrichten	VVPP	Duden	tu_9_xTok_000235
+werden	werden	VAINF	Duden	tu_9_xTok_000237
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+NB.	Notabene	NN	Duden	tu_9_xTok_000239
+Das	d	ART	Duden	tu_9_xTok_000242
+mehrere	mehrere	PIAT	Duden	tu_9_xTok_000244
+Verbrechen	Verbrechen	NN	Duden	tu_9_xTok_000246
+dieses	diese	PDAT	Duden	tu_9_xTok_000248
+Delinquenten	Delinquent	NN	Duden	tu_9_xTok_000250
+ist	sein	VAFIN	Duden	tu_9_xTok_000253
+ausführlich	ausführlich	ADJD	Duden	tu_9_xTok_000255
+in	in	APPR	Duden	tu_9_xTok_000256
+beygesetzten	beisetzen	ADJA	Duden	tu_9_xTok_000258
+Versen	Vers	NN	Duden	tu_9_xTok_000260
+zu	zu	PTKZU	Duden	tu_9_xTok_000262
+ersehen	ersehen	VVINF	Duden	tu_9_xTok_000264
+<g/>
+.
+</titlePart>
 <lg type="poem">
 <lg type="stanza">
 <head>

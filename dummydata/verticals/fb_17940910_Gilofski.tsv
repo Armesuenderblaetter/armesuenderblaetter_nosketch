@@ -1,4 +1,21 @@
 <doc id="fb_17940910_Gilofski" delinquent_sexes="male" title="Beschreibung der Hinrichtung von Gilofski" attrs="word lemma pos vocab id">
+<titlePart type="main">
+Auf	auf	APPR	Duden	tu_132_xTok_000001
+<persName id="gilofski132">
+Gilofski's	Gilofski	NE	oov	tu_132_xTok_000003
+</persName>
+Tod	Tod	NN	Duden	tu_132_xTok_000005
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Den	d	ART	Duden	tu_132_xTok_000007
+<date id="date132">
+10ten	10	ADJA		tu_132_xTok_000009
+September	September	NN	Duden	tu_132_xTok_000012
+1794.	1794	CARD		tu_132_xTok_000014
+</date>
+</titlePart>
 <head>
 Liebe	lieb	ADJA	Duden	tu_132_xTok_000018
 Mitbürger	Mitbürger	NN	Duden	tu_132_xTok_000020

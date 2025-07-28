@@ -1,4 +1,152 @@
 <doc id="fb_17611024_GregoriusBacza_Mat" delinquent_sexes="misc" title="Todesurteile Gregorius Bacza, Mathias Kovács, Georgius Pávelka, Anna Sávolyi,Eva Kiss" attrs="word lemma pos vocab id">
+<titlePart>
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_83_xTok_000001
+Todes=Urtheil	Todesurteil	NN	Duden	tu_83_xTok_000002
+<g/>
+/
+Dreyer	drei	CARD	Duden	tu_83_xTok_000010
+verheyrathen	verheiratet	ADJA	Duden	tu_83_xTok_000012
+Manns Personen	Mannsperson	NN		tu_83_xTok_000014
+Namens	namens	ADV	Duden	tu_83_xTok_000017
+<g/>
+:
+<persName id="gregoriusbacza83">
+Gregorius	Gregorius	NE	Duden	tu_83_xTok_000019
+Bacza	Bacza	NE	oov	tu_83_xTok_000021
+</persName>
+<g/>
+,
+46.	46	CARD		tu_83_xTok_000024
+Jahr	Jahr	NN	Duden	tu_83_xTok_000026
+Calvinischer	calvinisch	ADJA	Duden	tu_83_xTok_000028
+Rel.	Religion	NN	Duden	tu_83_xTok_000030
+Ein	ein	ART	Duden	tu_83_xTok_000033
+Zigeiner	Zigeuner	NN	Duden	tu_83_xTok_000035
+<g/>
+,
+<persName id="mathiaskovacs83">
+Mathias	Matthias	NE	Duden	tu_83_xTok_000037
+Kovács	Kovács	NE	oov	tu_83_xTok_000039
+</persName>
+<g/>
+,
+32.	32	CARD		tu_83_xTok_000042
+Jahr	Jahr	NN	Duden	tu_83_xTok_000044
+Catholischer	katholisch	ADJA	Duden	tu_83_xTok_000046
+Relig.	Religion	NN	Duden	tu_83_xTok_000048
+Und	und	KON	Duden	tu_83_xTok_000051
+<persName id="georgiuspavelka83">
+Georgius	Georgius	NE	Duden	tu_83_xTok_000052
+Pávelka	Pávelka	NE	oov	tu_83_xTok_000054
+</persName>
+<g/>
+,
+30.	30	CARD		tu_83_xTok_000057
+Jahr	Jahr	NN	Duden	tu_83_xTok_000059
+<g/>
+.
+Catholischer	katholisch	ADJA	Duden	tu_83_xTok_000062
+Rel.	Religion	NN	Duden	tu_83_xTok_000064
+Welche	welch	PRELS	Duden	tu_83_xTok_000067
+Wegen	wegen	APPR	Duden	tu_83_xTok_000069
+ihren	ihr	PPOSAT	Duden	tu_83_xTok_000071
+Verbrechen	Verbrechen	NN	Duden	tu_83_xTok_000073
+<g/>
+/
+und	und	KON	Duden	tu_83_xTok_000077
+Diebstahlen	Diebstahl	NN	Duden	tu_83_xTok_000079
+von	von	APPR	Duden	tu_83_xTok_000081
+einem	ein	ART	Duden	tu_83_xTok_000083
+Löbl.	löblich	ADJA	Duden	tu_83_xTok_000085
+Pester=	Pester	ADJA	oov	tu_83_xTok_000088
+Comitat	Komitat	NN	Duden	tu_83_xTok_000088b
+verurtheilet	verurteilen	VVPP	Duden	tu_83_xTok_000091
+<g/>
+/
+und	und	KON	Duden	tu_83_xTok_000095
+mit	mit	APPR	Duden	tu_83_xTok_000097
+dem	d	ART	Duden	tu_83_xTok_000099
+Strang	Strang	NN	Duden	tu_83_xTok_000101
+Vom	vom	APPRART	Duden	tu_83_xTok_000103
+Leben	Leben	NN	Duden	tu_83_xTok_000105
+zum	zum	APPRART	Duden	tu_83_xTok_000107
+Tod	Tod	NN	Duden	tu_83_xTok_000109
+hingerichtet	hinrichten	VVPP	Duden	tu_83_xTok_000111
+worden	werden	VAPP	Duden	tu_83_xTok_000113
+<g/>
+,
+</titlePart>
+<titlePart>
+Wie	wie	KOKOM	Duden	tu_83_xTok_000116
+auch	auch	ADV	Duden	tu_83_xTok_000118
+Zweyer	zwei	ADJA	Duden	tu_83_xTok_000120
+verheyrathen	verheiratet	ADJA	Duden	tu_83_xTok_000122
+Weibs=Personen	Weibsperson	NN	Duden	tu_83_xTok_000124
+Namens	namens	ADV	Duden	tu_83_xTok_000125
+<g/>
+:
+<persName id="annasavolyi83">
+Anna	Anna	NE	Duden	tu_83_xTok_000127
+Sávolyi	Sávolyi	NE	oov	tu_83_xTok_000129
+</persName>
+<g/>
+,
+54.	54	CARD		tu_83_xTok_000132
+Jahr	Jahr	NN	Duden	tu_83_xTok_000134
+Catholischer	katholisch	ADJA	Duden	tu_83_xTok_000136
+Religion	Religion	NN	Duden	tu_83_xTok_000138
+<g/>
+.
+Und	und	KON	Duden	tu_83_xTok_000140
+<persName id="evakiss83">
+Eva	Eva	NE	Duden	tu_83_xTok_000142
+Kiss	Kiss	NE	oov	tu_83_xTok_000144
+</persName>
+<g/>
+,
+25.	25	CARD		tu_83_xTok_000147
+Jahr	Jahr	NN	Duden	tu_83_xTok_000150
+Calvinischer	calvinisch	ADJA	Duden	tu_83_xTok_000152
+Religion	Religion	NN	Duden	tu_83_xTok_000154
+<g/>
+.
+So	so	PRELS	Duden	tu_83_xTok_000156
+Heut	heute	ADV	Duden	tu_83_xTok_000158
+dato	dato	ADV	Duden	tu_83_xTok_000160
+den	d	ART	Duden	tu_83_xTok_000162
+<date id="date83">
+24.	24	ADJA		tu_83_xTok_000164
+October	Oktober	NN	Duden	tu_83_xTok_000166
+1761.	1761	CARD		tu_83_xTok_000168
+</date>
+innbemeldt=	inbemeldet	ADJA	oov	tu_83_xTok_000171
+begangenen	begehen	ADJA	Duden	tu_83_xTok_000173
+Verbrechen	Verbrechen	NN	Duden	tu_83_xTok_000175
+halber	halber	APPO	Duden	tu_83_xTok_000177
+bey	bei	APPR	Duden	tu_83_xTok_000179
+dem	d	ART	Duden	tu_83_xTok_000181
+Löbl.	löblich	ADJA	Duden	tu_83_xTok_000183
+Pester=	Pester	ADJA	oov	tu_83_xTok_000186
+Comitat	Komitat	NN	Duden	tu_83_xTok_000186b
+Gericht	Gericht	NN	Duden	tu_83_xTok_000189
+mit	mit	APPR	Duden	tu_83_xTok_000191
+dem	d	ART	Duden	tu_83_xTok_000193
+Schwerd	Schwert	NN	Duden	tu_83_xTok_000195
+vom	vom	APPRART	Duden	tu_83_xTok_000197
+Leben	Leben	NN	Duden	tu_83_xTok_000199
+zum	zum	APPRART	Duden	tu_83_xTok_000201
+Todt	Tod	NN	Duden	tu_83_xTok_000203
+hingerichtet	hinrichten	VVPP	Duden	tu_83_xTok_000205
+worden	werden	VAPP	Duden	tu_83_xTok_000207
+<g/>
+.
+</titlePart>
+Mit	mit	APPR	Duden	tu_83_xTok_000209
+Erlaubnuß	Erlaubnis	NN	Duden	tu_83_xTok_000211
+deren	d	PDAT	Duden	tu_83_xTok_000213
+Obern	Obere	NN	Duden	tu_83_xTok_000215
+<g/>
+.
 <head>
 Das	d	ART	Duden	tu_83_xTok_000217
 Urtheil	Urteil	NN	Duden	tu_83_xTok_000219
@@ -171,6 +319,7 @@ selbe	selbe	PDS	Duden	tu_83_xTok_000500
 seinen	sein	PPOSAT	Duden	tu_83_xTok_000502
 schon	schon	ADV	Duden	tu_83_xTok_000504
 obbemeldten	obbemeldet	ADJA	oov	tu_83_xTok_000506
+Cameradne	Kamerad	NN	Duden	tu_83_xTok_000508
 übermachet	übermachen	VVPP	Duden	tu_83_xTok_000511
 <g/>
 .
@@ -202,6 +351,7 @@ bey	bei	APPR	Duden	tu_83_xTok_000547
 nächtlicher Weile	nächtlicherweile	ADV		tu_83_xTok_000549
 2.	2	CARD		tu_83_xTok_000552
 Pferde	Pferd	NN	Duden	tu_83_xTok_000554
+entfremden	entfremden	VVPP	Duden	tu_83_xTok_000556
 <g/>
 .
 </p>
@@ -264,6 +414,7 @@ diese	diese	PDAT	Duden	tu_83_xTok_000649
 obbemeldte	obbemeldet	ADJA	oov	tu_83_xTok_000651
 Person	Person	NN	Duden	tu_83_xTok_000653
 Gregorius	Gregorius	NE	Duden	tu_83_xTok_000654
+Stacza	Bacza	NE	oov	tu_83_xTok_000657
 hinführo	hinfüro	ADV	DWB	tu_83_xTok_000659
 GOtt	Gott	NN	Duden	tu_83_xTok_000661
 dem	d	ART	Duden	tu_83_xTok_000663
@@ -534,6 +685,7 @@ ersten	erste	ADJ-NN	Duden	tu_83_xTok_001100
 durch	durch	APPR	Duden	tu_83_xTok_001101
 das	d	ART	Duden	tu_83_xTok_001103
 Schwerd	Schwert	NN	Duden	tu_83_xTok_001105
+megen	wegen	APPR	Duden	tu_83_xTok_001107
 ihren	ihr	PPOSAT	Duden	tu_83_xTok_001109
 Diebstahl	Diebstahl	NN	Duden	tu_83_xTok_001111
 sollen	sollen	VMFIN	Duden	tu_83_xTok_001113
@@ -833,6 +985,7 @@ Kiss	Kiss	NE	oov	tu_83_xTok_001612
 ,
 und	und	KON	Duden	tu_83_xTok_001615
 Anna	Anna	NE	Duden	tu_83_xTok_001617
+Salvolyi	Salvolyi	NE	oov	tu_83_xTok_001619
 <g/>
 ,
 schon	schon	ADV	Duden	tu_83_xTok_001624
@@ -1006,6 +1159,7 @@ Sávolyi	Sávolyi	NE	oov	tu_83_xTok_001917
 durch	durch	APPR	Duden	tu_83_xTok_001919
 das	d	ART	Duden	tu_83_xTok_001921
 Schwerd	Schwert	NN	Duden	tu_83_xTok_001923
+des	d	ART	Duden	tu_83_xTok_001925
 Freymanns	Freimann	NN	DWB	tu_83_xTok_001928
 Georgius	Georgius	NE	oov	tu_83_xTok_001930
 Pávelka	Pávelka	NE	oov	tu_83_xTok_001932

@@ -1,4 +1,121 @@
 <doc id="fb_17350720_CasparB" delinquent_sexes="male" title="Todesurteil Caspar B." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_6_xTok_000002
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_6_xTok_000003
+Des	d	ART	Duden	tu_6_xTok_000007
+sogenannten	sogenannt	ADJA	Duden	tu_6_xTok_000009
+<persName id="casparb6">
+Langen	lang	ADJA	Duden	tu_6_xTok_000010
+Caspars	Caspar	NE	oov	tu_6_xTok_000013
+B.	B.	NE	oov	tu_6_xTok_000016
+</persName>
+Welches	welch	PRELS	Duden	tu_6_xTok_000018
+vollzohen	vollziehen	VVPP	Duden	tu_6_xTok_000020
+wird	werden	VAFIN	Duden	tu_6_xTok_000022
+heute	heute	ADV	Duden	tu_6_xTok_000024
+Den	d	ART	Duden	tu_6_xTok_000025
+<date id="date6">
+20.	20	ADJA		tu_6_xTok_000027
+Julij	Juli	NN	Duden	tu_6_xTok_000030
+1735.	1735	CARD		tu_6_xTok_000032
+</date>
+Auf	auf	APPR	Duden	tu_6_xTok_000034
+dem	d	ART	Duden	tu_6_xTok_000036
+Wienner=Berg	Wienerberg	NE::top	oov	tu_6_xTok_000038
+<g/>
+/
+</titlePart>
+<titlePart type="main">
+Bey	bei	APPR	Duden	tu_6_xTok_000041
+alldasigen	alldasig	ADJA	oov	tu_6_xTok_000043
+Räder=Creutz	Räderkreuz	NN	oov	tu_6_xTok_000045
+<g/>
+/
+allwohin	allwohin	PWAV	oov	tu_6_xTok_000049
+derselbe	derselbe	PDS	Duden	tu_6_xTok_000051
+von	von	APPR	Duden	tu_6_xTok_000054
+der	d	ART	Duden	tu_6_xTok_000056
+allhiesigen	allhiesig	ADJA	DWB	tu_6_xTok_000058
+Schrannen	Schranne	NN	DRW	tu_6_xTok_000060
+aus	aus	APZR	Duden	tu_6_xTok_000062
+<g/>
+/
+auf	auf	APPR	Duden	tu_6_xTok_000066
+dem	d	ART	Duden	tu_6_xTok_000068
+hohen	hoch	ADJA	Duden	tu_6_xTok_000069
+Wagen	Wagen	NN	Duden	tu_6_xTok_000071
+geführt	führen	VVPP	Duden	tu_6_xTok_000073
+<g/>
+/
+und	und	KON	Duden	tu_6_xTok_000077
+an	an	APPR	Duden	tu_6_xTok_000079
+obbemeltem	obbemeldet	ADJA	oov	tu_6_xTok_000081
+Gerichts=Orth	Gerichtsort	NN	Duden	tu_6_xTok_000083
+mit	mit	APPR	Duden	tu_6_xTok_000084
+dem	d	ART	Duden	tu_6_xTok_000086
+Schwerdt	Schwert	NN	Duden	tu_6_xTok_000088
+vom	vom	APPRART	Duden	tu_6_xTok_000090
+Leben	Leben	NN	Duden	tu_6_xTok_000092
+zum	zum	APPRART	Duden	tu_6_xTok_000094
+Todt	Tod	NN	Duden	tu_6_xTok_000096
+wird	werden	VAFIN	Duden	tu_6_xTok_000098
+hingerichtet	hinrichten	VVPP	Duden	tu_6_xTok_000100
+<g/>
+/
+dessen	d	PDAT	Duden	tu_6_xTok_000104
+Cörper	Körper	NN	Duden	tu_6_xTok_000106
+aber	aber	ADV	Duden	tu_6_xTok_000109
+auf	auf	APPR	Duden	tu_6_xTok_000111
+das	d	ART	Duden	tu_6_xTok_000113
+Rad	Rad	NN	Duden	tu_6_xTok_000115
+geleget	legen	VVPP	Duden	tu_6_xTok_000117
+<g/>
+/
+der	d	ART	Duden	tu_6_xTok_000121
+Kopff	Kopf	NN	Duden	tu_6_xTok_000123
+aufgestecket	aufstecken	VVPP	Duden	tu_6_xTok_000125
+<g/>
+/
+und	und	KON	Duden	tu_6_xTok_000129
+hierüber	hierüber	PAV	Duden	tu_6_xTok_000131
+ein	ein	ART	Duden	tu_6_xTok_000132
+Galgen	Galgen	NN	Duden	tu_6_xTok_000134
+mit	mit	APPR	Duden	tu_6_xTok_000136
+abhangenden	abhangen	ADJA	Duden	tu_6_xTok_000138
+Strang	Strang	NN	Duden	tu_6_xTok_000140
+gemacht	machen	VVPP	Duden	tu_6_xTok_000142
+werden	werden	VAINF	Duden	tu_6_xTok_000144
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Allen	all	PIAT	Duden	tu_6_xTok_000146
+anderen	ander	PIS	Duden	tu_6_xTok_000148
+seines gleichen	seinesgleichen	PIS		tu_6_xTok_000150
+zu	zu	APPR	Duden	tu_6_xTok_000154
+einem	ein	ART	Duden	tu_6_xTok_000156
+Beyspiel	Beispiel	NN	Duden	tu_6_xTok_000158
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+NB.	Notabene	NN	Duden	tu_6_xTok_000160
+Der	d	ART	Duden	tu_6_xTok_000163
+Außzug	Auszug	NN	Duden	tu_6_xTok_000165
+des	d	ART	Duden	tu_6_xTok_000167
+Verbrechen	Verbrechen	NN	Duden	tu_6_xTok_000169
+dieses	diese	PDAT	Duden	tu_6_xTok_000171
+Maleficanten	Malefikant	NN	Duden	tu_6_xTok_000173
+<g/>
+/
+ist	sein	VAFIN	Duden	tu_6_xTok_000178
+hierinnen	hierinnen	PAV	Duden	tu_6_xTok_000180
+ausführlich	ausführlich	ADJD	Duden	tu_6_xTok_000181
+zu	zu	PTKZU	Duden	tu_6_xTok_000183
+vernehmen	vernehmen	VVINF	Duden	tu_6_xTok_000185
+<g/>
+.
+</titlePart>
 <p id="fb_17350720_CasparB_p_0001">
 Heut	heute	ADV	Duden	tu_6_xTok_000204
 dato	dato	ADV	Duden	tu_6_xTok_000207
@@ -20,6 +137,7 @@ Religion	Religion	NN	Duden	tu_6_xTok_000237
 <g/>
 ,
 und	und	KON	Duden	tu_6_xTok_000240
+hey	bei	APPR	Duden	tu_6_xTok_000242
 40.	40	CARD		tu_6_xTok_000244
 Jahr	Jahr	NN	Duden	tu_6_xTok_000246
 alt	alt	ADJD	Duden	tu_6_xTok_000248
@@ -231,6 +349,7 @@ Ringen	Ring	NN	Duden	tu_6_xTok_000607
 <g/>
 /
 und	und	KON	Duden	tu_6_xTok_000611
+wessles	weslich	ADJA	DWB	tu_6_xTok_000613
 Zeug	Zeug	NN	Duden	tu_6_xTok_000615
 ein	ein	ART	Duden	tu_6_xTok_000617
 namhafftes	namhaft	ADJ-NN	Duden	tu_6_xTok_000619

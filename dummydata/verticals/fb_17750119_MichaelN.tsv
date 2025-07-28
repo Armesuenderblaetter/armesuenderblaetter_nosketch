@@ -1,4 +1,57 @@
 <doc id="fb_17750119_MichaelN" delinquent_sexes="male" title="Todesurteil Michael N." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todtesurtheil	Todesurteil	NN	Duden	tu_110_xTok_000001
+<g/>
+,
+nebst	nebst	APPR	Duden	tu_110_xTok_000003
+anhangenden	anhangen	ADJA	Duden	tu_110_xTok_000005
+Verbrechen	Verbrechen	NN	Duden	tu_110_xTok_000007
+<g/>
+,
+welches	welch	PRELS	Duden	tu_110_xTok_000011
+an	an	APPR	Duden	tu_110_xTok_000013
+den	d	ART	Duden	tu_110_xTok_000015
+bey	bei	APPR	Duden	tu_110_xTok_000017
+dem	d	ART	Duden	tu_110_xTok_000019
+Landgericht	Landgericht	NN	Duden	tu_110_xTok_000021
+der	d	ART	Duden	tu_110_xTok_000023
+Graffschaft	Grafschaft	NN	Duden	tu_110_xTok_000025
+Wäxenberg	Waxenberg	NE::top	oov	tu_110_xTok_000027
+processirten	prozessieren	ADJA	Duden	tu_110_xTok_000042
+<persName id="michaeln110">
+Michael	Michael	NE	Duden	tu_110_xTok_000045
+N.	N.	NE	oov	tu_110_xTok_000047
+vulgo	vulgo	ADV	Duden	tu_110_xTok_000050
+Ländlermichael	Ländlermichael	NE	oov	tu_110_xTok_000053
+</persName>
+21.	21	CARD		tu_110_xTok_000055
+Jahr	Jahr	NN	Duden	tu_110_xTok_000057
+alt	alt	ADJD	Duden	tu_110_xTok_000059
+<g/>
+,
+und	und	KON	Duden	tu_110_xTok_000062
+von	von	APPR	Duden	tu_110_xTok_000064
+der	d	ART	Duden	tu_110_xTok_000066
+<placeName id="pn110">
+Stift	Stift	NN	Duden	tu_110_xTok_000068
+Florianischen	Florianisch	ADJA	oov	tu_110_xTok_000070
+Verwaltung	Verwaltung	NN	Duden	tu_110_xTok_000072
+St. Peter	St.Peter	NE::top		tu_110_xTok_000075
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_110_xTok_000080
+<g/>
+,
+den	d	ART	Duden	tu_110_xTok_000083
+<date id="date110">
+19ten	19	ADJA		tu_110_xTok_000085
+Jenner	Jänner	NN	Duden	tu_110_xTok_000088
+1775.	1775	CARD		tu_110_xTok_000090
+</date>
+vollzogen	vollziehen	VVPP	Duden	tu_110_xTok_000092
+wirdet	werden	VAFIN	Duden	tu_110_xTok_000095
+<g/>
+.
+</titlePart>
 <head>
 Jnhalt	Inhalt	NN	Duden	tu_110_xTok_000098
 seines	sein	PPOSAT	Duden	tu_110_xTok_000100
@@ -702,6 +755,7 @@ Grein	Grein	NE::top	oov	tu_110_xTok_001232
 Tagszeit	Tageszeit	NN	Duden	tu_110_xTok_001235
 aus	aus	APPR	Duden	tu_110_xTok_001237
 einem	ein	ART	Duden	tu_110_xTok_001239
+ohngesprrten	ungesperrt	ADJA	oov	tu_110_xTok_001241
 Kasten	Kasten	NN	Duden	tu_110_xTok_001243
 an	an	APPR	Duden	tu_110_xTok_001244
 Leinwath	Leinwand	NN	Duden	tu_110_xTok_001246

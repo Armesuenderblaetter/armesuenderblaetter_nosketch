@@ -1,4 +1,110 @@
 <doc id="fb_17540403_JohannK" delinquent_sexes="male" title="Todesurteil Johann K." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_57_xTok_000002
+Einer	ein	ART	Duden	tu_57_xTok_000006
+ledigen	ledig	ADJA	Duden	tu_57_xTok_000008
+Manns=Person	Mannsperson	NN	Duden	tu_57_xTok_000010
+Namens	namens	ADV	Duden	tu_57_xTok_000011
+<persName id="johannk57">
+Johann	Johann	NE	Duden	tu_57_xTok_000012
+K.	K.	NE	oov	tu_57_xTok_000014
+</persName>
+19.	19	CARD		tu_57_xTok_000017
+Jahr	Jahr	NN	Duden	tu_57_xTok_000020
+alt	alt	ADJD	Duden	tu_57_xTok_000022
+<g/>
+,
+Von	von	APPR	Duden	tu_57_xTok_000024
+<placeName id="pn57">
+Neureisch	Neureisch	NE::top	oov	tu_57_xTok_000025
+aus	aus	APPR	Duden	tu_57_xTok_000027
+Mähren	Mähren	NE::top	Duden	tu_57_xTok_000029
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_57_xTok_000031
+<g/>
+,
+Catholischer	katholisch	ADJA	Duden	tu_57_xTok_000033
+Religion	Religion	NN	Duden	tu_57_xTok_000035
+<g/>
+:
+</titlePart>
+<titlePart type="main">
+Welche	welch	PRELS	Duden	tu_57_xTok_000037
+wegen	wegen	APPR	Duden	tu_57_xTok_000039
+begangenen	begehen	ADJA	Duden	tu_57_xTok_000041
+namhaften	namhaft	ADJA	Duden	tu_57_xTok_000043
+GeldDiebstahls	Gelddiebstahl	NN	DWB	tu_57_xTok_000045
+zufolge	zufolge	APPO	Duden	tu_57_xTok_000048
+dem	d	ART	Duden	tu_57_xTok_000050
+von	von	APPR	Duden	tu_57_xTok_000052
+dem	d	ART	Duden	tu_57_xTok_000054
+allhiesig	allhiesig	ADJA	DWB	tu_57_xTok_000056
+Kaiserl.	kaiserlich	ADJA	Duden	tu_57_xTok_000058
+Königl.	königlich	ADJA	Duden	tu_57_xTok_000061
+Stadt=	Stadtgericht	TRUNC	Duden	tu_57_xTok_000063
+und	und	KON	Duden	tu_57_xTok_000065
+Land=gericht	Landgericht	NN	Duden	tu_57_xTok_000067
+über	über	APPR	Duden	tu_57_xTok_000069
+den	d	ART	Duden	tu_57_xTok_000071
+wider	wider	APPR	Duden	tu_57_xTok_000073
+ihne	er	PPER	Duden	tu_57_xTok_000075
+allda	allda	ADV	Duden	tu_57_xTok_000077
+abgeführten	abführen	ADJA	DRW	tu_57_xTok_000079
+Criminal-Process	Kriminalprozess	NN	Duden	tu_57_xTok_000082
+geschöpft=	schöpfen	ADJA	Duden	tu_57_xTok_000084
+und	und	KON	Duden	tu_57_xTok_000086
+von	von	APPR	Duden	tu_57_xTok_000088
+hoher	hoch	ADJA	Duden	tu_57_xTok_000090
+Landes=fürstl.	landesfürstlich	ADJA	DWB	tu_57_xTok_000092
+Obrigkeit	Obrigkeit	NN	Duden	tu_57_xTok_000096
+bestättigte	bestätigen	ADJA	Duden	tu_57_xTok_000098
+End=urtheil	Endurteil	NN	Duden	tu_57_xTok_000100
+heut	heute	ADV	Duden	tu_57_xTok_000102
+den	d	ART	Duden	tu_57_xTok_000104
+<date id="date57">
+3.	3	ADJA		tu_57_xTok_000106
+April	April	NN	Duden	tu_57_xTok_000107
+1754.	1754	CARD		tu_57_xTok_000109
+</date>
+vor	vor	APPR	Duden	tu_57_xTok_000111
+dem	d	ART	Duden	tu_57_xTok_000113
+allhiesigen	allhiesig	ADJA	DWB	tu_57_xTok_000115
+Schotten=thor	Schottentor	NE::top	oov	tu_57_xTok_000117
+auf	auf	APPR	Duden	tu_57_xTok_000119
+dasiger	dasig	ADJA	Duden	tu_57_xTok_000121
+Richtstadt	Richtstatt	NN	DWB	tu_57_xTok_000124
+mit	mit	APPR	Duden	tu_57_xTok_000126
+dem	d	ART	Duden	tu_57_xTok_000128
+Strang	Strang	NN	Duden	tu_57_xTok_000130
+von	von	APPR	Duden	tu_57_xTok_000132
+dem	d	ART	Duden	tu_57_xTok_000134
+Leben	Leben	NN	Duden	tu_57_xTok_000136
+zum	zum	APPRART	Duden	tu_57_xTok_000138
+Tod	Tod	NN	Duden	tu_57_xTok_000139
+hingerichtet	hinrichten	VVPP	Duden	tu_57_xTok_000141
+wird	werden	VAFIN	Duden	tu_57_xTok_000143
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Jhme	er	PPER	Duden	tu_57_xTok_000145
+zur	zur	APPRART	Duden	tu_57_xTok_000147
+wolverdienten	wohlverdient	ADJA	Duden	tu_57_xTok_000149
+Straf	Strafe	NN	Duden	tu_57_xTok_000151
+<g/>
+/
+anderen	ander	PIS	Duden	tu_57_xTok_000155
+aber	aber	ADV	Duden	tu_57_xTok_000157
+zum	zum	APPRART	Duden	tu_57_xTok_000159
+erspieglenden	erspiegeln	ADJA	DWB	tu_57_xTok_000161
+Exempel	Exempel	NN	Duden	tu_57_xTok_000164
+<g/>
+,
+und	und	KON	Duden	tu_57_xTok_000167
+Abscheu	Abscheu	NN	Duden	tu_57_xTok_000169
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_57_xTok_000188
 des	d	ART	Duden	tu_57_xTok_000190
@@ -168,6 +274,7 @@ allhiesigen	allhiesig	ADJA	DWB	tu_57_xTok_000466
 Stadt=Banco	Stadtbanko	NN	oov	tu_57_xTok_000468
 nach	nach	APPR	Duden	tu_57_xTok_000471
 denen	d	ART	Duden	tu_57_xTok_000473
+Jnner=Oesterreischen	innerösterreichisch	ADJA	oov	tu_57_xTok_000475
 Landen	Land	NN	Duden	tu_57_xTok_000478
 abgeschicket	abschicken	VVPP	Duden	tu_57_xTok_000480
 zu	zu	PTKZU	Duden	tu_57_xTok_000482

@@ -1,4 +1,93 @@
 <doc id="fb_17730527_UrsulaW" delinquent_sexes="female" title="Todesurteil Ursula W." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_103_xTok_000001
+einer	ein	ART	Duden	tu_103_xTok_000003
+verheyratheten	verheiratet	ADJA	Duden	tu_103_xTok_000005
+Weibsperson	Weibsperson	NN	Duden	tu_103_xTok_000007
+Namens	namens	ADV	Duden	tu_103_xTok_000008
+<persName id="ursulaw103">
+Ursula	Ursula	NE	Duden	tu_103_xTok_000009
+W.	W.	NE	oov	tu_103_xTok_000011
+</persName>
+alt	alt	ADJD	Duden	tu_103_xTok_000013
+bey	bei	APPR	Duden	tu_103_xTok_000015
+25.	25	CARD		tu_103_xTok_000017
+Jahre	Jahr	NN	Duden	tu_103_xTok_000019
+<g/>
+,
+von	von	APPR	Duden	tu_103_xTok_000021
+<placeName id="pn103">
+Vötting	Vötting	NE::top	oov	tu_103_xTok_000023
+aus	aus	APPR	Duden	tu_103_xTok_000025
+Bayern	Bayern	NE::top	Duden	tu_103_xTok_000027
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_103_xTok_000029
+<g/>
+,
+katholischer	katholisch	ADJA	Duden	tu_103_xTok_000031
+Religion	Religion	NN	Duden	tu_103_xTok_000033
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_103_xTok_000035
+in	in	APPR	Duden	tu_103_xTok_000037
+Folge	Folge	NN	Duden	tu_103_xTok_000039
+der	d	ART	Duden	tu_103_xTok_000041
+bey	bei	APPR	Duden	tu_103_xTok_000043
+dem	d	ART	Duden	tu_103_xTok_000045
+allhiesigen	allhiesig	ADJA	DWB	tu_103_xTok_000047
+K.	kaiserlich	ADJA	Duden	tu_103_xTok_000049
+K.	königlich	ADJA	Duden	tu_103_xTok_000052
+Stadt	Stadtgericht	TRUNC	Duden	tu_103_xTok_000055
+und	und	KON	Duden	tu_103_xTok_000056
+Landgerichte	Landgericht	NN	Duden	tu_103_xTok_000058
+wider	wider	APPR	Duden	tu_103_xTok_000060
+sie	sie	PPER	Duden	tu_103_xTok_000062
+abgeführten	abführen	ADJA	DRW	tu_103_xTok_000064
+Criminal=Verfahrung	Kriminalverfahrung	NN	oov	tu_103_xTok_000066
+<g/>
+,
+und	und	KON	Duden	tu_103_xTok_000070
+darüber	darüber	PAV	Duden	tu_103_xTok_000072
+geschöpften	schöpfen	ADJA	Duden	tu_103_xTok_000074
+<g/>
+,
+auch	auch	ADV	Duden	tu_103_xTok_000077
+von	von	APPR	Duden	tu_103_xTok_000079
+einer	ein	ART	Duden	tu_103_xTok_000081
+hochlöbl.	hochlöblich	ADJA	Duden	tu_103_xTok_000082
+Landesfürstl.	landesfürstlich	ADJA	DWB	tu_103_xTok_000085
+Ni. Oest.	niederösterreichisch	ADJA		tu_103_xTok_000088
+Regierung	Regierung	NN	Duden	tu_103_xTok_000094
+bestättigten	bestätigen	ADJA	Duden	tu_103_xTok_000096
+Erkanntniß	Erkanntnis	NN	DWB	tu_103_xTok_000097
+an	an	APPR	Duden	tu_103_xTok_000099
+gleich ernannter	gleichernannt	ADJA		tu_103_xTok_000101
+Delinquentin	Delinquentin	NN	Duden	tu_103_xTok_000105
+dem	d	ART	Duden	tu_103_xTok_000107
+zu	zu	APPR	Duden	tu_103_xTok_000109
+Ende	Ende	NN	Duden	tu_103_xTok_000111
+angeführten	angeführt	ADJA	Duden	tu_103_xTok_000112
+Jnhalte	Inhalt	NN	Duden	tu_103_xTok_000114
+gemäß	gemäß	APPO	Duden	tu_103_xTok_000116
+<g/>
+,
+heute	heute	ADV	Duden	tu_103_xTok_000119
+den	d	ART	Duden	tu_103_xTok_000121
+<date id="date103">
+27.	27	ADJA		tu_103_xTok_000123
+May	Mai	NN	Duden	tu_103_xTok_000125
+1773.	1773	CARD		tu_103_xTok_000126
+</date>
+allhier	allhier	ADV	Duden	tu_103_xTok_000128
+in	in	APPR	Duden	tu_103_xTok_000130
+Wien	Wien	NE::top	Duden	tu_103_xTok_000132
+vollzogen	vollziehen	VVPP	Duden	tu_103_xTok_000134
+wird	werden	VAFIN	Duden	tu_103_xTok_000136
+<g/>
+.
+</titlePart>
 <head>
 Jnhalt	Inhalt	NN	Duden	tu_103_xTok_000140
 ihres	ihr	PPOSAT	Duden	tu_103_xTok_000142

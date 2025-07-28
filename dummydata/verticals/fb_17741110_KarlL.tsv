@@ -1,4 +1,91 @@
 <doc id="fb_17741110_KarlL" delinquent_sexes="male" title="Todesurteil Karl L." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todesurtheil	Todesurteil	NN	Duden	tu_108_xTok_000001
+einer	ein	ART	Duden	tu_108_xTok_000003
+ledigen	ledig	ADJA	Duden	tu_108_xTok_000005
+Mannsperson	Mannsperson	NN	Duden	tu_108_xTok_000007
+Namens	namens	ADV	Duden	tu_108_xTok_000008
+<persName id="karll108">
+Karl	Karl	NE	Duden	tu_108_xTok_000009
+L.	L.	NE	oov	tu_108_xTok_000011
+</persName>
+alt	alt	ADJD	Duden	tu_108_xTok_000018
+35.	35	CARD		tu_108_xTok_000020
+Jahr	Jahr	NN	Duden	tu_108_xTok_000022
+<g/>
+.
+Zu	zu	APPR	Duden	tu_108_xTok_000024
+<placeName id="pn108">
+Jung=Moschitz	Jungmoschitz	NE::top	oov	tu_108_xTok_000026
+in	in	APPR	Duden	tu_108_xTok_000028
+Böheim	Böhmen	NE::top	Duden	tu_108_xTok_000030
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_108_xTok_000032
+<g/>
+,
+katholischer	katholisch	ADJA	Duden	tu_108_xTok_000034
+Religion	Religion	NN	Duden	tu_108_xTok_000036
+<g/>
+,
+</titlePart>
+<titlePart type="main">
+Welches	welch	PRELS	Duden	tu_108_xTok_000038
+in	in	APPR	Duden	tu_108_xTok_000040
+Folge	Folge	NN	Duden	tu_108_xTok_000042
+der	d	ART	Duden	tu_108_xTok_000044
+bey	bei	APPR	Duden	tu_108_xTok_000046
+dem	d	ART	Duden	tu_108_xTok_000048
+allhiesigen	allhiesig	ADJA	DWB	tu_108_xTok_000050
+K.	kaiserlich	ADJA	Duden	tu_108_xTok_000052
+K.	königlich	ADJA	Duden	tu_108_xTok_000055
+Stadt	Stadtgericht	TRUNC	Duden	tu_108_xTok_000058
+und	und	KON	Duden	tu_108_xTok_000059
+Landgerichte	Landgericht	NN	Duden	tu_108_xTok_000061
+wider	wider	APPR	Duden	tu_108_xTok_000063
+ihn	er	PPER	Duden	tu_108_xTok_000065
+abgeführten	abführen	ADJA	DRW	tu_108_xTok_000067
+Criminal=Verfahrung	Kriminalverfahrung	NN	oov	tu_108_xTok_000069
+<g/>
+,
+und	und	KON	Duden	tu_108_xTok_000073
+darüber	darüber	PAV	Duden	tu_108_xTok_000075
+geschöpften	schöpfen	ADJA	Duden	tu_108_xTok_000077
+<g/>
+,
+auch	auch	ADV	Duden	tu_108_xTok_000080
+von	von	APPR	Duden	tu_108_xTok_000082
+einer	ein	ART	Duden	tu_108_xTok_000084
+hochlöbl.	hochlöblich	ADJA	Duden	tu_108_xTok_000086
+Landesfürstl.	landesfürstlich	ADJA	DWB	tu_108_xTok_000090
+Nied. Oest.	niederösterreichisch	ADJA		tu_108_xTok_000093
+Regierung	Regierung	NN	Duden	tu_108_xTok_000099
+bestättigten	bestätigen	ADJA	Duden	tu_108_xTok_000101
+Erkanntniß	Erkanntnis	NN	DWB	tu_108_xTok_000102
+an	an	APPR	Duden	tu_108_xTok_000104
+gleich ernannten	gleichernannt	ADJA		tu_108_xTok_000106
+Karl	Karl	NE	Duden	tu_108_xTok_000110
+L.	L.	NE	oov	tu_108_xTok_000112
+dem	d	ART	Duden	tu_108_xTok_000115
+zu	zu	APPR	Duden	tu_108_xTok_000117
+Ende	Ende	NN	Duden	tu_108_xTok_000119
+angeführten	angeführt	ADJA	Duden	tu_108_xTok_000120
+Jnnhalte	Inhalt	NN	Duden	tu_108_xTok_000122
+gemäß	gemäß	APPO	Duden	tu_108_xTok_000124
+heute	heute	ADV	Duden	tu_108_xTok_000126
+den	d	ART	Duden	tu_108_xTok_000128
+<date id="date108">
+10.	10	ADJA		tu_108_xTok_000130
+Wintermonat	Wintermonat	NN	Duden	tu_108_xTok_000132
+1774.	1774	CARD		tu_108_xTok_000133
+</date>
+allhier	allhier	ADV	Duden	tu_108_xTok_000135
+in	in	APPR	Duden	tu_108_xTok_000137
+Wien	Wien	NE::top	Duden	tu_108_xTok_000139
+vollzogen	vollziehen	VVPP	Duden	tu_108_xTok_000141
+wird	werden	VAFIN	Duden	tu_108_xTok_000143
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_108_xTok_000145
 seines	sein	PPOSAT	Duden	tu_108_xTok_000147

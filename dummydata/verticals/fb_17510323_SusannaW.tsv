@@ -1,4 +1,88 @@
 <doc id="fb_17510323_SusannaW" delinquent_sexes="female" title="Todesurteil Susanna W." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_52_xTok_000002
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_52_xTok_000003
+<g/>
+/
+Einer	ein	ART	Duden	tu_52_xTok_000010
+Ledigen	ledig	ADJA	Duden	tu_52_xTok_000011
+Weibs=Persohn	Weibsperson	NN	Duden	tu_52_xTok_000013
+<g/>
+;
+Nahmens	namens	ADV	Duden	tu_52_xTok_000015
+<persName id="susannaw52">
+Susanna	Susanna	NE	Duden	tu_52_xTok_000017
+W.	W.	NE	oov	tu_52_xTok_000019
+</persName>
+29.	29	CARD		tu_52_xTok_000021
+Jahr	Jahr	NN	Duden	tu_52_xTok_000023
+alt	alt	ADJD	Duden	tu_52_xTok_000025
+<g/>
+,
+Von	von	APPR	Duden	tu_52_xTok_000027
+<placeName id="pn52">
+Kaidling	Kaidling	NE::top	oov	tu_52_xTok_000029
+aus	aus	APPR	Duden	tu_52_xTok_000031
+Mähren	Mähren	NE::top	Duden	tu_52_xTok_000033
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_52_xTok_000035
+<g/>
+;
+Catholischer	katholisch	ADJA	Duden	tu_52_xTok_000037
+Religion	Religion	NN	Duden	tu_52_xTok_000039
+<g/>
+;
+</titlePart>
+<titlePart type="main">
+Welche	welch	PRELS	Duden	tu_52_xTok_000041
+Heut	heute	ADV	Duden	tu_52_xTok_000042
+Dato	dato	ADV	Duden	tu_52_xTok_000044
+den	d	ART	Duden	tu_52_xTok_000046
+<date id="date52">
+23.	23	ADJA		tu_52_xTok_000048
+Martii	März	NN	Duden	tu_52_xTok_000050
+1751.	1751	CARD		tu_52_xTok_000052
+</date>
+vor	vor	APPR	Duden	tu_52_xTok_000054
+das	d	ART	Duden	tu_52_xTok_000056
+Schotten Thor	Schottentor	NE::top		tu_52_xTok_000058
+auf	auf	APPR	Duden	tu_52_xTok_000063
+dasigen	dasig	ADJA	Duden	tu_52_xTok_000065
+Rabenstein	Rabenstein	NN	Duden	tu_52_xTok_000067
+zur	zur	APPRART	Duden	tu_52_xTok_000069
+gewöhnlichen	gewöhnlich	ADJA	Duden	tu_52_xTok_000071
+Richtstadt	Richtstatt	NN	DWB	tu_52_xTok_000073
+geführet	führen	VVPP	Duden	tu_52_xTok_000076
+<g/>
+/
+und	und	KON	Duden	tu_52_xTok_000080
+daselbst	daselbst	ADV	Duden	tu_52_xTok_000082
+mit	mit	APPR	Duden	tu_52_xTok_000084
+dem	d	ART	Duden	tu_52_xTok_000086
+Schwerdt	Schwert	NN	Duden	tu_52_xTok_000088
+vom	vom	APPRART	Duden	tu_52_xTok_000090
+Leben	Leben	NN	Duden	tu_52_xTok_000092
+zum	zum	APPRART	Duden	tu_52_xTok_000093
+Todt	Tod	NN	Duden	tu_52_xTok_000095
+hingerichtet	hinrichten	VVPP	Duden	tu_52_xTok_000097
+wird	werden	VAFIN	Duden	tu_52_xTok_000099
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Den	d	ART	Duden	tu_52_xTok_000101
+Jnnhalt	Inhalt	NN	Duden	tu_52_xTok_000103
+ihres	ihr	PPOSAT	Duden	tu_52_xTok_000105
+Verbrechens	Verbrechen	NN	Duden	tu_52_xTok_000107
+wird	werden	VAFIN	Duden	tu_52_xTok_000109
+der	d	ART	Duden	tu_52_xTok_000111
+geneigte	geneigt	ADJA	Duden	tu_52_xTok_000113
+Leser	Leser	NN	Duden	tu_52_xTok_000115
+hierinnen	hierinnen	PAV	Duden	tu_52_xTok_000116
+finden	finden	VVINF	Duden	tu_52_xTok_000118
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_52_xTok_000138
 des	d	ART	Duden	tu_52_xTok_000140

@@ -1,4 +1,92 @@
 <doc id="fb_17490826_UlrichG" delinquent_sexes="male" title="Todesurteil Ulrich G." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Wohl=verdientes	wohlverdient	ADJA	Duden	tu_46_xTok_000001
+Todtes=Urtheil	Todesurteil	NN	Duden	tu_46_xTok_000002
+<g/>
+,
+Einer	ein	ART	Duden	tu_46_xTok_000009
+Verheyrathen	verheiratet	ADJA	Duden	tu_46_xTok_000010
+Manns=Persohn	Mannsperson	NN	Duden	tu_46_xTok_000012
+Nahmens	namens	ADV	Duden	tu_46_xTok_000013
+<persName id="ulrichg46">
+Ulrich	Ulrich	NE	Duden	tu_46_xTok_000015
+G.	G.	NE	oov	tu_46_xTok_000017
+</persName>
+Catholischer	katholisch	ADJA	Duden	tu_46_xTok_000019
+Religion	Religion	NN	Duden	tu_46_xTok_000021
+<g/>
+,
+allhier	allhier	ADV	Duden	tu_46_xTok_000024
+zu	zu	APPR	Duden	tu_46_xTok_000025
+<placeName id="pn46">
+Wienn	Wien	NE::top	Duden	tu_46_xTok_000027
+am	am	APPRART	Duden	tu_46_xTok_000029
+Spittelberg	Spittelberg	NE::top	oov	tu_46_xTok_000031
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_46_xTok_000033
+<g/>
+,
+gegen	gegen	APPR	Duden	tu_46_xTok_000036
+55.	55	CARD		tu_46_xTok_000038
+Jahr	Jahr	NN	Duden	tu_46_xTok_000040
+alt	alt	ADJD	Duden	tu_46_xTok_000042
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Welcher	welch	PRELS	Duden	tu_46_xTok_000044
+heute	heute	ADV	Duden	tu_46_xTok_000046
+Dienstags	Dienstag	NN	Duden	tu_46_xTok_000048
+den	d	ART	Duden	tu_46_xTok_000050
+26ten	26	ADJA		tu_46_xTok_000052
+Augusti	August	NN	Duden	tu_46_xTok_000055
+auf	auf	APPR	Duden	tu_46_xTok_000057
+die	d	ART	Duden	tu_46_xTok_000059
+sogenannte	sogenannt	ADJA	Duden	tu_46_xTok_000061
+Gänßweyd	Gänseweide	NE::top	oov	tu_46_xTok_000063
+geführet	führen	VVPP	Duden	tu_46_xTok_000065
+<g/>
+,
+allda	allda	ADV	Duden	tu_46_xTok_000069
+auf	auf	APPR	Duden	tu_46_xTok_000071
+einen	ein	ART	Duden	tu_46_xTok_000073
+über	über	APPR	Duden	tu_46_xTok_000075
+einem	ein	ART	Duden	tu_46_xTok_000077
+ScheitterHauffen	Scheiterhaufen	NN	Duden	tu_46_xTok_000079
+aufgerichten	aufrichten	ADJA	Duden	tu_46_xTok_000082
+Galgen	Galgen	NN	Duden	tu_46_xTok_000084
+mit	mit	APPR	Duden	tu_46_xTok_000086
+dem	d	ART	Duden	tu_46_xTok_000088
+Strang	Strang	NN	Duden	tu_46_xTok_000090
+vom	vom	APPRART	Duden	tu_46_xTok_000091
+Leben	Leben	NN	Duden	tu_46_xTok_000093
+zum	zum	APPRART	Duden	tu_46_xTok_000095
+Todt	Tod	NN	Duden	tu_46_xTok_000097
+hingerichtet	hinrichten	VVPP	Duden	tu_46_xTok_000099
+<g/>
+,
+dessen	d	PDAT	Duden	tu_46_xTok_000102
+Cörper	Körper	NN	Duden	tu_46_xTok_000103
+sodann	sodann	ADV	Duden	tu_46_xTok_000105
+zu	zu	APPR	Duden	tu_46_xTok_000107
+Staub	Staub	NN	Duden	tu_46_xTok_000109
+und	und	KON	Duden	tu_46_xTok_000111
+Aschen	Asche	NN	Duden	tu_46_xTok_000113
+verbrennet	verbrennen	VVPP	Duden	tu_46_xTok_000115
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+Der	d	ART	Duden	tu_46_xTok_000117
+Jnnhalt	Inhalt	NN	Duden	tu_46_xTok_000119
+seines	sein	PPOSAT	Duden	tu_46_xTok_000121
+Verbrechens	Verbrechen	NN	Duden	tu_46_xTok_000123
+zeiget	zeigen	VVFIN	Duden	tu_46_xTok_000125
+das	d	ART	Duden	tu_46_xTok_000127
+mehrere	mehrere	PIS	Duden	tu_46_xTok_000129
+<g/>
+.
+</titlePart>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_46_xTok_000149
 des	d	ART	Duden	tu_46_xTok_000151

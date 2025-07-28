@@ -1,4 +1,96 @@
 <doc id="fb_17560901_JohannM" delinquent_sexes="male" title="Todesurteil Johann M." attrs="word lemma pos vocab id">
+<titlePart type="main">
+Todes=Urtheil	Todesurteil	NN	Duden	tu_64_xTok_000001
+Einer	ein	ART	Duden	tu_64_xTok_000005
+Manns=person	Mannsperson	NN	Duden	tu_64_xTok_000007
+<g/>
+,
+Namens	namens	ADV	Duden	tu_64_xTok_000009
+<g/>
+:
+<persName id="johannm64">
+Johann	Johann	NE	Duden	tu_64_xTok_000011
+M.	M.	NE	oov	tu_64_xTok_000013
+</persName>
+Alt	alt	ADJD	Duden	tu_64_xTok_000016
+16.	16	CARD		tu_64_xTok_000018
+Jahr	Jahr	NN	Duden	tu_64_xTok_000020
+<g/>
+.
+Von	von	APPR	Duden	tu_64_xTok_000022
+<placeName id="pn64">
+Neuhaus	Neuhaus	NE::top	oov	tu_64_xTok_000024
+aus	aus	APPR	Duden	tu_64_xTok_000026
+Teutsch=böheim	Deutschböhmen	NE::top	oov	tu_64_xTok_000028
+</placeName>
+gebürtig	gebürtig	ADJD	Duden	tu_64_xTok_000030
+<g/>
+,
+Catholischer	katholisch	ADJA	Duden	tu_64_xTok_000033
+Religion	Religion	NN	Duden	tu_64_xTok_000035
+<g/>
+.
+</titlePart>
+<titlePart type="main">
+WElches	welch	PRELS	Duden	tu_64_xTok_000041
+in	in	APPR	Duden	tu_64_xTok_000044
+Folge	Folge	NN	Duden	tu_64_xTok_000046
+der	d	ART	Duden	tu_64_xTok_000048
+bey	bei	APPR	Duden	tu_64_xTok_000050
+dem	d	ART	Duden	tu_64_xTok_000052
+alhiesigen	allhiesig	ADJA	DWB	tu_64_xTok_000054
+Kaiserl.	kaiserlich	ADJA	Duden	tu_64_xTok_000057
+Königl.	königlich	ADJA	Duden	tu_64_xTok_000060
+Stadt=	Stadtgericht	TRUNC	Duden	tu_64_xTok_000063
+und	und	KON	Duden	tu_64_xTok_000065
+Land=gericht	Landgericht	NN	Duden	tu_64_xTok_000067
+abgeführten	abführen	ADJA	DRW	tu_64_xTok_000069
+Criminal-verfahrung	Kriminalverfahrung	NN	oov	tu_64_xTok_000071
+<g/>
+,
+und	und	KON	Duden	tu_64_xTok_000076
+darüber	darüber	PAV	Duden	tu_64_xTok_000078
+geschöpften	schöpfen	ADJA	Duden	tu_64_xTok_000080
+<g/>
+,
+auch	auch	ADV	Duden	tu_64_xTok_000083
+von	von	APPR	Duden	tu_64_xTok_000085
+einer	ein	ART	Duden	tu_64_xTok_000086
+Hoch=löbl.	hochlöblich	ADJA	Duden	tu_64_xTok_000088
+Landes=fürstl.	landesfürstlich	ADJA	DWB	tu_64_xTok_000091
+N. Oesterreichischen	niederösterreichisch	ADJA		tu_64_xTok_000094
+Regierung	Regierung	NN	Duden	tu_64_xTok_000100
+in	in	APPR	Duden	tu_64_xTok_000102
+Justitz=sachen	Justizsache	NN	DRW	tu_64_xTok_000104
+bestättigten	bestätigen	ADJA	Duden	tu_64_xTok_000106
+Erkanntnuß	Erkanntnis	NN	DWB	tu_64_xTok_000109
+<g/>
+,
+an	an	APPR	Duden	tu_64_xTok_000112
+gleich=ernannten	gleichernannt	ADJA	oov	tu_64_xTok_000114
+Johann	Johann	NE	Duden	tu_64_xTok_000116
+M.	M.	NE	oov	tu_64_xTok_000119
+dem	d	ART	Duden	tu_64_xTok_000122
+zu	zu	APPR	Duden	tu_64_xTok_000124
+End	Ende	NN	Duden	tu_64_xTok_000126
+angefügten	anfügen	ADJA	Duden	tu_64_xTok_000128
+Jnnhalt	Inhalt	NN	Duden	tu_64_xTok_000130
+gemäß	gemäß	APPO	Duden	tu_64_xTok_000132
+heut	heute	ADV	Duden	tu_64_xTok_000134
+den	d	ART	Duden	tu_64_xTok_000136
+<date id="date64">
+1.	1	ADJA		tu_64_xTok_000138
+September	September	NN	Duden	tu_64_xTok_000140
+1756.	1756	CARD		tu_64_xTok_000142
+</date>
+alhier	allhier	ADV	Duden	tu_64_xTok_000144
+in	in	APPR	Duden	tu_64_xTok_000145
+Wien	Wien	NE::top	Duden	tu_64_xTok_000147
+vollzogen	vollziehen	VVPP	Duden	tu_64_xTok_000149
+wird	werden	VAFIN	Duden	tu_64_xTok_000151
+<g/>
+.
+</titlePart>
 <p id="fb_17560901_JohannM_p_0001">
 Zumalen	zumal	KOUS	Duden	tu_64_xTok_000156
 wider	wider	APPR	Duden	tu_64_xTok_000158
