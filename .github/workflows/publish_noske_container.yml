@@ -29,7 +29,7 @@ jobs:
           # git config --global user.email "${GH_USERMAIL}"
           # git config --global user.name "${GH_USERNAME}"
           # git config --global credential.helper cache
-          # git clone https://${GITHUB_ACCESS_TOKEN_NAME}:${GITHUB_ACCESS_TOKEN}@github.com/Flugblatter/flugblaetter_data_ouput.git data
+          # git clone https://${GITHUB_ACCESS_TOKEN_NAME}:${GITHUB_ACCESS_TOKEN}@github.com/Armesuenderblaetter/armesuenderblaetter_data_ouput.git data
   noske_index:
     needs: [fetch_data]
     name: Build Noske Index
@@ -59,7 +59,7 @@ jobs:
         uses: docker/metadata-action@v5
         with:
           images: |
-            ghcr.io/flugblatter/flugblaetter_nosketch/flugblaetter
+            ghcr.io/Armesuenderblaetter/armesuenderblaetter_nosketch/flugblaetter
           tags: |
             type=ref,event=branch
             type=ref,event=pr
@@ -90,7 +90,7 @@ jobs:
     uses: flugblatter/gl-autodevops-minimal-port/.github/workflows/deploy.yml@main
     secrets: inherit
     with:
-      DOCKER_TAG: "ghcr.io/flugblatter/flugblaetter_nosketch/flugblaetter:latest"
+      DOCKER_TAG: "ghcr.io/flugblatter/Armesuenderblaetter/armesuenderblaetter_nosketch/flugblaetter:latest"
       APP_NAME: "flugblaetter"
       APP_ROOT: "/"
       POSTGRES_ENABLED: false
