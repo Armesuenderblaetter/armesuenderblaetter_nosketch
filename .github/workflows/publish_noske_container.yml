@@ -59,7 +59,7 @@ jobs:
         uses: docker/metadata-action@v5
         with:
           images: |
-            ghcr.io/Armesuenderblaetter/armesuenderblaetter_nosketch/flugblaetter
+            ghcr.io/Armesuenderblaetter/armesuenderblaetter_nosketch/Armesuenderblaetter
           tags: |
             type=ref,event=branch
             type=ref,event=pr
@@ -90,8 +90,8 @@ jobs:
     uses: flugblatter/gl-autodevops-minimal-port/.github/workflows/deploy.yml@main
     secrets: inherit
     with:
-      DOCKER_TAG: "ghcr.io/flugblatter/Armesuenderblaetter/armesuenderblaetter_nosketch/flugblaetter:latest"
-      APP_NAME: "flugblaetter"
+      DOCKER_TAG: "ghcr.io/flugblatter/Armesuenderblaetter/armesuenderblaetter_nosketch/Armesuenderblaetter:latest"
+      APP_NAME: "Armesuenderblaetter"
       APP_ROOT: "/"
       POSTGRES_ENABLED: false
       environment: "${{ github.ref_name }}"
