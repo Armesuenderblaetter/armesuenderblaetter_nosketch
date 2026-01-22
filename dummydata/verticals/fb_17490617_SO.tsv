@@ -1,7 +1,13 @@
-<doc id="fb_17490617_SO" delinquent_sexes="male" title="Todesurteil S. O." attrs="word lemma pos vocab id">
+<doc id="fb_17490617_SO" year="1749" delinquent_sexes="male" title="Todesurteil S. O." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_42_xTok_000002
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_42_xTok_000003
+<g/>
+,
+<g/>
+/
 <g/>
 ,
 Einer	ein	ART	Duden	tu_42_xTok_000009
@@ -48,6 +54,8 @@ Junii	Juni	NN	Duden	tu_42_xTok_000061
 </date>
 <g/>
 ,
+<g/>
+,
 wegen	wegen	APPR	Duden	tu_42_xTok_000066
 vielfältig	vielfältig	ADJD	Duden	tu_42_xTok_000068
 von	von	APPR	Duden	tu_42_xTok_000070
@@ -85,6 +93,12 @@ mehrere	mehrere	PIS	Duden	tu_42_xTok_000126
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
+<pb n="4">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_42_xTok_000147
 des	d	ART	Duden	tu_42_xTok_000149
@@ -195,6 +209,12 @@ fl.	Flore	NN	DWB	tu_42_xTok_000350
 ,
 wie	wie	KOKOM	Duden	tu_42_xTok_000354
 auch	auch	ADV	Duden	tu_42_xTok_000356
+<pb n="5">
+</pb>
+<pb n="6">
+</pb>
+<pb n="7">
+</pb>
 2.	2	CARD		tu_42_xTok_000358
 von	von	APPR	Duden	tu_42_xTok_000360
 ihme	er	PPER	Duden	tu_42_xTok_000362
@@ -298,6 +318,8 @@ dritten	dritte	ADJA	Duden	tu_42_xTok_000543
 eine	ein	ART	Duden	tu_42_xTok_000545
 Garnitur	Garnitur	NN	Duden	tu_42_xTok_000547
 Frauen=Zimer=Geschmuck	Frauenzimmergeschmuck	NN	oov	tu_42_xTok_000549
+FrauenZim̅er=Geschmuck	Frauenzimmergeschmuck	NN	oov	tu_42_xTok_000552
+Frauen=Zimmer=Geschmuck	Frauenzimmergeschmuck	NN	oov	tu_42_xTok_000550
 pr.	per	APPR	Duden	tu_42_xTok_000555
 7625.	7625	CARD		tu_42_xTok_000558
 fl.	Flore	NN	DWB	tu_42_xTok_000560
@@ -343,12 +365,20 @@ allhiesigen	allhiesig	ADJA	DWB	tu_42_xTok_000641
 Wechselern	Wechsler	NN	Duden	tu_42_xTok_000644
 4336.	4336	CARD		tu_42_xTok_000646
 fl.	Flore	NN	DWB	tu_42_xTok_000649
+Fl.	Flore	NN	DWB	tu_42_xTok_000650
+fl.	Flore	NN	DWB	tu_42_xTok_000648
 5.	5	CARD		tu_42_xTok_000653
 kr.	Kreuzer	NN	Duden	tu_42_xTok_000655
 baares	bar	ADJA	Duden	tu_42_xTok_000658
 Geld	Geld	NN	Duden	tu_42_xTok_000660
 <g/>
 ,
+<pb n="8">
+</pb>
+<pb n="9">
+</pb>
+<pb n="10">
+</pb>
 mithin	mithin	ADV	Duden	tu_42_xTok_000663
 in	in	APPR	Duden	tu_42_xTok_000665
 einer	ein	ART	Duden	tu_42_xTok_000667
@@ -357,6 +387,8 @@ zusam̅en	zusammen	ADV	Duden	tu_42_xTok_000671
 um	um	APPR	Duden	tu_42_xTok_000673
 46968.	46968	CARD		tu_42_xTok_000675
 fl.	Flore	NN	DWB	tu_42_xTok_000678
+Fl.	Flore	NN	DWB	tu_42_xTok_000679
+fl.	Flore	NN	DWB	tu_42_xTok_000677
 46.	46	CARD		tu_42_xTok_000682
 kr.	Kreuzer	NN	Duden	tu_42_xTok_000685
 <g/>
@@ -376,6 +408,8 @@ noch	noch	ADV	Duden	tu_42_xTok_000714
 auf	auf	APPR	Duden	tu_42_xTok_000716
 127281.	127281	CARD		tu_42_xTok_000718
 fl.	Flore	NN	DWB	tu_42_xTok_000721
+Fl.	Flore	NN	DWB	tu_42_xTok_000722
+fl.	Flore	NN	DWB	tu_42_xTok_000720
 16.	16	CARD		tu_42_xTok_000725
 kr.	Kreuzer	NN	Duden	tu_42_xTok_000727
 2.	2	CARD		tu_42_xTok_000730
@@ -387,6 +421,8 @@ Schulden=Lastes	Schuldenlast	NN	Duden	tu_42_xTok_000740
 )
 unter	unter	APPR	Duden	tu_42_xTok_000743
 zerschidenen	zerschieden	ADJA	DWB	tu_42_xTok_000746
+zerschidenen	zerschieden	ADJA	DWB	tu_42_xTok_000745
+zerschiedenen	zerschieden	ADJA	DWB	tu_42_xTok_000747
 fälschlich	fälschlich	ADJD	Duden	tu_42_xTok_000750
 ersunnenen	ersinnen	ADJA	Duden	tu_42_xTok_000752
 Vorwendungen	Vorwendung	NN	DWB	tu_42_xTok_000754

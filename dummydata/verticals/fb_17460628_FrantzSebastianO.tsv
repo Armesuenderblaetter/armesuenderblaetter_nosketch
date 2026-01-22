@@ -1,4 +1,6 @@
-<doc id="fb_17460628_FrantzSebastianO" delinquent_sexes="male" title="Todesurteil Frantz Sebastian O." attrs="word lemma pos vocab id">
+<doc id="fb_17460628_FrantzSebastianO" year="1746" delinquent_sexes="male" title="Todesurteil Frantz Sebastian O." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_34_xTok_000002
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_34_xTok_000003
@@ -136,6 +138,8 @@ finden	finden	VVINF	Duden	tu_34_xTok_000223
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_34_xTok_000243
 des	d	ART	Duden	tu_34_xTok_000246
@@ -255,6 +259,8 @@ werden	werden	VAINF	Duden	tu_34_xTok_000455
 <g/>
 .
 </p>
+<pb n="3">
+</pb>
 <p id="fb_17460628_FrantzSebastianO_p_0002">
 Um	um	APPR	Duden	tu_34_xTok_000457
 willen	willen	APZR	Duden	tu_34_xTok_000459

@@ -1,4 +1,6 @@
-<doc id="fb_17730826_JohannD" delinquent_sexes="male" title="Todesurteil Johann D." attrs="word lemma pos vocab id">
+<doc id="fb_17730826_JohannD" year="1773" delinquent_sexes="male" title="Todesurteil Johann D." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_105_xTok_000001
 einer	ein	ART	Duden	tu_105_xTok_000003
@@ -91,6 +93,8 @@ wird	werden	VAFIN	Duden	tu_105_xTok_000143
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnhalt	Inhalt	NN	Duden	tu_105_xTok_000145
 seines	sein	PPOSAT	Duden	tu_105_xTok_000147
@@ -431,6 +435,8 @@ auch	auch	ADV	Duden	tu_105_xTok_000722
 hierauf	hierauf	PAV	Duden	tu_105_xTok_000724
 beyde	beide	PIS	Duden	tu_105_xTok_000726
 mit	mit	APPR	Duden	tu_105_xTok_000728
+<pb n="3">
+</pb>
 denen	d	ART	Duden	tu_105_xTok_000729
 schon	schon	ADV	Duden	tu_105_xTok_000731
 vorher	vorher	ADV	Duden	tu_105_xTok_000733

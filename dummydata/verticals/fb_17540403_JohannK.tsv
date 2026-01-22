@@ -1,4 +1,6 @@
-<doc id="fb_17540403_JohannK" delinquent_sexes="male" title="Todesurteil Johann K." attrs="word lemma pos vocab id">
+<doc id="fb_17540403_JohannK" year="1754" delinquent_sexes="male" title="Todesurteil Johann K." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_57_xTok_000002
 Einer	ein	ART	Duden	tu_57_xTok_000006
@@ -105,6 +107,8 @@ Abscheu	Abscheu	NN	Duden	tu_57_xTok_000169
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_57_xTok_000188
 des	d	ART	Duden	tu_57_xTok_000190
@@ -756,6 +760,8 @@ einen	ein	ART	Duden	tu_57_xTok_001346
 dasigen	dasig	ADJA	Duden	tu_57_xTok_001348
 Schreib=tisch	Schreibtisch	NN	Duden	tu_57_xTok_001350
 mit	mit	APPR	Duden	tu_57_xTok_001352
+<pb n="3">
+</pb>
 dem	d	ART	Duden	tu_57_xTok_001353
 Gesicht	Gesicht	NN	Duden	tu_57_xTok_001355
 nieder=beugend	niederbeugen	ADJD	Duden	tu_57_xTok_001357

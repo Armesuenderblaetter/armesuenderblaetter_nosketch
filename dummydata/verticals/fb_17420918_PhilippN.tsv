@@ -1,4 +1,6 @@
-<doc id="fb_17420918_PhilippN" delinquent_sexes="male" title="Todesurteil Philipp N." attrs="word lemma pos vocab id">
+<doc id="fb_17420918_PhilippN" year="1742" delinquent_sexes="male" title="Todesurteil Philipp N." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Recht	Recht	NN	Duden	tu_22_xTok_000002
 und	und	KON	Duden	tu_22_xTok_000004
@@ -77,6 +79,8 @@ hingericht	hinrichten	VVPP	Duden	tu_22_xTok_000119
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_22_xTok_000135
 dieses	diese	PDAT	Duden	tu_22_xTok_000138
@@ -182,6 +186,8 @@ Fl.	Flore	NN	DWB	tu_22_xTok_000328
 kr.	Kreuzer	NN	Duden	tu_22_xTok_000333
 über	über	APPR	Duden	tu_22_xTok_000336
 dises	diese	PDS	Duden	tu_22_xTok_000337
+<pb n="3">
+</pb>
 4.	4	ADV		tu_22_xTok_000338
 <g/>
 )
@@ -357,6 +363,8 @@ erleyden	erleiden	VVINF	Duden	tu_22_xTok_000658
 müssen	müssen	VMINF	Duden	tu_22_xTok_000660
 <g/>
 .
+<pb n="4">
+</pb>
 <lg type="poem">
 <head>
 Urlaub=Lied	Urlaublied	NN	DWB	tu_22_xTok_000662

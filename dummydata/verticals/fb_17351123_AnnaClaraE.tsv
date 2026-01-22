@@ -1,4 +1,6 @@
-<doc id="fb_17351123_AnnaClaraE" delinquent_sexes="female" title="Todesurteil Anna Clara E." attrs="word lemma pos vocab id">
+<doc id="fb_17351123_AnnaClaraE" year="1735" delinquent_sexes="female" title="Todesurteil Anna Clara E." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_8_xTok_000001
 Urtheil	Urteil	NN	Duden	tu_8_xTok_000002
@@ -323,6 +325,8 @@ werden	werden	VAINF	Duden	tu_8_xTok_000568
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <lg type="poem">
 <lg type="stanza">
 <head>
@@ -582,6 +586,8 @@ weil	weil	KOUS	Duden	tu_8_xTok_000876
 ich	ich	PPER	Duden	tu_8_xTok_000878
 selbsten	selbst	ADV	Duden	tu_8_xTok_000880
 </l>
+<pb n="3">
+</pb>
 <l id="fb_17351123_AnnaClaraE_l_0027">
 nichts	nichts	PIS	Duden	tu_8_xTok_000881
 mehr	mehr	ADV	Duden	tu_8_xTok_000883
@@ -925,6 +931,8 @@ sie	sie	PPER	Duden	tu_8_xTok_001281
 in	in	APPR	Duden	tu_8_xTok_001283
 die	d	ART	Duden	tu_8_xTok_001285
 </l>
+<pb n="4">
+</pb>
 <l id="fb_17351123_AnnaClaraE_l_0061">
 ewig	ewig	ADJA	Duden	tu_8_xTok_001286
 Freud	Freude	NN	Duden	tu_8_xTok_001288

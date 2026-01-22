@@ -1,4 +1,6 @@
-<doc id="fb_17000316_HanssGeorgWagner" delinquent_sexes="male" title="Todesurteil Hanß Georg Wagner" attrs="word lemma pos vocab id">
+<doc id="fb_17000316_HanssGeorgWagner" year="1700" delinquent_sexes="male" title="Todesurteil Hanß Georg Wagner" attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Urthl	Urteil	NN	Duden	tu_1_xTok_000001
 <g/>
@@ -56,6 +58,8 @@ Obrigkeit	Obrigkeit	NN	Duden	tu_1_xTok_000099
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <p id="fb_17000316_HanssGeorgWagner_p_0001">
 GEgenwärtig	gegenwärtig	ADJD	Duden	tu_1_xTok_000129
 allda	allda	ADV	Duden	tu_1_xTok_000133
@@ -478,6 +482,8 @@ er	er	PPER	Duden	tu_1_xTok_000877
 hat	haben	VAFIN	Duden	tu_1_xTok_000879
 aber	aber	ADV	Duden	tu_1_xTok_000881
 beständig	beständig	ADJD	Duden	tu_1_xTok_000883
+<pb n="3">
+</pb>
 widersprochen	widersprechen	VVPP	Duden	tu_1_xTok_000884
 <g/>
 /
@@ -750,6 +756,8 @@ grausame	grausam	ADJA	Duden	tu_1_xTok_001354
 Vorhaben	Vorhaben	NN	Duden	tu_1_xTok_001356
 <g/>
 /
+<pb n="4">
+</pb>
 jenen	jene	PDS	Duden	tu_1_xTok_001359
 Meichelmörderischer	meuchelmörderisch	ADJA	Duden	tu_1_xTok_001361
 Weiße	Weise	NN	Duden	tu_1_xTok_001363
@@ -1009,6 +1017,8 @@ seye	sein	VAFIN	Duden	tu_1_xTok_001802
 ihme	er	PPER	Duden	tu_1_xTok_001804
 aber	aber	ADV	Duden	tu_1_xTok_001806
 dessen	d	PDS	Duden	tu_1_xTok_001808
+<pb n="5">
+</pb>
 ein	ein	ART	Duden	tu_1_xTok_001809
 Abscheu	Abscheu	NN	Duden	tu_1_xTok_001811
 ankommen	ankommen	VVPP	Duden	tu_1_xTok_001813
@@ -1271,6 +1281,8 @@ begangen	begehen	VVPP	Duden	tu_1_xTok_002279
 /
 nach	nach	APPR	Duden	tu_1_xTok_002283
 deren	d	PDAT	Duden	tu_1_xTok_002285
+<pb n="6">
+</pb>
 Vollbringung	Vollbringung	NN	Duden	tu_1_xTok_002287
 er	er	PPER	Duden	tu_1_xTok_002289
 ein	ein	ART	Duden	tu_1_xTok_002291
@@ -1526,6 +1538,8 @@ Remiss	Remiß	NN	DRW	tu_1_xTok_002736
 man	man	PIS	Duden	tu_1_xTok_002738
 ihme	er	PPER	Duden	tu_1_xTok_002740
 Wagner	Wagner	NE	Duden	tu_1_xTok_002742
+<pb n="7">
+</pb>
 nicht	nicht	PTKNEG	Duden	tu_1_xTok_002743
 einbringen	einbringen	VVINF	Duden	tu_1_xTok_002745
 können	können	VMINF	Duden	tu_1_xTok_002747
@@ -1917,6 +1931,8 @@ ihme	er	PPER	Duden	tu_1_xTok_003465
 ein	ein	ART	Duden	tu_1_xTok_003467
 Zwick	Zwick	NN	DWB	tu_1_xTok_003469
 mit	mit	APPR	Duden	tu_1_xTok_003472
+<pb n="8">
+</pb>
 glühender	glühend	ADJA	Duden	tu_1_xTok_003473
 Zangen	Zange	NN	Duden	tu_1_xTok_003475
 in	in	APPR	Duden	tu_1_xTok_003478
@@ -2061,6 +2077,8 @@ solle	sollen	VMFIN	Duden	tu_1_xTok_003766
 Dises	diese	PDS	Duden	tu_1_xTok_003769
 ihm	er	PPER	Duden	tu_1_xTok_003772
 zu	zu	APPR	Duden	tu_1_xTok_003774
+<pb n="9">
+</pb>
 wohl=verdienter	wohlverdient	ADJA	Duden	tu_1_xTok_003775
 Straff	Strafe	NN	Duden	tu_1_xTok_003777
 <g/>

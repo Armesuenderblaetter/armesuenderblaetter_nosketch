@@ -1,4 +1,8 @@
-<doc id="fb_17950903_StanislausHohenwar" delinquent_sexes="male" title="Urteil Stanislaus Hohenwart, Lukas Frick, Anton Hieronimus Franzel, Jgnaz Jutz" attrs="word lemma pos vocab id">
+<doc id="fb_17950903_StanislausHohenwar" year="1795" delinquent_sexes="male" title="Urteil Stanislaus Hohenwart, Lukas Frick, Anton Hieronimus Franzel, Jgnaz Jutz" attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
+<pb n="2">
+</pb>
 <p id="fb_17950903_StanislausHohenwar_p_0001">
 Diejenigen	diejenige	PDAT	Duden	tu_135_xTok_000002
 Personen	Person	NN	Duden	tu_135_xTok_000005
@@ -173,6 +177,8 @@ der	d	ART	Duden	tu_135_xTok_000273
 Schandbühne	Schandbühne	NN	DWB	tu_135_xTok_000275
 ein	ein	ART	Duden	tu_135_xTok_000277
 warnendes	warnend	ADJA	Duden	tu_135_xTok_000279
+<pb n="3">
+</pb>
 Beyspiel	Beispiel	NN	Duden	tu_135_xTok_000280
 gegeben	geben	VVPP	Duden	tu_135_xTok_000282
 <g/>
@@ -289,6 +295,8 @@ Personen	Person	NN	Duden	tu_135_xTok_000443
 <g/>
 :
 </p>
+<pb n="4">
+</pb>
 <head>
 <persName id="stanislaushohenwart135">
 Stanislaus	Stanislaus	NE	Duden	tu_135_xTok_000445
@@ -419,6 +427,8 @@ angehalten	anhalten	VVPP	Duden	tu_135_xTok_000648
 <g/>
 .
 </p>
+<pb n="5">
+</pb>
 <head>
 <persName id="lukasfrick135">
 Lukas	Lukas	NE	Duden	tu_135_xTok_000650

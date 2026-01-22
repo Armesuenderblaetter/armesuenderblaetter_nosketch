@@ -1,6 +1,10 @@
-<doc id="fb_17940910_Gilofski" delinquent_sexes="male" title="Beschreibung der Hinrichtung von Gilofski" attrs="word lemma pos vocab id">
+<doc id="fb_17940910_Gilofski" year="1794" delinquent_sexes="male" title="Beschreibung der Hinrichtung von Gilofski" attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
+Beschreibung	Beschreibung	NN	Duden	tu_132_xTok_000001b
 Auf	auf	APPR	Duden	tu_132_xTok_000001
+auf	auf	APPR	Duden	tu_132_xTok_000001d
 <persName id="gilofski132">
 Gilofski's	Gilofski	NE	oov	tu_132_xTok_000003
 </persName>
@@ -16,6 +20,10 @@ September	September	NN	Duden	tu_132_xTok_000012
 1794.	1794	CARD		tu_132_xTok_000014
 </date>
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Liebe	lieb	ADJA	Duden	tu_132_xTok_000018
 Mitbürger	Mitbürger	NN	Duden	tu_132_xTok_000020
@@ -34,6 +42,7 @@ dieses	diese	PDS	Duden	tu_132_xTok_000035
 vor	vor	APPR	Duden	tu_132_xTok_000036
 dem	d	ART	Duden	tu_132_xTok_000038
 Stubenthore	Stubentor	NE::top	oov	tu_132_xTok_000040
+heute	heute	ADV	Duden	tu_132_xTok_000041
 nach	nach	APPR	Duden	tu_132_xTok_000043
 Kriegsrecht	Kriegsrecht	NN	Duden	tu_132_xTok_000045
 aufgehenkt	aufhängen	VVPP	Duden	tu_132_xTok_000047
@@ -116,6 +125,10 @@ Verbrecher	Verbrecher	NN	Duden	tu_132_xTok_000160
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 <p id="fb_17940910_Gilofski_p_0002">
 Zeitlich	zeitlich	ADJD	DWB	tu_132_xTok_000162
 genug	genug	ADV	Duden	tu_132_xTok_000164
@@ -252,6 +265,11 @@ dem	d	PRELS	Duden	tu_132_xTok_000368
 er	er	PPER	Duden	tu_132_xTok_000370
 bestimmt	bestimmt	ADJD	Duden	tu_132_xTok_000372
 war	sein	VAFIN	Duden	tu_132_xTok_000374
+<g/>
+,
+<pb n="6">
+</pb>
+war	sein	VAFIN	Duden	tu_132_xTok_000374b
 <g/>
 ,
 zum	zum	APPRART	Duden	tu_132_xTok_000377

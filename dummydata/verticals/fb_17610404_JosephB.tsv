@@ -1,4 +1,6 @@
-<doc id="fb_17610404_JosephB" delinquent_sexes="male" title="Todesurteil Joseph B." attrs="word lemma pos vocab id">
+<doc id="fb_17610404_JosephB" year="1761" delinquent_sexes="male" title="Todesurteil Joseph B." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_76_xTok_000001
 Einer	ein	ART	Duden	tu_76_xTok_000005
@@ -89,6 +91,8 @@ wird	werden	VAFIN	Duden	tu_76_xTok_000136
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_76_xTok_000140
 seines	sein	PPOSAT	Duden	tu_76_xTok_000142
@@ -262,6 +266,8 @@ gewarten	gewarten	VVINF	DWB	tu_76_xTok_000433
 hätte	haben	VAFIN	Duden	tu_76_xTok_000435
 <g/>
 ;
+<pb n="3">
+</pb>
 Und	und	KON	Duden	tu_76_xTok_000437
 da	da	KOUS	Duden	tu_76_xTok_000439
 nun	nun	ADV	Duden	tu_76_xTok_000441
@@ -470,6 +476,8 @@ müssen	müssen	VMINF	Duden	tu_76_xTok_000781
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_76_xTok_000783
 seines	sein	PPOSAT	Duden	tu_76_xTok_000785

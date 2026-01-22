@@ -1,4 +1,6 @@
-<doc id="fb_17710131_JohannGeorgP" delinquent_sexes="male" title="Todesurteil Johann Georg P." attrs="word lemma pos vocab id">
+<doc id="fb_17710131_JohannGeorgP" year="1771" delinquent_sexes="male" title="Todesurteil Johann Georg P." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_93_xTok_000001
 einer	ein	ART	Duden	tu_93_xTok_000005
@@ -95,6 +97,8 @@ wird	werden	VAFIN	Duden	tu_93_xTok_000140
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_93_xTok_000142
 seines	sein	PPOSAT	Duden	tu_93_xTok_000144
@@ -384,6 +388,8 @@ theils	teils	ADV	Duden	tu_93_xTok_000617
 gerichtlich	gerichtlich	ADJD	Duden	tu_93_xTok_000619
 <g/>
 ,
+<pb n="3">
+</pb>
 theils	teils	ADV	Duden	tu_93_xTok_000621
 eidlich	eidlich	ADJD	Duden	tu_93_xTok_000623
 erhobene	erheben	ADJA	Duden	tu_93_xTok_000625

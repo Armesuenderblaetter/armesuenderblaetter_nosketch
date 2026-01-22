@@ -1,4 +1,6 @@
-<doc id="fb_17410113_PeterH" delinquent_sexes="male" title="Todesurteil Peter H." attrs="word lemma pos vocab id">
+<doc id="fb_17410113_PeterH" year="1741" delinquent_sexes="male" title="Todesurteil Peter H." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_18_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_18_xTok_000002
@@ -147,6 +149,8 @@ werden	werden	VAINF	Duden	tu_18_xTok_000231
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_18_xTok_000247
 des	d	ART	Duden	tu_18_xTok_000250
@@ -717,6 +721,8 @@ zeigen	zeigen	VVINF	Duden	tu_18_xTok_001189
 .
 </l>
 </lg>
+<pb n="3">
+</pb>
 <lg type="stanza">
 <l id="fb_17410113_PeterH_l_0013">
 Ein	ein	ART	Duden	tu_18_xTok_001191

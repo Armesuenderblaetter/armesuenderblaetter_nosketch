@@ -1,4 +1,6 @@
-<doc id="fb_17820823_JosephW" delinquent_sexes="male" title="Urteil Joseph W." attrs="word lemma pos vocab id">
+<doc id="fb_17820823_JosephW" year="1782" delinquent_sexes="male" title="Urteil Joseph W." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Beylage	Beilage	NN	Duden	tu_124_xTok_000001
 zur	zur	APPRART	Duden	tu_124_xTok_000003
@@ -155,6 +157,8 @@ Vorhaben	Vorhaben	NN	Duden	tu_124_xTok_000240
 ,
 und	und	KON	Duden	tu_124_xTok_000243
 das	d	ART	Duden	tu_124_xTok_000245
+<pb n="2">
+</pb>
 Eheverlobniß	Eheverlöbnis	NN	DWB	tu_124_xTok_000246
 wurde	werden	VAFIN	Duden	tu_124_xTok_000248
 nicht	nicht	PTKNEG	Duden	tu_124_xTok_000250
@@ -558,6 +562,8 @@ sich	sich	PRF	Duden	tu_124_xTok_000914
 <g/>
 .
 </p>
+<pb n="3">
+</pb>
 <p id="fb_17820823_JosephW_p_0003">
 Tages	tags	ADV	Duden	tu_124_xTok_000916
 darauf	darauf	PAV	Duden	tu_124_xTok_000918
@@ -971,6 +977,8 @@ daß	dass	KOUS	Duden	tu_124_xTok_001588
 er	er	PPER	Duden	tu_124_xTok_001590
 durchgehends	durchgehends	ADV	DWB	tu_124_xTok_001592
 von	von	APPR	Duden	tu_124_xTok_001594
+<pb n="4">
+</pb>
 seiner	sein	PPOSAT	Duden	tu_124_xTok_001595
 Entschließung	Entschließung	NN	Duden	tu_124_xTok_001597
 abstund	abstehen	VVFIN	Duden	tu_124_xTok_001599

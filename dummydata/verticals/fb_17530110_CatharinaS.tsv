@@ -1,4 +1,6 @@
-<doc id="fb_17530110_CatharinaS" delinquent_sexes="female" title="Todesurteil Catharina S." attrs="word lemma pos vocab id">
+<doc id="fb_17530110_CatharinaS" year="1753" delinquent_sexes="female" title="Todesurteil Catharina S." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wol=verdientes	wohlverdientes	ADJA	Duden	tu_56_xTok_000001
 Todes=Urtheil	Todesurteil	NN	Duden	tu_56_xTok_000003
@@ -883,6 +885,8 @@ vermischet	vermischen	VVPP	Duden	tu_56_xTok_001546
 <g/>
 ,
 ihnen	sie	PPER	Duden	tu_56_xTok_001549
+<pb n="2">
+</pb>
 Baaderischen	baderisch	ADJA	DWB	tu_56_xTok_001550
 Eheleuten	Eheleute	NN	Duden	tu_56_xTok_001552
 zu	zu	PTKZU	Duden	tu_56_xTok_001554
@@ -1364,6 +1368,8 @@ sie	sie	PPER	Duden	tu_56_xTok_002353
 solches	solch	PDS	Duden	tu_56_xTok_002355
 meistentheils	meistenteils	ADV	Duden	tu_56_xTok_002357
 von	von	APPR	Duden	tu_56_xTok_002359
+<pb n="3">
+</pb>
 sich	sich	PRF	Duden	tu_56_xTok_002360
 geworffen	werfen	VVPP	Duden	tu_56_xTok_002362
 <g/>

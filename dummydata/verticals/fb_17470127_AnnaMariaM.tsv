@@ -1,4 +1,6 @@
-<doc id="fb_17470127_AnnaMariaM" delinquent_sexes="female" title="Todesurteil Anna Maria M." attrs="word lemma pos vocab id">
+<doc id="fb_17470127_AnnaMariaM" year="1747" delinquent_sexes="female" title="Todesurteil Anna Maria M." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_35_xTok_000002
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_35_xTok_000003
@@ -89,6 +91,8 @@ finden	finden	VVINF	Duden	tu_35_xTok_000142
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_35_xTok_000162
 des	d	ART	Duden	tu_35_xTok_000165
@@ -191,6 +195,8 @@ den	d	ART	Duden	tu_35_xTok_000349
 mit	mit	APPR	Duden	tu_35_xTok_000351
 ihr	sie	PPER	Duden	tu_35_xTok_000353
 erstlichen	erstlich	ADV	Duden	tu_35_xTok_000355
+<pb n="3">
+</pb>
 An.	annus	FM	G-LDHW	tu_35_xTok_000356
 1738.	1738	CARD		tu_35_xTok_000359
 wegen	wegen	APPR	Duden	tu_35_xTok_000361
@@ -338,6 +344,8 @@ sowohl	sowohl	KON	Duden	tu_35_xTok_000630
 selbst	selbst	ADV	Duden	tu_35_xTok_000632
 geständig=	geständigermaßen	TRUNC	oov	tu_35_xTok_000634
 als	als	KOKOM	Duden	tu_35_xTok_000636
+<pb n="4">
+</pb>
 eydlich	eidlich	ADJD	Duden	tu_35_xTok_000637
 ausgesagter massen	ausgesagtermaßen	ADV		tu_35_xTok_000639
 nach	nach	APPR	Duden	tu_35_xTok_000643

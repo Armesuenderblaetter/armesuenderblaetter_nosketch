@@ -1,4 +1,6 @@
-<doc id="fb_17800609_JohannGeorgE_Marti" delinquent_sexes="male" title="Todesurteil Johann Georg E., Martin W." attrs="word lemma pos vocab id">
+<doc id="fb_17800609_JohannGeorgE_Marti" year="1780" delinquent_sexes="male" title="Todesurteil Johann Georg E., Martin W." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_118_xTok_000001
 zweyer	zwei	CARD	Duden	tu_118_xTok_000004
@@ -106,6 +108,10 @@ wird	werden	VAFIN	Duden	tu_118_xTok_000163
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_118_xTok_000166
 ihrer	ihr	PPOSAT	Duden	tu_118_xTok_000168
@@ -196,11 +202,15 @@ Meineidig	meineidig	ADJD	Duden	tu_118_xTok_000312
 ,
 gerieth	geraten	VVFIN	Duden	tu_118_xTok_000316
 sodann	sodann	ADV	Duden	tu_118_xTok_000318
+<g/>
+,
 wegen	wegen	APPR	Duden	tu_118_xTok_000322
 eines	ein	ART	Duden	tu_118_xTok_000324
 ihm	er	PPER	Duden	tu_118_xTok_000326
 zugemutheten	zumuten	ADJA	DWB	tu_118_xTok_000328
 Raubes	Raub	NN	Duden	tu_118_xTok_000330
+<g/>
+,
 zu	zu	APPR	Duden	tu_118_xTok_000333
 Rodaun	Rodaun	NE::top	oov	tu_118_xTok_000335
 im	im	APPRART	Duden	tu_118_xTok_000337
@@ -275,6 +285,8 @@ Mitgefangenen	Mitgefangener	NN	Duden	tu_118_xTok_000453
 im	im	APPRART	Duden	tu_118_xTok_000455
 Frühjahre	Frühjahr	NN	Duden	tu_118_xTok_000456
 1778	1778	CARD		tu_118_xTok_000458
+<g/>
+,
 mittelst	mittelst	APPR	Duden	tu_118_xTok_000462
 Vergewaltigung	Vergewaltigung	NN	Duden	tu_118_xTok_000464
 der	d	ART	Duden	tu_118_xTok_000466
@@ -282,6 +294,8 @@ zween	zwei	CARD	Duden	tu_118_xTok_000468
 mitgegebenen	mitgeben	ADJA	Duden	tu_118_xTok_000470
 Mann	Mann	NN	Duden	tu_118_xTok_000473
 Wache	Wache	NN	Duden	tu_118_xTok_000475
+<g/>
+,
 aus	aus	APPR	Duden	tu_118_xTok_000478
 der	d	ART	Duden	tu_118_xTok_000480
 Festung	Festung	NN	Duden	tu_118_xTok_000482
@@ -447,6 +461,10 @@ kam	kommen	VVFIN	Duden	tu_118_xTok_000750
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 <p id="fb_17800609_JohannGeorgE_Marti_p_0003">
 Diese	diese	PDAT	Duden	tu_118_xTok_000752
 7	7	CARD		tu_118_xTok_000754
@@ -458,6 +476,7 @@ den	d	ART	Duden	tu_118_xTok_000764
 4ten	4	ADJA		tu_118_xTok_000766
 July	Juli	NN	Duden	tu_118_xTok_000769
 1778.	1778	CARD		tu_118_xTok_000771
+1778	1778	CARD		tu_118_xTok_000772
 in	in	APPR	Duden	tu_118_xTok_000774
 Baaden	Baden	NE::top	oov	tu_118_xTok_000775
 zusamm	zusammen	PTKVZ	Duden	tu_118_xTok_000778
@@ -486,6 +505,8 @@ auch	auch	ADV	Duden	tu_118_xTok_000818
 durch	durch	APPR	Duden	tu_118_xTok_000820
 die	d	ART	Duden	tu_118_xTok_000822
 hierüber	hierüber	PAV	Duden	tu_118_xTok_000824
+<g/>
+,
 theils	teils	ADV	Duden	tu_118_xTok_000827
 gerichtlich	gerichtlich	ADJD	Duden	tu_118_xTok_000829
 <g/>
@@ -494,6 +515,8 @@ theils	teils	ADV	Duden	tu_118_xTok_000832
 eidlich	eidlich	ADJD	Duden	tu_118_xTok_000834
 erhobene	erheben	ADJA	Duden	tu_118_xTok_000836
 Bewährungen	Bewährung	NN	Duden	tu_118_xTok_000839
+<g/>
+,
 bewiesen	beweisen	VVPP	Duden	tu_118_xTok_000842
 <g/>
 ,
@@ -594,6 +617,7 @@ auf	auf	APPR	Duden	tu_118_xTok_001008
 25	25	CARD		tu_118_xTok_001010
 fl.	Flore	NN	DWB	tu_118_xTok_001012
 31	31	CARD		tu_118_xTok_001015
+21	21	CARD		tu_118_xTok_001016
 kr.	Kreuzer	NN	Duden	tu_118_xTok_001018
 beeidigten	beeidigen	ADJA	Duden	tu_118_xTok_001021
 Schaden	Schaden	NN	Duden	tu_118_xTok_001023
@@ -672,6 +696,8 @@ im	im	APPRART	Duden	tu_118_xTok_001141
 Wert	Wert	NN	Duden	tu_118_xTok_001142
 beschwornen	beschwören	ADJA	Duden	tu_118_xTok_001145
 Halbrock	Halbrock	NN	Duden	tu_118_xTok_001147
+<g/>
+,
 samt	samt	APPR	Duden	tu_118_xTok_001150
 einem	ein	ART	Duden	tu_118_xTok_001153
 Kapel	Kappel	NN	Duden	tu_118_xTok_001155
@@ -685,6 +711,8 @@ nahmen	hinwegnehmen	VVFIN	DRW	tu_118_xTok_001167
 sie	sie	PPER	Duden	tu_118_xTok_001169
 sein	sein	PPOSAT	Duden	tu_118_xTok_001171
 Tüchel	Tuch	NN	Duden	tu_118_xTok_001173
+<g/>
+,
 mit	mit	APPR	Duden	tu_118_xTok_001176
 2	2	CARD		tu_118_xTok_001178
 fl.	Flore	NN	DWB	tu_118_xTok_001180
@@ -812,6 +840,8 @@ Wunden	Wunde	NN	Duden	tu_118_xTok_001382
 hat	haben	VAFIN	Duden	tu_118_xTok_001386
 <g/>
 ,
+<g/>
+;
 von	von	APPR	Duden	tu_118_xTok_001390
 welch	welch	PRELAT	Duden	tu_118_xTok_001392
 rauberischen	räuberisch	ADJA	Duden	tu_118_xTok_001394
@@ -1003,6 +1033,7 @@ Richtstatt	Richtstatt	NN	DWB	tu_118_xTok_001711
 geführet	führen	VVPP	Duden	tu_118_xTok_001713
 <g/>
 ,
+und	und	KON	Duden	tu_118_xTok_001716
 allda	allda	ADV	Duden	tu_118_xTok_001718
 mit	mit	APPR	Duden	tu_118_xTok_001720
 dem	d	ART	Duden	tu_118_xTok_001722

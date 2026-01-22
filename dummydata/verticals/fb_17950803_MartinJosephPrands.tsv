@@ -1,4 +1,6 @@
-<doc id="fb_17950803_MartinJosephPrands" delinquent_sexes="male" title="Urteil Martin Joseph Prandstätter, Heinrich Jeline." attrs="word lemma pos vocab id">
+<doc id="fb_17950803_MartinJosephPrands" year="1795" delinquent_sexes="male" title="Urteil Martin Joseph Prandstätter, Heinrich Jeline." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Urtheil	Urteil	NN	Duden	tu_134_xTok_000001
 über	über	APPR	Duden	tu_134_xTok_000002
@@ -18,6 +20,10 @@ Jeline	Jeline	NE	oov	tu_134_xTok_000013
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <p id="fb_17950803_MartinJosephPrands_p_0001">
 Martin	Martin	NE	Duden	tu_134_xTok_000055
 Joseph	Joseph	NE	Duden	tu_134_xTok_000058
@@ -54,10 +60,16 @@ erkennen	erkennen	VVINF	Duden	tu_134_xTok_000106
 gegeben	geben	VVPP	Duden	tu_134_xTok_000109
 <g/>
 ;
+<g/>
+,
 er	er	PPER	Duden	tu_134_xTok_000113
 wurde	werden	VAFIN	Duden	tu_134_xTok_000115
 dieserwegen	dieserwegen	ADV	DWB	tu_134_xTok_000117
+<pb n="4">
+</pb>
 von	von	APPR	Duden	tu_134_xTok_000119
+<pb n="5">
+</pb>
 derjenigen	diejenige	PDAT	Duden	tu_134_xTok_000120
 Stelle	Stelle	NN	Duden	tu_134_xTok_000122
 <g/>
@@ -189,6 +201,10 @@ Absicht	Absicht	NN	Duden	tu_134_xTok_000334
 <g/>
 ;
 er	er	PPER	Duden	tu_134_xTok_000339
+<pb n="6">
+</pb>
+<pb n="7">
+</pb>
 hatte	haben	VAFIN	Duden	tu_134_xTok_000340
 von	von	APPR	Duden	tu_134_xTok_000342
 allen	all	PIAT	Duden	tu_134_xTok_000344
@@ -304,6 +320,10 @@ an	an	APPR	Duden	tu_134_xTok_000531
 dem	d	ART	Duden	tu_134_xTok_000533
 Verbrechen	Verbrechen	NN	Duden	tu_134_xTok_000535
 des	d	ART	Duden	tu_134_xTok_000537
+<pb n="8">
+</pb>
+<pb n="9">
+</pb>
 Landesverraths	Landesverrat	NN	Duden	tu_134_xTok_000538
 schuldig	schuldig	ADJD	Duden	tu_134_xTok_000540
 gemacht	machen	VVPP	Duden	tu_134_xTok_000542
@@ -340,10 +360,14 @@ drey	drei	CARD	Duden	tu_134_xTok_000594
 auf einander	aufeinander	ADV		tu_134_xTok_000596
 folgende	folgend	ADJA	Duden	tu_134_xTok_000601
 Tage	Tag	NN	Duden	tu_134_xTok_000603
+<g/>
+,
 jedesmal	jedesmal	ADV	DWB	tu_134_xTok_000606
 eine	ein	ART	Duden	tu_134_xTok_000608
 Stunde	Stunde	NN	Duden	tu_134_xTok_000609
 lang	lang	ADJD	Duden	tu_134_xTok_000611
+<g/>
+,
 mit	mit	APPR	Duden	tu_134_xTok_000614
 einer	ein	ART	Duden	tu_134_xTok_000616
 ihm	er	PPER	Duden	tu_134_xTok_000618
@@ -376,6 +400,10 @@ durch	durch	APPR	Duden	tu_134_xTok_000658
 30	30	CARD		tu_134_xTok_000660
 Jahre	Jahr	NN	Duden	tu_134_xTok_000662
 zum	zum	APPRART	Duden	tu_134_xTok_000664
+<pb n="10">
+</pb>
+<pb n="11">
+</pb>
 langwierigen	langwierig	ADJA	Duden	tu_134_xTok_000666
 schwersten	schwer	ADJA	Duden	tu_134_xTok_000668
 Gefängnisse	Gefängnis	NN	Duden	tu_134_xTok_000670
@@ -610,6 +638,10 @@ aus	aus	PTKVZ	Duden	tu_134_xTok_001061
 <g/>
 :
 </p>
+<pb n="12">
+</pb>
+<pb n="13">
+</pb>
 <p id="fb_17950803_MartinJosephPrands_p_0003">
 Heinrich	Heinrich	NE	Duden	tu_134_xTok_001063
 Jeline	Jeline	NE	oov	tu_134_xTok_001065
@@ -625,10 +657,14 @@ auf	auf	APPR	Duden	tu_134_xTok_001083
 einander	einander	PRF	Duden	tu_134_xTok_001085
 folgende	folgend	ADJA	Duden	tu_134_xTok_001090
 Tage	Tag	NN	Duden	tu_134_xTok_001092
+<g/>
+,
 jedesmal	jedesmal	ADV	DWB	tu_134_xTok_001095
 eine	ein	ART	Duden	tu_134_xTok_001096
 Stunde	Stunde	NN	Duden	tu_134_xTok_001098
 lang	lang	ADJD	Duden	tu_134_xTok_001100
+<g/>
+,
 mit	mit	APPR	Duden	tu_134_xTok_001103
 einer	ein	ART	Duden	tu_134_xTok_001105
 ihm	er	PPER	Duden	tu_134_xTok_001107

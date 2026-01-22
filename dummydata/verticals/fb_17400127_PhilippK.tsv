@@ -1,4 +1,6 @@
-<doc id="fb_17400127_PhilippK" delinquent_sexes="male" title="Todesurteil Philipp K." attrs="word lemma pos vocab id">
+<doc id="fb_17400127_PhilippK" year="1740" delinquent_sexes="male" title="Todesurteil Philipp K." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_16_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_16_xTok_000002
@@ -148,6 +150,8 @@ vernehmen	vernehmen	VVINF	Duden	tu_16_xTok_000251
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_16_xTok_000268
 des	d	ART	Duden	tu_16_xTok_000271
@@ -360,6 +364,8 @@ geringschätzige	geringschätzig	ADJA	Duden	tu_16_xTok_000636
 Effecten	Effekten	NN	Duden	tu_16_xTok_000638
 <g/>
 /
+<pb n="3">
+</pb>
 dann	dann	ADV	Duden	tu_16_xTok_000643
 in	in	APPR	Duden	tu_16_xTok_000645
 einem	ein	ART	Duden	tu_16_xTok_000647
@@ -598,6 +604,8 @@ gegangen	gehen	VVPP	Duden	tu_16_xTok_001010
 <g/>
 ,
 </l>
+<pb n="4">
+</pb>
 <l id="fb_17400127_PhilippK_l_0011">
 Dem	d	ART	Duden	tu_16_xTok_001012
 frembder	fremd	ADJA	Duden	tu_16_xTok_001014

@@ -1,9 +1,13 @@
-<doc id="fb_17490826_UlrichG" delinquent_sexes="male" title="Todesurteil Ulrich G." attrs="word lemma pos vocab id">
+<doc id="fb_17490826_UlrichG" year="1749" delinquent_sexes="male" title="Todesurteil Ulrich G." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_46_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_46_xTok_000002
 <g/>
 ,
+<g/>
+/
 Einer	ein	ART	Duden	tu_46_xTok_000009
 Verheyrathen	verheiratet	ADJA	Duden	tu_46_xTok_000010
 Manns=Persohn	Mannsperson	NN	Duden	tu_46_xTok_000012
@@ -87,6 +91,10 @@ mehrere	mehrere	PIS	Duden	tu_46_xTok_000129
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_46_xTok_000149
 des	d	ART	Duden	tu_46_xTok_000151
@@ -102,6 +110,7 @@ den	d	ART	Duden	tu_46_xTok_000162
 <date id="date46">
 26.	26	ADJA		tu_46_xTok_000164
 Augusti	August	NN	Duden	tu_46_xTok_000165
+Augusti	August	NN	Duden	tu_46_xTok_000166
 An.	annus	FM	G-LDHW	tu_46_xTok_000167
 1749.	1749	CARD		tu_46_xTok_000170
 </date>
@@ -141,6 +150,7 @@ derselbe	derselbe	PDS	Duden	tu_46_xTok_000228
 schon	schon	ADV	Duden	tu_46_xTok_000230
 von	von	APPR	Duden	tu_46_xTok_000232
 Anno	annus	FM	G-LDHW	tu_46_xTok_000234
+Anno	annus	FM	G-LDHW	tu_46_xTok_000235
 1734.	1734	CARD		tu_46_xTok_000237
 bis	bis	APPR	Duden	tu_46_xTok_000239
 1738.	1738	CARD		tu_46_xTok_000241
@@ -174,6 +184,7 @@ abgeschafft	abschaffen	VVPP	DWB	tu_46_xTok_000295
 <g/>
 ;
 Anno	annus	FM	G-LDHW	tu_46_xTok_000298
+Anno	annus	FM	G-LDHW	tu_46_xTok_000299
 1739.	1739	CARD		tu_46_xTok_000301
 aber	aber	ADV	Duden	tu_46_xTok_000303
 wegen	wegen	APPR	Duden	tu_46_xTok_000304
@@ -232,13 +243,21 @@ Jahr	Jahr	NN	Duden	tu_46_xTok_000434
 lang	lang	ADJD	Duden	tu_46_xTok_000436
 <g/>
 =
+<g/>
+,
 dann	dann	ADV	Duden	tu_46_xTok_000440
 nach	nach	APPR	Duden	tu_46_xTok_000442
 seiner	sein	PPOSAT	Duden	tu_46_xTok_000444
+<pb n="4">
+</pb>
 Anno	annus	FM	G-LDHW	tu_46_xTok_000445
+Anno	annus	FM	G-LDHW	tu_46_xTok_000446
+<pb n="5">
+</pb>
 1742.	1742	CARD		tu_46_xTok_000447
 von	von	APPR	Duden	tu_46_xTok_000449
 Comorn	Komorn	NE::top	oov	tu_46_xTok_000451
+Comorn	Komorn	NE::top	oov	tu_46_xTok_000452
 beschehen=	beschehen	ADJA	DWB	tu_46_xTok_000454
 heimlichen	heimlich	ADJA	Duden	tu_46_xTok_000456
 Entweichung	Entweichung	NN	Duden	tu_46_xTok_000458
@@ -257,12 +276,15 @@ ihme	er	PPER	Duden	tu_46_xTok_000483
 zum	zum	APPRART	Duden	tu_46_xTok_000485
 anderten	anderte	ADJA	DWB	tu_46_xTok_000487
 mal	Mal	NN	Duden	tu_46_xTok_000487b
+anderten	anderte	ADV	DWB	tu_46_xTok_000488
+mahl	Mal	ADV	Duden	tu_46_xTok_000488b
 abgeführten	abführen	ADJA	DRW	tu_46_xTok_000490
 Criminal-Process	Kriminalprozess	NN	Duden	tu_46_xTok_000493
 zur	zur	APPRART	Duden	tu_46_xTok_000495
 Vollstreckung	Vollstreckung	NN	Duden	tu_46_xTok_000497
 seiner	sein	PPOSAT	Duden	tu_46_xTok_000499
 ausständig	ausständig	ADJD	Duden	tu_46_xTok_000500
+4.jährigen	vierjährig	ADJA	Duden	tu_46_xTok_000503
 4=jährigen	vierjährig	ADJA	Duden	tu_46_xTok_000504
 Straf=Zeit	Strafzeit	NN	Duden	tu_46_xTok_000507
 annoch	annoch	ADV	Duden	tu_46_xTok_000509
@@ -272,6 +294,7 @@ Jahr	Jahr	NN	Duden	tu_46_xTok_000515
 lang	lang	ADJD	Duden	tu_46_xTok_000516
 nacher	nacher	APPR	DWB	tu_46_xTok_000518
 Comorn	Komorn	NE::top	oov	tu_46_xTok_000520
+Comorn	Komorn	NE::top	oov	tu_46_xTok_000521
 <g/>
 ,
 und	und	KON	Duden	tu_46_xTok_000525
@@ -281,6 +304,7 @@ den	d	ART	Duden	tu_46_xTok_000531
 mit	mit	APPR	Duden	tu_46_xTok_000533
 ihme	er	PPER	Duden	tu_46_xTok_000535
 Anno	annus	FM	G-LDHW	tu_46_xTok_000537
+Anno	annus	FM	G-LDHW	tu_46_xTok_000538
 1746.	1746	CARD		tu_46_xTok_000540
 wegen	wegen	APPR	Duden	tu_46_xTok_000542
 abermahlig=	abermalig	ADJA	Duden	tu_46_xTok_000545
@@ -290,6 +314,8 @@ allhier	allhier	ADV	Duden	tu_46_xTok_000552
 zum	zum	APPRART	Duden	tu_46_xTok_000555
 dritten	dritte	ADJA	Duden	tu_46_xTok_000558
 mal	Mal	NN	Duden	tu_46_xTok_000558b
+dritten	dritte	ADJA	Duden	tu_46_xTok_000559
+mahl	Mal	NN	Duden	tu_46_xTok_000561
 abgeführten	abführen	ADJA	DRW	tu_46_xTok_000563
 CriminalProcess	Kriminalprozess	NN	Duden	tu_46_xTok_000565
 auf	auf	APPR	Duden	tu_46_xTok_000568
@@ -307,6 +333,8 @@ Arbeit	Arbeit	NN	Duden	tu_46_xTok_000590
 verschafft	verschaffen	VVPP	Duden	tu_46_xTok_000592
 <g/>
 ,
+<g/>
+=
 vorhero	vorhero	ADV	DWB	tu_46_xTok_000597
 aber	aber	ADV	Duden	tu_46_xTok_000599
 jederzeit	jederzeit	ADV	Duden	tu_46_xTok_000601
@@ -340,6 +368,7 @@ befindet	befinden	VVFIN	Duden	tu_46_xTok_000666
 ,
 und	und	KON	Duden	tu_46_xTok_000669
 resp.	respektive	KON	Duden	tu_46_xTok_000671
+respective	respektive	KON	Duden	tu_46_xTok_000673
 all	all	PIAT	Duden	tu_46_xTok_000675
 Kayserl.	kaiserlich	ADJA	Duden	tu_46_xTok_000677
 Königl.	königlich	ADJA	Duden	tu_46_xTok_000682
@@ -370,6 +399,7 @@ der	d	ART	Duden	tu_46_xTok_000728
 ihme	er	PPER	Duden	tu_46_xTok_000730
 sowohl	sowohl	KON	Duden	tu_46_xTok_000732
 Anno	annus	FM	G-LDHW	tu_46_xTok_000733
+Anno	annus	FM	G-LDHW	tu_46_xTok_000734
 1746.	1746	CARD		tu_46_xTok_000736
 im	im	APPRART	Duden	tu_46_xTok_000738
 Monath	Monat	NN	Duden	tu_46_xTok_000740
@@ -468,6 +498,8 @@ cken,	Chorrock	NN	Duden	tu_46_xTok_000903
 und	und	KON	Duden	tu_46_xTok_000907
 anderen	andere	ADJA	Duden	tu_46_xTok_000909
 dergleichen	dergleichen	PIAT	Duden	tu_46_xTok_000911
+<pb n="6">
+</pb>
 Kirchen=Sachen	Kirchensache	NN	DWB	tu_46_xTok_000913
 mit	mit	APPR	Duden	tu_46_xTok_000915
 Einbegriff	Einbegriff	NN	oov	tu_46_xTok_000917

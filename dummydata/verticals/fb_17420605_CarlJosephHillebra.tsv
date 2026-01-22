@@ -1,4 +1,6 @@
-<doc id="fb_17420605_CarlJosephHillebra" delinquent_sexes="male" title="Todesurteil Carl Joseph Hillebrand" attrs="word lemma pos vocab id">
+<doc id="fb_17420605_CarlJosephHillebra" year="1742" delinquent_sexes="male" title="Todesurteil Carl Joseph Hillebrand" attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 End=Urtheil	Endurteil	NN	Duden	tu_19_xTok_000001
 <g/>
@@ -149,6 +151,8 @@ den	d	ART	Duden	tu_19_xTok_000252
 Junij	Juni	NN	Duden	tu_19_xTok_000256
 1742.	1742	CARD		tu_19_xTok_000258
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 End=Urtheil	Endurteil	NN	Duden	tu_19_xTok_000273
 <g/>
@@ -885,6 +889,8 @@ ein	ein	ART	Duden	tu_19_xTok_001624
 mit	mit	APPR	Duden	tu_19_xTok_001626
 Chur=Bayrischen	kurbayrisch	ADJA	oov	tu_19_xTok_001628
 wider	wider	APPR	Duden	tu_19_xTok_001630
+<pb n="3">
+</pb>
 des	d	ART	Duden	tu_19_xTok_001632
 Allerdurchleuchtigsten	allerdurchlauchtigste	ADJA	Duden	tu_19_xTok_001634
 Ertz=Hauß	Erzhaus	NN	DWB	tu_19_xTok_001636

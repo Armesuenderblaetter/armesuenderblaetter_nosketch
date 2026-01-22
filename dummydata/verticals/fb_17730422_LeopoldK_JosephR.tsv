@@ -1,4 +1,6 @@
-<doc id="fb_17730422_LeopoldK_JosephR" delinquent_sexes="male" title="Todesurteil Leopold K., Joseph R." attrs="word lemma pos vocab id">
+<doc id="fb_17730422_LeopoldK_JosephR" year="1773" delinquent_sexes="male" title="Todesurteil Leopold K., Joseph R." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_101_xTok_000001
 zweyer	zwei	CARD	Duden	tu_101_xTok_000003
@@ -111,6 +113,8 @@ wird	werden	VAFIN	Duden	tu_101_xTok_000173
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnhalt	Inhalt	NN	Duden	tu_101_xTok_000176
 ihres	ihr	PPOSAT	Duden	tu_101_xTok_000178

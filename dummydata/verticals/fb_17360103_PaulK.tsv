@@ -1,4 +1,6 @@
-<doc id="fb_17360103_PaulK" delinquent_sexes="male" title="Todesurteil Paul K." attrs="word lemma pos vocab id">
+<doc id="fb_17360103_PaulK" year="1736" delinquent_sexes="male" title="Todesurteil Paul K." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Rechtmässiges	rechtmäßig	ADJA	Duden	tu_9_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_9_xTok_000002
@@ -158,6 +160,8 @@ ersehen	ersehen	VVINF	Duden	tu_9_xTok_000264
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <lg type="poem">
 <lg type="stanza">
 <head>
@@ -725,6 +729,8 @@ quälen	quälen	VVINF	Duden	tu_9_xTok_000872
 dem	d	ART	Duden	tu_9_xTok_000874
 Leib	Leib	NN	Duden	tu_9_xTok_000876
 </l>
+<pb n="3">
+</pb>
 <l id="fb_17360103_PaulK_l_0061">
 bringen	bringen	VVINF	Duden	tu_9_xTok_000877
 Spott	Spott	NN	Duden	tu_9_xTok_000879

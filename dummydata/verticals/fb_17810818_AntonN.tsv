@@ -1,4 +1,6 @@
-<doc id="fb_17810818_AntonN" delinquent_sexes="male" title="Todesurteil Anton N." attrs="word lemma pos vocab id">
+<doc id="fb_17810818_AntonN" year="1781" delinquent_sexes="male" title="Todesurteil Anton N." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Nro.	Numero	NN	Duden	tu_122_xTok_000001
 8.	8	CARD		tu_122_xTok_000004
@@ -237,6 +239,8 @@ wäre	sein	VAFIN	Duden	tu_122_xTok_000361
 daß	dass	KOUS	Duden	tu_122_xTok_000364
 er	er	PPER	Duden	tu_122_xTok_000366
 sich	sich	PRF	Duden	tu_122_xTok_000368
+<pb n="2">
+</pb>
 fertigen	fertig	ADJA	Duden	tu_122_xTok_000369
 Jahrs	Jahr	NN	Duden	tu_122_xTok_000371
 <g/>
@@ -725,6 +729,8 @@ worden	werden	VAPP	Duden	tu_122_xTok_001175
 <g/>
 .
 </p>
+<pb n="3">
+</pb>
 <lg type="poem">
 <head>
 Moralrede	Moralrede	NN	oov	tu_122_xTok_001177
@@ -1239,6 +1245,8 @@ schärfen	schärfen	VVINF	Duden	tu_122_xTok_001827
 ,
 </l>
 </lg>
+<pb n="4">
+</pb>
 <lg type="stanza">
 <l id="fb_17810818_AntonN_l_0039">
 die	d	ART	Duden	tu_122_xTok_001829

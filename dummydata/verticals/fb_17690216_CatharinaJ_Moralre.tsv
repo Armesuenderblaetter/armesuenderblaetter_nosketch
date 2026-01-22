@@ -1,4 +1,6 @@
-<doc id="fb_17690216_CatharinaJ_Moralre" delinquent_sexes="male" title="Moral Catharina J." attrs="word lemma pos vocab id">
+<doc id="fb_17690216_CatharinaJ_Moralre" year="1769" delinquent_sexes="male" title="Moral Catharina J." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Moralische	moralisch	ADJA	Duden	tu_91_xTok_000001
 Gedanken	Gedanke	NN	Duden	tu_91_xTok_000003
@@ -366,6 +368,8 @@ verschließt	verschließen	VVFIN	Duden	tu_91_xTok_000485
 .
 </l>
 </lg>
+<pb n="2">
+</pb>
 <lg type="stanza">
 <l id="fb_17690216_CatharinaJ_Moralre_l_0023">
 Kein	kein	PIAT	Duden	tu_91_xTok_000487
@@ -833,6 +837,8 @@ verdingt	verdingen	VVPP	Duden	tu_91_xTok_001079
 ,
 </l>
 </lg>
+<pb n="3">
+</pb>
 <lg type="stanza">
 <l id="fb_17690216_CatharinaJ_Moralre_l_0058">
 Von	von	APPR	Duden	tu_91_xTok_001081
@@ -1266,6 +1272,8 @@ fahren	fahren	VVINF	Duden	tu_91_xTok_001643
 <g/>
 .
 </l>
+<pb n="4">
+</pb>
 <l id="fb_17690216_CatharinaJ_Moralre_l_0093">
 Lang	lang	ADJD	Duden	tu_91_xTok_001645
 hob	heben	VVFIN	Duden	tu_91_xTok_001647
@@ -1683,6 +1691,8 @@ Woch	Woche	NN	Duden	tu_91_xTok_002185
 <g/>
 .
 </p>
+<pb n="5">
+</pb>
 <head>
 Beschluß	Beschluss	NN	Duden	tu_91_xTok_002187
 der	d	ART	Duden	tu_91_xTok_002189
@@ -2033,6 +2043,8 @@ nachgeschift	nachschiffen	VVPP	DWB	tu_91_xTok_002650
 ,
 </l>
 </lg>
+<pb n="6">
+</pb>
 <lg type="stanza">
 <l id="fb_17690216_CatharinaJ_Moralre_l_0151">
 Aenäens	Äneas	NE	Duden	tu_91_xTok_002652
@@ -2429,6 +2441,8 @@ Rath	Rat	NN	Duden	tu_91_xTok_003157
 ,
 </l>
 </lg>
+<pb n="7">
+</pb>
 <lg type="stanza">
 <l id="fb_17690216_CatharinaJ_Moralre_l_0183">
 Ohnmöglich	unmöglich	ADJD	Duden	tu_91_xTok_003159
@@ -2862,6 +2876,8 @@ Tygerbild	Tigerbild	NN	oov	tu_91_xTok_003714
 ,
 </l>
 </lg>
+<pb n="8">
+</pb>
 <lg type="stanza">
 <l id="fb_17690216_CatharinaJ_Moralre_l_0215">
 Er	er	PPER	Duden	tu_91_xTok_003716
@@ -3237,6 +3253,8 @@ Zeiten	Zeit	NN	Duden	tu_91_xTok_004192
 .
 </l>
 </lg>
+<pb n="9">
+</pb>
 <p id="fb_17690216_CatharinaJ_Moralre_p_0002">
 Entsezlich	entsetzlich	ADJA	Duden	tu_91_xTok_004194
 und	und	KON	Duden	tu_91_xTok_004196
@@ -3271,4 +3289,6 @@ worden	werden	VAPP	Duden	tu_91_xTok_004249
 <g/>
 .
 </p>
+<pb n="10">
+</pb>
 </doc>

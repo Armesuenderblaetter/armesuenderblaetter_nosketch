@@ -1,4 +1,6 @@
-<doc id="fb_17560806_LeopoldW" delinquent_sexes="male" title="Todesurteil Leopold W." attrs="word lemma pos vocab id">
+<doc id="fb_17560806_LeopoldW" year="1756" delinquent_sexes="male" title="Todesurteil Leopold W." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_63_xTok_000002
 Einer	ein	ART	Duden	tu_63_xTok_000006
@@ -46,11 +48,15 @@ dem	d	ART	Duden	tu_63_xTok_000060
 alhiesigen	allhiesig	ADJA	DWB	tu_63_xTok_000062
 Kaiserl.	kaiserlich	ADJA	Duden	tu_63_xTok_000064
 Königl.	königlich	ADJA	Duden	tu_63_xTok_000067
+K.	kaiserlich	ADJA	Duden	tu_63_xTok_000069
+K.	königlich	ADJA	Duden	tu_63_xTok_000072
 Stadt	Stadtgericht	TRUNC	Duden	tu_63_xTok_000074
 und	und	KON	Duden	tu_63_xTok_000075
 Land=gericht	Landgericht	NN	Duden	tu_63_xTok_000077
 abgeführten	abführen	ADJA	DRW	tu_63_xTok_000080
 Criminal-verfahrung	Kriminalverfahrung	NN	oov	tu_63_xTok_000082
+<g/>
+,
 und	und	KON	Duden	tu_63_xTok_000085
 darüber	darüber	PAV	Duden	tu_63_xTok_000087
 geschöpften	schöpfen	ADJA	Duden	tu_63_xTok_000090
@@ -71,6 +77,8 @@ an	an	APPR	Duden	tu_63_xTok_000126
 gleich	gleichbenannt	ADJA		tu_63_xTok_000129
 Leopold	Leopold	NE	Duden	tu_63_xTok_000131
 W.	W.	NE	oov	tu_63_xTok_000133
+<g/>
+,
 einem	ein	ART	Duden	tu_63_xTok_000137
 gelernten	gelernt	ADJA	Duden	tu_63_xTok_000139
 Fleischhacker=knecht	Fleischhackerknecht	NN	DRW	tu_63_xTok_000141
@@ -106,12 +114,16 @@ durch	durch	APPR	Duden	tu_63_xTok_000186
 vielfältige	vielfältig	ADJA	Duden	tu_63_xTok_000188
 sowol	sowohl	KON	Duden	tu_63_xTok_000191
 hier	hier	ADV	Duden	tu_63_xTok_000193
+<g/>
+,
 als	als	KON	Duden	tu_63_xTok_000196
 aus	aus	APPR	Duden	tu_63_xTok_000198
 fremden	fremd	ADJA	Duden	tu_63_xTok_000200
 Orten	Ort	NN	Duden	tu_63_xTok_000202
 gerichtlich	gerichtlich	ADJD	Duden	tu_63_xTok_000204
 erhobene	erheben	ADJA	Duden	tu_63_xTok_000206
+<g/>
+,
 und	und	KON	Duden	tu_63_xTok_000209
 eingeholte	einholen	ADJA	Duden	tu_63_xTok_000211
 Urkunden	Urkunde	NN	Duden	tu_63_xTok_000213
@@ -125,6 +137,8 @@ Jugend	Jugend	NN	Duden	tu_63_xTok_000225
 auf	auf	APPO	Duden	tu_63_xTok_000227
 dem	d	ART	Duden	tu_63_xTok_000229
 Stehlen	stehlen	VVINF-NN	Duden	tu_63_xTok_000231
+<g/>
+,
 und	und	KON	Duden	tu_63_xTok_000234
 Rauben	rauben	VVINF-NN	Duden	tu_63_xTok_000236
 nachgegangen	nachgehen	VVPP	Duden	tu_63_xTok_000238
@@ -140,6 +154,8 @@ Jahren	Jahr	NN	Duden	tu_63_xTok_000253
 zu	zu	APPR	Duden	tu_63_xTok_000255
 wiederholten	wiederholt	ADJA	Duden	tu_63_xTok_000260
 malen	Mal	NN	Duden	tu_63_xTok_000260c
+wiederholten=	wiederholt	ADJA	Duden	tu_63_xTok_000259
+malen	Mal	NN	Duden	tu_63_xTok_000259b
 einige	einige	PIAT	Duden	tu_63_xTok_000262
 Schaaffe	Schaf	NN	Duden	tu_63_xTok_000264
 auf	auf	APPR	Duden	tu_63_xTok_000268
@@ -181,6 +197,7 @@ er	er	PPER	Duden	tu_63_xTok_000335
 im	im	APPRART	Duden	tu_63_xTok_000337
 Herbst	Herbst	NN	Duden	tu_63_xTok_000339
 Anno	annus	FM	G-LDHW	tu_63_xTok_000341
+Anno	annus	FM	G-LDHW	tu_63_xTok_000342
 1748.	1748	CARD		tu_63_xTok_000344
 dem	d	ART	Duden	tu_63_xTok_000346
 Schaafmeister	Schafmeister	NN	DWB	tu_63_xTok_000348
@@ -248,6 +265,8 @@ nächtlicher Weile	nächtlicherweile	ADV		tu_63_xTok_000466
 seinen	sein	PPOSAT	Duden	tu_63_xTok_000470
 umgehabten	umhaben	ADJA	Duden	tu_63_xTok_000472
 Mantel	Mantel	NN	Duden	tu_63_xTok_000474
+<g/>
+,
 und	und	KON	Duden	tu_63_xTok_000477
 Hut	Hut	NN	Duden	tu_63_xTok_000479
 mit	mit	APPR	Duden	tu_63_xTok_000481
@@ -404,6 +423,7 @@ auch	auch	ADV	Duden	tu_63_xTok_000771
 baaren	bar	ADJA	Duden	tu_63_xTok_000773
 Geld	Geld	NN	Duden	tu_63_xTok_000776
 beeidigter massen	beeidigtermaßen	ADV		tu_63_xTok_000779
+beeidigter=massen	beeidigtermaßen	ADV	oov	tu_63_xTok_000781b
 einen	ein	ART	Duden	tu_63_xTok_000783
 Wehrt	Wert	NN	Duden	tu_63_xTok_000785
 von	von	APPR	Duden	tu_63_xTok_000787
@@ -464,6 +484,8 @@ einbekannt	einbekennen	VVPP	Duden	tu_63_xTok_000889
 hat	haben	VAFIN	Duden	tu_63_xTok_000892
 <g/>
 ,
+<g/>
+)
 von	von	APPR	Duden	tu_63_xTok_000896
 darumen	darum	PAV	Duden	tu_63_xTok_000898
 gar	gar	ADV	Duden	tu_63_xTok_000901
@@ -505,6 +527,7 @@ sonst	sonst	ADV	Duden	tu_63_xTok_000966
 an	an	APPR	Duden	tu_63_xTok_000968
 zu	zu	APPR	Duden	tu_63_xTok_000970
 dato	dato	ADV	Duden	tu_63_xTok_000972
+dato	dato	ADV	Duden	tu_63_xTok_000973
 unerfindlich	unerfindlich	ADJD	Duden	tu_63_xTok_000975
 geweste	sein	ADJA	Duden	tu_63_xTok_000977
 Kaufer	Käufer	NN	Duden	tu_63_xTok_000979
@@ -543,6 +566,8 @@ eine	ein	ART	Duden	tu_63_xTok_001044
 sichere	sicher	ADJA	DWB	tu_63_xTok_001046
 verwittibte	verwitwet	ADJA	Duden	tu_63_xTok_001048
 Haus=inhaberin	Hausinhaberin	NN	oov	tu_63_xTok_001050
+<g/>
+,
 mit	mit	APPR	Duden	tu_63_xTok_001055
 noch	noch	ADV	Duden	tu_63_xTok_001057
 einem	ein	ART	Duden	tu_63_xTok_001059
@@ -576,6 +601,7 @@ baarem	bar	ADJA	Duden	tu_63_xTok_001106
 Geld	Geld	NN	Duden	tu_63_xTok_001108
 gleichfalls	gleichfalls	ADV	Duden	tu_63_xTok_001110
 beeidigter massen	beeidigtermaßen	ADV		tu_63_xTok_001112
+beeidigter=massen	beeidigtermaßen	ADV	oov	tu_63_xTok_001114
 in	in	APPR	Duden	tu_63_xTok_001116
 einem	ein	ART	Duden	tu_63_xTok_001118
 anfänglichen	anfänglich	ADJA	Duden	tu_63_xTok_001121
@@ -640,6 +666,8 @@ an	an	APPR	Duden	tu_63_xTok_001245
 ihme	er	PPER	Duden	tu_63_xTok_001247
 vorgenommenen	vornehmen	ADJA	Duden	tu_63_xTok_001249
 Tortur	Tortur	NN	Duden	tu_63_xTok_001253
+<g/>
+,
 anbey	anbei	ADV	DWB	tu_63_xTok_001256
 weiters	weiters	ADV	Duden	tu_63_xTok_001258
 freywillig	freiwillig	ADJD	Duden	tu_63_xTok_001260
@@ -682,6 +710,8 @@ habe	haben	VAFIN	Duden	tu_63_xTok_001337
 <g/>
 ,
 welches	welch	PRELAT	Duden	tu_63_xTok_001340
+<pb n="2">
+</pb>
 Kleid	Kleid	NN	Duden	tu_63_xTok_001342
 aber	aber	ADV	Duden	tu_63_xTok_001344
 alhier	allhier	ADV	Duden	tu_63_xTok_001346
@@ -751,6 +781,7 @@ hervorgethan	hervortun	VVPP	Duden	tu_63_xTok_001459
 welcher gestalten	welchergestalt	PWAV		tu_63_xTok_001462
 er	er	PPER	Duden	tu_63_xTok_001467
 Anno	annus	FM	G-LDHW	tu_63_xTok_001469
+Annô	annus	FM	G-LDHW	tu_63_xTok_001470
 1752.	1752	CARD		tu_63_xTok_001471
 den	d	ART	Duden	tu_63_xTok_001473
 29.	29	ADJA		tu_63_xTok_001474
@@ -1112,6 +1143,8 @@ hat	haben	VAFIN	Duden	tu_63_xTok_002145c
 doch	doch	ADV	Duden	tu_63_xTok_002147
 er	er	PPER	Duden	tu_63_xTok_002149
 Leopold	Leopold	NE	Duden	tu_63_xTok_002151
+<pb n="3">
+</pb>
 W.	W.	NE	oov	tu_63_xTok_002152
 alle	all	PIAT	Duden	tu_63_xTok_002155
 diese	diese	PDAT	Duden	tu_63_xTok_002157
@@ -1138,10 +1171,14 @@ anbey	anbei	ADV	DWB	tu_63_xTok_002193
 seinen	sein	PPOSAT	Duden	tu_63_xTok_002195
 Namen	Name	NN	Duden	tu_63_xTok_002197
 des	d	ART	Duden	tu_63_xTok_002199
+öffteren	öfter	ADV-NN	Duden	tu_63_xTok_002201
+<pb n="4">
+</pb>
 öftern	öfter	ADV-NN	Duden	tu_63_xTok_002203
 abgeändert	abändern	VVPP	Duden	tu_63_xTok_002205
 <g/>
 ,
+auch	auch	ADV	Duden	tu_63_xTok_002208
 Stand	Stand	NN	Duden	tu_63_xTok_002210
 <g/>
 ,

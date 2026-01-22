@@ -1,4 +1,6 @@
-<doc id="fb_17730507_JosephB" delinquent_sexes="male" title="Todesurteil Joseph B." attrs="word lemma pos vocab id">
+<doc id="fb_17730507_JosephB" year="1773" delinquent_sexes="male" title="Todesurteil Joseph B." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_102_xTok_000001
 einer	ein	ART	Duden	tu_102_xTok_000003
@@ -88,6 +90,8 @@ wird	werden	VAFIN	Duden	tu_102_xTok_000138
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnhalt	Inhalt	NN	Duden	tu_102_xTok_000140
 seines	sein	PPOSAT	Duden	tu_102_xTok_000142
@@ -700,6 +704,8 @@ verbleibet	verbleiben	VVFIN	Duden	tu_102_xTok_001198
 <g/>
 .
 </p>
+<pb n="3">
+</pb>
 <head>
 Jnhalt	Inhalt	NN	Duden	tu_102_xTok_001200
 seines	sein	PPOSAT	Duden	tu_102_xTok_001202

@@ -1,4 +1,6 @@
-<doc id="fb_17371113_JosephLeopoldN" delinquent_sexes="male" title="Todesurteil Joseph Leopold N." attrs="word lemma pos vocab id">
+<doc id="fb_17371113_JosephLeopoldN" year="1737" delinquent_sexes="male" title="Todesurteil Joseph Leopold N." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_10_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_10_xTok_000002
@@ -123,6 +125,8 @@ Exempel	Exempel	NN	Duden	tu_10_xTok_000200
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <lg type="poem">
 <lg type="stanza">
 <head>
@@ -341,6 +345,8 @@ Gelds Begier	Geldbegierde	NN		tu_10_xTok_000470
 .
 </l>
 </lg>
+<pb n="3">
+</pb>
 <lg type="stanza">
 <head>
 4.	4	ADV		tu_10_xTok_000474
@@ -687,6 +693,8 @@ den	d	ART	Duden	tu_10_xTok_000868
 Todt	Tod	NN	Duden	tu_10_xTok_000870
 leyden	leiden	VVINF	Duden	tu_10_xTok_000872
 </l>
+<pb n="4">
+</pb>
 <l id="fb_17371113_JosephLeopoldN_l_0061">
 mit	mit	APPR	Duden	tu_10_xTok_000873
 Gedult	Geduld	NN	Duden	tu_10_xTok_000875

@@ -1,4 +1,6 @@
-<doc id="fb_17500922_MichaelB" delinquent_sexes="male" title="Todesurteil Michael B." attrs="word lemma pos vocab id">
+<doc id="fb_17500922_MichaelB" year="1750" delinquent_sexes="male" title="Todesurteil Michael B." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_51_xTok_000002
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_51_xTok_000003
@@ -84,6 +86,8 @@ finden	finden	VVINF	Duden	tu_51_xTok_000119
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_51_xTok_000139
 des	d	ART	Duden	tu_51_xTok_000141
@@ -299,6 +303,8 @@ des	d	ART	Duden	tu_51_xTok_000480
 bey	bei	APPR	Duden	tu_51_xTok_000482
 dem	d	ART	Duden	tu_51_xTok_000484
 Kayserlich	kaiserlich	ADJD	Duden	tu_51_xTok_000486
+<pb n="3">
+</pb>
 Königl.	königlich	ADJA	Duden	tu_51_xTok_000487
 Stadt=	Stadtgericht	TRUNC	Duden	tu_51_xTok_000490
 und	und	KON	Duden	tu_51_xTok_000492

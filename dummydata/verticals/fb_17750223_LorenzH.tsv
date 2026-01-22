@@ -1,4 +1,6 @@
-<doc id="fb_17750223_LorenzH" delinquent_sexes="male" title="Todesurteil Lorenz H." attrs="word lemma pos vocab id">
+<doc id="fb_17750223_LorenzH" year="1775" delinquent_sexes="male" title="Todesurteil Lorenz H." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_111_xTok_000001
 einer	ein	ART	Duden	tu_111_xTok_000003
@@ -88,6 +90,8 @@ wird	werden	VAFIN	Duden	tu_111_xTok_000154
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_111_xTok_000157
 seines	sein	PPOSAT	Duden	tu_111_xTok_000159
@@ -411,6 +415,8 @@ Arbeit	Arbeit	NN	Duden	tu_111_xTok_000720
 verurtheilet	verurteilen	VVPP	Duden	tu_111_xTok_000722
 <g/>
 ,
+<pb n="3">
+</pb>
 und	und	KON	Duden	tu_111_xTok_000724
 von	von	APPR	Duden	tu_111_xTok_000726
 dem	d	ART	Duden	tu_111_xTok_000728
@@ -674,6 +680,8 @@ verbleibet	verbleiben	VVFIN	Duden	tu_111_xTok_001174
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_111_xTok_001176
 seines	sein	PPOSAT	Duden	tu_111_xTok_001178

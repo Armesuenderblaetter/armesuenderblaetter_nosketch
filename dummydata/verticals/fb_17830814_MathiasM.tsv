@@ -1,4 +1,6 @@
-<doc id="fb_17830814_MathiasM" delinquent_sexes="male" title="Todesurteil Mathias M." attrs="word lemma pos vocab id">
+<doc id="fb_17830814_MathiasM" year="1783" delinquent_sexes="male" title="Todesurteil Mathias M." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_125_xTok_000001
 des	d	ART	Duden	tu_125_xTok_000003
@@ -73,6 +75,8 @@ wird	werden	VAFIN	Duden	tu_125_xTok_000103
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_125_xTok_000117
 seines	sein	PPOSAT	Duden	tu_125_xTok_000119
@@ -582,6 +586,8 @@ verübet	verüben	VVPP	Duden	tu_125_xTok_000985
 <g/>
 .
 Von	von	APPR	Duden	tu_125_xTok_000988
+<pb n="3">
+</pb>
 welch	welch	PRELAT	Duden	tu_125_xTok_000989
 sammentlichen	sammentlich	ADJA	DWB	tu_125_xTok_000991
 entwendeten	entwenden	ADJA	Duden	tu_125_xTok_000993

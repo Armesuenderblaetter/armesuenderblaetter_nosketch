@@ -1,4 +1,6 @@
-<doc id="fb_17850228_Hora_Kloczka" delinquent_sexes="male" title="Todesurteil Hora, Kloczka" attrs="word lemma pos vocab id">
+<doc id="fb_17850228_Hora_Kloczka" year="1785" delinquent_sexes="male" title="Todesurteil Hora, Kloczka" attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_127_xTok_000001
 und	und	KON	Duden	tu_127_xTok_000002
@@ -48,6 +50,8 @@ Nro.	Numero	NN	Duden	tu_127_xTok_000059
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <p id="fb_17850228_Hora_Kloczka_p_0001">
 Ewig	ewig	ADJD	Duden	tu_127_xTok_000065
 verabscheuende	verabscheuen	ADJA	Duden	tu_127_xTok_000068
@@ -187,6 +191,8 @@ will	wollen	VMFIN	Duden	tu_127_xTok_000296
 <g/>
 .
 </p>
+<pb n="3">
+</pb>
 <p id="fb_17850228_Hora_Kloczka_p_0002">
 Hora	Hora	NE	oov	tu_127_xTok_000298
 und	und	KON	Duden	tu_127_xTok_000300

@@ -1,4 +1,6 @@
-<doc id="fb_17470321_JohannW" delinquent_sexes="male" title="Todesurteil Johann W." attrs="word lemma pos vocab id">
+<doc id="fb_17470321_JohannW" year="1747" delinquent_sexes="male" title="Todesurteil Johann W." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_38_xTok_000002
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_38_xTok_000003
@@ -94,6 +96,8 @@ wird	werden	VAFIN	Duden	tu_38_xTok_000150
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_38_xTok_000170
 des	d	ART	Duden	tu_38_xTok_000173

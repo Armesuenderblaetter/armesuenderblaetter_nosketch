@@ -1,4 +1,6 @@
-<doc id="fb_17860109_Anonym" delinquent_sexes="male" title="Urteil eines anonymen Korporals" attrs="word lemma pos vocab id">
+<doc id="fb_17860109_Anonym" year="1786" delinquent_sexes="male" title="Urteil eines anonymen Korporals" attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Verurtheilung	Verurteilung	NN	Duden	tu_130_xTok_000002
 des	d	ART	Duden	tu_130_xTok_000003
@@ -33,6 +35,8 @@ worden	werden	VAPP	Duden	tu_130_xTok_000057
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <p id="fb_17860109_Anonym_p_0001">
 Da	da	KOUS	Duden	tu_130_xTok_000061
 dem	d	ART	Duden	tu_130_xTok_000064
@@ -747,6 +751,8 @@ anfieng	anfangen	VVFIN	Duden	tu_130_xTok_001181
 <g/>
 .
 </p>
+<pb n="3">
+</pb>
 <p id="fb_17860109_Anonym_p_0006">
 Seine	sein	PPOSAT	Duden	tu_130_xTok_001183
 Verurtheilung	Verurteilung	NN	Duden	tu_130_xTok_001185

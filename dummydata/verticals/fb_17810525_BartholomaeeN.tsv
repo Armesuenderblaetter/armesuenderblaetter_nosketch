@@ -1,4 +1,6 @@
-<doc id="fb_17810525_BartholomaeeN" delinquent_sexes="male" title="Todesurteil Bartholomäe N." attrs="word lemma pos vocab id">
+<doc id="fb_17810525_BartholomaeeN" year="1781" delinquent_sexes="male" title="Todesurteil Bartholomäe N." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Nro.	Numero	NN	Duden	tu_120_xTok_000001
 2.	2	CARD		tu_120_xTok_000004
@@ -176,6 +178,8 @@ gebürtig	gebürtig	ADJD	Duden	tu_120_xTok_000268
 <g/>
 .
 </p>
+<pb n="2">
+</pb>
 <p id="fb_17810525_BartholomaeeN_p_0003">
 Zweytens	zweitens	ADV	Duden	tu_120_xTok_000270
 bekannte	bekennen	VVFIN	Duden	tu_120_xTok_000272
@@ -605,6 +609,8 @@ worden	werden	VAPP	Duden	tu_120_xTok_000962
 <g/>
 .
 </p>
+<pb n="3">
+</pb>
 <lg type="poem">
 <head>
 Moral=Rede	Moralrede	NN	oov	tu_120_xTok_000965
@@ -1068,6 +1074,8 @@ anvertraut	anvertrauen	VVFIN	Duden	tu_120_xTok_001547
 <g/>
 ,
 </l>
+<pb n="4">
+</pb>
 </lg>
 <lg type="stanza">
 <l id="fb_17810525_BartholomaeeN_l_0035">

@@ -1,4 +1,6 @@
-<doc id="fb_17640831_MariaAnnaN" delinquent_sexes="female" title="Todesurteil Maria Anna N." attrs="word lemma pos vocab id">
+<doc id="fb_17640831_MariaAnnaN" year="1764" delinquent_sexes="female" title="Todesurteil Maria Anna N." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart>
 Todes=Urtheil	Todesurteil	NN	Duden	tu_87_xTok_000001
 <g/>
@@ -87,6 +89,10 @@ wird	werden	VAFIN	Duden	tu_87_xTok_000131
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_87_xTok_000133
 ihres	ihr	PPOSAT	Duden	tu_87_xTok_000135
@@ -248,6 +254,10 @@ nachdem	nachdem	KOUS	Duden	tu_87_xTok_000377
 sie	sie	PPER	Duden	tu_87_xTok_000379
 solchem	solch	PIAT	Duden	tu_87_xTok_000381
 Kind	Kind	NN	Duden	tu_87_xTok_000383
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 über	über	APPR	Duden	tu_87_xTok_000384
 erst erwehntes	ersterwähnt	ADJA		tu_87_xTok_000386
 Gräblein	Graben	NN	Duden	tu_87_xTok_000390
@@ -405,6 +415,10 @@ müssen	müssen	VMINF	Duden	tu_87_xTok_000658
 <g/>
 .
 </p>
+<pb n="6">
+</pb>
+<pb n="7">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_87_xTok_000661
 ihres	ihr	PPOSAT	Duden	tu_87_xTok_000663

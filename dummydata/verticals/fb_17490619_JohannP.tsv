@@ -1,9 +1,13 @@
-<doc id="fb_17490619_JohannP" delinquent_sexes="male" title="Todesurteil Johann P." attrs="word lemma pos vocab id">
+<doc id="fb_17490619_JohannP" year="1749" delinquent_sexes="male" title="Todesurteil Johann P." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_43_xTok_000002
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_43_xTok_000004
 <g/>
 /
+<g/>
+,
 Einer	ein	ART	Duden	tu_43_xTok_000010
 Verwittibten	verwitwet	ADJA	Duden	tu_43_xTok_000011
 Manns=Persohn	Mannsperson	NN	Duden	tu_43_xTok_000013
@@ -77,6 +81,10 @@ mehrere	mehrere	PIS	Duden	tu_43_xTok_000106
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_43_xTok_000126
 des	d	ART	Duden	tu_43_xTok_000128
@@ -221,6 +229,10 @@ Cilly	Cilli	NE::top	oov	tu_43_xTok_000376
 wegen	wegen	APPR	Duden	tu_43_xTok_000378
 an	an	APPR	Duden	tu_43_xTok_000380
 sich	sich	PRF	Duden	tu_43_xTok_000382
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 erkauft=	erkaufen	ADJD	Duden	tu_43_xTok_000384
 wissentlich	wissentlich	ADJD	Duden	tu_43_xTok_000386
 gestohlener	stehlen	ADJA	Duden	tu_43_xTok_000388

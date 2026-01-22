@@ -1,4 +1,6 @@
-<doc id="fb_17580818_CatharinaO" delinquent_sexes="female" title="Todesurteil Catharina O." attrs="word lemma pos vocab id">
+<doc id="fb_17580818_CatharinaO" year="1758" delinquent_sexes="female" title="Todesurteil Catharina O." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_69_xTok_000001
 Einer	ein	ART	Duden	tu_69_xTok_000005
@@ -709,6 +711,10 @@ Entlassung	Entlassung	NN	Duden	tu_69_xTok_001255
 anstatt	anstatt	KOUI	Duden	tu_69_xTok_001258
 in	in	APPR	Duden	tu_69_xTok_001260
 Folge	Folge	NN	Duden	tu_69_xTok_001262
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 des	d	ART	Duden	tu_69_xTok_001263
 ihr	sie	PPER	Duden	tu_69_xTok_001265
 mitgegebenen	mitgeben	ADJA	Duden	tu_69_xTok_001267
@@ -727,6 +733,7 @@ alhier	allhier	ADV	Duden	tu_69_xTok_001285
 heimlich=	heimlicherweise	TRUNC	Duden	tu_69_xTok_001286
 und	und	KON	Duden	tu_69_xTok_001288
 meineidiger=weise	meineidigerweise	ADV	oov	tu_69_xTok_001290
+meineidiger Weise	meineidigerweise	ADV		tu_69_xTok_001290b
 sich	sich	PRF	Duden	tu_69_xTok_001295
 aufgehalten	aufhalten	VVPP	Duden	tu_69_xTok_001297
 <g/>
@@ -834,6 +841,7 @@ worauf	worauf	PWAV	Duden	tu_69_xTok_001471
 dann	dann	ADV	Duden	tu_69_xTok_001474
 sie	sie	PPER	Duden	tu_69_xTok_001476
 Delinquentin	Delinquentin	NN	Duden	tu_69_xTok_001478
+Delinquentin	Delinquentin	NN	Duden	tu_69_xTok_001479
 bey	bei	APPR	Duden	tu_69_xTok_001481
 alhiesigen	allhiesig	ADJA	DWB	tu_69_xTok_001483
 Kaiserl.	kaiserlich	ADJA	Duden	tu_69_xTok_001486
@@ -906,6 +914,7 @@ Anschlagung	Anschlagung	NN	DRW	tu_69_xTok_001616
 eines	ein	ART	Duden	tu_69_xTok_001619
 Eisens	Eisen	NN	Duden	tu_69_xTok_001621
 neuer Dingen	neuerdings	ADV		tu_69_xTok_001623
+neuerdingen	neuerdings	ADV	Duden	tu_69_xTok_001626
 in	in	APPR	Duden	tu_69_xTok_001628
 das	d	ART	Duden	tu_69_xTok_001630
 alhiesige	allhiesig	ADJA	DWB	tu_69_xTok_001632
@@ -1105,6 +1114,7 @@ ihrer	ihr	PPOSAT	Duden	tu_69_xTok_001952
 Arrestirung	Arrestierung	NN	oov	tu_69_xTok_001954
 ihr	sie	PPER	Duden	tu_69_xTok_001956
 Delinquentin	Delinquentin	NN	Duden	tu_69_xTok_001958
+Delinquentin	Delinquentin	NN	Duden	tu_69_xTok_001959
 der	d	ART	Duden	tu_69_xTok_001962
 dritte	dritte	ADJA	Duden	tu_69_xTok_001964
 Criminal-proceß	Kriminalprozess	NN	Duden	tu_69_xTok_001966
@@ -1355,6 +1365,7 @@ anjetzo	anjetzo	ADV	DWB	tu_69_xTok_002407
 gemachten	machen	ADJA	Duden	tu_69_xTok_002409
 vierten	vierte	ADJA	Duden	tu_69_xTok_002410
 Criminal-proceß	Kriminalprozess	NN	Duden	tu_69_xTok_002412
+Criminal-process	Kriminalprozess	NN	Duden	tu_69_xTok_002414
 von	von	APPR	Duden	tu_69_xTok_002416
 dem	d	ART	Duden	tu_69_xTok_002418
 Kais.	kaiserlich	ADJA	Duden	tu_69_xTok_002420

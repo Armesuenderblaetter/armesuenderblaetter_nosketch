@@ -1,4 +1,6 @@
-<doc id="fb_17720917_LeopoldS" delinquent_sexes="male" title="Todesurteil Leopold S." attrs="word lemma pos vocab id">
+<doc id="fb_17720917_LeopoldS" year="1772" delinquent_sexes="male" title="Todesurteil Leopold S." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_99_xTok_000001
 einer	ein	ART	Duden	tu_99_xTok_000003
@@ -88,6 +90,8 @@ wird	werden	VAFIN	Duden	tu_99_xTok_000129
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_99_xTok_000131
 seines	sein	PPOSAT	Duden	tu_99_xTok_000133
@@ -760,6 +764,8 @@ geständig	geständig	ADJD	Duden	tu_99_xTok_001331
 <g/>
 ,
 dahingegen	dahingegen	PAV	Duden	tu_99_xTok_001334
+<pb n="3">
+</pb>
 durch	durch	APPR	Duden	tu_99_xTok_001335
 mehrere	mehrere	PIAT	Duden	tu_99_xTok_001337
 theils	teils	ADV	Duden	tu_99_xTok_001339

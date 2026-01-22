@@ -1,4 +1,6 @@
-<doc id="fb_17421002_AndraeB" delinquent_sexes="male" title="Todesurteil Andrä B." attrs="word lemma pos vocab id">
+<doc id="fb_17421002_AndraeB" year="1742" delinquent_sexes="male" title="Todesurteil Andrä B." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Billiges	billig	ADJA	Duden	tu_23_xTok_000002
 Recht	Recht	NN	Duden	tu_23_xTok_000004
@@ -104,6 +106,10 @@ wird	werden	VAFIN	Duden	tu_23_xTok_000171
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <lg type="poem">
 <head>
 Urlaub=Lied	Urlaublied	NN	DWB	tu_23_xTok_000187
@@ -342,6 +348,8 @@ bemüsset	bemüßigen	VVFIN	Duden	tu_23_xTok_000461
 .
 </l>
 </lg>
+<pb n="4">
+</pb>
 <lg type="stanza">
 <head>
 5.	5	ADV		tu_23_xTok_000463

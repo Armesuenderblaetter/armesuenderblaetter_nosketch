@@ -1,4 +1,6 @@
-<doc id="fb_17560408_CarlLudwigM" delinquent_sexes="male" title="Todesurteil Carl Ludwig M." attrs="word lemma pos vocab id">
+<doc id="fb_17560408_CarlLudwigM" year="1756" delinquent_sexes="male" title="Todesurteil Carl Ludwig M." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_61_xTok_000002
 Einer	ein	ART	Duden	tu_61_xTok_000006
@@ -92,6 +94,10 @@ wird	werden	VAFIN	Duden	tu_61_xTok_000151
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <p id="fb_17560408_CarlLudwigM_p_0001">
 Zumalen	zumal	KOUS	Duden	tu_61_xTok_000154
 dieser	diese	PDAT	Duden	tu_61_xTok_000156
@@ -117,6 +123,8 @@ und	und	KON	Duden	tu_61_xTok_000201
 nach	nach	ADV	Duden	tu_61_xTok_000203
 eid=brüchig	eidbrüchig	ADJD	Duden	tu_61_xTok_000205
 herausgenommen	herausnehmen	VVPP	Duden	tu_61_xTok_000207
+heraus	heraus	PTKVZ	Duden	tu_61_xTok_000208
+genommen	herausnehmen	VVPP	Duden	tu_61_xTok_000210
 <g/>
 ,
 und	und	KON	Duden	tu_61_xTok_000213
@@ -238,6 +246,10 @@ wieder	wieder	ADV	Duden	tu_61_xTok_000412
 beschehene	beschehen	ADJA	DWB	tu_61_xTok_000414
 Zuruck=bezahlung	Zurückbezahlung	NN	oov	tu_61_xTok_000416
 deren	d	PRELAT	Duden	tu_61_xTok_000418
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 von	von	APPR	Duden	tu_61_xTok_000419
 ihme	er	PPER	Duden	tu_61_xTok_000421
 empfangenen	empfangen	ADJA	Duden	tu_61_xTok_000423
@@ -373,4 +385,8 @@ und	und	KON	Duden	tu_61_xTok_000644
 barmherzig	barmherzig	ADJD	Duden	tu_61_xTok_000646
 <g/>
 .
+<pb n="6">
+</pb>
+<pb n="7">
+</pb>
 </doc>

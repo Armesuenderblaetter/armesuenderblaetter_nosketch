@@ -1,4 +1,6 @@
-<doc id="fb_17350114_AndreN" delinquent_sexes="male" title="Todesurteil Andre N." attrs="word lemma pos vocab id">
+<doc id="fb_17350114_AndreN" year="1735" delinquent_sexes="male" title="Todesurteil Andre N." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_3_xTok_000001
 End=Urtheil	Endurteil	NN	Duden	tu_3_xTok_000002
@@ -228,6 +230,8 @@ werden	werden	VAINF	Duden	tu_3_xTok_000419
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <lg type="poem">
 <head>
 Der	d	ART	Duden	tu_3_xTok_000443
@@ -514,6 +518,8 @@ Leben	Leben	NN	Duden	tu_3_xTok_000832
 .
 </l>
 </lg>
+<pb n="3">
+</pb>
 <lg type="stanza">
 <head>
 5.	5	ADV		tu_3_xTok_000834
@@ -920,6 +926,8 @@ betrüben	betrüben	VVINF	Duden	tu_3_xTok_001381
 <g/>
 /
 </l>
+<pb n="4">
+</pb>
 <l id="fb_17350114_AndreN_l_0043">
 Mit	mit	APPR	Duden	tu_3_xTok_001384
 Kleinen	klein	ADJ-NN	Duden	tu_3_xTok_001386

@@ -1,4 +1,6 @@
-<doc id="fb_17490806_JosephR" delinquent_sexes="male" title="Todesurteil Joseph R." attrs="word lemma pos vocab id">
+<doc id="fb_17490806_JosephR" year="1749" delinquent_sexes="male" title="Todesurteil Joseph R." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_45_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_45_xTok_000002
@@ -83,6 +85,10 @@ mehrere	mehrere	PIS	Duden	tu_45_xTok_000118
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_45_xTok_000138
 des	d	ART	Duden	tu_45_xTok_000140
@@ -131,6 +137,7 @@ allein	allein	ADV	Duden	tu_45_xTok_000204
 schon	schon	ADV	Duden	tu_45_xTok_000206
 allbereits	allbereits	ADV	Duden	tu_45_xTok_000208
 An.	annus	FM	G-LDHW	tu_45_xTok_000211
+Anno	annus	FM	G-LDHW	tu_45_xTok_000213
 1734.	1734	CARD		tu_45_xTok_000214
 wegen	wegen	APPR	Duden	tu_45_xTok_000215
 eines	ein	ART	Duden	tu_45_xTok_000217
@@ -152,6 +159,7 @@ abgeführten	abführen	ADJA	DRW	tu_45_xTok_000250
 Criminal-Process	Kriminalprozess	NN	Duden	tu_45_xTok_000253
 auf	auf	APPR	Duden	tu_45_xTok_000256
 2.	2	CARD		tu_45_xTok_000258
+zwey	zwei	CARD	Duden	tu_45_xTok_000259
 Jahr	Jahr	NN	Duden	tu_45_xTok_000261
 lang	lang	ADJD	Duden	tu_45_xTok_000263
 in	in	APPR	Duden	tu_45_xTok_000265
@@ -178,6 +186,10 @@ eines	ein	ART	Duden	tu_45_xTok_000309
 in	in	APPR	Duden	tu_45_xTok_000311
 Vergesellschaftung	Vergesellschaftung	NN	Duden	tu_45_xTok_000313
 anderer	andere	ADJA	Duden	tu_45_xTok_000315
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 Diebs=Cammeraden	Diebskamerad	NN	oov	tu_45_xTok_000316
 zu	zu	APPR	Duden	tu_45_xTok_000318
 Baaden	Baden	NE::top	oov	tu_45_xTok_000320

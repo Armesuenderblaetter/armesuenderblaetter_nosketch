@@ -1,4 +1,6 @@
-<doc id="fb_17350720_CasparB" delinquent_sexes="male" title="Todesurteil Caspar B." attrs="word lemma pos vocab id">
+<doc id="fb_17350720_CasparB" year="1735" delinquent_sexes="male" title="Todesurteil Caspar B." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_6_xTok_000002
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_6_xTok_000003
@@ -116,6 +118,8 @@ vernehmen	vernehmen	VVINF	Duden	tu_6_xTok_000185
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <p id="fb_17350720_CasparB_p_0001">
 Heut	heute	ADV	Duden	tu_6_xTok_000204
 dato	dato	ADV	Duden	tu_6_xTok_000207
@@ -575,6 +579,8 @@ werden	werden	VAINF	Duden	tu_6_xTok_001000
 <g/>
 .
 </p>
+<pb n="3">
+</pb>
 <lg type="poem">
 <head>
 Urlaub-Lied	Urlaublied	NN	DWB	tu_6_xTok_001002

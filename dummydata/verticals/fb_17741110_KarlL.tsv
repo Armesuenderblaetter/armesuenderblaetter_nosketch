@@ -1,4 +1,6 @@
-<doc id="fb_17741110_KarlL" delinquent_sexes="male" title="Todesurteil Karl L." attrs="word lemma pos vocab id">
+<doc id="fb_17741110_KarlL" year="1774" delinquent_sexes="male" title="Todesurteil Karl L." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_108_xTok_000001
 einer	ein	ART	Duden	tu_108_xTok_000003
@@ -8,6 +10,8 @@ Namens	namens	ADV	Duden	tu_108_xTok_000008
 <persName id="karll108">
 Karl	Karl	NE	Duden	tu_108_xTok_000009
 L.	L.	NE	oov	tu_108_xTok_000011
+Karl	Karl	NE	Duden	tu_108_xTok_000013
+L.	L.	NE	oov	tu_108_xTok_000016
 </persName>
 alt	alt	ADJD	Duden	tu_108_xTok_000018
 35.	35	CARD		tu_108_xTok_000020
@@ -86,6 +90,10 @@ wird	werden	VAFIN	Duden	tu_108_xTok_000143
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_108_xTok_000145
 seines	sein	PPOSAT	Duden	tu_108_xTok_000147
@@ -242,6 +250,8 @@ Hüttler	Hüttler	NN	DWB	tu_108_xTok_000408
 und	und	KON	Duden	tu_108_xTok_000411
 dessen	d	PDAT	Duden	tu_108_xTok_000413
 Ehewirthin	Ehewirtin	NN	DWB	tu_108_xTok_000415
+<g/>
+,
 auf	auf	APPR	Duden	tu_108_xTok_000418
 ihr	ihr	PPOSAT	Duden	tu_108_xTok_000420
 Ansuchen	Ansuchen	NN	Duden	tu_108_xTok_000422
@@ -328,6 +338,8 @@ ihres	ihr	PPOSAT	Duden	tu_108_xTok_000557
 dießfällig	diesfällig	ADJD	Duden	tu_108_xTok_000559
 boßhaften	boshaft	ADJA	Duden	tu_108_xTok_000563
 Vorhabens	Vorhaben	NN	Duden	tu_108_xTok_000565
+<g/>
+,
 den	d	ART	Duden	tu_108_xTok_000568
 nächst	nächste	ADJA	Duden	tu_108_xTok_000570
 darauf	darauf	PAV	Duden	tu_108_xTok_000572
@@ -382,6 +394,10 @@ erhoben	erheben	VVPP	Duden	tu_108_xTok_000652
 und	und	KON	Duden	tu_108_xTok_000655
 zum	zum	APPRART	Duden	tu_108_xTok_000657
 Theil	Teil	NN	Duden	tu_108_xTok_000659
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 von	von	APPR	Duden	tu_108_xTok_000661
 ihm	er	PPER	Duden	tu_108_xTok_000663
 Delinquenten	Delinquent	NN	Duden	tu_108_xTok_000665
@@ -629,6 +645,7 @@ von	von	APPR	Duden	tu_108_xTok_001090
 128	128	CARD		tu_108_xTok_001092
 fl.	Flore	NN	DWB	tu_108_xTok_001094
 16	16	CARD		tu_108_xTok_001097
+19.	19	CARD		tu_108_xTok_001098
 kr.	Kreuzer	NN	Duden	tu_108_xTok_001100
 versetzet	versetzen	VVPP	Duden	tu_108_xTok_001103
 <g/>
@@ -645,6 +662,8 @@ seinem	sein	PPOSAT	Duden	tu_108_xTok_001117
 nachin	nachin	ADV	DWB	tu_108_xTok_001120
 zu	zu	APPR	Duden	tu_108_xTok_001122
 Purkersdorf	Purkersdorf	NE::top	oov	tu_108_xTok_001124
+<g/>
+,
 mittelst	mittelst	APPR	Duden	tu_108_xTok_001127
 eines	ein	ART	Duden	tu_108_xTok_001129
 gewaltsamen	gewaltsam	ADJA	Duden	tu_108_xTok_001131
@@ -677,6 +696,8 @@ dießfällig	diesfällig	ADJA	Duden	tu_108_xTok_001181
 Verlustigten	verlustig	ADJ-NN	DWB	tu_108_xTok_001184
 gerichtlich	gerichtlich	ADJD	Duden	tu_108_xTok_001186
 zuruckgestellet	zurückstellen	VVPP	Duden	tu_108_xTok_001188
+zuruck	zurück	PTKVZ	Duden	tu_108_xTok_001189
+gestellet	zurückstellen	VVPP	Duden	tu_108_xTok_001189c
 worden	werden	VAPP	Duden	tu_108_xTok_001192
 ist	sein	VAFIN	Duden	tu_108_xTok_001194
 <g/>
@@ -696,6 +717,10 @@ verbleibet	verbleiben	VVFIN	Duden	tu_108_xTok_001221
 <g/>
 .
 </p>
+<pb n="6">
+</pb>
+<pb n="7">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_108_xTok_001223
 seines	sein	PPOSAT	Duden	tu_108_xTok_001225

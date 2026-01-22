@@ -1,4 +1,6 @@
-<doc id="fb_17510525_GregoriS" delinquent_sexes="male" title="Todesurteil Gregori S." attrs="word lemma pos vocab id">
+<doc id="fb_17510525_GregoriS" year="1751" delinquent_sexes="male" title="Todesurteil Gregori S." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wol=verdientes	wohlverdientes	ADJA	Duden	tu_54_xTok_000002
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_54_xTok_000003
@@ -70,6 +72,10 @@ worden	werden	VAPP	Duden	tu_54_xTok_000103
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_54_xTok_000123
 des	d	ART	Duden	tu_54_xTok_000125
@@ -507,6 +513,10 @@ abermalen	abermals	ADV	Duden	tu_54_xTok_001201
 und	und	KON	Duden	tu_54_xTok_001205
 zwar	zwar	ADV	Duden	tu_54_xTok_001207
 im	im	APPRART	Duden	tu_54_xTok_001209
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 Monat	Monat	NN	Duden	tu_54_xTok_001211
 Februario	Februar	NN	Duden	tu_54_xTok_001213
 lauffenden	laufend	ADJA	Duden	tu_54_xTok_001215

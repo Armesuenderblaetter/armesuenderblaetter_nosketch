@@ -1,4 +1,6 @@
-<doc id="fb_17440430_ElisabethH" delinquent_sexes="female" title="Todesurteil Elisabeth H." attrs="word lemma pos vocab id">
+<doc id="fb_17440430_ElisabethH" year="1744" delinquent_sexes="female" title="Todesurteil Elisabeth H." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_24_xTok_000002
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_24_xTok_000003
@@ -42,6 +44,8 @@ geben	geben	VVINF	Duden	tu_24_xTok_000057
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_24_xTok_000077
 des	d	ART	Duden	tu_24_xTok_000080
@@ -174,6 +178,8 @@ begriffen	begreifen	VVPP	Duden	tu_24_xTok_000292
 gewesen	sein	VAPP	Duden	tu_24_xTok_000294
 <g/>
 ,
+<pb n="3">
+</pb>
 und	und	KON	Duden	tu_24_xTok_000297
 den	d	ART	Duden	tu_24_xTok_000299
 Kopf	Kopf	NN	Duden	tu_24_xTok_000301
@@ -341,6 +347,8 @@ wie viel	wieviel	PWAT		tu_24_xTok_000603
 gewestes Geld, samt einen 3. köpfigen	dreiköpfig	ADJA		tu_24_xTok_000607
 Thaller	Taler	NN	Duden	tu_24_xTok_000620
 und	und	KON	Duden	tu_24_xTok_000622
+<pb n="4">
+</pb>
 8.	8	CARD		tu_24_xTok_000624
 Ducaten	Dukat	NN	Duden	tu_24_xTok_000626
 <g/>

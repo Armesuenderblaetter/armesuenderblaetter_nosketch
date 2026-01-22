@@ -1,4 +1,6 @@
-<doc id="fb_17750119_MichaelN" delinquent_sexes="male" title="Todesurteil Michael N." attrs="word lemma pos vocab id">
+<doc id="fb_17750119_MichaelN" year="1775" delinquent_sexes="male" title="Todesurteil Michael N." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todtesurtheil	Todesurteil	NN	Duden	tu_110_xTok_000001
 <g/>
@@ -381,6 +383,8 @@ dem	d	ART	Duden	tu_110_xTok_000632
 Barthleitner	Barthleitner	NE	oov	tu_110_xTok_000634
 durch	durch	APPR	Duden	tu_110_xTok_000636
 das	d	ART	Duden	tu_110_xTok_000638
+<pb n="2">
+</pb>
 Bodenthierl	Bodentür	NN	oov	tu_110_xTok_000639
 in	in	APPR	Duden	tu_110_xTok_000641
 dem	d	ART	Duden	tu_110_xTok_000643
@@ -872,6 +876,8 @@ fl.	Flore	NN	DWB	tu_110_xTok_001429
 59.	59	CARD		tu_110_xTok_001432
 kr.	Kreuzer	NN	Duden	tu_110_xTok_001434
 </p>
+<pb n="3">
+</pb>
 <p id="fb_17750119_MichaelN_p_0013">
 Dreyzehntens	dreizehntens	NN	DWB	tu_110_xTok_001436
 <g/>
@@ -1359,6 +1365,8 @@ mit	mit	APPR	Duden	tu_110_xTok_002232
 Binden	binden	VVINF-NN	Duden	tu_110_xTok_002234
 <g/>
 ,
+<pb n="4">
+</pb>
 Schlagen	schlagen	VVINF-NN	Duden	tu_110_xTok_002236
 <g/>
 ,

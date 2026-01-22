@@ -1,4 +1,6 @@
-<doc id="fb_17610604_GregoriR" delinquent_sexes="male" title="Todesurteil Gregori R." attrs="word lemma pos vocab id">
+<doc id="fb_17610604_GregoriR" year="1761" delinquent_sexes="male" title="Todesurteil Gregori R." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wol verdientes	wohlverdient	ADJA		tu_78_xTok_000001
 Todes=Urtheil	Todesurteil	NN	Duden	tu_78_xTok_000004
@@ -92,6 +94,8 @@ wird	werden	VAFIN	Duden	tu_78_xTok_000142
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_78_xTok_000144
 seines	sein	PPOSAT	Duden	tu_78_xTok_000147
@@ -795,6 +799,8 @@ muß	müssen	VMFIN	Duden	tu_78_xTok_001366
 <g/>
 .
 </p>
+<pb n="3">
+</pb>
 <head>
 Jnhalt	Inhalt	NN	Duden	tu_78_xTok_001368
 seines	sein	PPOSAT	Duden	tu_78_xTok_001370

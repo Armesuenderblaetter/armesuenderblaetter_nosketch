@@ -1,4 +1,6 @@
-<doc id="fb_17450519_JosephaE" delinquent_sexes="female" title="Todesurteil Josepha E." attrs="word lemma pos vocab id">
+<doc id="fb_17450519_JosephaE" year="1745" delinquent_sexes="female" title="Todesurteil Josepha E." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_28_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_28_xTok_000002
@@ -107,6 +109,8 @@ finden	finden	VVINF	Duden	tu_28_xTok_000179
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_28_xTok_000199
 des	d	ART	Duden	tu_28_xTok_000202
@@ -259,6 +263,8 @@ Tag	Tag	NN	Duden	tu_28_xTok_000451
 darauf	darauf	PAV	Duden	tu_28_xTok_000453
 auf	auf	APPR	Duden	tu_28_xTok_000455
 gleichmässige	gleichmäßig	ADJA	Duden	tu_28_xTok_000457
+<pb n="3">
+</pb>
 Art	Art	NN	Duden	tu_28_xTok_000458
 mit	mit	APPR	Duden	tu_28_xTok_000460
 eben	eben	ADV	Duden	tu_28_xTok_000462

@@ -1,4 +1,6 @@
-<doc id="fb_17760531_JosephK" delinquent_sexes="male" title="Todesurteil Joseph K." attrs="word lemma pos vocab id">
+<doc id="fb_17760531_JosephK" year="1776" delinquent_sexes="male" title="Todesurteil Joseph K." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_114_xTok_000001
 einer	ein	ART	Duden	tu_114_xTok_000003
@@ -92,6 +94,8 @@ worden	werden	VAPP	Duden	tu_114_xTok_000155
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_114_xTok_000159
 seines	sein	PPOSAT	Duden	tu_114_xTok_000161
@@ -326,6 +330,8 @@ Linie	Linie	NN	Duden	tu_114_xTok_000560
 auf	auf	APPR	Duden	tu_114_xTok_000562
 der	d	ART	Duden	tu_114_xTok_000564
 sogenannten	sogenannt	ADJA	Duden	tu_114_xTok_000566
+<pb n="3">
+</pb>
 Kaiserstrasse	Kaiserstraße	NE::top	oov	tu_114_xTok_000567
 gegen	gegen	APPR	Duden	tu_114_xTok_000569
 Meidling	Meidling	NE::top	oov	tu_114_xTok_000571
@@ -686,6 +692,8 @@ sind	sein	VAFIN	Duden	tu_114_xTok_001144
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
 <p id="fb_17760531_JosephK_p_0006">
 Nach	nach	APPR	Duden	tu_114_xTok_001146
 verübt=	verüben	ADJA	Duden	tu_114_xTok_001148

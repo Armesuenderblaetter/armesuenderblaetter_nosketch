@@ -1,4 +1,6 @@
-<doc id="fb_17380305_MargarethaD" delinquent_sexes="female" title="Todesurteil Margaretha D." attrs="word lemma pos vocab id">
+<doc id="fb_17380305_MargarethaD" year="1738" delinquent_sexes="female" title="Todesurteil Margaretha D." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Das	d	ART	Duden	tu_13_xTok_000002
 Von	von	APPR	Duden	tu_13_xTok_000003
@@ -273,6 +275,8 @@ werden	werden	VAINF	Duden	tu_13_xTok_000470
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <lg type="poem">
 <lg type="stanza">
 <head>
@@ -872,6 +876,8 @@ abschröckt	abschrecken	VVFIN	Duden	tu_13_xTok_001132
 .
 </l>
 </lg>
+<pb n="3">
+</pb>
 <lg type="stanza">
 <head>
 9.	9	ADV		tu_13_xTok_001134

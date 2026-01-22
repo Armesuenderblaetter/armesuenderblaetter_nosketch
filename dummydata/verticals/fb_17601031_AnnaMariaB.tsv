@@ -1,4 +1,6 @@
-<doc id="fb_17601031_AnnaMariaB" delinquent_sexes="female" title="Todesurteil Anna Maria B." attrs="word lemma pos vocab id">
+<doc id="fb_17601031_AnnaMariaB" year="1760" delinquent_sexes="female" title="Todesurteil Anna Maria B." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wol=verdientes	wohlverdientes	ADJA	Duden	tu_75_xTok_000001
 Todes=Urtheil	Todesurteil	NN	Duden	tu_75_xTok_000002
@@ -93,6 +95,12 @@ wird	werden	VAFIN	Duden	tu_75_xTok_000150
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
+<pb n="4">
+</pb>
 <p id="fb_17601031_AnnaMariaB_p_0001">
 ES	es	PPER	Duden	tu_75_xTok_000152
 ist	sein	VAFIN	Duden	tu_75_xTok_000155
@@ -396,6 +404,12 @@ verhinderet	verhindern	VVPP	Duden	tu_75_xTok_000692
 worden	werden	VAPP	Duden	tu_75_xTok_000694
 <g/>
 ,
+<pb n="5">
+</pb>
+<pb n="6">
+</pb>
+<pb n="7">
+</pb>
 sondern	sondern	KON	Duden	tu_75_xTok_000696
 auch	auch	ADV	Duden	tu_75_xTok_000698
 in	in	APPR	Duden	tu_75_xTok_000700
@@ -436,6 +450,8 @@ zu	zu	APPR	Duden	tu_75_xTok_000759
 St. Marx	St.Marx	NE::top		tu_75_xTok_000761
 ihrer	ihr	PPOSAT	Duden	tu_75_xTok_000766
 Blöd=sinnigkeit	Blödsinnigkeit	NN	DWB	tu_75_xTok_000767
+Blödsinigkeit	Blödsinnigkeit	NN	DWB	tu_75_xTok_000768
+Blöd=sinnigkeit	Blödsinnigkeit	NN	DWB	tu_75_xTok_000769
 halber	halber	APPO	Duden	tu_75_xTok_000771
 in	in	APPR	Duden	tu_75_xTok_000773
 der	d	ART	Duden	tu_75_xTok_000775
@@ -694,6 +710,12 @@ müssen	müssen	VMINF	Duden	tu_75_xTok_001195
 <g/>
 .
 </p>
+<pb n="8">
+</pb>
+<pb n="9">
+</pb>
+<pb n="10">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_75_xTok_001197
 ihres	ihr	PPOSAT	Duden	tu_75_xTok_001202
@@ -784,4 +806,8 @@ und	und	KON	Duden	tu_75_xTok_001346
 barmherzig	barmherzig	ADJD	Duden	tu_75_xTok_001348
 <g/>
 !
+<g/>
+!
+<g/>
+.
 </doc>

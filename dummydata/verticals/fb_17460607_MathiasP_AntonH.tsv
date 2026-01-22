@@ -1,4 +1,6 @@
-<doc id="fb_17460607_MathiasP_AntonH" delinquent_sexes="male" title="Todesurteil Mathias P., Anton H." attrs="word lemma pos vocab id">
+<doc id="fb_17460607_MathiasP_AntonH" year="1746" delinquent_sexes="male" title="Todesurteil Mathias P., Anton H." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_33_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_33_xTok_000002
@@ -63,11 +65,15 @@ Catholischer	katholisch	ADJA	Duden	tu_33_xTok_000090
 Religion	Religion	NN	Duden	tu_33_xTok_000093
 <g/>
 /
+<g/>
+.
 </titlePart>
 <titlePart type="main">
 Welche	welch	PRELS	Duden	tu_33_xTok_000096
 heut	heute	ADV	Duden	tu_33_xTok_000098
 Erchtag	Erchtag	NN	DWB	tu_33_xTok_000100
+<g/>
+,
 als	als	KOKOM	Duden	tu_33_xTok_000106
 den	d	ART	Duden	tu_33_xTok_000108
 <date id="date33">
@@ -143,6 +149,10 @@ finden	finden	VVINF	Duden	tu_33_xTok_000225
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <p id="fb_17460607_MathiasP_AntonH_p_0001">
 Jnnhalt	Inhalt	NN	Duden	tu_33_xTok_000245
 des	d	ART	Duden	tu_33_xTok_000247
@@ -403,6 +413,10 @@ in	in	APPR	Duden	tu_33_xTok_000708
 ein	ein	ART	Duden	tu_33_xTok_000710
 Wirths=Hauß	Wirtshaus	NN	Duden	tu_33_xTok_000712
 einstellend	einstellen	ADJD	Duden	tu_33_xTok_000714
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 ersehen	ersehen	VVPP	Duden	tu_33_xTok_000716
 <g/>
 ,

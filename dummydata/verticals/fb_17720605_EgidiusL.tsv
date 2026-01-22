@@ -1,4 +1,6 @@
-<doc id="fb_17720605_EgidiusL" delinquent_sexes="male" title="Todesurteil Egidius L." attrs="word lemma pos vocab id">
+<doc id="fb_17720605_EgidiusL" year="1772" delinquent_sexes="male" title="Todesurteil Egidius L." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohlverdientes	wohlverdient	ADJA	Duden	tu_97_xTok_000001
 Todes=Urtheil	Todesurteil	NN	Duden	tu_97_xTok_000002
@@ -67,6 +69,8 @@ worden	werden	VAPP	Duden	tu_97_xTok_000093
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <p id="fb_17720605_EgidiusL_p_0001">
 Es	es	PPER	Duden	tu_97_xTok_000107
 hat	haben	VAFIN	Duden	tu_97_xTok_000110
@@ -318,6 +322,8 @@ in	in	APPR	Duden	tu_97_xTok_000487
 der	d	ART	Duden	tu_97_xTok_000489
 Nähe	Nähe	NN	Duden	tu_97_xTok_000491
 gelegenen	liegen	ADJA	Duden	tu_97_xTok_000493
+<pb n="3">
+</pb>
 scharfeckigten	scharfeckig	ADJA	DWB	tu_97_xTok_000494
 Stein	Stein	NN	Duden	tu_97_xTok_000496
 <g/>
@@ -570,6 +576,8 @@ einbekennet	einbekennen	VVPP	Duden	tu_97_xTok_000886
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
 <p id="fb_17720605_EgidiusL_p_0002">
 Nachdeme	nachdem	KOUS	Duden	tu_97_xTok_000889
 also	also	ADV	Duden	tu_97_xTok_000891

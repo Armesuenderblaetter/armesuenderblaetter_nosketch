@@ -1,4 +1,6 @@
-<doc id="fb_17720924_MelchiorS" delinquent_sexes="male" title="Todesurteil Melchior S." attrs="word lemma pos vocab id">
+<doc id="fb_17720924_MelchiorS" year="1772" delinquent_sexes="male" title="Todesurteil Melchior S." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_100_xTok_000001
 einer	ein	ART	Duden	tu_100_xTok_000003
@@ -93,6 +95,8 @@ wird	werden	VAFIN	Duden	tu_100_xTok_000140
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_100_xTok_000142
 seines	sein	PPOSAT	Duden	tu_100_xTok_000144
@@ -439,6 +443,8 @@ zwischen	zwischen	APPR	Duden	tu_100_xTok_000707
 den	d	ART	Duden	tu_100_xTok_000709
 10=	10	ADJA		tu_100_xTok_000711
 und	und	KON	Duden	tu_100_xTok_000714
+<pb n="3">
+</pb>
 11ten	11	ADJA		tu_100_xTok_000715
 März	März	NN	Duden	tu_100_xTok_000718
 dies	diese	PDAT	Duden	tu_100_xTok_000720
@@ -818,6 +824,8 @@ erleidet	erleiden	VVFIN	Duden	tu_100_xTok_001363
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_100_xTok_001365
 seines	sein	PPOSAT	Duden	tu_100_xTok_001367

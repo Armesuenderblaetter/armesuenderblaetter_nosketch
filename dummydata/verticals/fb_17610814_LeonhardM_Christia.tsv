@@ -1,4 +1,6 @@
-<doc id="fb_17610814_LeonhardM_Christia" delinquent_sexes="male" title="Todesurteil Leonhard M., Christian S." attrs="word lemma pos vocab id">
+<doc id="fb_17610814_LeonhardM_Christia" year="1761" delinquent_sexes="male" title="Todesurteil Leonhard M., Christian S." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_80_xTok_000001
 Todes=Urtheil	Todesurteil	NN	Duden	tu_80_xTok_000002
@@ -73,6 +75,8 @@ der	d	ART	Duden	tu_80_xTok_000107
 Obern	Obere	NN	Duden	tu_80_xTok_000109
 <g/>
 .
+<pb n="2">
+</pb>
 <p id="fb_17610814_LeonhardM_Christia_p_0001">
 Demnach	demnach	PAV	Duden	tu_80_xTok_000112
 Leonhard	Leonhard	NE	Duden	tu_80_xTok_000115
@@ -260,6 +264,8 @@ Zurückgekommenen	zurückgekommen	ADJ-NN	oov	tu_80_xTok_000428
 <g/>
 /
 merklichen	merklich	ADJA	Duden	tu_80_xTok_000432
+<pb n="3">
+</pb>
 Schaden	Schaden	NN	Duden	tu_80_xTok_000433
 zugefüget	zufügen	VVPP	Duden	tu_80_xTok_000435
 <g/>

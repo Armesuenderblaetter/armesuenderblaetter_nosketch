@@ -1,4 +1,6 @@
-<doc id="fb_17540607_WilhelmH" delinquent_sexes="male" title="Todesurteil Wilhelm H." attrs="word lemma pos vocab id">
+<doc id="fb_17540607_WilhelmH" year="1754" delinquent_sexes="male" title="Todesurteil Wilhelm H." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_59_xTok_000002
 des	d	ART	Duden	tu_59_xTok_000004
@@ -303,6 +305,10 @@ gekehret	zurückkehren	VVPP	Duden	tu_59_xTok_000495
 und	und	KON	Duden	tu_59_xTok_000498
 sowol	sowohl	KON	Duden	tu_59_xTok_000500
 </p>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <p id="fb_17540607_WilhelmH_p_0002">
 den	d	ART	Duden	tu_59_xTok_000501
 Gesellen	Geselle	NN	Duden	tu_59_xTok_000503
@@ -725,6 +731,10 @@ beschäftiget	beschäftigen	VVPP	Duden	tu_59_xTok_001248
 ,
 nach	nach	APPR	Duden	tu_59_xTok_001251
 eingenommenen	einnehmen	ADJA	Duden	tu_59_xTok_001253
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 Mittag=mal	Mittagmahl	NN	Duden	tu_59_xTok_001255
 aber	aber	ADV	Duden	tu_59_xTok_001257
 sein	sein	PPOSAT	Duden	tu_59_xTok_001259
@@ -1199,6 +1209,10 @@ ergriffen	ergreifen	VVPP	Duden	tu_59_xTok_002069
 und	und	KON	Duden	tu_59_xTok_002072
 nach	nach	APPR	Duden	tu_59_xTok_002074
 vorläuffiger	vorläufig	ADJA	Duden	tu_59_xTok_002076
+<pb n="6">
+</pb>
+<pb n="7">
+</pb>
 Spannung	Spannung	NN	Duden	tu_59_xTok_002078
 des	d	ART	Duden	tu_59_xTok_002080
 Hahns	Hahn	NN	Duden	tu_59_xTok_002082

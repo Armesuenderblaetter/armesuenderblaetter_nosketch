@@ -1,4 +1,6 @@
-<doc id="fb_17350215_JohannFerdinandH" delinquent_sexes="male" title="Todesurteil Johann Ferdinand H." attrs="word lemma pos vocab id">
+<doc id="fb_17350215_JohannFerdinandH" year="1735" delinquent_sexes="male" title="Todesurteil Johann Ferdinand H." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_5_xTok_000001
 Urtheil	Urteil	NN	Duden	tu_5_xTok_000002
@@ -140,6 +142,8 @@ vernehmen	vernehmen	VVINF	Duden	tu_5_xTok_000235
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Das	d	ART	Duden	tu_5_xTok_000252
 Verbrechen	Verbrechen	NN	Duden	tu_5_xTok_000255
@@ -311,6 +315,8 @@ ersten	erste	ADJA	Duden	tu_5_xTok_000574
 mal	Mal	NN	Duden	tu_5_xTok_000574b
 <g/>
 :
+<pb n="3">
+</pb>
 Dann	dann	ADV	Duden	tu_5_xTok_000578
 <g/>
 /
@@ -607,6 +613,8 @@ abschlagt	abschlagen	VVFIN	Duden	tu_5_xTok_001062
 <g/>
 /
 </l>
+<pb n="4">
+</pb>
 <l id="fb_17350215_JohannFerdinandH_l_0007">
 Man	man	PIS	Duden	tu_5_xTok_001065
 thut	tun	VVFIN	Duden	tu_5_xTok_001067

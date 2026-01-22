@@ -1,4 +1,6 @@
-<doc id="fb_17780827_JohannH_MichaelH" delinquent_sexes="male" title="Todesurteil Johann H., Michael H." attrs="word lemma pos vocab id">
+<doc id="fb_17780827_JohannH_MichaelH" year="1778" delinquent_sexes="male" title="Todesurteil Johann H., Michael H." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_115_xTok_000001
 zweyer	zwei	CARD	Duden	tu_115_xTok_000004
@@ -126,6 +128,7 @@ bis	bis	APPR	Duden	tu_115_xTok_000204
 in	in	APPR	Duden	tu_115_xTok_000206
 das	d	ART	Duden	tu_115_xTok_000208
 17te	17	ADJA		tu_115_xTok_000209
+17.	17	ADJA		tu_115_xTok_000211
 <g/>
 ,
 der	d	ART	Duden	tu_115_xTok_000214
@@ -175,6 +178,8 @@ dienten	dienen	VVFIN	Duden	tu_115_xTok_000294
 hin	hin	ADV	Duden	tu_115_xTok_000296
 und	und	KON	Duden	tu_115_xTok_000298
 wieder	wieder	ADV	Duden	tu_115_xTok_000300
+<pb n="2">
+</pb>
 als	als	KOKOM	Duden	tu_115_xTok_000301
 Roßknechte	Rossknecht	NN	DWB	tu_115_xTok_000303
 so lang	solang	ADV		tu_115_xTok_000305
@@ -592,6 +597,10 @@ Aufbrechung	Aufbrechung	NN	oov	tu_115_xTok_001049
 der	d	ART	Duden	tu_115_xTok_001051
 darinn	darin	PAV	Duden	tu_115_xTok_001053
 verwahrten	verwahren	ADJA	Duden	tu_115_xTok_001055
+<pb n="3">
+</pb>
+<pb n="4">
+</pb>
 Kassa=Truhe	Kassatruhe	NN	DRW	tu_115_xTok_001057
 <g/>
 ,
@@ -779,6 +788,8 @@ in	in	APPR	Duden	tu_115_xTok_001405
 den	d	ART	Duden	tu_115_xTok_001407
 Hof	Hof	NN	Duden	tu_115_xTok_001409
 hineingeschliechen	hineinschleichen	VVPP	Duden	tu_115_xTok_001410
+hinein	hinein	PTKVZ	Duden	tu_115_xTok_001411
+geschlichen	hineinschleichen	VVPP	Duden	tu_115_xTok_001413
 <g/>
 ,
 und	und	KON	Duden	tu_115_xTok_001416
@@ -842,6 +853,7 @@ sie	sie	PPER	Duden	tu_115_xTok_001513
 die	d	ART	Duden	tu_115_xTok_001515
 nur	nur	ADV	Duden	tu_115_xTok_001517
 mit	mit	APPR	Duden	tu_115_xTok_001519
+der	d	ART	Duden	tu_115_xTok_001521
 Schnalle	Schnalle	NN	Duden	tu_115_xTok_001523
 zugewesene	zugewesen	ADJA	oov	tu_115_xTok_001526
 Thür	Tür	NN	Duden	tu_115_xTok_001529
@@ -978,6 +990,8 @@ sind	sein	VAFIN	Duden	tu_115_xTok_001766
 .
 </p>
 <p id="fb_17780827_JohannH_MichaelH_p_0006">
+<pb n="5">
+</pb>
 Hierauf	hierauf	PAV	Duden	tu_115_xTok_001768
 haben	haben	VAFIN	Duden	tu_115_xTok_001770
 sie	sie	PPER	Duden	tu_115_xTok_001772
@@ -989,6 +1003,7 @@ Wirth	Wirt	NN	Duden	tu_115_xTok_001782
 zu	zu	APPR	Duden	tu_115_xTok_001784
 Matzen	Matzen	NE::top	oov	tu_115_xTok_001786
 nächtlicher Weile	nächtlicherweile	ADV		tu_115_xTok_001788
+nächtlicherweile	nächtlicherweile	ADV	Duden	tu_115_xTok_001791
 aus	aus	APPR	Duden	tu_115_xTok_001793
 seinem	sein	PPOSAT	Duden	tu_115_xTok_001795
 mit	mit	APPR	Duden	tu_115_xTok_001797
@@ -1030,6 +1045,8 @@ Schupfe	Schupfen	NN	Duden	tu_115_xTok_001871
 gestandenes	stehen	ADJA	Duden	tu_115_xTok_001873
 <g/>
 ,
+<pb n="6">
+</pb>
 auf	auf	APPR	Duden	tu_115_xTok_001875
 62	62	CARD		tu_115_xTok_001877
 fl.	Flore	NN	DWB	tu_115_xTok_001879

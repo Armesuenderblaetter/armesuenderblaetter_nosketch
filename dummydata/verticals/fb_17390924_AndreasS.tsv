@@ -1,4 +1,6 @@
-<doc id="fb_17390924_AndreasS" delinquent_sexes="male" title="Todesurteil Andreas S." attrs="word lemma pos vocab id">
+<doc id="fb_17390924_AndreasS" year="1739" delinquent_sexes="male" title="Todesurteil Andreas S." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_14_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_14_xTok_000002
@@ -110,6 +112,8 @@ vernehmen	vernehmen	VVINF	Duden	tu_14_xTok_000173
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_14_xTok_000189
 des	d	ART	Duden	tu_14_xTok_000191
@@ -310,6 +314,8 @@ worden	werden	VAPP	Duden	tu_14_xTok_000557
 <g/>
 .
 </p>
+<pb n="3">
+</pb>
 <p id="fb_17390924_AndreasS_p_0002">
 Weithers	weiters	ADV	Duden	tu_14_xTok_000559
 hat	haben	VAFIN	Duden	tu_14_xTok_000561
@@ -609,6 +615,8 @@ Erd	Erde	NN	Duden	tu_14_xTok_000976
 .
 </l>
 </lg>
+<pb n="4">
+</pb>
 <lg type="stanza">
 <head>
 5.	5	ADV		tu_14_xTok_000978

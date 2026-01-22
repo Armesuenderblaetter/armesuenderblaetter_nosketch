@@ -1,4 +1,6 @@
-<doc id="fb_17611023_JosephP" delinquent_sexes="male" title="Todesurteil Joseph P." attrs="word lemma pos vocab id">
+<doc id="fb_17611023_JosephP" year="1761" delinquent_sexes="male" title="Todesurteil Joseph P." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_82_xTok_000001
 Einer	ein	ART	Duden	tu_82_xTok_000005
@@ -91,6 +93,8 @@ wird	werden	VAFIN	Duden	tu_82_xTok_000161
 <g/>
 ,
 </titlePart>
+<pb n="2">
+</pb>
 <p id="fb_17611023_JosephP_p_0001">
 ES	es	PPER	Duden	tu_82_xTok_000163
 ist	sein	VAFIN	Duden	tu_82_xTok_000166
@@ -420,6 +424,8 @@ um	um	APPR	Duden	tu_82_xTok_000754
 Weyhnachten	Weihnachten	NN	Duden	tu_82_xTok_000756
 1759.	1759	CARD		tu_82_xTok_000758
 mit	mit	APPR	Duden	tu_82_xTok_000760
+<pb n="3">
+</pb>
 einem	ein	ART	Duden	tu_82_xTok_000761
 seinigen	seinige	PPOSAT	Duden	tu_82_xTok_000763
 Diebs=gespann	Diebsgespan	NN	DRW	tu_82_xTok_000765
@@ -817,6 +823,8 @@ habe	haben	VAFIN	Duden	tu_82_xTok_001461
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_82_xTok_001463
 seines	sein	PPOSAT	Duden	tu_82_xTok_001466

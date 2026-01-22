@@ -1,4 +1,6 @@
-<doc id="fb_17540820_ThomasAugustinH" delinquent_sexes="male" title="Todesurteil Thomas Augustin H." attrs="word lemma pos vocab id">
+<doc id="fb_17540820_ThomasAugustinH" year="1754" delinquent_sexes="male" title="Todesurteil Thomas Augustin H." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=urtheil	Todesurteil	NN	Duden	tu_60_xTok_000002
 <g/>
@@ -75,6 +77,8 @@ wird	werden	VAFIN	Duden	tu_60_xTok_000121
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Hauptsächlicher	hauptsächlich	ADJA	Duden	tu_60_xTok_000137
 Auszug	Auszug	NN	Duden	tu_60_xTok_000139
@@ -283,6 +287,8 @@ Arrestirung	Arrestierung	NN	oov	tu_60_xTok_000466
 solch	solch	PIAT	Duden	tu_60_xTok_000469
 ihres	ihr	PPOSAT	Duden	tu_60_xTok_000471
 unbändigen	unbändig	ADJA	Duden	tu_60_xTok_000473
+<pb n="3">
+</pb>
 Sohnes	Sohn	NN	Duden	tu_60_xTok_000474
 bewürken	bewirken	VVINF	Duden	tu_60_xTok_000476
 sollte	sollen	VMFIN	Duden	tu_60_xTok_000478

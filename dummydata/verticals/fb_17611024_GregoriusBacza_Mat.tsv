@@ -1,4 +1,6 @@
-<doc id="fb_17611024_GregoriusBacza_Mat" delinquent_sexes="misc" title="Todesurteile Gregorius Bacza, Mathias Kovács, Georgius Pávelka, Anna Sávolyi,Eva Kiss" attrs="word lemma pos vocab id">
+<doc id="fb_17611024_GregoriusBacza_Mat" year="1761" delinquent_sexes="misc" title="Todesurteile Gregorius Bacza, Mathias Kovács, Georgius Pávelka, Anna Sávolyi,Eva Kiss" attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart>
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_83_xTok_000001
 Todes=Urtheil	Todesurteil	NN	Duden	tu_83_xTok_000002
@@ -147,6 +149,10 @@ deren	d	PDAT	Duden	tu_83_xTok_000213
 Obern	Obere	NN	Duden	tu_83_xTok_000215
 <g/>
 .
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Das	d	ART	Duden	tu_83_xTok_000217
 Urtheil	Urteil	NN	Duden	tu_83_xTok_000219
@@ -449,6 +455,10 @@ werden	werden	VAINF	Duden	tu_83_xTok_000714
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 <head>
 Das	d	ART	Duden	tu_83_xTok_000716
 Urtheil	Urteil	NN	Duden	tu_83_xTok_000718
@@ -810,6 +820,10 @@ gewandlet	wandeln	VVPP	Duden	tu_83_xTok_001313
 <g/>
 /
 welche	welch	PIAT	Duden	tu_83_xTok_001317
+<pb n="6">
+</pb>
+<pb n="7">
+</pb>
 lasterhafte	lasterhaft	ADJA	Duden	tu_83_xTok_001318
 Gesellschaft	Gesellschaft	NN	Duden	tu_83_xTok_001320
 weder	weder	KON	Duden	tu_83_xTok_001322

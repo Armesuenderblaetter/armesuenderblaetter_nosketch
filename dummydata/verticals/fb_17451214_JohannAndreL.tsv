@@ -1,4 +1,6 @@
-<doc id="fb_17451214_JohannAndreL" delinquent_sexes="male" title="Todesurteil Johann Andre L." attrs="word lemma pos vocab id">
+<doc id="fb_17451214_JohannAndreL" year="1745" delinquent_sexes="male" title="Todesurteil Johann Andre L." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_32_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_32_xTok_000002
@@ -129,6 +131,8 @@ finden	finden	VVINF	Duden	tu_32_xTok_000215
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_32_xTok_000235
 des	d	ART	Duden	tu_32_xTok_000238
@@ -347,6 +351,8 @@ Messern	Messer	NN	Duden	tu_32_xTok_000618
 zu	zu	PTKZU	Duden	tu_32_xTok_000620
 ermorden	ermorden	VVINF	Duden	tu_32_xTok_000622
 suchen	suchen	VVINF	Duden	tu_32_xTok_000624
+<pb n="3">
+</pb>
 wollten	wollen	VMFIN	Duden	tu_32_xTok_000625
 <g/>
 )
@@ -656,6 +662,8 @@ verblichen	verbleichen	VVPP	Duden	tu_32_xTok_001184
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
 <p id="fb_17451214_JohannAndreL_p_0003">
 Allermassen	allermaßen	ADV	DWB	tu_32_xTok_001186
 dann	dann	ADV	Duden	tu_32_xTok_001188

@@ -1,4 +1,6 @@
-<doc id="fb_17601024_ReginaG" delinquent_sexes="female" title="Todesurteil Regina G." attrs="word lemma pos vocab id">
+<doc id="fb_17601024_ReginaG" year="1760" delinquent_sexes="female" title="Todesurteil Regina G." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_74_xTok_000001
 Einer	ein	ART	Duden	tu_74_xTok_000005
@@ -87,6 +89,10 @@ wird	werden	VAFIN	Duden	tu_74_xTok_000145
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <p id="fb_17601024_ReginaG_p_0001">
 ES	es	PPER	Duden	tu_74_xTok_000148
 hat	haben	VAFIN	Duden	tu_74_xTok_000151
@@ -265,6 +271,10 @@ ermorden	ermorden	VVINF	Duden	tu_74_xTok_000471
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 <p id="fb_17601024_ReginaG_p_0002">
 Zu	zu	APPR	Duden	tu_74_xTok_000474
 dem	d	ART	Duden	tu_74_xTok_000476

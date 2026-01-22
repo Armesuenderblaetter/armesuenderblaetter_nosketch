@@ -1,4 +1,6 @@
-<doc id="fb_17500818_AnnaMariaE" delinquent_sexes="female" title="Todesurteil Anna Maria E." attrs="word lemma pos vocab id">
+<doc id="fb_17500818_AnnaMariaE" year="1750" delinquent_sexes="female" title="Todesurteil Anna Maria E." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_50_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_50_xTok_000002
@@ -90,6 +92,8 @@ finden	finden	VVINF	Duden	tu_50_xTok_000118
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_50_xTok_000138
 des	d	ART	Duden	tu_50_xTok_000140
@@ -149,6 +153,8 @@ geführet	führen	VVPP	Duden	tu_50_xTok_000224
 ,
 und	und	KON	Duden	tu_50_xTok_000227
 daselbst	daselbst	ADV	Duden	tu_50_xTok_000229
+<pb n="3">
+</pb>
 mit	mit	APPR	Duden	tu_50_xTok_000230
 dem	d	ART	Duden	tu_50_xTok_000232
 Schwerdt	Schwert	NN	Duden	tu_50_xTok_000234
@@ -258,6 +264,8 @@ Mutter	Mutter	NN	Duden	tu_50_xTok_000422
 <g/>
 ,
 als	als	KOKOM	Duden	tu_50_xTok_000425
+<pb n="4">
+</pb>
 eine	ein	ART	Duden	tu_50_xTok_000426
 unumgängig	unumgänglich	ADJD	Duden	tu_50_xTok_000428
 nothwendige	notwendig	ADJA	Duden	tu_50_xTok_000430

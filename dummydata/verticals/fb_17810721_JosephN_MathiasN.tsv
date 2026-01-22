@@ -1,4 +1,6 @@
-<doc id="fb_17810721_JosephN_MathiasN" delinquent_sexes="male" title="Todesurteil Joseph N., Mathias N." attrs="word lemma pos vocab id">
+<doc id="fb_17810721_JosephN_MathiasN" year="1781" delinquent_sexes="male" title="Todesurteil Joseph N., Mathias N." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Nro.	Numero	NN	Duden	tu_121_xTok_000042
 4.	4	CARD		tu_121_xTok_000045
@@ -134,6 +136,8 @@ ausgesagt	aussagen	VVPP	Duden	tu_121_xTok_000245
 :
 daß	dass	KOUS	Duden	tu_121_xTok_000248
 </p>
+<pb n="2">
+</pb>
 <p id="fb_17810721_JosephN_MathiasN_p_0002">
 Erster	erste	ADJ-NN	Duden	tu_121_xTok_000249
 <g/>
@@ -456,6 +460,8 @@ anbefohlen	anbefehlen	VVPP	Duden	tu_121_xTok_000773
 <g/>
 .
 </p>
+<pb n="3">
+</pb>
 <lg type="poem">
 <head>
 Moralrede	Moralrede	NN	oov	tu_121_xTok_000775
@@ -1058,6 +1064,8 @@ Spiel	Spiel	NN	Duden	tu_121_xTok_001526
 .
 </l>
 </lg>
+<pb n="4">
+</pb>
 <lg type="stanza">
 <l id="fb_17810721_JosephN_MathiasN_l_0043">
 Die	d	ART	Duden	tu_121_xTok_001528
@@ -1666,4 +1674,8 @@ rettest	retten	VVFIN	Duden	tu_121_xTok_002297
 </l>
 </lg>
 </lg>
+<pb n="5">
+</pb>
+<pb n="6">
+</pb>
 </doc>

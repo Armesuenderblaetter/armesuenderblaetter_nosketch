@@ -1,4 +1,6 @@
-<doc id="fb_17351006_MathiasH" delinquent_sexes="male" title="Todesurteil Mathias H." attrs="word lemma pos vocab id">
+<doc id="fb_17351006_MathiasH" year="1735" delinquent_sexes="male" title="Todesurteil Mathias H." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Rechtmässiges	rechtmäßig	ADJA	Duden	tu_7_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_7_xTok_000002
@@ -307,6 +309,8 @@ werden	werden	VAINF	Duden	tu_7_xTok_000537
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <lg type="poem">
 <lg type="stanza">
 <head>
@@ -547,6 +551,8 @@ d'Hand	d_Hand	ARTNN	Duden	tu_7_xTok_000832
 .
 </l>
 </lg>
+<pb n="3">
+</pb>
 <lg type="stanza">
 <head>
 4.	4	ADV		tu_7_xTok_000834
@@ -883,6 +889,8 @@ besonnen	besinnen	VVPP	Duden	tu_7_xTok_001205
 <l id="fb_17351006_MathiasH_l_0060">
 und	und	KON	Duden	tu_7_xTok_001208
 </l>
+<pb n="4">
+</pb>
 <l id="fb_17351006_MathiasH_l_0061">
 getrachtet	trachten	VVPP	Duden	tu_7_xTok_001209
 immerdar	immerdar	ADV	Duden	tu_7_xTok_001211

@@ -1,4 +1,6 @@
-<doc id="fb_17860000_Anonym2" delinquent_sexes="male" title="Beschreibung des Mordes an einem anonymen Mädchen" attrs="word lemma pos vocab id">
+<doc id="fb_17860000_Anonym2" year="1786" delinquent_sexes="male" title="Beschreibung des Mordes an einem anonymen Mädchen" attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Ausführliche	ausführlich	ADJA	Duden	tu_128_xTok_000001
 Beschreibung	Beschreibung	NN	Duden	tu_128_xTok_000003
@@ -20,6 +22,8 @@ gestürzet	stürzen	VVPP	Duden	tu_128_xTok_000030
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <p id="fb_17860000_Anonym2_p_0001">
 Vor	vor	APPR	Duden	tu_128_xTok_000034
 einigen	einige	PIAT	Duden	tu_128_xTok_000037
@@ -93,6 +97,8 @@ gelaßneste	gelassen	ADJA	Duden	tu_128_xTok_000150
 Art	Art	NN	Duden	tu_128_xTok_000152
 <g/>
 ,
+<pb n="3">
+</pb>
 folgte	folgen	VVFIN	Duden	tu_128_xTok_000154
 Sie	sie	PPER	Duden	tu_128_xTok_000156
 seinen	sein	PPOSAT	Duden	tu_128_xTok_000158
@@ -232,6 +238,8 @@ versunken	versinken	VVPP	Duden	tu_128_xTok_000378
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
 <p id="fb_17860000_Anonym2_p_0005">
 Der	d	ART	Duden	tu_128_xTok_000380
 Thäter	Täter	NN	Duden	tu_128_xTok_000382

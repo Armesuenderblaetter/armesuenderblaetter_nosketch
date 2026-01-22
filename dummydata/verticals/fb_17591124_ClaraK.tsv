@@ -1,4 +1,6 @@
-<doc id="fb_17591124_ClaraK" delinquent_sexes="female" title="Todesurteil Clara K." attrs="word lemma pos vocab id">
+<doc id="fb_17591124_ClaraK" year="1759" delinquent_sexes="female" title="Todesurteil Clara K." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_72_xTok_000001
 Einer	ein	ART	Duden	tu_72_xTok_000005
@@ -427,6 +429,8 @@ Orten	Ort	NN	Duden	tu_72_xTok_000706
 ihr	ihr	PPOSAT	Duden	tu_72_xTok_000708
 böses	böse	ADJA	Duden	tu_72_xTok_000710
 Vorhaben	Vorhaben	NN	Duden	tu_72_xTok_000712
+<pb n="2">
+</pb>
 wegen	wegen	APPR	Duden	tu_72_xTok_000713
 Anwesenheit	Anwesenheit	NN	Duden	tu_72_xTok_000715
 mehrer	mehrere	PIAT	Duden	tu_72_xTok_000717
@@ -712,6 +716,8 @@ K.	kaiserlich	ADJA	Duden	tu_72_xTok_001193
 K.	königlich	ADJA	Duden	tu_72_xTok_001196
 Stadt=	Stadtgericht	TRUNC	Duden	tu_72_xTok_001199
 und	und	KON	Duden	tu_72_xTok_001201
+<pb n="3">
+</pb>
 Land=gericht	Landgericht	NN	Duden	tu_72_xTok_001202
 über	über	APPR	Duden	tu_72_xTok_001204
 den	d	ART	Duden	tu_72_xTok_001206

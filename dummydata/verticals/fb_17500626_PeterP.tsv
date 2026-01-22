@@ -1,4 +1,6 @@
-<doc id="fb_17500626_PeterP" delinquent_sexes="male" title="Todesurteil Peter P." attrs="word lemma pos vocab id">
+<doc id="fb_17500626_PeterP" year="1750" delinquent_sexes="male" title="Todesurteil Peter P." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_49_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_49_xTok_000002
@@ -24,6 +26,7 @@ alt	alt	ADJD	Duden	tu_49_xTok_000031
 ,
 Catholischer	katholisch	ADJA	Duden	tu_49_xTok_000034
 Religion	Religion	NN	Duden	tu_49_xTok_000037
+Religion	Religion	NN	Duden	tu_49_xTok_000038
 <g/>
 ,
 von	von	APPR	Duden	tu_49_xTok_000041
@@ -110,6 +113,10 @@ finden	finden	VVINF	Duden	tu_49_xTok_000190
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_49_xTok_000210
 des	d	ART	Duden	tu_49_xTok_000212
@@ -197,6 +204,10 @@ den	d	ART	Duden	tu_49_xTok_000366
 25.	25	ADJA		tu_49_xTok_000368
 Januarii	Januar	NN	Duden	tu_49_xTok_000370
 1750.	1750	CARD		tu_49_xTok_000372
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 Johann	Johann	NE	Duden	tu_49_xTok_000375
 Antoni	Anton	NE	Duden	tu_49_xTok_000377
 Geyer	Geyer	NE	oov	tu_49_xTok_000379
@@ -338,6 +349,10 @@ und	und	KON	Duden	tu_49_xTok_000618
 ober	ober	APPR	Duden	tu_49_xTok_000620
 denselbigen	derselbe	PDS	Duden	tu_49_xTok_000622
 hinterwerts	hinterwärts	ADV	Duden	tu_49_xTok_000624
+<pb n="6">
+</pb>
+<pb n="7">
+</pb>
 eine	ein	ART	Duden	tu_49_xTok_000625
 grosse	groß	ADJA	Duden	tu_49_xTok_000627
 Contusion	Kontusion	NN	Duden	tu_49_xTok_000629
@@ -350,6 +365,7 @@ dem	d	ART	Duden	tu_49_xTok_000638
 annoch	annoch	ADV	DWB	tu_49_xTok_000640
 den	d	ART	Duden	tu_49_xTok_000643
 4ten	4	ADJA		tu_49_xTok_000645
+4.	4	ADJA		tu_49_xTok_000647
 Tag	Tag	NN	Duden	tu_49_xTok_000649
 nach	nach	APPR	Duden	tu_49_xTok_000651
 solcher	solch	PIAT	Duden	tu_49_xTok_000653

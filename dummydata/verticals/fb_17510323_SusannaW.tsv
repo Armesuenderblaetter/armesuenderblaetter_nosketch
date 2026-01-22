@@ -1,4 +1,6 @@
-<doc id="fb_17510323_SusannaW" delinquent_sexes="female" title="Todesurteil Susanna W." attrs="word lemma pos vocab id">
+<doc id="fb_17510323_SusannaW" year="1751" delinquent_sexes="female" title="Todesurteil Susanna W." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_52_xTok_000002
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_52_xTok_000003
@@ -83,6 +85,8 @@ finden	finden	VVINF	Duden	tu_52_xTok_000118
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_52_xTok_000138
 des	d	ART	Duden	tu_52_xTok_000140
@@ -140,6 +144,8 @@ beschehene	beschehen	ADJA	DWB	tu_52_xTok_000227
 Schadens=Ersetzung	Schadensersetzung	NN	oov	tu_52_xTok_000230
 nebst	nebst	APPR	Duden	tu_52_xTok_000232
 Hinterlassung	Hinterlassung	NN	Duden	tu_52_xTok_000234
+<pb n="3">
+</pb>
 einer	ein	ART	Duden	tu_52_xTok_000235
 geschwornen	geschworen	ADJA	Duden	tu_52_xTok_000237
 Urphed	Urfehde	NN	Duden	tu_52_xTok_000239
@@ -295,6 +301,8 @@ dem	d	ART	Duden	tu_52_xTok_000501
 dis=orthigen	diesortig	ADJA	oov	tu_52_xTok_000503
 Herrn	Herr	NN	Duden	tu_52_xTok_000505
 Verlustigten	verlustig	ADJ-NN	DWB	tu_52_xTok_000507
+<pb n="4">
+</pb>
 mit	mit	APPR	Duden	tu_52_xTok_000508
 Einbegriff	Einbegriff	NN	oov	tu_52_xTok_000510
 deren	d	PDS	Duden	tu_52_xTok_000512

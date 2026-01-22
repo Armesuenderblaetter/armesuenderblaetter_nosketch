@@ -1,4 +1,6 @@
-<doc id="fb_17610409_JohannGeorgR" delinquent_sexes="male" title="Todesurteil Johann Georg R." attrs="word lemma pos vocab id">
+<doc id="fb_17610409_JohannGeorgR" year="1761" delinquent_sexes="male" title="Todesurteil Johann Georg R." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_77_xTok_000001
 Einer	ein	ART	Duden	tu_77_xTok_000005
@@ -86,6 +88,10 @@ wird	werden	VAFIN	Duden	tu_77_xTok_000138
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_77_xTok_000140
 seines	sein	PPOSAT	Duden	tu_77_xTok_000142
@@ -511,6 +517,10 @@ ist	sein	VAFIN	Duden	tu_77_xTok_000898
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_77_xTok_000900
 seines	sein	PPOSAT	Duden	tu_77_xTok_000902
@@ -548,6 +558,7 @@ Schwert	Schwert	NN	Duden	tu_77_xTok_000955
 vom	vom	APPRART	Duden	tu_77_xTok_000956
 Leben	Leben	NN	Duden	tu_77_xTok_000958
 zum	zum	APPRART	Duden	tu_77_xTok_000960
+Leben	Leben	NN	Duden	tu_77_xTok_000962
 Tod	Tod	NN	Duden	tu_77_xTok_000964
 hingerichtet	hinrichten	VVPP	Duden	tu_77_xTok_000966
 werden	werden	VAINF	Duden	tu_77_xTok_000968

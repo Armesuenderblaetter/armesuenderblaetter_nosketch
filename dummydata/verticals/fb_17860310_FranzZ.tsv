@@ -1,4 +1,6 @@
-<doc id="fb_17860310_FranzZ" delinquent_sexes="male" title="Todesurteil Franz Z." attrs="word lemma pos vocab id">
+<doc id="fb_17860310_FranzZ" year="1786" delinquent_sexes="male" title="Todesurteil Franz Z." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_131_xTok_000002
 einer	ein	ART	Duden	tu_131_xTok_000004
@@ -88,6 +90,10 @@ ist	sein	VAFIN	Duden	tu_131_xTok_000135
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Jnhalt	Inhalt	NN	Duden	tu_131_xTok_000137
 seines	sein	PPOSAT	Duden	tu_131_xTok_000139
@@ -377,6 +383,10 @@ im	im	APPRART	Duden	tu_131_xTok_000588
 Betrag	Betrag	NN	Duden	tu_131_xTok_000590
 1700	1700	CARD		tu_131_xTok_000592
 fl.	Flore	NN	DWB	tu_131_xTok_000594
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 und	und	KON	Duden	tu_131_xTok_000596
 ein	ein	ART	Duden	tu_131_xTok_000598
 Säckel	Säckel	NN	Duden	tu_131_xTok_000600
@@ -747,6 +757,10 @@ ist	sein	VAFIN	Duden	tu_131_xTok_001201
 <g/>
 .
 </p>
+<pb n="6">
+</pb>
+<pb n="7">
+</pb>
 <p id="fb_17860310_FranzZ_p_0007">
 Von	Von	APPR	Duden	tu_131_xTok_001203
 daher	daher	PAV	Duden	tu_131_xTok_001205

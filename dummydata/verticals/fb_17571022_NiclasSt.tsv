@@ -1,4 +1,6 @@
-<doc id="fb_17571022_NiclasSt" delinquent_sexes="male" title="Todesurteil Niclas St." attrs="word lemma pos vocab id">
+<doc id="fb_17571022_NiclasSt" year="1757" delinquent_sexes="male" title="Todesurteil Niclas St." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_66_xTok_000002
 Einer	ein	ART	Duden	tu_66_xTok_000007
@@ -96,6 +98,8 @@ wird	werden	VAFIN	Duden	tu_66_xTok_000150
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <p id="fb_17571022_NiclasSt_p_0001">
 Zumalen	zumal	KOUS	Duden	tu_66_xTok_000153
 dieser	diese	PDAT	Duden	tu_66_xTok_000155
@@ -314,6 +318,8 @@ erstrecket	erstrecken	VVPP	DRW	tu_66_xTok_000537
 sondern	sondern	KON	Duden	tu_66_xTok_000540
 im	im	APPRART	Duden	tu_66_xTok_000542
 Jahre	Jahr	NN	Duden	tu_66_xTok_000544
+<pb n="3">
+</pb>
 1752.	1752	CARD		tu_66_xTok_000547
 durch	durch	APPR	Duden	tu_66_xTok_000549
 gewaltsamen	gewaltsam	ADJA	Duden	tu_66_xTok_000551
@@ -528,6 +534,8 @@ vorhin	vorhin	ADV	Duden	tu_66_xTok_000938
 aller	all	PIAT	Duden	tu_66_xTok_000941
 K.	kaiserlich	ADJA	Duden	tu_66_xTok_000943
 K.	königlich	ADJA	Duden	tu_66_xTok_000946
+<pb n="4">
+</pb>
 Teutschen	deutsch	ADJA	Duden	tu_66_xTok_000949
 Erb=landen	Erblande	NN	Duden	tu_66_xTok_000951
 <g/>

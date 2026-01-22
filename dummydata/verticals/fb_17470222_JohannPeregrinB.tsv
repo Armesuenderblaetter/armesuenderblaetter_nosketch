@@ -1,4 +1,6 @@
-<doc id="fb_17470222_JohannPeregrinB" delinquent_sexes="male" title="Todesurteil Johann Peregrin B." attrs="word lemma pos vocab id">
+<doc id="fb_17470222_JohannPeregrinB" year="1747" delinquent_sexes="male" title="Todesurteil Johann Peregrin B." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_37_xTok_000002
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_37_xTok_000003
@@ -100,6 +102,8 @@ finden	finden	VVINF	Duden	tu_37_xTok_000153
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_37_xTok_000173
 des	d	ART	Duden	tu_37_xTok_000176
@@ -581,6 +585,8 @@ Schlaffrock	Schlafrock	NN	Duden	tu_37_xTok_001014
 eingepacket	einpacken	VVPP	Duden	tu_37_xTok_001016
 <g/>
 ,
+<pb n="3">
+</pb>
 auch	auch	ADV	Duden	tu_37_xTok_001018
 mit	mit	APPR	Duden	tu_37_xTok_001020
 Bändeln	Bändel	NN	Duden	tu_37_xTok_001022

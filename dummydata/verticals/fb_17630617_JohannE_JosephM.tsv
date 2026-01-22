@@ -1,4 +1,6 @@
-<doc id="fb_17630617_JohannE_JosephM" delinquent_sexes="male" title="Todesurteil Johann E., Joseph M." attrs="word lemma pos vocab id">
+<doc id="fb_17630617_JohannE_JosephM" year="1763" delinquent_sexes="male" title="Todesurteil Johann E., Joseph M." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wolverdientes	wohlverdient	ADJA	Duden	tu_85_xTok_000001
 Todes=Urtheil	Todesurteil	NN	Duden	tu_85_xTok_000002
@@ -118,6 +120,8 @@ wird	werden	VAFIN	Duden	tu_85_xTok_000190
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <p id="fb_17630617_JohannE_JosephM_p_0001">
 ES	es	PPER	Duden	tu_85_xTok_000193
 seynd	sein	VAFIN	Duden	tu_85_xTok_000196
@@ -367,6 +371,8 @@ Diebs=kammeraden	Diebskamerad	NN	oov	tu_85_xTok_000618
 des	d	ART	Duden	tu_85_xTok_000620
 Johann	Johann	NE	Duden	tu_85_xTok_000622
 E.	E.	NE	oov	tu_85_xTok_000624
+<pb n="3">
+</pb>
 solche	solch	PIAT	Duden	tu_85_xTok_000626
 beschwerte	beschweren	ADJA	Duden	tu_85_xTok_000628
 Truhe	Truhe	NN	Duden	tu_85_xTok_000630
@@ -618,6 +624,8 @@ hat	haben	VAFIN	Duden	tu_85_xTok_001067
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_85_xTok_001069
 ihres	ihr	PPOSAT	Duden	tu_85_xTok_001071

@@ -1,4 +1,6 @@
-<doc id="fb_17571217_JohannAdamS" delinquent_sexes="male" title="Todesurteil Johann Adam S." attrs="word lemma pos vocab id">
+<doc id="fb_17571217_JohannAdamS" year="1757" delinquent_sexes="male" title="Todesurteil Johann Adam S." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_67_xTok_000002
 Einer	ein	ART	Duden	tu_67_xTok_000006
@@ -147,6 +149,8 @@ Augusti	August	NN	Duden	tu_67_xTok_000256
 eben	eben	ADV	Duden	tu_67_xTok_000258
 selbigen	selbige	PDAT	Duden	tu_67_xTok_000260
 Jahrs	Jahr	NN	Duden	tu_67_xTok_000262
+<pb n="2">
+</pb>
 allhier	allhier	ADV	Duden	tu_67_xTok_000263
 in	in	APPR	Duden	tu_67_xTok_000265
 der	d	ART	Duden	tu_67_xTok_000267

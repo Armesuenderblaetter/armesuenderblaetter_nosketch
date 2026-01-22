@@ -1,4 +1,6 @@
-<doc id="fb_17640709_JacobD" delinquent_sexes="male" title="Todesurteil Jacob D." attrs="word lemma pos vocab id">
+<doc id="fb_17640709_JacobD" year="1764" delinquent_sexes="male" title="Todesurteil Jacob D." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wolverdientes	wohlverdient	ADJA	Duden	tu_86_xTok_000001
 Todes=Urtheil	Todesurteil	NN	Duden	tu_86_xTok_000002
@@ -89,6 +91,8 @@ wird	werden	VAFIN	Duden	tu_86_xTok_000134
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_86_xTok_000136
 seines	sein	PPOSAT	Duden	tu_86_xTok_000138
@@ -389,6 +393,8 @@ diesfälligen	diesfällig	ADJA	Duden	tu_86_xTok_000661
 Transport	Transport	NN	Duden	tu_86_xTok_000663
 der	d	ART	Duden	tu_86_xTok_000665
 mitgewesten	mitsein	ADJA	DWB	tu_86_xTok_000667
+<pb n="3">
+</pb>
 Wache	Wache	NN	Duden	tu_86_xTok_000668
 gleich	gleich	ADV	Duden	tu_86_xTok_000670
 anfänglich	anfänglich	ADJD	Duden	tu_86_xTok_000672
@@ -705,6 +711,8 @@ belaufet	belaufen	VVPP	Duden	tu_86_xTok_001233
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_86_xTok_001235
 seines	sein	PPOSAT	Duden	tu_86_xTok_001237

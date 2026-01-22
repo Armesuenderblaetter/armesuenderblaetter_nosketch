@@ -1,4 +1,6 @@
-<doc id="fb_17490910_MathiasP_MathiasH" delinquent_sexes="male" title="Todesurteil Mathias P., Mathias H." attrs="word lemma pos vocab id">
+<doc id="fb_17490910_MathiasP_MathiasH" year="1749" delinquent_sexes="male" title="Todesurteil Mathias P., Mathias H." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_47_xTok_000002
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_47_xTok_000003
@@ -143,6 +145,10 @@ mehrere	mehrere	PIS	Duden	tu_47_xTok_000213
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_47_xTok_000234
 des	d	ART	Duden	tu_47_xTok_000236
@@ -526,6 +532,10 @@ weggenohmen	wegnehmen	VVPP	Duden	tu_47_xTok_000899
 ,
 der	d	ART	Duden	tu_47_xTok_000902
 andere	andere	ADJA	Duden	tu_47_xTok_000904
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 Raubs=Camerad	Raubkamerad	NN	oov	tu_47_xTok_000906
 aber	aber	ADV	Duden	tu_47_xTok_000908
 zu	zu	APPR	Duden	tu_47_xTok_000910

@@ -1,4 +1,6 @@
-<doc id="fb_17540528_FriederichK" delinquent_sexes="male" title="Todesurteil Friederich K." attrs="word lemma pos vocab id">
+<doc id="fb_17540528_FriederichK" year="1754" delinquent_sexes="male" title="Todesurteil Friederich K." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_58_xTok_000001
 des	d	ART	Duden	tu_58_xTok_000003
@@ -367,6 +369,8 @@ allezeit	allezeit	ADV	Duden	tu_58_xTok_000610
 bey	bei	APPR	Duden	tu_58_xTok_000612
 angeruckter	anrücken	ADJA	Duden	tu_58_xTok_000617
 Abends=dämmerung	Abenddämmerung	NN	Duden	tu_58_xTok_000619
+angeruckter	anrücken	ADJA	Duden	tu_58_xTok_000614
+Abends=dämmerung	Abenddämmerung	NN	Duden	tu_58_xTok_000616
 in Geheim	insgeheim	ADV		tu_58_xTok_000623
 sich	sich	PRF	Duden	tu_58_xTok_000627
 aus=	auskleiden	TRUNC	Duden	tu_58_xTok_000629
@@ -377,6 +381,7 @@ angekleidet	ankleiden	VVPP	Duden	tu_58_xTok_000633
 folgsam	folgsam	ADJD	Duden	tu_58_xTok_000640
 nach	nach	APPR	Duden	tu_58_xTok_000642
 zu	zu	APPR	Duden	tu_58_xTok_000642c
+folgsam	folgsam	ADJD	Duden	tu_58_xTok_000635
 sich	sich	PRF	Duden	tu_58_xTok_000644
 genommenen	nehmen	ADJA	Duden	tu_58_xTok_000646
 gedachten	gedacht	ADJA	DWB	tu_58_xTok_000648
@@ -386,6 +391,7 @@ jene	jene	PDAT	Duden	tu_58_xTok_000654
 Häuser	Haus	NN	Duden	tu_58_xTok_000656
 sich	sich	PRF	Duden	tu_58_xTok_000661
 eingeschlichen	einschleichen	VVPP	Duden	tu_58_xTok_000662b
+eingeschlichen	einschleichen	VVPP	Duden	tu_58_xTok_000660
 <g/>
 ,
 in	in	APPR	Duden	tu_58_xTok_000665
@@ -1432,6 +1438,10 @@ certificirter=massen	zertifiziertermaßen	ADV	oov	tu_58_xTok_002427
 durchaus	durchaus	ADV	Duden	tu_58_xTok_002431
 auf	auf	APPR	Duden	tu_58_xTok_002433
 das	d	ART	Duden	tu_58_xTok_002435
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 allergeringste	allergeringst	ADJ-NN	DWB	tu_58_xTok_002436
 berechnet	berechnen	VVPP	Duden	tu_58_xTok_002438
 <g/>

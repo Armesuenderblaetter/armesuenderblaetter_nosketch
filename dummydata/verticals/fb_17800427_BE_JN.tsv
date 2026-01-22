@@ -1,4 +1,6 @@
-<doc id="fb_17800427_BE_JN" delinquent_sexes="male" title="Todesurteil B. E., J. N." attrs="word lemma pos vocab id">
+<doc id="fb_17800427_BE_JN" year="1780" delinquent_sexes="male" title="Todesurteil B. E., J. N." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Beschreibung	Beschreibung	NN	Duden	tu_117_xTok_000001
 deren	d	PDAT	Duden	tu_117_xTok_000005
@@ -28,6 +30,10 @@ Missethätern	Missetäter	NN	Duden	tu_117_xTok_000043
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <p id="fb_17800427_BE_JN_p_0001">
 Es	es	PPER	Duden	tu_117_xTok_000054
 hat	haben	VAFIN	Duden	tu_117_xTok_000057
@@ -571,6 +577,8 @@ Fensterpalke	Fensterbalken	NN	Duden	tu_117_xTok_000941
 in	in	APPR	Duden	tu_117_xTok_000943
 dem	d	ART	Duden	tu_117_xTok_000945
 Haus	Haus	NN	Duden	tu_117_xTok_000947
+<pb n="4">
+</pb>
 aufgebrochen	aufbrechen	VVPP	Duden	tu_117_xTok_000948
 <g/>
 ;
@@ -1510,6 +1518,8 @@ bewegte	bewegen	VVFIN	Duden	tu_117_xTok_002533
 <g/>
 ;
 sie	sie	PPER	Duden	tu_117_xTok_002536
+<pb n="5">
+</pb>
 begnügten	begnügen	VVFIN	Duden	tu_117_xTok_002537
 sich	sich	PRF	Duden	tu_117_xTok_002539
 nicht	nicht	PTKNEG	Duden	tu_117_xTok_002541
@@ -1946,6 +1956,8 @@ Diebstählen	Diebstahl	NN	Duden	tu_117_xTok_003238
 ist	sein	VAFIN	Duden	tu_117_xTok_003240
 die	d	ART	Duden	tu_117_xTok_003242
 gleich ersagte	gleichersagt	ADJA	oov	tu_117_xTok_003244
+<pb n="6">
+</pb>
 Mordthat	Mordtat	NN	Duden	tu_117_xTok_003247
 bey	bei	APPR	Duden	tu_117_xTok_003249
 dem	d	ART	Duden	tu_117_xTok_003251

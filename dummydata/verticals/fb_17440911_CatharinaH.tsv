@@ -1,4 +1,6 @@
-<doc id="fb_17440911_CatharinaH" delinquent_sexes="female" title="Todesurteil Catharina H." attrs="word lemma pos vocab id">
+<doc id="fb_17440911_CatharinaH" year="1744" delinquent_sexes="female" title="Todesurteil Catharina H." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_25_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_25_xTok_000002
@@ -73,6 +75,8 @@ vernehmen	vernehmen	VVINF	Duden	tu_25_xTok_000105
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 End=Urtheil	Endurteil	NN	Duden	tu_25_xTok_000122
 dieser	diese	PDAT	Duden	tu_25_xTok_000127
@@ -271,4 +275,6 @@ werden	werden	VAINF	Duden	tu_25_xTok_000468
 <g/>
 .
 </p>
+<pb n="3">
+</pb>
 </doc>

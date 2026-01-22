@@ -1,4 +1,6 @@
-<doc id="fb_17451109_JohannGeorgD" delinquent_sexes="male" title="Todesurteil Johann Georg D." attrs="word lemma pos vocab id">
+<doc id="fb_17451109_JohannGeorgD" year="1745" delinquent_sexes="male" title="Todesurteil Johann Georg D." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_31_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_31_xTok_000002
@@ -80,6 +82,8 @@ finden	finden	VVINF	Duden	tu_31_xTok_000122
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_31_xTok_000142
 des	d	ART	Duden	tu_31_xTok_000145
@@ -432,6 +436,8 @@ mit	mit	APPR	Duden	tu_31_xTok_000775
 einem	ein	ART	Duden	tu_31_xTok_000777
 Englisch=	englisch	ADJA	Duden	tu_31_xTok_000779
 dreyfachen	dreifach	ADJA	Duden	tu_31_xTok_000779b
+<pb n="3">
+</pb>
 Rigl	Riegel	NN	Duden	tu_31_xTok_000782
 verwahrten	verwahren	ADJA	Duden	tu_31_xTok_000784
 Kasten	Kasten	NN	Duden	tu_31_xTok_000786

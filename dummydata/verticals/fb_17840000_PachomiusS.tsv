@@ -1,4 +1,6 @@
-<doc id="fb_17840000_PachomiusS" delinquent_sexes="male" title="Todesurteil Pachomius S." attrs="word lemma pos vocab id">
+<doc id="fb_17840000_PachomiusS" year="1784" delinquent_sexes="male" title="Todesurteil Pachomius S." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Der	d	ART	Duden	tu_126_xTok_000002
 verstellte	verstellen	ADJA	Duden	tu_126_xTok_000003
@@ -33,6 +35,8 @@ Schwaben	Schwaben	NE::top	Duden	tu_126_xTok_000054
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <p id="fb_17840000_PachomiusS_p_0001">
 Daß	dass	KOUS	Duden	tu_126_xTok_000056
 wir	wir	PPER	Duden	tu_126_xTok_000059
@@ -288,6 +292,8 @@ sehen	sehen	VVINF	Duden	tu_126_xTok_000440
 <g/>
 —
 </p>
+<pb n="3">
+</pb>
 <p id="fb_17840000_PachomiusS_p_0003">
 Jn	in	APPR	Duden	tu_126_xTok_000443
 dem	d	ART	Duden	tu_126_xTok_000445

@@ -1,4 +1,6 @@
-<doc id="fb_17450407_AnnaMariaW" delinquent_sexes="female" title="Todesurteil Anna Maria W." attrs="word lemma pos vocab id">
+<doc id="fb_17450407_AnnaMariaW" year="1745" delinquent_sexes="female" title="Todesurteil Anna Maria W." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_26_xTok_000002
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_26_xTok_000003
@@ -76,6 +78,8 @@ finden	finden	VVINF	Duden	tu_26_xTok_000121
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_26_xTok_000141
 des	d	ART	Duden	tu_26_xTok_000144
@@ -270,6 +274,8 @@ Todt=Fall	Todesfall	NN	Duden	tu_26_xTok_000499
 nicht	nicht	PTKNEG	Duden	tu_26_xTok_000501
 certificiret	zertifizieren	VVPP	Duden	tu_26_xTok_000503
 werden	werden	VAINF	Duden	tu_26_xTok_000506
+<pb n="3">
+</pb>
 können	können	VMINF	Duden	tu_26_xTok_000508
 <g/>
 /

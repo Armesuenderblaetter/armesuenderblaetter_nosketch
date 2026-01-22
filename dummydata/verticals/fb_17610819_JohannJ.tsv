@@ -1,4 +1,6 @@
-<doc id="fb_17610819_JohannJ" delinquent_sexes="male" title="Todesurteil Johann J." attrs="word lemma pos vocab id">
+<doc id="fb_17610819_JohannJ" year="1761" delinquent_sexes="male" title="Todesurteil Johann J." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_81_xTok_000001
 Einer	ein	ART	Duden	tu_81_xTok_000006
@@ -89,6 +91,8 @@ wird	werden	VAFIN	Duden	tu_81_xTok_000153
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <p id="fb_17610819_JohannJ_p_0001">
 ES	es	PPER	Duden	tu_81_xTok_000156
 ist	sein	VAFIN	Duden	tu_81_xTok_000159
@@ -339,6 +343,8 @@ ausgesagter massen	ausgesagtermaßen	ADV		tu_81_xTok_000611
 48.	48	CARD		tu_81_xTok_000615
 Gulden	Gulden	NN	Duden	tu_81_xTok_000617
 baares	bar	ADJA	Duden	tu_81_xTok_000619
+<pb n="3">
+</pb>
 Geld	Geld	NN	Duden	tu_81_xTok_000620
 nebst	nebst	APPR	Duden	tu_81_xTok_000622
 zweyen	zwei	CARD	Duden	tu_81_xTok_000624
@@ -695,6 +701,8 @@ annoch	annoch	ADV	Duden	tu_81_xTok_001289
 einen	ein	ART	Duden	tu_81_xTok_001291
 Schaden	Schaden	NN	Duden	tu_81_xTok_001293
 pr.	per	APPR	Duden	tu_81_xTok_001295
+<pb n="4">
+</pb>
 58.	58	CARD		tu_81_xTok_001297
 fl.	Flore	NN	DWB	tu_81_xTok_001299
 29.	29	CARD		tu_81_xTok_001302

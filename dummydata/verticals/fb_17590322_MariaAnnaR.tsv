@@ -1,4 +1,6 @@
-<doc id="fb_17590322_MariaAnnaR" delinquent_sexes="female" title="Todesurteil Maria Anna R." attrs="word lemma pos vocab id">
+<doc id="fb_17590322_MariaAnnaR" year="1759" delinquent_sexes="female" title="Todesurteil Maria Anna R." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_71_xTok_000001
 Einer	ein	ART	Duden	tu_71_xTok_000005
@@ -381,6 +383,8 @@ Herrschaft	Herrschaft	NN	Duden	tu_71_xTok_000641
 alhier	allhier	ADV	Duden	tu_71_xTok_000643
 mittelst	mittelst	APPR	Duden	tu_71_xTok_000645
 einer	ein	ART	Duden	tu_71_xTok_000647
+<pb n="2">
+</pb>
 derselben	dieselbe	PDS	Duden	tu_71_xTok_000648
 von	von	APPR	Duden	tu_71_xTok_000650
 ihrem	ihr	PPOSAT	Duden	tu_71_xTok_000652
@@ -933,6 +937,8 @@ der	d	ART	Duden	tu_71_xTok_001614
 Stadt	Stadt	NN	Duden	tu_71_xTok_001616
 in	in	APPR	Duden	tu_71_xTok_001618
 ein	ein	ART	Duden	tu_71_xTok_001620
+<pb n="3">
+</pb>
 Wirts=haus	Wirtshaus	NN	Duden	tu_71_xTok_001621
 geführet	führen	VVPP	Duden	tu_71_xTok_001623
 <g/>
@@ -1473,6 +1479,8 @@ angehabt	anhaben	VVPP	Duden	tu_71_xTok_002560
 <g/>
 ,
 sich	sich	PRF	Duden	tu_71_xTok_002563
+<pb n="4">
+</pb>
 also	also	ADV	Duden	tu_71_xTok_002564
 zu	zu	PTKZU	Duden	tu_71_xTok_002566
 bemächtigen	bemächtigen	VVINF	Duden	tu_71_xTok_002568

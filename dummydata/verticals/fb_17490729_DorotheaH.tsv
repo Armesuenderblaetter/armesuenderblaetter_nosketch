@@ -1,4 +1,6 @@
-<doc id="fb_17490729_DorotheaH" delinquent_sexes="female" title="Todesurteil Dorothea H." attrs="word lemma pos vocab id">
+<doc id="fb_17490729_DorotheaH" year="1749" delinquent_sexes="female" title="Todesurteil Dorothea H." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_44_xTok_000002
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_44_xTok_000003
@@ -97,6 +99,10 @@ mehrere	mehrere	PIS	Duden	tu_44_xTok_000147
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_44_xTok_000168
 des	d	ART	Duden	tu_44_xTok_000170
@@ -235,6 +241,10 @@ Güte	Güte	NN	Duden	tu_44_xTok_000394
 <g/>
 ,
 noch	noch	KON	Duden	tu_44_xTok_000397
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 durch	durch	APPR	Duden	tu_44_xTok_000398
 gebrauchten	gebrauchen	ADJA	Duden	tu_44_xTok_000400
 Gewalt	Gewalt	NN	Duden	tu_44_xTok_000402
@@ -397,6 +407,10 @@ seinen	sein	PPOSAT	Duden	tu_44_xTok_000673
 Ansinnen	Ansinnen	NN	Duden	tu_44_xTok_000675
 gemäß	gemäß	APPO	Duden	tu_44_xTok_000677
 zu	zu	APPR	Duden	tu_44_xTok_000679
+<pb n="6">
+</pb>
+<pb n="7">
+</pb>
 dem	d	ART	Duden	tu_44_xTok_000680
 folgenden	folgend	ADJA	Duden	tu_44_xTok_000682
 Tags	Tag	NN	Duden	tu_44_xTok_000684

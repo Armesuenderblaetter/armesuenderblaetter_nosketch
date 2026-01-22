@@ -1,4 +1,6 @@
-<doc id="fb_17500515_LorentzF" delinquent_sexes="male" title="Todesurteil Lorentz F." attrs="word lemma pos vocab id">
+<doc id="fb_17500515_LorentzF" year="1750" delinquent_sexes="male" title="Todesurteil Lorentz F." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_48_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_48_xTok_000002
@@ -86,6 +88,8 @@ finden	finden	VVINF	Duden	tu_48_xTok_000116
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_48_xTok_000136
 des	d	ART	Duden	tu_48_xTok_000138
@@ -180,6 +184,8 @@ andern	andere	ADJA	Duden	tu_48_xTok_000292
 Burschen	Bursche	ADJA	Duden	tu_48_xTok_000294
 Bein=züchtigter massen	beinzüchtigermaßen	ADV		tu_48_xTok_000297
 unternehmen	unternehmen	VVINF	Duden	tu_48_xTok_000301
+<pb n="3">
+</pb>
 wollender	wollen	ADJA	Duden	tu_48_xTok_000302
 Abschneidung	Abschneidung	NN	DRW	tu_48_xTok_000304
 einer	ein	ART	Duden	tu_48_xTok_000306
@@ -331,6 +337,8 @@ Messer	Messer	NN	Duden	tu_48_xTok_000569
 beygebracht	beibringen	VVPP	Duden	tu_48_xTok_000571
 <g/>
 ,
+<pb n="4">
+</pb>
 daß	dass	KOUS	Duden	tu_48_xTok_000573
 solche	solch	PIAT	Duden	tu_48_xTok_000575
 Manns=Persohn	Mannsperson	NN	Duden	tu_48_xTok_000577

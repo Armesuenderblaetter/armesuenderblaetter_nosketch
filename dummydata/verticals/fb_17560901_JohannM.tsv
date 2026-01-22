@@ -1,4 +1,6 @@
-<doc id="fb_17560901_JohannM" delinquent_sexes="male" title="Todesurteil Johann M." attrs="word lemma pos vocab id">
+<doc id="fb_17560901_JohannM" year="1756" delinquent_sexes="male" title="Todesurteil Johann M." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_64_xTok_000001
 Einer	ein	ART	Duden	tu_64_xTok_000005
@@ -91,6 +93,10 @@ wird	werden	VAFIN	Duden	tu_64_xTok_000151
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <p id="fb_17560901_JohannM_p_0001">
 Zumalen	zumal	KOUS	Duden	tu_64_xTok_000156
 wider	wider	APPR	Duden	tu_64_xTok_000158
@@ -239,6 +245,8 @@ sich	sich	PRF	Duden	tu_64_xTok_000422
 führende	führen	ADJA	Duden	tu_64_xTok_000424
 Geld	Geld	NN	Duden	tu_64_xTok_000426
 zu	zu	APPR	Duden	tu_64_xTok_000428
+<pb n="4">
+</pb>
 dem	d	ART	Duden	tu_64_xTok_000430
 Ende	Ende	NN	Duden	tu_64_xTok_000432
 abrauben	abrauben	VVINF	DWB	tu_64_xTok_000435
@@ -323,6 +331,8 @@ Stich	Stich	NN	Duden	tu_64_xTok_000580
 auf	auf	APPR	Duden	tu_64_xTok_000582
 die	d	ART	Duden	tu_64_xTok_000584
 diesfällige	diesfällig	ADJA	Duden	tu_64_xTok_000586
+<pb n="5">
+</pb>
 gewaltthätige	gewalttätig	ADJA	Duden	tu_64_xTok_000589
 Abforderung	Abforderung	NN	Duden	tu_64_xTok_000591
 seine	sein	PPOSAT	Duden	tu_64_xTok_000593
@@ -370,6 +380,8 @@ ist	sein	VAFIN	Duden	tu_64_xTok_000669
 <g/>
 .
 </p>
+<pb n="6">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_64_xTok_000671
 seines	sein	PPOSAT	Duden	tu_64_xTok_000674
@@ -470,4 +482,6 @@ und	und	KON	Duden	tu_64_xTok_000833
 barmherzig	barmherzig	ADJD	Duden	tu_64_xTok_000835
 <g/>
 !
+<pb n="7">
+</pb>
 </doc>

@@ -1,4 +1,6 @@
-<doc id="fb_17420912_JosephA_LeopoldK_J" delinquent_sexes="male" title="Todesurteile Leopold K., Joseph T., Johann S." attrs="word lemma pos vocab id">
+<doc id="fb_17420912_JosephA_LeopoldK_J" year="1742" delinquent_sexes="male" title="Todesurteile Leopold K., Joseph T., Johann S." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_21_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_21_xTok_000002
@@ -138,6 +140,8 @@ anzeigen	anzeigen	VVINF	Duden	tu_21_xTok_000214
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_21_xTok_000230
 des	d	ART	Duden	tu_21_xTok_000233
@@ -260,6 +264,8 @@ letzt=abgewichenenen	letztabgewichen	ADJA	oov	tu_21_xTok_000419
 1741.	1741	CARD		tu_21_xTok_000421
 Jahrs	Jahr	NN	Duden	tu_21_xTok_000423
 in	in	APPR	Duden	tu_21_xTok_000425
+<pb n="3">
+</pb>
 der	d	ART	Duden	tu_21_xTok_000427
 Nacht	Nacht	NN	Duden	tu_21_xTok_000429
 zwischen	zwischen	APPR	Duden	tu_21_xTok_000431

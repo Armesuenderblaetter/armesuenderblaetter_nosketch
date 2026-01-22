@@ -1,4 +1,6 @@
-<doc id="fb_17391110_JohannK" delinquent_sexes="male" title="Todesurteil Johann K." attrs="word lemma pos vocab id">
+<doc id="fb_17391110_JohannK" year="1739" delinquent_sexes="male" title="Todesurteil Johann K." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_15_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_15_xTok_000002
@@ -116,6 +118,8 @@ vernehmen	vernehmen	VVINF	Duden	tu_15_xTok_000306
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_15_xTok_000322
 des	d	ART	Duden	tu_15_xTok_000325
@@ -309,6 +313,8 @@ verblichen	verbleichen	VVPP	Duden	tu_15_xTok_000670
 <g/>
 .
 </p>
+<pb n="3">
+</pb>
 <lg type="poem">
 <lg type="stanza">
 <l id="fb_17391110_JohannK_l_0001">
@@ -640,6 +646,8 @@ erkalten	erkalten	VVINF	Duden	tu_15_xTok_001110
 .
 </l>
 </lg>
+<pb n="4">
+</pb>
 <lg type="stanza">
 <l id="fb_17391110_JohannK_l_0025">
 O	oh	ITJ	Duden	tu_15_xTok_001112

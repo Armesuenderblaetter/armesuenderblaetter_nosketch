@@ -1,4 +1,6 @@
-<doc id="fb_17690216_CatharinaJ" delinquent_sexes="female" title="Todesurteil Catharina J." attrs="word lemma pos vocab id">
+<doc id="fb_17690216_CatharinaJ" year="1769" delinquent_sexes="female" title="Todesurteil Catharina J." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_92_xTok_000001
 einer	ein	ART	Duden	tu_92_xTok_000003
@@ -121,6 +123,8 @@ wie	wie	KOUS	Duden	tu_92_xTok_000192
 daß	dass	KOUS	Duden	tu_92_xTok_000194
 sie	sie	PPER	Duden	tu_92_xTok_000196
 Erstens	erstens	ADV	Duden	tu_92_xTok_000198
+<g/>
+:
 im	im	APPRART	Duden	tu_92_xTok_000200
 Sommer	Sommer	NN	Duden	tu_92_xTok_000201
 An.	annus	FM	G-LDHW	tu_92_xTok_000203
@@ -702,6 +706,8 @@ in	in	APPR	Duden	tu_92_xTok_001142
 den	d	ART	Duden	tu_92_xTok_001144
 Fluß	Fluss	NN	Duden	tu_92_xTok_001146
 hineingestossen	hineinstoßen	VVPP	Duden	tu_92_xTok_001148
+hinein	hinein	PTKVZ	Duden	tu_92_xTok_001149
+gestossen	hineinstoßen	VVPP	Duden	tu_92_xTok_001149c
 <g/>
 ,
 und	und	KON	Duden	tu_92_xTok_001152
@@ -831,10 +837,14 @@ Bellen	bellen	VVINF-NN	Duden	tu_92_xTok_001363
 des	d	ART	Duden	tu_92_xTok_001366
 bey	bei	APPR	Duden	tu_92_xTok_001368
 derselben	dieselbe	PDS	Duden	tu_92_xTok_001370
+<pb n="2">
+</pb>
 im	im	APPRART	Duden	tu_92_xTok_001371
 Bethe	Bett	NN	Duden	tu_92_xTok_001373
 gelegenen	liegen	ADJA	Duden	tu_92_xTok_001375
 sogenannten	sogenannt	ADJA	Duden	tu_92_xTok_001377
+<pb n="3">
+</pb>
 Moppelhundes	Moppelhund	NN	oov	tu_92_xTok_001378
 verhinderet	verhindern	VVPP	Duden	tu_92_xTok_001380
 worden	werden	VAPP	Duden	tu_92_xTok_001382
@@ -1384,6 +1394,8 @@ fortgesetzet	fortsetzen	VVPP	Duden	tu_92_xTok_002246
 .
 </p>
 <p id="fb_17690216_CatharinaJ_p_0007">
+<pb n="4">
+</pb>
 Nun	nun	ADV	Duden	tu_92_xTok_002249
 obschon	obschon	KOUS	Duden	tu_92_xTok_002251
 zwar	zwar	ADV	Duden	tu_92_xTok_002253
@@ -1494,6 +1506,7 @@ die	d	ART	Duden	tu_92_xTok_002438
 von	von	APPR	Duden	tu_92_xTok_002440
 Delinquentin	Delinquentin	NN	Duden	tu_92_xTok_002442
 Anno	annus	FM	G-LDHW	tu_92_xTok_002445
+Anno	annus	FM	G-LDHW	tu_92_xTok_002446
 1766.	1766	CARD		tu_92_xTok_002447
 in	in	APPR	Duden	tu_92_xTok_002449
 Hungarn	Ungarn	NE::top	Duden	tu_92_xTok_002451

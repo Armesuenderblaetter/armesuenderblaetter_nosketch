@@ -1,4 +1,6 @@
-<doc id="fb_17610610_AdolphS_FranzK_Joh" delinquent_sexes="male" title="Todesurteil Adolph S., Franz K., Johann Adam K." attrs="word lemma pos vocab id">
+<doc id="fb_17610610_AdolphS_FranzK_Joh" year="1761" delinquent_sexes="male" title="Todesurteil Adolph S., Franz K., Johann Adam K." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_79_xTok_000001
 Todes=Urtheil	Todesurteil	NN	Duden	tu_79_xTok_000002
@@ -82,6 +84,8 @@ der	d	ART	Duden	tu_79_xTok_000125
 Obern	Obere	NN	Duden	tu_79_xTok_000127
 <g/>
 .
+<pb n="2">
+</pb>
 <p id="fb_17610610_AdolphS_FranzK_Joh_p_0001">
 DEmnach	demnach	PAV	Duden	tu_79_xTok_000129
 Adolph	Adolph	NE	oov	tu_79_xTok_000132
@@ -328,6 +332,8 @@ anzuhoffen	anhoffen	VVIZU	DWB	tu_79_xTok_000565
 <g/>
 /
 zum	zum	APPRART	Duden	tu_79_xTok_000571
+<pb n="3">
+</pb>
 Hochgericht	Hochgericht	NN	Duden	tu_79_xTok_000572
 hinaus	hinaus	PTKVZ	Duden	tu_79_xTok_000574
 geführet	hinausführen	VVPP	Duden	tu_79_xTok_000576
@@ -603,6 +609,8 @@ Exempel	Exempel	NN	Duden	tu_79_xTok_001045
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
 <p id="fb_17610610_AdolphS_FranzK_Joh_p_0004">
 Es	es	PPER	Duden	tu_79_xTok_001047
 hat	haben	VAFIN	Duden	tu_79_xTok_001050

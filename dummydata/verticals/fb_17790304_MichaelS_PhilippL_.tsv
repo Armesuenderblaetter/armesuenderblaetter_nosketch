@@ -1,4 +1,6 @@
-<doc id="fb_17790304_MichaelS_PhilippL_" delinquent_sexes="male" title="Todesurteil Michael S., Philipp L., Martin P." attrs="word lemma pos vocab id">
+<doc id="fb_17790304_MichaelS_PhilippL_" year="1779" delinquent_sexes="male" title="Todesurteil Michael S., Philipp L., Martin P." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_116_xTok_000001
 vier	vier	CARD	Duden	tu_116_xTok_000004
@@ -257,6 +259,8 @@ verschiedentlich	verschiedentlich	ADV	Duden	tu_116_xTok_000413
 begangenen	begehen	ADJA	Duden	tu_116_xTok_000415
 Diebereyen	Dieberei	NN	Duden	tu_116_xTok_000417
 theils	teils	ADV	Duden	tu_116_xTok_000419
+<pb n="2">
+</pb>
 hierorts	hierorts	ADV	Duden	tu_116_xTok_000420
 <g/>
 ,
@@ -705,6 +709,8 @@ jedoch	jedoch	ADV	Duden	tu_116_xTok_001174
 er	er	PPER	Duden	tu_116_xTok_001176
 Michael	Michael	NE	Duden	tu_116_xTok_001178
 S.	S.	NE	oov	tu_116_xTok_001180
+<pb n="3">
+</pb>
 weder	weder	KON	Duden	tu_116_xTok_001182
 geständig	geständig	ADJD	Duden	tu_116_xTok_001184
 <g/>
@@ -1124,6 +1130,8 @@ verursachet	verursachen	VVPP	Duden	tu_116_xTok_001914
 Weiters	weiters	ADV	Duden	tu_116_xTok_001917
 hat	haben	VAFIN	Duden	tu_116_xTok_001919
 </p>
+<pb n="4">
+</pb>
 <p id="fb_17790304_MichaelS_PhilippL__p_0013">
 Eilftens	elftens	ADV	Duden	tu_116_xTok_001920
 der	d	ART	Duden	tu_116_xTok_001922

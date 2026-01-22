@@ -1,4 +1,6 @@
-<doc id="fb_17860000_Anonym" delinquent_sexes="male" title="Beschreibung mehrerer Morde und der Exekution des Täters" attrs="word lemma pos vocab id">
+<doc id="fb_17860000_Anonym" year="1786" delinquent_sexes="male" title="Beschreibung mehrerer Morde und der Exekution des Täters" attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Ausführliche	ausführlich	ADJA	Duden	tu_129_xTok_000001
 Beschreibung	Beschreibung	NN	Duden	tu_129_xTok_000004
@@ -26,6 +28,8 @@ hat	haben	VAFIN	Duden	tu_129_xTok_000037
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <p id="fb_17860000_Anonym_p_0001">
 Zu	zu	APPR	Duden	tu_129_xTok_000041
 Littich	Littich	NE::top	oov	tu_129_xTok_000044
@@ -142,6 +146,8 @@ Sie	sie	PPER	Duden	tu_129_xTok_000222
 folgten	folgen	VVFIN	Duden	tu_129_xTok_000224
 ihm	er	PPER	Duden	tu_129_xTok_000226
 behende	behend	ADJD	Duden	tu_129_xTok_000228
+<pb n="3">
+</pb>
 und	und	KON	Duden	tu_129_xTok_000229
 da	da	KOUS	Duden	tu_129_xTok_000231
 sie	sie	PPER	Duden	tu_129_xTok_000233
@@ -323,6 +329,8 @@ nach	nach	PTKVZ	Duden	tu_129_xTok_000516
 ertappte	ertappen	VVFIN	Duden	tu_129_xTok_000519
 ihn	er	PPER	Duden	tu_129_xTok_000521
 bald	bald	ADV	Duden	tu_129_xTok_000523
+<pb n="4">
+</pb>
 und	und	KON	Duden	tu_129_xTok_000524
 brach	einbringen	VVFIN	Duden	tu_129_xTok_000526
 ihn	er	PPER	Duden	tu_129_xTok_000528

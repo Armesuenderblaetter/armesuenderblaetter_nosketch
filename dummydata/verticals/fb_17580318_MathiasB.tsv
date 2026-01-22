@@ -1,4 +1,6 @@
-<doc id="fb_17580318_MathiasB" delinquent_sexes="male" title="Todesurteil Mathias B." attrs="word lemma pos vocab id">
+<doc id="fb_17580318_MathiasB" year="1758" delinquent_sexes="male" title="Todesurteil Mathias B." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_68_xTok_000001
 Einer	ein	ART	Duden	tu_68_xTok_000005
@@ -101,6 +103,10 @@ wird	werden	VAFIN	Duden	tu_68_xTok_000158
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <p id="fb_17580318_MathiasB_p_0001">
 Es	es	PPER	Duden	tu_68_xTok_000161
 hat	haben	VAFIN	Duden	tu_68_xTok_000163
@@ -332,6 +338,10 @@ ihr	sie	PPER	Duden	tu_68_xTok_000587
 andurch	andurch	ADV	DWB	tu_68_xTok_000589
 nicht	nicht	PTKNEG	Duden	tu_68_xTok_000591
 allein	allein	ADV	Duden	tu_68_xTok_000593
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 auf	auf	APPR	Duden	tu_68_xTok_000594
 dem	d	ART	Duden	tu_68_xTok_000596
 Kopf	Kopf	NN	Duden	tu_68_xTok_000598
@@ -593,6 +603,8 @@ Kasten	Kasten	NN	Duden	tu_68_xTok_001053
 genom=nommenen	nehmen	ADJA	Duden	tu_68_xTok_001055
 8.	8	CARD		tu_68_xTok_001060
 fl.	Flore	NN	DWB	tu_68_xTok_001062
+<g/>
+,
 auch	auch	ADV	Duden	tu_68_xTok_001066
 sonst	sonst	ADV	Duden	tu_68_xTok_001068
 verursachten	verursachen	ADJA	Duden	tu_68_xTok_001070

@@ -1,4 +1,6 @@
-<doc id="fb_17670130_ElisabethW" delinquent_sexes="female" title="Todesurteil Elisabeth W." attrs="word lemma pos vocab id">
+<doc id="fb_17670130_ElisabethW" year="1767" delinquent_sexes="female" title="Todesurteil Elisabeth W." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_89_xTok_000001
 Einer	ein	ART	Duden	tu_89_xTok_000005
@@ -83,6 +85,8 @@ wird	werden	VAFIN	Duden	tu_89_xTok_000130
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_89_xTok_000132
 ihres	ihr	PPOSAT	Duden	tu_89_xTok_000134
@@ -286,6 +290,8 @@ St. Ulrichergrund	St.Ulrichergrund	NE::top		tu_89_xTok_000455
 fortgesetzet	fortsetzen	VVPP	Duden	tu_89_xTok_000460
 <g/>
 ;
+<pb n="3">
+</pb>
 und	und	KON	Duden	tu_89_xTok_000462
 zumalen	zumal	KOUS	Duden	tu_89_xTok_000464
 sie	sie	PPER	Duden	tu_89_xTok_000466
@@ -485,6 +491,8 @@ ist	sein	VAFIN	Duden	tu_89_xTok_000810
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_89_xTok_000812
 ihres	ihr	PPOSAT	Duden	tu_89_xTok_000814

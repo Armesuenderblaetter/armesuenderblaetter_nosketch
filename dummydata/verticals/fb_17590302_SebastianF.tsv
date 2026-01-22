@@ -1,4 +1,6 @@
-<doc id="fb_17590302_SebastianF" delinquent_sexes="male" title="Todesurteil Sebastian F." attrs="word lemma pos vocab id">
+<doc id="fb_17590302_SebastianF" year="1759" delinquent_sexes="male" title="Todesurteil Sebastian F." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_70_xTok_000001
 Einer	ein	ART	Duden	tu_70_xTok_000005
@@ -177,6 +179,8 @@ gestellet	stellen	VVPP	Duden	tu_70_xTok_000299
 <g/>
 .
 </p>
+<pb n="2">
+</pb>
 <p id="fb_17590302_SebastianF_p_0002">
 Jn	in	APPR	Duden	tu_70_xTok_000301
 dem	d	ART	Duden	tu_70_xTok_000303
@@ -943,6 +947,8 @@ Urphed	Urfehde	NN	Duden	tu_70_xTok_001658
 anwiederumen	anwiederum	ADV	oov	tu_70_xTok_001660
 aller	all	PIAT	Duden	tu_70_xTok_001662
 Kaiserl.	kaiserlich	ADJA	Duden	tu_70_xTok_001664
+<pb n="3">
+</pb>
 Königl.	königlich	ADJA	Duden	tu_70_xTok_001666
 Teutschen	deutsch	ADJA	Duden	tu_70_xTok_001669
 Erb=landen	Erblande	NN	Duden	tu_70_xTok_001671

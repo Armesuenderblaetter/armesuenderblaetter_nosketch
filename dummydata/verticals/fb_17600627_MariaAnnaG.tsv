@@ -1,4 +1,6 @@
-<doc id="fb_17600627_MariaAnnaG" delinquent_sexes="female" title="Todesurteil Maria Anna G." attrs="word lemma pos vocab id">
+<doc id="fb_17600627_MariaAnnaG" year="1760" delinquent_sexes="female" title="Todesurteil Maria Anna G." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wolverdientes	wohlverdient	ADJA	Duden	tu_73_xTok_000001
 Todes=Urtheil	Todesurteil	NN	Duden	tu_73_xTok_000002
@@ -79,6 +81,8 @@ gemäß	gemäß	APPO	Duden	tu_73_xTok_000124b
 <g/>
 ,
 heute	heute	ADV	Duden	tu_73_xTok_000126
+heute	heute	ADV	Duden	tu_73_xTok_000126b
+heut	heute	ADV	Duden	tu_73_xTok_000127
 den	d	ART	Duden	tu_73_xTok_000129
 <date id="date73">
 27.	27	ADJA		tu_73_xTok_000131
@@ -93,6 +97,12 @@ wird	werden	VAFIN	Duden	tu_73_xTok_000144
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
+<pb n="4">
+</pb>
 <p id="fb_17600627_MariaAnnaG_p_0001">
 ES	es	PPER	Duden	tu_73_xTok_000147
 hat	haben	VAFIN	Duden	tu_73_xTok_000150
@@ -111,10 +121,14 @@ ihrer	ihr	PPOSAT	Duden	tu_73_xTok_000176
 Mutter	Mutter	NN	Duden	tu_73_xTok_000178
 mit	mit	APPR	Duden	tu_73_xTok_000180
 wenigen	wenig	PIAT	Duden	tu_73_xTok_000182
+wenigen	wenig	PIAT	Duden	tu_73_xTok_000182b
+wenigem	wenig	PIAT	Duden	tu_73_xTok_000183
 Dienen	dienen	VVINF-NN	Duden	tu_73_xTok_000185
 <g/>
 ,
 meistens	meistens	ADV	Duden	tu_73_xTok_000189
+meistens	meistens	ADV	Duden	tu_73_xTok_000189b
+meistentheils	meistenteils	ADV	Duden	tu_73_xTok_000190
 aber	aber	ADV	Duden	tu_73_xTok_000192
 mit	mit	APPR	Duden	tu_73_xTok_000194
 Krügel=mahlen	Krügelmalen	NN	oov	tu_73_xTok_000196
@@ -184,6 +198,8 @@ werden	werden	VAINF	Duden	tu_73_xTok_000296
 nunmehro	nunmehro	ADV	oov	tu_73_xTok_000299
 gerichtlich	gerichtlich	ADJD	Duden	tu_73_xTok_000302
 eingestandener=massen	eingestandenermaßen	ADV	oov	tu_73_xTok_000304
+eingestandener=massen	eingestandenermaßen	ADV	oov	tu_73_xTok_000304b
+eingestandener massen	eingestandenermaßen	ADV		tu_73_xTok_000305
 auf	auf	APPR	Duden	tu_73_xTok_000309
 die	d	ART	Duden	tu_73_xTok_000311
 sträfliche	sträflich	ADJA	Duden	tu_73_xTok_000313
@@ -251,6 +267,8 @@ zu	zu	PTKZU	Duden	tu_73_xTok_000415
 9.	9	CARD		tu_73_xTok_000417
 unterschiedlichen	unterschiedlich	ADJA	Duden	tu_73_xTok_000419
 malen	Mal	NN	Duden	tu_73_xTok_000422
+<g/>
+,
 bald	bald	ADV	Duden	tu_73_xTok_000425
 nacher	nacher	APPR	DWB	tu_73_xTok_000427
 St. Marx	St.Marx	NE::top		tu_73_xTok_000429
@@ -262,7 +280,11 @@ Chur	Kur	NN	Duden	tu_73_xTok_000438
 bald	bald	ADV	Duden	tu_73_xTok_000441
 in	in	APPR	Duden	tu_73_xTok_000443
 dem	d	ART	Duden	tu_73_xTok_000444
+dem	d	ART	Duden	tu_73_xTok_000444b
+den	d	ART	Duden	tu_73_xTok_000445
 allhiesigen	allhiesig	ADJA	DWB	tu_73_xTok_000447
+allhiesigen	allhiesig	ADJA	DWB	tu_73_xTok_000447b
+alhiesigen	allhiesig	ADJA	DWB	tu_73_xTok_000448
 Contumaz=hof	Kontumazhof	NN	oov	tu_73_xTok_000450
 zur	zur	APPRART	Duden	tu_73_xTok_000452
 Versorgung	Versorgung	NN	Duden	tu_73_xTok_000454
@@ -278,6 +300,8 @@ Delinquentin	Delinquentin	NN	Duden	tu_73_xTok_000468
 ungehindert	ungehindert	ADJD	Duden	tu_73_xTok_000470
 ihrer	ihr	PPOSAT	Duden	tu_73_xTok_000472
 wol wissentlich	wohlwissentlich	ADJD		tu_73_xTok_000474
+wol wissentlich	wohlwissentlich	ADJD		tu_73_xTok_000476b
+wol=wissentlich	wohlwissentlich	ADJD	DWB	tu_73_xTok_000477
 gehabten	haben	ADJA	Duden	tu_73_xTok_000478
 gesunden	gesund	ADJA	Duden	tu_73_xTok_000480
 Leibes=kräften	Leibeskraft	NN	DWB	tu_73_xTok_000482
@@ -338,6 +362,8 @@ Verfolg	Verfolg	NN	Duden	tu_73_xTok_000569
 solch	solch	PIAT	Duden	tu_73_xTok_000571
 mörderischen	mörderisch	ADJA	Duden	tu_73_xTok_000573
 Vorhabens	Vorhaben	NN	Duden	tu_73_xTok_000575
+Vorhaben	Vorhaben	NN	Duden	tu_73_xTok_000576
+Vorhabens	Vorhaben	NN	Duden	tu_73_xTok_000576b
 14.	14	CARD		tu_73_xTok_000577
 Täge	Tag	NN	Duden	tu_73_xTok_000579
 vor	vor	APPR	Duden	tu_73_xTok_000581
@@ -718,6 +744,8 @@ Haaren	Haar	NN	Duden	tu_73_xTok_001218
 zu	zu	APPR	Duden	tu_73_xTok_001220
 Boden	Boden	NN	Duden	tu_73_xTok_001222
 gezohen	ziehen	VVPP	Duden	tu_73_xTok_001224
+gezohen	ziehen	VVPP	Duden	tu_73_xTok_001224b
+gezogen	ziehen	VVPP	Duden	tu_73_xTok_001225
 worden	werden	VAPP	Duden	tu_73_xTok_001227
 <g/>
 )
@@ -766,6 +794,8 @@ um	um	KOUI	Duden	tu_73_xTok_001301
 dieser	diese	PDAT	Duden	tu_73_xTok_001303
 allschon	allschon	ADV	oov	tu_73_xTok_001304
 tödlich	tödlich	ADJD	Duden	tu_73_xTok_001306
+tödlich	tödlich	ADJD	Duden	tu_73_xTok_001306b
+tödtlich	tödlich	ADJD	Duden	tu_73_xTok_001307
 Verwundeten	Verwundete	NN	Duden	tu_73_xTok_001309
 <g/>
 ,
@@ -817,6 +847,12 @@ müssen	müssen	VMINF	Duden	tu_73_xTok_001386
 <g/>
 .
 </p>
+<pb n="5">
+</pb>
+<pb n="6">
+</pb>
+<pb n="7">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_73_xTok_001388
 ihres	ihr	PPOSAT	Duden	tu_73_xTok_001391

@@ -1,4 +1,6 @@
-<doc id="fb_17420627_JohannGeorgD" delinquent_sexes="male" title="Todesurteil Johann Georg D." attrs="word lemma pos vocab id">
+<doc id="fb_17420627_JohannGeorgD" year="1742" delinquent_sexes="male" title="Todesurteil Johann Georg D." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohlverdientes	wohlverdient	ADJA	Duden	tu_20_xTok_000001
 Recht	Recht	NN	Duden	tu_20_xTok_000004
@@ -112,6 +114,8 @@ hingerichtet	hinrichten	VVPP	Duden	tu_20_xTok_000169
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_20_xTok_000185
 des	d	ART	Duden	tu_20_xTok_000188
@@ -310,6 +314,8 @@ müssen	müssen	VMINF	Duden	tu_20_xTok_000523
 <g/>
 .
 </p>
+<pb n="3">
+</pb>
 <lg type="poem">
 <head>
 Urlaub=Lied	Urlaublied	NN	DWB	tu_20_xTok_000525
@@ -510,6 +516,8 @@ erwerbe	erwerben	VVFIN	Duden	tu_20_xTok_000700
 .
 </l>
 </lg>
+<pb n="4">
+</pb>
 <lg type="stanza">
 <head>
 6.	6	ADV		tu_20_xTok_000702

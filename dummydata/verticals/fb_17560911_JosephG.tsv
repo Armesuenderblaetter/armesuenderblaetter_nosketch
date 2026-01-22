@@ -1,4 +1,6 @@
-<doc id="fb_17560911_JosephG" delinquent_sexes="male" title="Todesurteil Joseph G." attrs="word lemma pos vocab id">
+<doc id="fb_17560911_JosephG" year="1756" delinquent_sexes="male" title="Todesurteil Joseph G." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_65_xTok_000001
 Einer	ein	ART	Duden	tu_65_xTok_000005
@@ -96,6 +98,10 @@ wird	werden	VAFIN	Duden	tu_65_xTok_000150
 <g/>
 ;
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <p id="fb_17560911_JosephG_p_0001">
 Zumalen	zumal	KOUS	Duden	tu_65_xTok_000153
 dieser	diese	PDAT	Duden	tu_65_xTok_000155
@@ -332,4 +338,6 @@ und	und	KON	Duden	tu_65_xTok_000544
 barmherzig	barmherzig	ADJD	Duden	tu_65_xTok_000546
 <g/>
 !
+<pb n="4">
+</pb>
 </doc>

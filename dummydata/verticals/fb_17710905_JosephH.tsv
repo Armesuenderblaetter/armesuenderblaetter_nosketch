@@ -1,4 +1,6 @@
-<doc id="fb_17710905_JosephH" delinquent_sexes="male" title="Todesurteil Joseph H." attrs="word lemma pos vocab id">
+<doc id="fb_17710905_JosephH" year="1771" delinquent_sexes="male" title="Todesurteil Joseph H." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_95_xTok_000001
 einer	ein	ART	Duden	tu_95_xTok_000005
@@ -213,6 +215,10 @@ und	und	KON	Duden	tu_95_xTok_000322
 in	in	APPR	Duden	tu_95_xTok_000324
 das	d	ART	Duden	tu_95_xTok_000326
 Rumorhaus	Rumorhaus	NN	DWB	tu_95_xTok_000328
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 eingeliefert	einliefern	VVPP	Duden	tu_95_xTok_000332
 worden	werden	VAPP	Duden	tu_95_xTok_000334
 ist	sein	VAFIN	Duden	tu_95_xTok_000336
@@ -374,6 +380,8 @@ geäußeret	äußern	VVPP	Duden	tu_95_xTok_000596
 ,
 daß	dass	KOUS	Duden	tu_95_xTok_000599
 er	er	PPER	Duden	tu_95_xTok_000601
+<g/>
+,
 selbst	selbst	ADV	Duden	tu_95_xTok_000604
 geständiger	geständig	ADJD	Duden	tu_95_xTok_000606
 <g/>
@@ -530,6 +538,7 @@ gemäß	gemäß	APPO	Duden	tu_95_xTok_000880
 <g/>
 ,
 8.	8	CARD		tu_95_xTok_000883
+8	8	CARD		tu_95_xTok_000883b
 verschiedene	verschieden	ADJA	Duden	tu_95_xTok_000885
 Diebstähle	Diebstahl	NN	Duden	tu_95_xTok_000887
 <g/>
@@ -539,8 +548,10 @@ Betrage	Betrag	NN	Duden	tu_95_xTok_000893
 zusammen	zusammen	ADV	Duden	tu_95_xTok_000895
 von	von	APPR	Duden	tu_95_xTok_000897
 230.	230	CARD		tu_95_xTok_000899
+230	230	CARD		tu_95_xTok_000899b
 Fl.	Flore	NN	DWB	tu_95_xTok_000901
 3.	3	CARD		tu_95_xTok_000904
+3	3	CARD		tu_95_xTok_000904b
 Kr.	Kreuzer	NN	Duden	tu_95_xTok_000906
 begangen	begehen	VVPP	Duden	tu_95_xTok_000909
 hatte	haben	VAFIN	Duden	tu_95_xTok_000911
@@ -567,8 +578,10 @@ einen	ein	ART	Duden	tu_95_xTok_000946
 Schadensruckstand	Schadensrückstand	NN	oov	tu_95_xTok_000947
 von	von	APPR	Duden	tu_95_xTok_000949
 58	58	CARD		tu_95_xTok_000951
+58.	58	CARD		tu_95_xTok_000951b
 Fl.	Flore	NN	DWB	tu_95_xTok_000953
 22	22	CARD		tu_95_xTok_000956
+22.	22	CARD		tu_95_xTok_000956b
 Kr.	Kreuzer	NN	Duden	tu_95_xTok_000958
 zu	zu	PTKZU	Duden	tu_95_xTok_000961
 erleiden	erleiden	VVINF	Duden	tu_95_xTok_000963
@@ -615,6 +628,10 @@ allerhöchster	allerhöchste	ADJA	Duden	tu_95_xTok_001022
 Gnade	Gnade	NN	Duden	tu_95_xTok_001024
 <g/>
 ,
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 von	von	APPR	Duden	tu_95_xTok_001026
 solcher	solch	PIAT	Duden	tu_95_xTok_001028
 Todtestrafe	Todesstrafe	NN	Duden	tu_95_xTok_001030
@@ -757,6 +774,7 @@ verlustigten	verlustig	ADJA	DWB	tu_95_xTok_001260
 Partheyen	Partei	NN	Duden	tu_95_xTok_001261
 auf	auf	APPR	Duden	tu_95_xTok_001263
 10	10	CARD		tu_95_xTok_001265
+10.	10	CARD		tu_95_xTok_001265b
 Fl.	Flore	NN	DWB	tu_95_xTok_001267
 geschätzten	schätzen	ADJA	Duden	tu_95_xTok_001270
 Bettgewandte	Bettgewand	NN	DWB	tu_95_xTok_001272
@@ -784,6 +802,7 @@ verhandelten	verhandeln	ADJA	Duden	tu_95_xTok_001304
 Criminalverfahrung	Kriminalverfahrung	NN	oov	tu_95_xTok_001306
 auf	auf	APPR	Duden	tu_95_xTok_001308
 6	6	CARD		tu_95_xTok_001310
+6.	6	CARD		tu_95_xTok_001310b
 Jahre	Jahr	NN	Duden	tu_95_xTok_001312
 lang	lang	ADJD	Duden	tu_95_xTok_001313
 in	in	APPR	Duden	tu_95_xTok_001315
@@ -843,6 +862,7 @@ in	in	APPR	Duden	tu_95_xTok_001404
 die	d	ART	Duden	tu_95_xTok_001406
 Festung	Festung	NN	Duden	tu_95_xTok_001408
 groß Szigeth	Großsziget	NE::top		tu_95_xTok_001409
+Groß=Szigeth	Großsziget	NE::top	oov	tu_95_xTok_001412
 unterwegs	unterwegs	ADV	Duden	tu_95_xTok_001414
 dem	d	ART	Duden	tu_95_xTok_001416
 ihm	er	PPER	Duden	tu_95_xTok_001418
@@ -873,8 +893,10 @@ verlustigten	verlustig	ADJA	DWB	tu_95_xTok_001466
 Parthey	Partei	NN	Duden	tu_95_xTok_001468
 auf	auf	APPR	Duden	tu_95_xTok_001470
 28	28	CARD		tu_95_xTok_001472
+28.	28	CARD		tu_95_xTok_001472b
 Fl.	Flore	NN	DWB	tu_95_xTok_001475
 54	54	CARD		tu_95_xTok_001478
+54.	54	CARD		tu_95_xTok_001478b
 Kr.	Kreuzer	NN	Duden	tu_95_xTok_001481
 angeschlagenen	anschlagen	ADJA	Duden	tu_95_xTok_001484
 Diebstahl	Diebstahl	NN	Duden	tu_95_xTok_001487
@@ -888,6 +910,7 @@ hierwegen	hierwegen	ADV	oov	tu_95_xTok_001497
 im	im	APPRART	Duden	tu_95_xTok_001499
 Jahre	Jahr	NN	Duden	tu_95_xTok_001501
 1768	1768	CARD		tu_95_xTok_001503
+1768.	1768	CARD		tu_95_xTok_001503b
 zu	zu	APPR	Duden	tu_95_xTok_001506
 Kittsee	Kittsee	NE::top	oov	tu_95_xTok_001508
 inhaftiret	inhaftieren	VVPP	Duden	tu_95_xTok_001510
@@ -933,6 +956,8 @@ zurückgekehret	zurückkehren	VVPP	Duden	tu_95_xTok_001580
 ist	sein	VAFIN	Duden	tu_95_xTok_001583
 <g/>
 :
+<g/>
+,
 allwo	allwo	PWAV	Duden	tu_95_xTok_001587
 er	er	PPER	Duden	tu_95_xTok_001589
 neuerdings	neuerdings	ADV	Duden	tu_95_xTok_001591
@@ -954,6 +979,7 @@ auf	auf	APPR	Duden	tu_95_xTok_001620
 37	37	CARD		tu_95_xTok_001621
 Fl.	Flore	NN	DWB	tu_95_xTok_001623
 11.	11	CARD		tu_95_xTok_001626
+11	11	CARD		tu_95_xTok_001626b
 Kr.	Kreuzer	NN	Duden	tu_95_xTok_001628
 eidlich	eidlich	ADJD	Duden	tu_95_xTok_001631
 angeschlagenen	anschlagen	ADJA	Duden	tu_95_xTok_001633
@@ -983,6 +1009,10 @@ mal	Mal	NN	Duden	tu_95_xTok_001670b
 allhier	allhier	ADV	Duden	tu_95_xTok_001672
 arrestirlich	arrestierlich	ADJD	oov	tu_95_xTok_001674
 eingezogen	einziehen	VVPP	DWB	tu_95_xTok_001676
+<pb n="6">
+</pb>
+<pb n="7">
+</pb>
 worden	werden	VAPP	Duden	tu_95_xTok_001677
 ist	sein	VAFIN	Duden	tu_95_xTok_001679
 <g/>

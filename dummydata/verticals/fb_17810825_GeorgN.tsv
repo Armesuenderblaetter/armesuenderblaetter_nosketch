@@ -1,4 +1,6 @@
-<doc id="fb_17810825_GeorgN" delinquent_sexes="male" title="Todesurteil Georg N." attrs="word lemma pos vocab id">
+<doc id="fb_17810825_GeorgN" year="1781" delinquent_sexes="male" title="Todesurteil Georg N." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Nro.	Numero	NN	Duden	tu_123_xTok_000001
 9	9	CARD		tu_123_xTok_000004
@@ -284,6 +286,8 @@ Biburg	Biburg	NE::top	oov	tu_123_xTok_000455
 mit	mit	APPR	Duden	tu_123_xTok_000457
 seinem	sein	PPOSAT	Duden	tu_123_xTok_000459
 leichtfertigen	leichtfertig	ADJA	Duden	tu_123_xTok_000461
+<pb n="2">
+</pb>
 Anhang	Anhang	NN	Duden	tu_123_xTok_000462
 wegen	wegen	APPR	Duden	tu_123_xTok_000464
 Herumvagiren	herumvagieren	VVINF-NN	Duden	tu_123_xTok_000466
@@ -866,6 +870,8 @@ worden	werden	VAPP	Duden	tu_123_xTok_001429
 <g/>
 .
 </p>
+<pb n="3">
+</pb>
 <lg type="poem">
 <head>
 Moralrede	Moralrede	NN	oov	tu_123_xTok_001431
@@ -1450,6 +1456,8 @@ tauchen	tauchen	VVINF	Duden	tu_123_xTok_002179
 :
 </l>
 </lg>
+<pb n="4">
+</pb>
 <lg type="stanza">
 <l id="fb_17810825_GeorgN_l_0043">
 und	und	KON	Duden	tu_123_xTok_002181

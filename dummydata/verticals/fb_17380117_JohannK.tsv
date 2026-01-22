@@ -1,4 +1,6 @@
-<doc id="fb_17380117_JohannK" delinquent_sexes="male" title="Todesurteil Johann K." attrs="word lemma pos vocab id">
+<doc id="fb_17380117_JohannK" year="1738" delinquent_sexes="male" title="Todesurteil Johann K." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_11_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_11_xTok_000002
@@ -175,6 +177,8 @@ werden	werden	VAINF	Duden	tu_11_xTok_000300
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <lg type="poem">
 <head>
 Außzug	Auszug	NN	Duden	tu_11_xTok_000316
@@ -454,6 +458,8 @@ ein	ein	ART	Duden	tu_11_xTok_000610
 kostbahre	kostbar	ADJA	Duden	tu_11_xTok_000612
 Uhr	Uhr	NN	Duden	tu_11_xTok_000614
 </l>
+<pb n="3">
+</pb>
 <l id="fb_17380117_JohannK_l_0029">
 so gar	sogar	ADV		tu_11_xTok_000615
 <g/>
@@ -810,6 +816,8 @@ gewest	sein	VAPP	Duden	tu_11_xTok_000993
 .
 </l>
 </lg>
+<pb n="4">
+</pb>
 <lg type="stanza">
 <head>
 9.	9	ADV		tu_11_xTok_000995

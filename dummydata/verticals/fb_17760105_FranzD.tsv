@@ -1,4 +1,6 @@
-<doc id="fb_17760105_FranzD" delinquent_sexes="male" title="Todesurteil Franz D." attrs="word lemma pos vocab id">
+<doc id="fb_17760105_FranzD" year="1776" delinquent_sexes="male" title="Todesurteil Franz D." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_113_xTok_000001
 einer	ein	ART	Duden	tu_113_xTok_000003
@@ -90,6 +92,8 @@ wird	werden	VAFIN	Duden	tu_113_xTok_000153
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_113_xTok_000155
 seines	sein	PPOSAT	Duden	tu_113_xTok_000157
@@ -438,6 +442,8 @@ Gedanken	Gedanke	NN	Duden	tu_113_xTok_000725
 den	d	ART	Duden	tu_113_xTok_000728
 Wirthschafter	Wirtschafter	NN	Duden	tu_113_xTok_000730
 eines	ein	ART	Duden	tu_113_xTok_000732
+<pb n="3">
+</pb>
 sicheren	sicher	ADJA	DWB	tu_113_xTok_000733
 Hofes	Hof	NN	Duden	tu_113_xTok_000735
 zu	zu	APPR	Duden	tu_113_xTok_000737
@@ -824,6 +830,8 @@ rückwärts	rückwärts	ADV	Duden	tu_113_xTok_001374
 <g/>
 ,
 als	als	KON	Duden	tu_113_xTok_001377
+<pb n="4">
+</pb>
 auch	auch	ADV	Duden	tu_113_xTok_001378
 in	in	APPR	Duden	tu_113_xTok_001380
 den	d	ART	Duden	tu_113_xTok_001382

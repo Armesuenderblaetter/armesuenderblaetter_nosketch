@@ -1,4 +1,6 @@
-<doc id="fb_17800626_JohannGeorgR" delinquent_sexes="male" title="Todesurteil Johann Georg R." attrs="word lemma pos vocab id">
+<doc id="fb_17800626_JohannGeorgR" year="1780" delinquent_sexes="male" title="Todesurteil Johann Georg R." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_119_xTok_000001
 einer	ein	ART	Duden	tu_119_xTok_000003
@@ -47,6 +49,8 @@ dem	d	ART	Duden	tu_119_xTok_000055
 allhiesigen	allhiesig	ADJA	DWB	tu_119_xTok_000057
 k.	kaiserlich	ADJA	Duden	tu_119_xTok_000059
 k.	königlich	ADJA	Duden	tu_119_xTok_000062
+kaiserl.	kaiserlich	ADJA	Duden	tu_119_xTok_000064
+königl.	königlich	ADJA	Duden	tu_119_xTok_000067
 Stadt=	Stadtgericht	TRUNC	Duden	tu_119_xTok_000070
 und	und	KON	Duden	tu_119_xTok_000072
 Landgerichte	Landgericht	NN	Duden	tu_119_xTok_000074
@@ -92,6 +96,10 @@ wird	werden	VAFIN	Duden	tu_119_xTok_000153
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Jnhalt	Inhalt	NN	Duden	tu_119_xTok_000155
 seines	sein	PPOSAT	Duden	tu_119_xTok_000157
@@ -721,6 +729,10 @@ konnte	können	VMFIN	Duden	tu_119_xTok_001251
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 <head>
 Jnhalt	Inhalt	NN	Duden	tu_119_xTok_001253
 seines	sein	PPOSAT	Duden	tu_119_xTok_001255

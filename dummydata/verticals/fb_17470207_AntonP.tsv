@@ -1,4 +1,6 @@
-<doc id="fb_17470207_AntonP" delinquent_sexes="male" title="Todesurteil Anton P." attrs="word lemma pos vocab id">
+<doc id="fb_17470207_AntonP" year="1747" delinquent_sexes="male" title="Todesurteil Anton P." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_36_xTok_000002
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_36_xTok_000004
@@ -101,6 +103,10 @@ finden	finden	VVINF	Duden	tu_36_xTok_000165
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_36_xTok_000185
 des	d	ART	Duden	tu_36_xTok_000188
@@ -191,6 +197,10 @@ und	und	KON	Duden	tu_36_xTok_000357
 Häckel	Häckel	NN	DWB	tu_36_xTok_000359
 <g/>
 /
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 er	er	PPER	Duden	tu_36_xTok_000363
 Delinquent	Delinquent	NN	Duden	tu_36_xTok_000365
 aber	aber	ADV	Duden	tu_36_xTok_000367
@@ -227,6 +237,7 @@ Raubs=Gespännen	Raubgespan	NN	oov	tu_36_xTok_000428
 eröffneten	eröffnen	ADJA	Duden	tu_36_xTok_000430
 Thor	Tor	NN	Duden	tu_36_xTok_000432
 2.	2	CARD		tu_36_xTok_000435
+zwey	zwei	CARD	Duden	tu_36_xTok_000437
 sichere	sicher	ADJA	DWB	tu_36_xTok_000440
 alt=	alt	ADJA	Duden	tu_36_xTok_000442
 erlebte	erleben	ADJA	Duden	tu_36_xTok_000442b
@@ -314,6 +325,8 @@ Werths	wert	ADJD	Duden	tu_36_xTok_000607
 ab=	abrauben	TRUNC	DWB	tu_36_xTok_000609
 und	und	KON	Duden	tu_36_xTok_000611
 hinweg	hinweg	PTKVZ	DRW	tu_36_xTok_000613
+<pb n="6">
+</pb>
 rauben	hinwegrauben	VVINF	DRW	tu_36_xTok_000614
 geholffen	helfen	VVPP	Duden	tu_36_xTok_000616
 <g/>
@@ -335,6 +348,7 @@ mehr=gedachte	mehrgedacht	ADJA	DWB	tu_36_xTok_000648
 Hüttlers=Leuthe	Hüttlersleute	NN	oov	tu_36_xTok_000650
 über	über	APPR	Duden	tu_36_xTok_000652
 das jenige	dasjenige	PDS		tu_36_xTok_000654
+dasjenige	dasjenige	PDS	Duden	tu_36_xTok_000657
 <g/>
 /
 was	was	PRELS	Duden	tu_36_xTok_000661

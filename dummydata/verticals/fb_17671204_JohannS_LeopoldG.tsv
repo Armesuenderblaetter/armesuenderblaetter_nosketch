@@ -1,4 +1,6 @@
-<doc id="fb_17671204_JohannS_LeopoldG" delinquent_sexes="male" title="Todesurteil Johann S., Leopold G." attrs="word lemma pos vocab id">
+<doc id="fb_17671204_JohannS_LeopoldG" year="1767" delinquent_sexes="male" title="Todesurteil Johann S., Leopold G." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_90_xTok_000001
 zweyer	zwei	CARD	Duden	tu_90_xTok_000002
@@ -379,6 +381,8 @@ bis	bis	APPR	Duden	tu_90_xTok_000671
 auf	auf	APPR	Duden	tu_90_xTok_000673
 46.	46	CARD		tu_90_xTok_000675
 fl.	Flore	NN	DWB	tu_90_xTok_000678
+<pb n="2">
+</pb>
 verminderten	vermindern	ADJA	Duden	tu_90_xTok_000680
 Diebstahls	Diebstahl	NN	Duden	tu_90_xTok_000682
 auf	auf	APPR	Duden	tu_90_xTok_000684
@@ -805,6 +809,8 @@ Leopold	Leopold	NE	Duden	tu_90_xTok_001450
 G.	G.	NE	oov	tu_90_xTok_001452
 hierüber	hierüber	PAV	Duden	tu_90_xTok_001455
 sogar	sogar	ADV	Duden	tu_90_xTok_001457
+<pb n="3">
+</pb>
 zur	zur	APPRART	Duden	tu_90_xTok_001458
 peinlichen	peinlich	ADJA	Duden	tu_90_xTok_001460
 Frage	Frage	NN	Duden	tu_90_xTok_001462

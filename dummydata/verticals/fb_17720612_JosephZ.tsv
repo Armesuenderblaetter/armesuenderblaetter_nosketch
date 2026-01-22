@@ -1,4 +1,6 @@
-<doc id="fb_17720612_JosephZ" delinquent_sexes="male" title="Todesurteil Joseph Z." attrs="word lemma pos vocab id">
+<doc id="fb_17720612_JosephZ" year="1772" delinquent_sexes="male" title="Todesurteil Joseph Z." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_98_xTok_000001
 einer	ein	ART	Duden	tu_98_xTok_000003
@@ -91,6 +93,8 @@ wird	werden	VAFIN	Duden	tu_98_xTok_000135
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_98_xTok_000137
 seines	sein	PPOSAT	Duden	tu_98_xTok_000139
@@ -408,6 +412,8 @@ versetzen	versetzen	VVINF	Duden	tu_98_xTok_000673
 ,
 zu	zu	APPR	Duden	tu_98_xTok_000676
 zwey	zwei	CARD	Duden	tu_98_xTok_000678
+<pb n="3">
+</pb>
 verschiedenenmalen	verschiedenemal	ADV	DWB	tu_98_xTok_000679
 aufgerieben	aufreiben	VVPP	Duden	tu_98_xTok_000681
 <g/>
@@ -710,6 +716,8 @@ veräußert	veräußern	VVPP	Duden	tu_98_xTok_001182
 <g/>
 .
 </p>
+<pb n="4">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_98_xTok_001184
 seines	sein	PPOSAT	Duden	tu_98_xTok_001186

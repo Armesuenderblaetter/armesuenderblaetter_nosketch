@@ -1,4 +1,6 @@
-<doc id="fb_17660523_JosephSt" delinquent_sexes="male" title="Todesurteil Joseph St." attrs="word lemma pos vocab id">
+<doc id="fb_17660523_JosephSt" year="1766" delinquent_sexes="male" title="Todesurteil Joseph St." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_88_xTok_000001
 Einer	ein	ART	Duden	tu_88_xTok_000005
@@ -82,6 +84,8 @@ wird	werden	VAFIN	Duden	tu_88_xTok_000127
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_88_xTok_000129
 seines	sein	PPOSAT	Duden	tu_88_xTok_000132
@@ -368,6 +372,8 @@ solch	solch	PIAT	Duden	tu_88_xTok_000628
 seiner	sein	PPOSAT	Duden	tu_88_xTok_000630
 wegen	wegen	APPR	Duden	tu_88_xTok_000632
 mittlerweile	mittlerweile	ADV	Duden	tu_88_xTok_000634
+<pb n="3">
+</pb>
 aus	aus	APPR	Duden	tu_88_xTok_000635
 dem	d	ART	Duden	tu_88_xTok_000637
 Gnadenstockhaus	Gnadenstockhaus	NN	oov	tu_88_xTok_000639

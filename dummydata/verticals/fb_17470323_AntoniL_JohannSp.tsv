@@ -1,4 +1,6 @@
-<doc id="fb_17470323_AntoniL_JohannSp" delinquent_sexes="male" title="Todesurteil Antoni L., Johann Sp." attrs="word lemma pos vocab id">
+<doc id="fb_17470323_AntoniL_JohannSp" year="1747" delinquent_sexes="male" title="Todesurteil Antoni L., Johann Sp." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_39_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_39_xTok_000002
@@ -68,6 +70,12 @@ mehrere	mehrere	PIS	Duden	tu_39_xTok_000103
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
+<pb n="4">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_39_xTok_000123
 des	d	ART	Duden	tu_39_xTok_000126
@@ -141,6 +149,10 @@ des	d	ART	Duden	tu_39_xTok_000244
 voran=	voran	ADV	Duden	tu_39_xTok_000246
 gestert	gestern	ADV	Duden	tu_39_xTok_000248
 hingerichteten	hinrichten	ADJA	Duden	tu_39_xTok_000250
+<pb n="5">
+</pb>
+<pb n="6">
+</pb>
 Johann	Johann	NE	Duden	tu_39_xTok_000251
 W.	W.	NE	oov	tu_39_xTok_000253
 zwischen	zwischen	APPR	Duden	tu_39_xTok_000256
@@ -242,6 +254,10 @@ worden	werden	VAPP	Duden	tu_39_xTok_000460
 /
 dannoch	dannoch	ADV	DWB	tu_39_xTok_000464
 einen	ein	ART	Duden	tu_39_xTok_000466
+<pb n="7">
+</pb>
+<pb n="8">
+</pb>
 Schaden	Schaden	NN	Duden	tu_39_xTok_000468
 per	per	APPR	Duden	tu_39_xTok_000470
 350.	350	CARD		tu_39_xTok_000472
@@ -252,6 +268,8 @@ zugefüget	zufügen	VVPP	Duden	tu_39_xTok_000483
 <g/>
 )
 auf	auf	APPR	Duden	tu_39_xTok_000486
+<pb n="9">
+</pb>
 dem	d	ART	Duden	tu_39_xTok_000487
 Wiennerberg	Wienerberg	NE::top	oov	tu_39_xTok_000489
 mit	mit	APPR	Duden	tu_39_xTok_000491

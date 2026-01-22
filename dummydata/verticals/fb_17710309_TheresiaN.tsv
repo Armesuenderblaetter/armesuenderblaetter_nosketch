@@ -1,4 +1,6 @@
-<doc id="fb_17710309_TheresiaN" delinquent_sexes="female" title="Todesurteil Theresia N." attrs="word lemma pos vocab id">
+<doc id="fb_17710309_TheresiaN" year="1771" delinquent_sexes="female" title="Todesurteil Theresia N." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todes=Urtheil	Todesurteil	NN	Duden	tu_94_xTok_000001
 einer	ein	ART	Duden	tu_94_xTok_000005
@@ -89,6 +91,8 @@ wird	werden	VAFIN	Duden	tu_94_xTok_000135
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_94_xTok_000137
 ihres	ihr	PPOSAT	Duden	tu_94_xTok_000139
@@ -357,6 +361,8 @@ wolle	wollen	VMFIN	Duden	tu_94_xTok_000591
 <g/>
 .
 </p>
+<pb n="3">
+</pb>
 <p id="fb_17710309_TheresiaN_p_0004">
 Zufolge	zufolge	APPR	Duden	tu_94_xTok_000593
 dieses	diese	PDAT	Duden	tu_94_xTok_000595

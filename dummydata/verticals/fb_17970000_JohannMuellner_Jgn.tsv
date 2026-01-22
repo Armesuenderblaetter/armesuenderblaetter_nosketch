@@ -1,4 +1,6 @@
-<doc id="fb_17970000_JohannMuellner_Jgn" delinquent_sexes="male" title="Urteil Johann Müllner, Jgnaz Menz, Georg Dürnböck, Thomas Schedel" attrs="word lemma pos vocab id">
+<doc id="fb_17970000_JohannMuellner_Jgn" year="1797" delinquent_sexes="male" title="Urteil Johann Müllner, Jgnaz Menz, Georg Dürnböck, Thomas Schedel" attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Urtheil	Urteil	NN	Duden	tu_136_xTok_000001
 über	über	APPR	Duden	tu_136_xTok_000002
@@ -32,6 +34,10 @@ Schedel	Schedel	NE	oov	tu_136_xTok_000026
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <p id="fb_17970000_JohannMuellner_Jgn_p_0001">
 Obwohl	obwohl	KOUS	Duden	tu_136_xTok_000059
 Millionen	Million	NN	Duden	tu_136_xTok_000062
@@ -112,6 +118,8 @@ von	von	APPR	Duden	tu_136_xTok_000183
 Schwärmerey	Schwärmerei	NN	Duden	tu_136_xTok_000185
 <g/>
 ,
+<pb n="4">
+</pb>
 und	und	KON	Duden	tu_136_xTok_000187
 geleitet	leiten	VVPP	Duden	tu_136_xTok_000189
 durch	durch	APPR	Duden	tu_136_xTok_000191
@@ -475,6 +483,8 @@ werden	werden	VAINF	Duden	tu_136_xTok_000757
 <g/>
 .
 </p>
+<pb n="5">
+</pb>
 <p id="fb_17970000_JohannMuellner_Jgn_p_0008">
 Thomas	Thomas	NE	Duden	tu_136_xTok_000759
 Schedel	Schedel	NE	oov	tu_136_xTok_000761

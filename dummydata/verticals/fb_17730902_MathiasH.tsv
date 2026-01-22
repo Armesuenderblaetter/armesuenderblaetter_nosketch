@@ -1,4 +1,6 @@
-<doc id="fb_17730902_MathiasH" delinquent_sexes="male" title="Todesurteil Mathias H." attrs="word lemma pos vocab id">
+<doc id="fb_17730902_MathiasH" year="1773" delinquent_sexes="male" title="Todesurteil Mathias H." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_106_xTok_000001
 einer	ein	ART	Duden	tu_106_xTok_000003
@@ -86,6 +88,8 @@ wird	werden	VAFIN	Duden	tu_106_xTok_000138
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_106_xTok_000140
 seines	sein	PPOSAT	Duden	tu_106_xTok_000142
@@ -758,6 +762,8 @@ Jnnwohner	Inwohner	NN	DWB	tu_106_xTok_001353
 ,
 28tens	achtundzwanzigstens	ADV	oov	tu_106_xTok_001356
 zu	zu	APPR	Duden	tu_106_xTok_001359
+<pb n="3">
+</pb>
 Brunn	Brunn	NE::top	oov	tu_106_xTok_001360
 nächst	nächst	APPR	Duden	tu_106_xTok_001362
 Enzersdorf	Enzersdorf	NE::top	oov	tu_106_xTok_001364

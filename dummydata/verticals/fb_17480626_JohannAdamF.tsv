@@ -1,4 +1,6 @@
-<doc id="fb_17480626_JohannAdamF" delinquent_sexes="male" title="Todesurteil Johann Adam F." attrs="word lemma pos vocab id">
+<doc id="fb_17480626_JohannAdamF" year="1748" delinquent_sexes="male" title="Todesurteil Johann Adam F." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_40_xTok_000002
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_40_xTok_000003
@@ -64,6 +66,10 @@ wird	werden	VAFIN	Duden	tu_40_xTok_000104
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_40_xTok_000123
 des	d	ART	Duden	tu_40_xTok_000126
@@ -137,6 +143,7 @@ letzten	letzte	ADJA	Duden	tu_40_xTok_000252
 April	April	NN	Duden	tu_40_xTok_000254
 und	und	KON	Duden	tu_40_xTok_000256
 1.	1	ADJA		tu_40_xTok_000258
+ersten	erste	ADJA	Duden	tu_40_xTok_000259
 May	Mai	NN	Duden	tu_40_xTok_000261
 1746.	1746	CARD		tu_40_xTok_000263
 mit	mit	APPR	Duden	tu_40_xTok_000265
@@ -163,6 +170,8 @@ di=	geständigermaßen	ADV		tu_40_xTok_000308
 begangenen	begehen	ADJA	Duden	tu_40_xTok_000313
 nahmhafften	namhaft	ADJA	Duden	tu_40_xTok_000315
 Diebstahls	Diebstahl	NN	Duden	tu_40_xTok_000317
+<g/>
+,
 auch	auch	ADV	Duden	tu_40_xTok_000321
 allhier	allhier	ADV	Duden	tu_40_xTok_000322
 criminaliter	kriminaliter	ADJD	oov	tu_40_xTok_000324
@@ -172,6 +181,7 @@ processiret	prozessieren	VVPP	Duden	tu_40_xTok_000326
 sodann	sodann	ADV	Duden	tu_40_xTok_000330
 auf	auf	APPR	Duden	tu_40_xTok_000333
 zehen	zehn	CARD	Duden	tu_40_xTok_000335
+10.	10	CARD		tu_40_xTok_000336
 Jahr	Jahr	NN	Duden	tu_40_xTok_000338
 lang	lang	ADJD	Duden	tu_40_xTok_000339
 nacher	nacher	APPR	DWB	tu_40_xTok_000341
@@ -233,6 +243,8 @@ verwisen	verweisen	VVPP	Duden	tu_40_xTok_000448
 worden	werden	VAPP	Duden	tu_40_xTok_000450
 <g/>
 ,
+<g/>
+;
 deme	d	ART	Duden	tu_40_xTok_000454
 allen	all	PIS	Duden	tu_40_xTok_000456
 ungeachtet	ungeachtet	APPO	Duden	tu_40_xTok_000459
@@ -352,8 +364,10 @@ nemlichen	nämlich	ADV	Duden	tu_40_xTok_000669
 zwischen	zwischen	APPR	Duden	tu_40_xTok_000671
 den	d	ART	Duden	tu_40_xTok_000673
 3ten	3	ADJA		tu_40_xTok_000675
+3.	3	ADJA		tu_40_xTok_000677
 und	und	KON	Duden	tu_40_xTok_000679
 4ten	4	ADJA		tu_40_xTok_000681
+4.	4	ADJA		tu_40_xTok_000683
 Jenner	Jänner	NN	Duden	tu_40_xTok_000684
 dieses	diese	PDAT	Duden	tu_40_xTok_000686
 Jahrs	Jahr	NN	Duden	tu_40_xTok_000688

@@ -1,4 +1,6 @@
-<doc id="fb_17750317_AdamG_LeonhardS_Ig" delinquent_sexes="male" title="Todesurteil Adam G., Leonhard S., Jgnaz A." attrs="word lemma pos vocab id">
+<doc id="fb_17750317_AdamG_LeonhardS_Ig" year="1775" delinquent_sexes="male" title="Todesurteil Adam G., Leonhard S., Jgnaz A." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Todesurtheil	Todesurteil	NN	Duden	tu_112_xTok_000001
 dreyer	drei	CARD	Duden	tu_112_xTok_000003
@@ -340,6 +342,8 @@ in	in	APPR	Duden	tu_112_xTok_000533
 dessen	d	PRELAT	Duden	tu_112_xTok_000535
 Vergesellschaftung	Vergesellschaftung	NN	Duden	tu_112_xTok_000537
 sie	sie	PPER	Duden	tu_112_xTok_000539
+<pb n="2">
+</pb>
 drey	drei	CARD	Duden	tu_112_xTok_000540
 noch	noch	ADV	Duden	tu_112_xTok_000542
 an	an	APPR	Duden	tu_112_xTok_000544
@@ -811,6 +815,8 @@ sich	sich	PRF	Duden	tu_112_xTok_001351
 einverstanden	einverstanden	ADJD	Duden	tu_112_xTok_001353
 <g/>
 ;
+<pb n="3">
+</pb>
 und	und	KON	Duden	tu_112_xTok_001355
 zu	zu	APPR	Duden	tu_112_xTok_001357
 diesem	diese	PDAT	Duden	tu_112_xTok_001359

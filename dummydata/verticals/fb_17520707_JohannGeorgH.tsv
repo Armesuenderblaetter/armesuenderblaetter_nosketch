@@ -1,4 +1,6 @@
-<doc id="fb_17520707_JohannGeorgH" delinquent_sexes="male" title="Todesurteil Johann Georg H." attrs="word lemma pos vocab id">
+<doc id="fb_17520707_JohannGeorgH" year="1752" delinquent_sexes="male" title="Todesurteil Johann Georg H." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_55_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_55_xTok_000002
@@ -81,6 +83,10 @@ finden	finden	VVINF	Duden	tu_55_xTok_000113
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_55_xTok_000133
 des	d	ART	Duden	tu_55_xTok_000135
@@ -223,6 +229,10 @@ Verwundung	Verwundung	NN	Duden	tu_55_xTok_000375
 beygebracht	beibringen	VVPP	Duden	tu_55_xTok_000377
 <g/>
 ,
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 und	und	KON	Duden	tu_55_xTok_000379
 dahero	dahero	PAV	DWB	tu_55_xTok_000381
 dieser	diese	PDAT	Duden	tu_55_xTok_000383

@@ -1,4 +1,6 @@
-<doc id="fb_17380122_ZachariasF" delinquent_sexes="male" title="Todesurteil Zacharias F." attrs="word lemma pos vocab id">
+<doc id="fb_17380122_ZachariasF" year="1738" delinquent_sexes="male" title="Todesurteil Zacharias F." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_12_xTok_000002
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_12_xTok_000003
@@ -84,6 +86,8 @@ werden	werden	VAINF	Duden	tu_12_xTok_000141
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <lg type="poem">
 <lg type="stanza">
 <head>
@@ -357,6 +361,8 @@ erleben	erleben	VVINF	Duden	tu_12_xTok_000435
 was	was	PRELS	Duden	tu_12_xTok_000437
 das	d	ART	Duden	tu_12_xTok_000439
 G'richt	Gericht	NN	Duden	tu_12_xTok_000441
+<pb n="3">
+</pb>
 verordnet	verordnen	VVPP	Duden	tu_12_xTok_000442
 hat	haben	VAFIN	Duden	tu_12_xTok_000444
 <g/>
@@ -710,6 +716,8 @@ bin	sein	VAFIN	Duden	tu_12_xTok_000816
 .
 </l>
 </lg>
+<pb n="4">
+</pb>
 <lg type="stanza">
 <head>
 9.	9	ADV		tu_12_xTok_000818

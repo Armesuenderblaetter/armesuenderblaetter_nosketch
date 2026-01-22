@@ -1,4 +1,6 @@
-<doc id="fb_17450827_BarbaraH" delinquent_sexes="female" title="Todesurteil Barbara H." attrs="word lemma pos vocab id">
+<doc id="fb_17450827_BarbaraH" year="1745" delinquent_sexes="female" title="Todesurteil Barbara H." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_30_xTok_000001
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_30_xTok_000002
@@ -76,6 +78,8 @@ finden	finden	VVINF	Duden	tu_30_xTok_000114
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_30_xTok_000134
 des	d	ART	Duden	tu_30_xTok_000137
@@ -215,6 +219,8 @@ solch=	solch	PIAT	Duden	tu_30_xTok_000383
 arglistige	arglistig	ADJA	Duden	tu_30_xTok_000385
 Weise	Weise	NN	Duden	tu_30_xTok_000387
 drey	drei	CARD	Duden	tu_30_xTok_000389
+<pb n="3">
+</pb>
 unterschiedliche	unterschiedlich	ADJA	Duden	tu_30_xTok_000391
 Partheyen	Partei	NN	Duden	tu_30_xTok_000393
 in	in	APPR	Duden	tu_30_xTok_000395
@@ -425,6 +431,8 @@ und	und	KON	Duden	tu_30_xTok_000777
 sich	sich	PRF	Duden	tu_30_xTok_000779
 auf	auf	APPR	Duden	tu_30_xTok_000781
 141.	141	CARD		tu_30_xTok_000783
+<pb n="4">
+</pb>
 Gulden	Gulden	NN	Duden	tu_30_xTok_000785
 56.	56	CARD		tu_30_xTok_000787
 Kreutzer	Kreuzer	NN	Duden	tu_30_xTok_000789

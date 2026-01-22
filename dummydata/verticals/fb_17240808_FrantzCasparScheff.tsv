@@ -1,4 +1,6 @@
-<doc id="fb_17240808_FrantzCasparScheff" delinquent_sexes="male" title="Degradations-Ruf Frantz Caspar Scheffner" attrs="word lemma pos vocab id">
+<doc id="fb_17240808_FrantzCasparScheff" year="1724" delinquent_sexes="male" title="Degradations-Ruf Frantz Caspar Scheffner" attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Degradations-Ruf	Degradationsruf	NN	oov	tu_2_xTok_000001
 <g/>
@@ -46,6 +48,10 @@ worden	werden	VAPP	Duden	tu_2_xTok_000072
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <p id="fb_17240808_FrantzCasparScheff_p_0001">
 NAchdeme	nachdem	KOUS	Duden	tu_2_xTok_000157
 der	d	ART	Duden	tu_2_xTok_000160
@@ -80,13 +86,19 @@ Septembris	September	NN	Duden	tu_2_xTok_000213
 des	d	ART	Duden	tu_2_xTok_000215
 1722.ten	1722	ADJA		tu_2_xTok_000216
 Jahrs	Jahr	NN	Duden	tu_2_xTok_000221
+<g/>
+/
 mittelst	mittelst	APPR	Duden	tu_2_xTok_000225
 genommener	nehmen	ADJA	Duden	tu_2_xTok_000227
 Post	Post	NN	Duden	tu_2_xTok_000229
+<g/>
+/
 unter	unter	APPR	Duden	tu_2_xTok_000233
 falsch	falsch	ADJD	Duden	tu_2_xTok_000235
 vorgegebenen	vorgeben	ADJA	Duden	tu_2_xTok_000237
 Namen	Name	NN	Duden	tu_2_xTok_000240
+<g/>
+/
 von	von	APPR	Duden	tu_2_xTok_000245
 hier	hier	ADV	Duden	tu_2_xTok_000247
 heimlich	heimlich	ADJD	Duden	tu_2_xTok_000249
@@ -196,15 +208,20 @@ Ehewirthin	Ehewirtin	NN	DWB	tu_2_xTok_000448
 namhafte	namhaft	ADJA	Duden	tu_2_xTok_000450
 Mittel	Mittel	NN	Duden	tu_2_xTok_000453
 mehreren theils	mehrenteils	ADV		tu_2_xTok_000455
+mehrerentheils	mehrenteils	ADV	Duden	tu_2_xTok_000458
 verschwendet	verschwenden	VVPP	Duden	tu_2_xTok_000460
 <g/>
 /
 einem	ein	ART	Duden	tu_2_xTok_000465
 anderen	andere	ADJA	Duden	tu_2_xTok_000467
 Ehe=Weib	Eheweib	NN	Duden	tu_2_xTok_000470
+<g/>
+/
 Namens	namens	ADV	Duden	tu_2_xTok_000474
 Theresia	Theresia	NE	Duden	tu_2_xTok_000477
 Kerschbaumerin	Kerschbaumerin	NE	oov	tu_2_xTok_000479
+<g/>
+/
 etwelche	etwelch	PIAT	Duden	tu_2_xTok_000482
 Jahr	Jahr	NN	Duden	tu_2_xTok_000485
 hindurch	hindurch	ADV	Duden	tu_2_xTok_000487
@@ -239,8 +256,12 @@ Kerschbaumerin	Kerschbaumerin	NE	oov	tu_2_xTok_000539
 auf	auf	APPR	Duden	tu_2_xTok_000541
 der	d	ART	Duden	tu_2_xTok_000542
 Post	Post	NN	Duden	tu_2_xTok_000544
+<g/>
+/
 unter	unter	APPR	Duden	tu_2_xTok_000548
 falsch=angegebenem	falschangegeben	ADJA	oov	tu_2_xTok_000550
+falsch	falsch	ADJD	Duden	tu_2_xTok_000551
+angegebenem	angeben	ADJA	Duden	tu_2_xTok_000553
 Namen	Name	NN	Duden	tu_2_xTok_000556
 <g/>
 /
@@ -336,6 +357,8 @@ und	und	KON	Duden	tu_2_xTok_000704
 Hirschfänger	Hirschfänger	NN	Duden	tu_2_xTok_000706
 zu	zu	PTKZU	Duden	tu_2_xTok_000709
 leihen	leihen	VVINF	Duden	tu_2_xTok_000711
+<g/>
+/
 genommen	nehmen	VVPP	Duden	tu_2_xTok_000715
 <g/>
 /
@@ -344,6 +367,10 @@ mit	mit	APPR	Duden	tu_2_xTok_000721
 all=	all	PIAT	Duden	tu_2_xTok_000723
 diesen	diese	PDAT	Duden	tu_2_xTok_000723b
 Sachen	Sache	NN	Duden	tu_2_xTok_000725
+<pb n="4">
+</pb>
+<pb n="5">
+</pb>
 nacher	nacher	APPR	DWB	tu_2_xTok_000727
 Venedig	Venedig	NE::top	Duden	tu_2_xTok_000729
 sich	sich	PRF	Duden	tu_2_xTok_000731
@@ -389,11 +416,15 @@ einem	ein	ART	Duden	tu_2_xTok_000817
 ihme	er	PPER	Duden	tu_2_xTok_000819
 untergebenen	untergeben	ADJA	Duden	tu_2_xTok_000821
 Beamten	Beamter	NN	Duden	tu_2_xTok_000825
+<g/>
+/
 mittelst	mittelst	APPR	Duden	tu_2_xTok_000830
 zerschiedener	zerschieden	ADJA	DWB	tu_2_xTok_000832
 demselben	derselbe	PDS	Duden	tu_2_xTok_000834
 gemachten	machen	ADJA	Duden	tu_2_xTok_000836
 Verdrieslichkeiten	Verdrießlichkeit	NN	Duden	tu_2_xTok_000837
+<g/>
+/
 um	um	APPR	Duden	tu_2_xTok_000843
 600.	600	CARD		tu_2_xTok_000845
 fl.	Flore	NN	DWB	tu_2_xTok_000847
@@ -468,6 +499,8 @@ obgehabten	obhaben	ADJA	DWB	tu_2_xTok_000979
 GerichtsZwang	Gerichtszwang	NN	DWB	tu_2_xTok_000981
 untergebenen	untergeben	ADJA	Duden	tu_2_xTok_000984
 Wirt	Wirt	NN	Duden	tu_2_xTok_000986
+<g/>
+/
 unter	unter	APPR	Duden	tu_2_xTok_000991
 verstelltem	verstellen	ADJA	Duden	tu_2_xTok_000993
 Mitleiden	Mitleiden	NN	Duden	tu_2_xTok_000995
@@ -487,12 +520,16 @@ seines	sein	PPOSAT	Duden	tu_2_xTok_001016
 anderwerts	anderwärts	ADV	Duden	tu_2_xTok_001018
 erlittenen	erleiden	ADJA	Duden	tu_2_xTok_001022
 Verlursts	Verlust	NN	Duden	tu_2_xTok_001024
+<g/>
+/
 durch	durch	APPR	Duden	tu_2_xTok_001029
 Ban cal-Extracten	Bankalextrakt	NN	oov	tu_2_xTok_001031
 gegen	gegen	APPR	Duden	tu_2_xTok_001035
 Zuschlag	Zuschlag	NN	Duden	tu_2_xTok_001037
 baaren	bar	ADJA	Duden	tu_2_xTok_001040
 Gelds	Geld	NN	Duden	tu_2_xTok_001042
+<g/>
+/
 verhilflich	verhilflich	ADJD	DWB	tu_2_xTok_001047
 seyn	sein	VAINF	Duden	tu_2_xTok_001050
 wolte	wollen	VMFIN	Duden	tu_2_xTok_001052
@@ -540,6 +577,7 @@ sondern	sondern	KON	Duden	tu_2_xTok_001126
 langsam	langsam	ADJD	Duden	tu_2_xTok_001130
 beschehene	beschehen	ADJA	DWB	tu_2_xTok_001132
 Abschlags Bezahlung	Abschlagszahlung	NN		tu_2_xTok_001134
+Abschlags=Bezahlung	Abschlagszahlung	NN	Duden	tu_2_xTok_001137
 einen	ein	ART	Duden	tu_2_xTok_001140
 Schaden	Schaden	NN	Duden	tu_2_xTok_001143
 pr.	per	APPR	Duden	tu_2_xTok_001145
@@ -553,7 +591,11 @@ müssen	müssen	VMINF	Duden	tu_2_xTok_001155
 <p id="fb_17240808_FrantzCasparScheff_p_0004">
 Wie	wie	KOUS	Duden	tu_2_xTok_001157
 er	er	PPER	Duden	tu_2_xTok_001159
+<g/>
+/
 Scheffner	Scheffner	NE	oov	tu_2_xTok_001163
+<g/>
+/
 dann	dann	ADV	Duden	tu_2_xTok_001167
 auch	auch	ADV	Duden	tu_2_xTok_001169
 gleichfals	gleichfalls	ADV	Duden	tu_2_xTok_001171
@@ -620,12 +662,16 @@ auch	auch	ADV	Duden	tu_2_xTok_001286
 einen	ein	ART	Duden	tu_2_xTok_001289
 anderen	andere	ADJA	Duden	tu_2_xTok_001291
 Handels=Mann	Handelsmann	NN	Duden	tu_2_xTok_001293
+<g/>
+/
 unter	unter	APPR	Duden	tu_2_xTok_001297
 dem	d	ART	Duden	tu_2_xTok_001299
 Vorwand	Vorwand	NN	Duden	tu_2_xTok_001301
 grosser	groß	ADJA	Duden	tu_2_xTok_001304
 vorhabenden	vorhaben	ADJA	Duden	tu_2_xTok_001306
 Negotien	Negotien	NN	oov	tu_2_xTok_001308
+<g/>
+/
 besonders	besonders	ADV	Duden	tu_2_xTok_001313
 arglistig	arglistig	ADJD	Duden	tu_2_xTok_001315
 zu	zu	APPR	Duden	tu_2_xTok_001317
@@ -655,6 +701,10 @@ hat	haben	VAFIN	Duden	tu_2_xTok_001369
 <g/>
 .
 </p>
+<pb n="6">
+</pb>
+<pb n="7">
+</pb>
 <p id="fb_17240808_FrantzCasparScheff_p_0005">
 Uber	über	APPR	Duden	tu_2_xTok_001371
 dieses	diese	PDAT	Duden	tu_2_xTok_001373
@@ -811,6 +861,8 @@ aber	aber	KON	Duden	tu_2_xTok_001656
 auch	auch	ADV	Duden	tu_2_xTok_001658
 zu	zu	APPR	Duden	tu_2_xTok_001660
 Venedig	Venedig	NE::top	Duden	tu_2_xTok_001662
+<g/>
+/
 dem	d	ART	Duden	tu_2_xTok_001666
 Verlaut	Verlaut	NN	DWB	tu_2_xTok_001668
 nach	nach	APPO	Duden	tu_2_xTok_001670
@@ -822,9 +874,13 @@ Geld Summa	Geldsumme	NN		tu_2_xTok_001682
 pr.	per	APPR	Duden	tu_2_xTok_001686
 3000.	3000	CARD		tu_2_xTok_001689
 fl.	Flore	NN	DWB	tu_2_xTok_001691
+<g/>
+/
 mittels	mittels	APPR	Duden	tu_2_xTok_001696
 falsch=gemachten	falschgemacht	ADJA	oov	tu_2_xTok_001698
 WechselBriefs	Wechselbrief	NN	Duden	tu_2_xTok_001700
+<g/>
+/
 heraus	heraus	PTKVZ	Duden	tu_2_xTok_001705
 gelocket	herauslocken	VVPP	Duden	tu_2_xTok_001707
 und	und	KON	Duden	tu_2_xTok_001709
@@ -852,7 +908,11 @@ eingeloffen	einlaufen	VVPP	Duden	tu_2_xTok_001746
 /
 daß	dass	KOUS	Duden	tu_2_xTok_001750
 er	er	PPER	Duden	tu_2_xTok_001752
+<g/>
+/
 Scheffner	Scheffner	NE	oov	tu_2_xTok_001756
+<g/>
+/
 nicht	nicht	PTKNEG	Duden	tu_2_xTok_001761
 allein	allein	ADV	Duden	tu_2_xTok_001763
 zu	zu	APPR	Duden	tu_2_xTok_001765
@@ -1017,6 +1077,8 @@ worden	werden	VAPP	Duden	tu_2_xTok_002057
 <p id="fb_17240808_FrantzCasparScheff_p_0008">
 Daß	dass	KOUS	Duden	tu_2_xTok_002060
 er	er	PPER	Duden	tu_2_xTok_002062
+<g/>
+/
 Frantz	Franz	NE	Duden	tu_2_xTok_002066
 Caspar	Caspar	NE	oov	tu_2_xTok_002068
 Scheffner	Scheffner	NE	oov	tu_2_xTok_002070
@@ -1188,6 +1250,8 @@ um	um	APPR	Duden	tu_2_xTok_002381
 9.	9	CARD		tu_2_xTok_002383
 Uhr	Uhr	NN	Duden	tu_2_xTok_002385
 Vormittag	Vormittag	NN	Duden	tu_2_xTok_002387
+<g/>
+/
 unter	unter	APPR	Duden	tu_2_xTok_002389
 Begleitung	Begleitung	NN	Duden	tu_2_xTok_002391
 der	d	ART	Duden	tu_2_xTok_002393
@@ -1309,6 +1373,10 @@ Augusti	August	NN	Duden	tu_2_xTok_002604
 /
 1724.	1724	CARD		tu_2_xTok_002608
 </p>
+<pb n="8">
+</pb>
+<pb n="9">
+</pb>
 <p id="fb_17240808_FrantzCasparScheff_p_0011">
 Degradations-Ruf	Degradationsruf	NN	oov	tu_2_xTok_002609
 Den	d	ART	Duden	tu_2_xTok_002615
@@ -1332,6 +1400,8 @@ kund	kund	PTKVZ	Duden	tu_2_xTok_002645
 und	und	KON	Duden	tu_2_xTok_002647
 zu	zu	PTKZU	Duden	tu_2_xTok_002650
 wissen	wissen	VVINF	Duden	tu_2_xTok_002652
+zu	zu	PTKZU	Duden	tu_2_xTok_002650b
+wissen	wissen	VVINF	Duden	tu_2_xTok_002652b
 gemacht	kundmachen	VVPP	Duden	tu_2_xTok_002654
 <g/>
 ;
@@ -1386,6 +1456,7 @@ beschweret	beschweren	VVPP	Duden	tu_2_xTok_002752
 <g/>
 /
 meisten Theils	meistenteils	ADV		tu_2_xTok_002756
+meistentheils	meistenteils	ADV	Duden	tu_2_xTok_002760
 aber	aber	ADV	Duden	tu_2_xTok_002763
 überwiesen	überweisen	VVPP	Duden	tu_2_xTok_002765
 worden	werden	VAPP	Duden	tu_2_xTok_002767
@@ -1456,6 +1527,8 @@ Beysitzers Stelle	Beisitzersstelle	NN		tu_2_xTok_002882
 auch	auch	ADV	Duden	tu_2_xTok_002888
 aller	all	PIAT	Duden	tu_2_xTok_002890
 Ehren	Ehre	NN	Duden	tu_2_xTok_002892
+<pb n="10">
+</pb>
 entsetzet	entsetzen	VVPP	DWB	tu_2_xTok_002894
 <g/>
 /
@@ -1477,6 +1550,8 @@ worden	werden	VAPP	Duden	tu_2_xTok_002924
 <g/>
 .
 </p>
+<pb n="11">
+</pb>
 <p id="fb_17240808_FrantzCasparScheff_p_0014">
 Beyläuffige	beiläufig	ADJA	Duden	tu_2_xTok_002927
 Beschreibung	Beschreibung	NN	Duden	tu_2_xTok_002929

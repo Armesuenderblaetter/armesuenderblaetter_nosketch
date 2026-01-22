@@ -1,4 +1,6 @@
-<doc id="fb_17510428_FrantzW" delinquent_sexes="male" title="Todesurteil Frantz W." attrs="word lemma pos vocab id">
+<doc id="fb_17510428_FrantzW" year="1751" delinquent_sexes="male" title="Todesurteil Frantz W." attrs="word lemma pos vocab id">
+<pb n="1">
+</pb>
 <titlePart type="main">
 Wohl=verdientes	wohlverdient	ADJA	Duden	tu_53_xTok_000002
 Todtes=Urtheil	Todesurteil	NN	Duden	tu_53_xTok_000003
@@ -81,6 +83,10 @@ finden	finden	VVINF	Duden	tu_53_xTok_000114
 <g/>
 .
 </titlePart>
+<pb n="2">
+</pb>
+<pb n="3">
+</pb>
 <head>
 Jnnhalt	Inhalt	NN	Duden	tu_53_xTok_000135
 des	d	ART	Duden	tu_53_xTok_000137
@@ -109,6 +115,8 @@ ersehenes	ersehen	ADJA	Duden	tu_53_xTok_000173
 Geld=Trüherl	Geldtruhe	NN	DWB	tu_53_xTok_000176
 <g/>
 /
+<g/>
+,
 ungehindert	ungehindert	ADJD	Duden	tu_53_xTok_000180
 all=	all	PIAT	Duden	tu_53_xTok_000183
 disfällig	diesfällig	ADJD	Duden	tu_53_xTok_000185
@@ -120,6 +128,8 @@ angewendeter	anwenden	ADJA	Duden	tu_53_xTok_000198
 Bestrebung	Bestrebung	NN	Duden	tu_53_xTok_000199
 <g/>
 /
+<g/>
+,
 diebischer	diebisch	ADJA	Duden	tu_53_xTok_000204
 Weise	Weise	NN	Duden	tu_53_xTok_000206
 habhaft	habhaft	ADJD	Duden	tu_53_xTok_000208
@@ -140,6 +150,8 @@ dahin	dahin	PAV	Duden	tu_53_xTok_000234
 erfrechet	erfrechen	VVPP	Duden	tu_53_xTok_000236
 <g/>
 /
+<g/>
+;
 daß	dass	KOUS	Duden	tu_53_xTok_000240
 selber	selbe	PIS	Duden	tu_53_xTok_000242
 <g/>
@@ -147,16 +159,21 @@ selber	selbe	PIS	Duden	tu_53_xTok_000242
 nach	nach	APPR	Duden	tu_53_xTok_000245
 vorläuffiger	vorläufig	ADJA	Duden	tu_53_xTok_000246
 ausser Haus=Lockung	Außerhauslockung	NN		tu_53_xTok_000251
+ausser=Hauslockung	Außerhauslockung	NN	oov	tu_53_xTok_000251b
 des	d	ART	Duden	tu_53_xTok_000255
 aldasigen	alldasig	ADJA	oov	tu_53_xTok_000257
 Dienst=Mägdleins	Dienstmagd	NN	Duden	tu_53_xTok_000258
 <g/>
 /
+<g/>
+,
 sothane	sothan	ADJA	DWB	tu_53_xTok_000263
 zumalen	zumal	KOUS	Duden	tu_53_xTok_000265
 alt=erlebte	alterlebt	ADJA	oov	tu_53_xTok_000267
 <g/>
 /
+<g/>
+,
 mit	mit	APPR	Duden	tu_53_xTok_000273
 dem	d	ART	Duden	tu_53_xTok_000275
 Gesicht	Gesicht	NN	Duden	tu_53_xTok_000277
@@ -169,9 +186,13 @@ gähling	gähling	ADV	DWB	tu_53_xTok_000290
 überfallen	überfallen	VVPP	Duden	tu_53_xTok_000292
 <g/>
 /
+<g/>
+,
 und	und	KON	Duden	tu_53_xTok_000296
 derselben	dieselbe	PDS	Duden	tu_53_xTok_000298
 nicht	nicht	PTKNEG	Duden	tu_53_xTok_000301
+<pb n="4">
+</pb>
 allein	allein	ADV	Duden	tu_53_xTok_000304
 mit	mit	APPR	Duden	tu_53_xTok_000306
 dem	d	ART	Duden	tu_53_xTok_000308
@@ -181,6 +202,8 @@ zu	zu	APPR	Duden	tu_53_xTok_000314
 Handen	Hand	NN	Duden	tu_53_xTok_000316
 bekommenen	bekommen	ADJA	Duden	tu_53_xTok_000319
 Häckels	Hacke	NN	Duden	tu_53_xTok_000322
+<g/>
+,
 so	so	PRELS	Duden	tu_53_xTok_000325
 recht=	rechte	ADJA	Duden	tu_53_xTok_000328
 als	als	KOKOM	Duden	tu_53_xTok_000330
@@ -191,6 +214,9 @@ gegen	gegen	APPR	Duden	tu_53_xTok_000339
 denen	d	ART	Duden	tu_53_xTok_000341
 Schläffen	Schlaf	NN	Duden	tu_53_xTok_000343
 drey	drei	CARD	Duden	tu_53_xTok_000345
+3.	3	CARD		tu_53_xTok_000346
+<pb n="5">
+</pb>
 unterschiedliche	unterschiedlich	ADJA	Duden	tu_53_xTok_000347
 Streiche	Streich	NN	Duden	tu_53_xTok_000350
 dergestalten	dergestalt	ADV	Duden	tu_53_xTok_000352
@@ -198,6 +224,8 @@ hefftig	heftig	ADJD	Duden	tu_53_xTok_000354
 beygebracht	beibringen	VVPP	Duden	tu_53_xTok_000357
 <g/>
 /
+<g/>
+,
 daß	dass	KOUS	Duden	tu_53_xTok_000360
 <g/>
 /
@@ -234,6 +262,8 @@ Pericranium	Pericranium	NN	Duden	tu_53_xTok_000415
 penetriret	penetrieren	VVPP	Duden	tu_53_xTok_000417
 <g/>
 /
+<g/>
+,
 und	und	KON	Duden	tu_53_xTok_000422
 bis	bis	APPR	Duden	tu_53_xTok_000424
 auf	auf	APPR	Duden	tu_53_xTok_000426
@@ -270,6 +300,7 @@ beschehenen	beschehen	ADJA	DWB	tu_53_xTok_000487
 Verletzung	Verletzung	NN	Duden	tu_53_xTok_000488
 das	d	ART	Duden	tu_53_xTok_000491
 Wand Bein	Wandbein	NN		tu_53_xTok_000492
+Wand=Bain	Wandbein	NN	DWB	tu_53_xTok_000495
 in	in	APPR	Duden	tu_53_xTok_000497
 eines	ein	ART	Duden	tu_53_xTok_000499
 Groschen	Groschen	NN	Duden	tu_53_xTok_000501
@@ -279,6 +310,8 @@ und	und	KON	Duden	tu_53_xTok_000506
 eingeschlagen	einschlagen	VVPP	Duden	tu_53_xTok_000508
 <g/>
 /
+<g/>
+,
 annebst	annebst	ADV	DWB	tu_53_xTok_000513
 sowohl	sowohl	KON	Duden	tu_53_xTok_000515
 solches	solch	PIAT	Duden	tu_53_xTok_000517
@@ -315,15 +348,20 @@ Groschens	Groschen	NN	Duden	tu_53_xTok_000576
 eingeschlagen	einschlagen	VVPP	Duden	tu_53_xTok_000579
 <g/>
 /
+<g/>
+,
 und	und	KON	Duden	tu_53_xTok_000583
 von	von	APPR	Duden	tu_53_xTok_000585
 denen	d	ART	Duden	tu_53_xTok_000587
 Spitzen	Spitze	NN	Duden	tu_53_xTok_000589
 erst=gedacht=	erstgedacht	ADJA	oov	tu_53_xTok_000593
+erst gedacht=	erstgedacht	ADJA		tu_53_xTok_000593b
 interpressirten	interpressieren	ADJA	oov	tu_53_xTok_000596
 Gebeins	Gebein	NN	Duden	tu_53_xTok_000599
 <g/>
 /
+<g/>
+,
 die	d	ART	Duden	tu_53_xTok_000603
 dura	durus	FM	G-LDHW	tu_53_xTok_000604
 Mater	mater	FM	G-LDHW	tu_53_xTok_000606
@@ -339,14 +377,20 @@ stagnirten	stagnieren	ADJA	Duden	tu_53_xTok_000622
 Geblüt	Geblüt	NN	Duden	tu_53_xTok_000625
 <g/>
 /
+<g/>
+,
 berühret	berühren	VVPP	Duden	tu_53_xTok_000629
 <g/>
 /
+<g/>
+,
 mithin	mithin	ADV	Duden	tu_53_xTok_000634
 solch=	solch	PIAT	Duden	tu_53_xTok_000636
 inwendig	inwendig	ADJD	Duden	tu_53_xTok_000638
 extravasirt=	extravasieren	ADJA	oov	tu_53_xTok_000640
 gestocktes	stocken	ADJA	Duden	tu_53_xTok_000643
+<pb n="6">
+</pb>
 Geblüt	Geblüt	NN	Duden	tu_53_xTok_000644
 <g/>
 /
@@ -372,6 +416,8 @@ verursachen	verursachen	VVINF	Duden	tu_53_xTok_000681
 müssen	müssen	VMFIN	Duden	tu_53_xTok_000683
 <g/>
 /
+<g/>
+,
 sondern	sondern	KON	Duden	tu_53_xTok_000687
 auch	auch	ADV	Duden	tu_53_xTok_000688
 nach	nach	APPR	Duden	tu_53_xTok_000690
@@ -386,6 +432,8 @@ beschlagenes	beschlagen	ADJA	Duden	tu_53_xTok_000706
 Trüherl	Truhe	NN	Duden	tu_53_xTok_000708
 <g/>
 /
+<g/>
+,
 samt	samt	APPR	Duden	tu_53_xTok_000712
 dem	d	ART	Duden	tu_53_xTok_000714
 darinn	darin	PAV	Duden	tu_53_xTok_000716
@@ -397,8 +445,12 @@ so	so	PRELS	Duden	tu_53_xTok_000724
 von	von	APPR	Duden	tu_53_xTok_000726
 der	d	ART	Duden	tu_53_xTok_000727
 Verlustigten	verlustig	ADJ-NN	DWB	tu_53_xTok_000729
+<g/>
+,
 nunmehro	nunmehro	ADV	oov	tu_53_xTok_000732
 Seeligen	selig	ADJ-NN	Duden	tu_53_xTok_000734
+<g/>
+,
 auf	auf	APPR	Duden	tu_53_xTok_000737
 106.	106	CARD		tu_53_xTok_000739
 fl.	Flore	NN	DWB	tu_53_xTok_000741
@@ -408,6 +460,8 @@ eydlich	eidlich	ADJD	Duden	tu_53_xTok_000749
 angeschlagen	anschlagen	VVPP	Duden	tu_53_xTok_000751
 <g/>
 /
+<g/>
+,
 jedoch	jedoch	KON	Duden	tu_53_xTok_000755
 bey	bei	APPR	Duden	tu_53_xTok_000757
 ihme	er	PPER	Duden	tu_53_xTok_000758
@@ -434,6 +488,8 @@ eingestanden	eingestehen	VVPP	Duden	tu_53_xTok_000796
 hat	haben	VAFIN	Duden	tu_53_xTok_000799
 <g/>
 /
+<g/>
+:
 daß	dass	KOUS	Duden	tu_53_xTok_000803
 er	er	PPER	Duden	tu_53_xTok_000805
 Delinquent	Delinquent	NN	Duden	tu_53_xTok_000807
@@ -449,7 +505,10 @@ zu	zu	PTKZU	Duden	tu_53_xTok_000822
 gelangen	gelangen	VVINF	Duden	tu_53_xTok_000824
 <g/>
 /
+<g/>
+,
 mehr=erdeute	mehrerdeutet	ADJA	oov	tu_53_xTok_000831
+mehr erdeute	mehrerdeutet	ADJA		tu_53_xTok_000831b
 Wittib	Witwe	NN	Duden	tu_53_xTok_000834
 vollkommentlich	vollkommen	ADJD	Duden	tu_53_xTok_000836
 um	um	APPR	Duden	tu_53_xTok_000838
